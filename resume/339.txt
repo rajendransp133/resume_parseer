@@ -1,0 +1,88 @@
+meta	others	SATHISH KUMAR GATTU
+meta	others	H-NO: 14-111/1, vijaypuricolony, Uppal, Hyderabad – 500039
+meta	others	Email Id : satishg278@gmail.com; Mobile No: 9849530029
+header	experience	PROFILE SUMMARY-
+content	experience	· 5+ Years experience of Productive Design, Development and Implementation in IT Industry.
+content	experience	· Currently working as a Senior Software Programmer in St.Louis Educational Services Pvt.Ltd. from SEP-2012 to Till date which is a Unit of AE Group of companies
+content	experience	(www.ae-group.in)
+content	experience	· Working As a Faculty Trainer in Bhaskara Info Services Pvt.Ltd from May 2010 to Aug 2012.
+content	experience	· Proven ability to work with .NET Technologies by handling multiple product lifecycles.
+content	experience	· Ability to work and motivate the team to deliver the tasks under tightly scheduled timelines.
+content	experience	· Provided user training to business users and its core team by using train to trainer approach.
+content	knowledge	· Strengths include highly versatile in adapting, learning and implementing the latest technologies in new application solutions, excellent interpersonal and communication skill.
+header	knowledge	SKILLS SUMMARY-
+content	knowledge	Description Languages / Software Technologies Technologies & Frameworks .NET Framework (3.5-4.5), ASP.NET, MVC , ADO.NET, AJAX, WCF, Crystal Reports, IIS 7.5, LINQ, Web services, Report Viewer Programming Languages/ Web Technologies C#, JavaScript, JQuery, HTML, CSS, XML Software’s / Tools/ Reporting Services Microsoft Visual Stuidio.NET 2010, SQL Server 2008 Enterprise Manager, SVN , Visual Source Safe, GIT, Fusion Charts 1.2 Development Methodologies Agile development Databases MS SQL Server (Version 2005,2008), Postgres SQL Operating Systems Windows 2000/XP, Windows 7
+header	education	EDUCATIONAL QUALIFICATION-
+content	education	· MCA from Osmania University, Hyderabad, 2010
+content	education	· B.Sc (MPCS) From Osmania University, Hyderabad.
+header	project	PROJECTS HANDLED- (In St. Louis Educational Services Pvt Ltd. )
+header	project	Project 1: HR Management System
+content	experience	Client Name: St.Andrews School, Secunderabad ( www.standrewsindia.com )
+content	experience	Technologies : Visual Studio 2010, C#.Net, ASP.Net, PostgresSQL, JavaScript, J Query, Ajax Controllers, Tortoise SVN, HTML, CSS.
+content	experience	Description: Automation of repetitive and time consuming tasks associated with human resources management.
+content	experience	HRMS modules can assist with:
+content	experience	Employee Recruiting Process, Attendance Module, Leaves Module, Payroll module, Loans Module, Appraisal Module, Employee Resign Process.
+header	experience	Responsibilities:
+content	experience	Involved in developing the application using .Net 4.0.
+content	experience	Developed the user interface (Front End) using ASP.NET, HTML, CSS.
+content	experience	Using Third party tool integrated the Essl Biometric Device To Software for employee logins & logouts.
+content	experience	Implemented business login as code behind using C#.Net.
+content	experience	Involved in writing SQL queries and stored procedures to retrieve the data.
+content	experience	Involved in creating Security features like role based security using C#.net.
+content	experience	Worked with Data Bound controls like Data Grid, Data Table, Data Reader, Data View and Dataset
+content	experience	Worked with J Query to create dynamic pages.
+content	experience	Involved in fixing defects in all environments like Development, User Acceptance Testing(UAT), Training & PROD
+content	experience	Involved in troubleshooting for bug-fixing and implementing new functionalities and enhancements.
+content	experience	Worked with QA team to resolve the issues.
+content	experience	Involved in merging the projects based on the check in done by individual developers.
+content	experience	Tortoise SVN has been used for all the source code maintenance among the whole team members
+header	project	Project 2: Online Fee Payments for St. Andrews School.
+content	experience	Client Name: St.Andrews School, Secunderabad ( www.standrewsindia.com )
+content	experience	Technologies: Visual Studio 2010, C#.Net, ASP.Net, PostgresSQL, JavaScript, Payment Gateways.
+content	experience	Description: Integrated HDFC and Pay U Money payment gateways for website. The fee structure is combination of many head like Tuition fee, Infra fee, Term fee etc. and fetches fee structure dynamically from database and Payments history.
+header	experience	Responsibilities:
+content	experience	Involved in developing the application using .Net 4.0.
+content	experience	Developed the user interface (Front End) using ASP.NET, HTML, CSS.
+content	experience	Involved in generating class diagrams and functional flow diagrams.
+content	experience	Implemented business login as code behind using C#.Net.
+content	experience	Implemented the secure code behind using C#.Net, Hash Sequences, Decoding & Encoding the Results from Payment Gateways.
+content	experience	On Successful of Payment, SMS will be sent to parent and updates into Database.
+content	experience	Involved in Technical Documentation.
+header	project	Project 3: Online Attendance Module
+content	experience	Client Name: St.Andrews School, Secunderabad ( www.standrewsindia.com )
+content	experience	Technologies: Asp.net4.0, C#.NET 4.0, WCF, SVN, SQL Server 2008, AJAX, JAVA Script
+content	experience	Description: This Module will be used for maintaining on day to day student attendance for all the classes. This module enables the teachers to enter the attendance once in a day for all classes with respect to the attendance criteria condition.
+header	experience	Responsibilities:
+content	experience	· Provided the production support.
+content	experience	· Defined the business requirements and created design documents.
+content	experience	· Developed a service using WCF to maintain all students’ information and users’ information and to grant user privileges.
+content	experience	· Designed to database for the module.
+content	experience	· Analysis and documenting the change requests for the end users.
+content	experience	· Adding site navigation and user privileges in the application.
+header	project	Project 4: Infirmary Module
+content	experience	Client Name: St.Andrews School, Secunderabad ( www.standrewsindia.com )
+content	experience	Technologies: Asp.net4.0, C#.NET 4.0, WCF, SQL Server 2008, Fusion Charts, AJAX, JAVA Script
+content	experience	Description: This module manages the details of the students who visited the Infirmary Center of the school. The attended student will be given in house treatment, will sent to home and will be referred to outside hospital based on the seriousness of the health problem. The application relays the SMS and E-mail to student parents, concerned vice principal and principal based on the level treatment given to the student. Important features of the application are:
+content	experience	· Manages the allergies information of all the students in the school.
+content	experience	· The application generates the gate pass of the application during the Outside treatment.
+content	experience	· The user can view the complete details of the treatment details of students from time to time.
+header	experience	Responsibilities:
+content	experience	· Defined the business requirements and created design documents.
+content	experience	· Created various business views required to model various business requirements.
+content	experience	· Designed to database for the module.
+content	experience	· Added site navigation to the application.
+content	experience	· Deployed the module in the production environment.
+content	experience	· Developed user based access in the module to all the users.
+header	project	Project 4: Inventory Management System
+content	experience	Client Name: St.Andrews School, Secunderabad ( www.standrewsindia.com )
+content	experience	Technologies: Asp.net4.0, VB.NET 4.0, WCF, SQL Server 2008, AJAX, Fusion charts,JAVA Script
+content	experience	Description: The inventory management System helps vendors manage their inventories. The software interacts with the user allowing the user to add products into and remove products from the inventory.
+content	experience	The Inventory Management System is comprised of 3 modules: Masters, Administrative, Item, purchase, Store & Reports, in masters we define all the vendors & stakeholders, administrative module helps in managing all the modules, creation of item, Inward, GRN and conversion of item to asset is done in Item module, purchase deals with the Purchase Indent Requisition and purchase order, store deals with the Final Inward, Final GRN and Item Issue and reports are generated in reports module.
+header	experience	Responsibilities:
+content	experience	· Involved in discussions on project analysis
+content	experience	· Involved in coding And Designing Concepts.
+content	experience	· Coded the modules according to Microsoft standards and tested the same.
+content	experience	· Writing Stored Procedures.
+header	others	PERSONAL DETAILS -
+meta	others	Date of Birth: 06-08-1985 Marital Status: Married
+meta	others	(SATISH KUMAR GATTU)

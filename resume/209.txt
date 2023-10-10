@@ -1,0 +1,32 @@
+meta	others	Shiva Karmokar
+meta	others	—————————————————————————
+header	others	Summary
+content	others	An enthusiastic fresher with highly motivated and leadership skills having Bachelors in Commerce
+header	knowledge	Skills
+content	knowledge	· Problem solving skills
+content	knowledge	· Basic Excel Skills
+content	knowledge	· Good Communication skills
+content	knowledge	· Mobile technicals & troubleshooting
+header	experience	Work History
+content	experience	Epicentre, Mumbai - Customer Service Representative (Mar 2018 to September 2018)
+content	experience	Insurance advisor for PNB Met Life Insurance Plans
+content	experience	Dealing with High Net-worth customers and providing solutions to their financial needs
+content	experience	Continuously exceeding expectations for premium collections
+content	experience	Samsung Electronics - Promotional Job (Aug 2016 to Mar 2018)
+content	experience	Mobile education & selling
+content	experience	Mobile technical assistance and troubleshooting
+header	education	Education
+content	education	Bachelors in Commerce : 2017
+content	education	Mumbai University
+content	education	High School : 2014
+content	education	Bhartiya Education Society - Mumbai Board - Raigad, India
+content	education	Secondary School Certificate: 2007
+content	education	Roha Public School - Roha, Raigad, India
+header	others	Other activities:
+content	others	Support and active participant at the Rajni Foundation India NGO
+header	others	Personal Details:
+meta	others	Present Address: RA – 183 shanti nagar sec-4 Kolkata -700098, post off:- sai complex
+meta	others	Date of birth: 19th Feb 1994
+meta	others	Email: shiva.karmokar@gmail.com
+meta	others	Cell Phone: +91-9665878899
+meta	others	Date: March 2018 Shiva Karmokar

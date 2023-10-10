@@ -1,0 +1,54 @@
+header	others	RESUME
+meta	others	VINAYK CHANDRAKANT GODASE Mobile-8108149661/8806903790.
+meta	others	Mail to: vinayak.godase@yahoo.com
+meta	others	______________________________________________________________________________
+header	others	OBJECTIVE:
+content	others	To obtain a position in an organization where my business skills can be utilized to enhance the company’s growth, promote services and products and achieve overall strategic goals, allowing me to grow further.
+header	experience	Work experience:
+content	experience	· Working as Accountant in Pramodkumar Jain Securities Pvt. Ltd. From November 2011 to till date.
+header	education	EDUCATIONAL PROFILE:
+content	education	Course
+content	education	Year of Passing
+content	education	University / Board
+content	education	Class obtained
+content	education	B. Com.
+content	education	2011
+content	education	Shivaji University Kolp.
+content	education	2nd Class
+content	education	H. S.C.
+content	education	2008
+content	education	Kolhapur
+content	education	2nd Class
+content	experience	S.S.C.
+content	education	2006
+content	education	Kolhapur
+content	education	2nd Class
+header	knowledge	COMPUTER SKILLS
+content	knowledge	MS-CIT, Tally ERP 9.0
+content	knowledge	Other courses
+content	knowledge	Type writing English (30 w/m)
+header	others	HOBIES:
+content	others	Playing cricketing, listen to music, watching movies.
+content	others	STRENGTHS
+content	others	Result oriented
+content	others	Adaptable
+content	others	Hard working
+header	others	PERSONAL INFORMATION:
+content	others	Date of birth : 1st Jan. 1991
+header	others	Age
+content	others	: 22 yr
+header	others	Sex
+content	others	: Male
+content	others	Nationality : Indian
+content	others	Marital status
+content	others	: Single
+header	knowledge	Languages Known : Marathi, Hindi, and English.
+content	experience	PERMANENT ADDRESS:
+content	others	BDD Chawl No. 17, Room No. 28,
+content	others	N.M. Joshi Marg,
+content	others	Lower Parel (E).
+content	others	Mumbai -400013
+content	others	I hereby declare that all the information provided by me in this application is factual and correct to the best of my knowledge and belief.
+content	others	Place: Mumbai
+header	others	Date:
+content	others	Vinayak Godase.

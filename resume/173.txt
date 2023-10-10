@@ -1,0 +1,62 @@
+meta	others	Eurvin L
+meta	others	201, Hira Bhawan, MMC Rd, opposite Swagat hotel, Mahim W - Mumbai 400016.
+meta	others	Contact: +91 8422936220 E-Mail : afroz.merc@gmail.com & merchant_afroz@yahoo.co.in
+meta	others	AFROZ MERCHANT
+header	experience	PROFESSIONAL EXPERIENCE AND ACCOMPLISHMENTS
+meta	experience	Coppergate Consultation Malad West 08/2016-present
+header	experience	Assistant Manager (Recruitment)
+content	experience	· Headhunting for Top/Middle Level and for Industry Specific Recruitments
+content	experience	· Fulfilling the most Critical and Hard to Source Positions of the Organizations.
+content	experience	· Mass Recruitment for sectors like Information Technology, Telecom, Insurance etc
+content	experience	· Hiring and training, sharing updates from clients
+content	experience	· Target setting and performance incentives
+content	experience	· Review and feedback
+content	experience	· Verification of joiners
+content	experience	· Sharing leads and data
+content	experience	Papa John’s - Costa Rica 08/2013-03/2016 Restaurant Manager/ Call Center Supervisor
+header	experience	Responsibilities
+content	experience	· Achieves restaurant operational objectives by implementing production, productivity, quality, and customer-service standards
+content	experience	· Meets restaurant financial objectives by forecasting requirements; preparing an annual budget; scheduling expenditures
+content	experience	· Controls costs by reviewing portion control and quantities of preparation; minimizing
+content	experience	· Publicizes the restaurant by designing and placing advertisements
+content	experience	· Maintains safe, secure, and healthy environment by establishing, following, and enforcing sanitation standards and procedures
+meta	others	·
+content	experience	· Direct P&L responsibilities.
+content	experience	· Ensure Papa John’s Core Values and Guiding Principles are applied daily
+content	experience	· Achieve the financial targets set thru a budgeting process on a quarterly basis
+content	experience	· Review the daily numbers and scorecard, follow up and resolve any out of compliance issues
+header	others	Achievements
+content	others	· Exceeded sales goals Year over Year
+content	others	· Achieved multiple record sales
+content	others	· Restaurants training unit
+header	experience	Cognizant Technologies Ltd Bangalore. October 2010 – Jan 2013
+content	experience	Team Leader/ Trainer
+header	experience	Role Description
+content	experience	· Process – Mortgage, Research delinquent loans and pay from the customer’s escrow a Research process for JP Morgan Chase
+content	experience	· Responsible for the maintaining the reporting for the process and also meet daily SLA and 98% call quality, responsible for daily operation, reporting & productivity of assigned projects and quarterly improvement projects
+content	experience	· Carry out semi-annually performance appraisal of team members and counseling for performance and capability building in conformance with goals.
+content	experience	3 Global services Pvt. Ltd. Feb 2007 - July 2008
+content	experience	Team Leader /Trainer
+header	experience	Role Description
+content	experience	· The processes involved are handset exchange through basic diagnostics, upgrading a contract, upselling and customer care service.
+content	experience	· Responsible for the maintaining the Client satisfaction target which was 80% SLA and 90% on call resolution) and responsible for daily operation, reporting & productivity of assigned projects and quarterly improvement projects.
+content	experience	· Oversee team schedules to maximize responsiveness to inbound callers, while ensuring required call activities are maintained in the most cost-effective manner possible.
+content	experience	SITEL India Pvt Ltd.-Mumbai. July 2004 - Feb 2007
+content	experience	Team Leader/ Quality Analyst/Customer Service Rep
+header	experience	Role Description
+content	experience	· Process: GMAC (General Motors Acceptance Corporation) Deferred Collections, Skip Trace. - Back Office Transactions, first and late stage collections, Insurance, General Ledger, accounts receivable and skip tracing.
+content	experience	· Awarded Best Team Leader for completing 5000 transactions TAT 24 hrs.
+content	experience	· Take supervisory calls regarding complaints and compliments and manage them.
+content	experience	CG2 Advertising Haji Ali Mumbai. Jan 2002-Nov 2002
+content	experience	ACIT Computers Mahim Jan 2000 –Jan 2002
+header	education	· Education
+content	education	[1997-1998] HR College of Commerce. Mumbai, Maharashtra
+content	education	Bachelors In Commerce Degree
+content	education	[1994 -1995] HR College of Commerce. Mumbai, Maharashtra
+content	education	Higher Secondary Certificate
+content	education	[1992-1993] Canossa Convent Mumbai, Maharashtra
+content	education	Secondary School Certificate
+meta	others	Marital Status: Single
+meta	others	DOB : Jan 1978 Nationality : Indian
+content	knowledge	Languages Known: English, Hindi, Marathi and Gujrathi.
+meta	others	_____________________________

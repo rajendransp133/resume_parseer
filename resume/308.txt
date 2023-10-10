@@ -1,0 +1,39 @@
+meta	others	Debasmita Mishra
+meta	others	PRADYUMNA KUMAR MOHAPATRA
+meta	others	09019163029
+meta	others	E-mail: mohapatrapradyumna@gmail.com
+header	others	OBJECTIVE
+content	others	To advance in the field of Technology related to the current market scenario along with the organization and broaden the knowledge base so as to successfully meet and strive the right solutions at the right time. Also to work in such an environment where I can expose myself to various technology. Also like to grow as a leader where in future I can bring up my followers as the leaders in their respective fields.
+header	experience	Work experience
+content	experience	· Presently working in Accenture Company as a process associate.
+content	experience	· 1.9 years experience from HDFC life insurance sector as a financial consultant.
+content	experience	· 1.8 year experience from SRB consultancy as a team leader.
+header	experience	SUMMARY
+content	education	· MBA Finance/Marketing from BPUT (Biju Patnaik University of Technology, Orissa).
+content	knowledge	Exposure to Software like MS DOS, WINDOWS 98 & WINDOWS XPTools, MS Office and other Internet Protocols.
+content	project	· I had done a project on Loan portfolio in Bhubaneswar O.S.C.B. Bank in which I did analysis of the financing and recovery position of the bank by collecting data from secondary sources.
+header	project	Project Summary:
+content	experience	· To know the level of LPM in the bank of OSCB.
+content	experience	· To know the basic concept of LPM.
+content	experience	· To find out the loop holes in banking operations.
+content	experience	· To know the effect of LPM on economy.
+content	experience	· To know the impact of LPM on OSCB.
+header	knowledge	SKILLS PROFILE
+content	knowledge	Software Exposure
+content	knowledge	MS-DOS, WINDOWS-98, Windows XP Tools, MS Office. Tally 9.0.
+header	education	ACADEMIC PROFILE
+content	education	· MBA Finance, BPUT (Biju Patnaik University of Technology, Orissa).
+content	education	· Bachelor of Commerce (Kunja Bihari College, Orissa).
+header	others	HOBBIES
+content	others	Playing cricket. Making new friends, Listening to the Music and Singing.
+header	others	PERSONAL DETAILS
+meta	others	Current Location : Bangalore.
+meta	others	Date of Birth : 26th January 1984
+meta	knowledge	Language known :English, Hindi and Oriya.
+meta	others	Sex : Male.
+meta	others	Marital Status : Single.
+header	others	Declaration:
+meta	others	I here by declare that the information above furnished are true to the best of my knowledge.
+meta	others	Place: Bangalore. Name: Pradyumna ku. Mohapatra.
+meta	others	Date:
+meta	others	Page 1 of 2

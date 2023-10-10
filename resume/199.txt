@@ -1,0 +1,41 @@
+header	others	CURRICULUM VITA
+meta	others	TAPAS DUTTA
+meta	others	Bijoy Nagar, PO: Kazi para, PS: Barasat, Kolkata: 124
+meta	others	Mob: 9038557055
+meta	others	E-Mail: tapas_barasat@yahoo.com or tapas.barasat@gmail.com
+header	others	PERSONAL PROFILE
+meta	others	Fatherâ€™s Name
+meta	others	: Late. Santi Rajan Dutta.
+header	others	Date of Birth
+meta	others	: 12-09-1985
+header	others	RELIGION
+meta	others	: Hinduism
+header	others	NATIONALITY
+meta	others	: Indian
+header	others	SEX
+content	experience	: Male
+header	others	HOBBY
+content	others	: Listen to music
+header	education	ACADEMIC QUALIFICATION
+content	education	Passed Madhyamik Examination from W.B.B.S.E. in the year 2003
+content	education	Passed Higher Secondary Examination from W.B.C.H.S.E in the year 2005
+content	education	Passed Bachelors of Arts Examination from C.U in the year 2008
+header	education	EXTRA QUALIFICATION
+content	knowledge	(1) M.S Word, Excel, Power Point, Internet.
+content	knowledge	(2) Diploma in Financial Accounting System in computer.
+content	education	(3) Certificate in Computer Hardware Maintains.
+content	education	(4) Call Centre training from Orion CallTech.
+header	experience	EXTRA EXPERIENCE
+header	experience	(1) Work as a C.S.R in CareTel InfoTech Pvt. Ltd.( Eight Month)
+content	experience	(Reliance G.S.M inbound process)
+header	experience	(2) Work as a C.S.A in Tech Mahindra Pvt. Ltd ( One Year)
+content	experience	(Reliance C.D.M.A inbound process)
+header	experience	(3) Work as a T.S.A in Kochar Infotech Pvt Ltd (Six Month)
+content	experience	(GPRS Technical Desk)
+header	knowledge	LANGUAGE KNOWN
+content	knowledge	English, Hindi, Bengali
+header	others	DECLARATION
+content	others	I hereby declare that all the above furnished information are true and correct to the best my knowledge.
+content	others	Date:
+content	others	tapas dutta
+content	others	Place: Barasat –––––––––—

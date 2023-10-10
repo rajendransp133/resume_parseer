@@ -1,0 +1,71 @@
+meta	others	Phalgun. D.B.
+meta	others	Mobile no: +919739949075 ~E-mail id: phalgundon20@gmail.com
+header	experience	Profile Summary
+content	experience	Pharm.D (Doctor of Pharmacy) holder with 1-year internship in all therapeutic departments in BGS Global Hospital. Experience in Clinical Data Management in IQVIA. During the year of internship, I have acquired knowledge on Drug Safety and Pharmacotherapy along with Risk Based Monitoring in a Hospital set up. Alongside I possess knowledge in Clinical and Safety Database as well.
+header	education	Academic qualification
+content	education	· Successfully completed PharmD, in First Class throughout the course years with an aggregate of 65 %.
+header	others	Key achievements:
+header	experience	Professional:
+content	experience	· Maintained a good Query TAT (Turn Around Time) in Query Management.
+content	experience	· Quick Transition to take up higher responsibilities.
+header	education	Academic:
+content	education	· Published article on “A Retrospective study on risk assessment of stroke conducted in BGS hospital (quaternary care)”., achievement includes:
+content	education	· Possess Hands on experience in monitoring and assessment of ADR and ability to distinguish between ADR and SAE’s in the department of MICU and ONCOLOGY during internship in BGS Global Hospital.
+content	education	· Gained thorough knowledge about stroke and newer methods of treatment.
+content	education	· Ability to assess the safety of a drug in special patient conditions.
+header	knowledge	Core competencies:
+content	knowledge	· Case Safety Assessment.
+content	knowledge	· ICSR & PSUR Knowledge.
+content	knowledge	· MedDRA.
+content	knowledge	· Pharmacotherapy and Pharmacological Assessment.
+content	knowledge	· ARISg Safety Database.
+content	knowledge	· Clinical Database.
+content	knowledge	· Narrative writing capabilities.
+content	knowledge	· Risk based monitoring.
+header	knowledge	Technical Skills:
+content	knowledge	· Ability to distinguish between different types of ADR’s.
+content	knowledge	· Able to assess the Causality of an SAE or AE
+content	knowledge	· Functioning of ARGUS and SAETR.
+content	knowledge	· ICH-GCP guidelines and their implementation in clinical research.
+content	knowledge	· GVP compliance
+content	knowledge	· Clinical trial Phases from Phase 0 to newly introduced Phase 5.
+header	knowledge	Computer Skills:
+content	knowledge	· Possess good skills in computer science starting from MS word, MS Excel and other MS tools.
+content	knowledge	· MS Share Point structure.
+content	knowledge	Experience in IQVIA -Clinical Data Management
+content	knowledge	From: 09-10-2017 to 04-06-2018.
+header	knowledge	Key Responsibility Areas:
+content	knowledge	· SAE reconciliation from Pharmacovigilance database.
+content	knowledge	· Clinical Query management.
+header	experience	Experience in BGS Global Hospital
+content	experience	· Possess Hands on experience in monitoring and assessment of ADR and ability to distinguish between ADR and SAE’s in the department of MICU and ONCOLOGY during internship in BGS Global Hospital.
+content	experience	· Possess knowledge in the assessment of drug interactions.
+content	experience	· Ability to assess the safety of a drug in special patient conditions.
+content	experience	· Counselling patients upon the outcome of medication intake.
+header	knowledge	Language skills
+meta	knowledge	International:
+content	knowledge	· English
+content	knowledge	· French
+header	others	Regional:
+content	others	· Kannada
+content	others	· Hindi
+header	knowledge	Personal skills:
+content	knowledge	· Obedience in adhering to the instructions given by manager.
+content	knowledge	· Ability to work in a team and possess good leadership qualities.
+content	knowledge	· Self-motivated worker.
+content	knowledge	· Timeliness.
+meta	others	Areas of Interests:
+content	others	· Pharmacovigilance.
+meta	others	· Regulatory Affairs.
+meta	others	· Clinical Research.
+meta	others	· Medical Writing & Narrative Writing.
+meta	others	· Pharmacology & kinetics of Drugs.
+meta	others	· R & D.
+header	others	Publications:
+meta	others	A Retrospective Study on Risk Assessment of Stroke in a Quaternary Care Hospital.
+meta	others	Journal link: http://ijbpas.com/pdf/2017/July/1498898428MS%20IJBPAS%202017%204215.pdf
+meta	others	Brief Description: A Retrospective Clinical study conducted in a hospital setting in order to find the primary risk factors contributing to Stroke and its anomalies.
+header	others	Personal details:
+meta	others	Date of birth………….: 23rd July 1992
+meta	others	Current Residence……: Bangalore
+meta	others	Mobile no: +919739949075 ~E-mail id: phalgundon20@gmail.com

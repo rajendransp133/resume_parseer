@@ -1,0 +1,104 @@
+header	others	Curriculam-Vitae
+meta	others	NAME : GAURAV SHARMA
+meta	others	Address : H-Block, House No. 11, Sec 12,
+meta	others	Noida(U.P)- 201301
+meta	others	Phone : +91-9999379640
+meta	others	E-mail : gauravsharma1412@gmail.com
+meta	others	Date of Birth : 14th, December, 1988.
+header	others	Career Objective
+content	others	 Seeking an opportunity in any organization to utilize the plethora of skills. I have developed
+content	others	during my whole career.
+header	experience	Academic Qualifications
+content	education	Degree/
+content	education	Certificate
+content	education	Specialization
+content	education	School College Board/
+content	education	University
+content	education	Year of
+content	education	Passing
+content	education	B.Com(P)
+content	education	Commerce DelhiUniversity 2011
+content	education	Class XII
+content	education	Commerce C.B.S.E 2007
+content	education	Class X
+content	education	C.B.S.E 2005
+header	education	Professional Qualifications
+content	education	Diploma/
+header	education	Certificate
+content	education	Specialization Institute Year of Passing
+content	education	GNIIT
+content	education	Computer Application NIIT 2012
+header	knowledge	Skills Set
+content	experience	 Internet Knowledge.
+content	knowledge	 MS-Office (Word, Excel, Power-Point).
+content	knowledge	 Lean certified
+content	knowledge	 Six Sigma yellow belts certified.
+header	experience	Experience
+content	experience	 10 Months (Oct’10 to Aug’11) of work experience with Aegis Global Limited as CSR in a
+content	experience	Retailing Project.
+content	experience	 1 Year and 4 Months (Aug’11 to Feb’13) of work experience with IBM Global Process Services
+content	experience	as an Escalation Helpdesk Executive.
+content	experience	 2 Years and 9 Months (Mar’13 to Mar’16) of work experience with Steria India Ltd as a Senior
+content	experience	Executive (HRO).
+content	experience	 1 Year (Mar’16 to Present) of work experience with Birlasoft as a Senior HR Executive.
+header	experience	Job Profile
+header	experience	Aegis:-
+content	experience	 Taking order and taking responsibility that order needs to be delivered at Customer place.
+content	experience	 Taking feedback of customer related to product.
+content	experience	 Visiting Outlet and checking the production at operation location.
+content	experience	 Providing Training to new Batches.
+header	experience	IBM:-
+content	experience	 Handing customer quires on call and email.
+content	experience	 Problem Identification, Checking feasibility, Implementation of data as well removes error from
+content	experience	data by generating Test Cases or following a Test case cycle.
+content	experience	 Customer Database Creation, Modification, Updating and Edition of database.
+content	experience	 Maintaining Data integrity.
+content	experience	 Building a healthy relationship between the End user and Company.
+content	experience	Steria:-
+content	experience	Employee Relation –
+content	experience	 To advise and support line managers in the handling of all ER matters. To support the business in
+content	experience	resolving matters of conflict at the earliest opportunity and to be involved in an advisory capacity
+content	experience	in the management of any formal processes within these areas and to attend formal hearings.
+content	experience	 To develop effective relationships with the business to promote good employee relations across
+content	experience	the organization.
+content	experience	 To assist with the introduction of new or revised ER policy and process issues, including delivery
+content	experience	of workshops, ensuring that line managers are appropriately equipped and continuously
+content	experience	supported in introducing and managing such changes.
+content	experience	 Providing advice and guidance on disciplinary and welfare cases, capability, grievance, and
+content	experience	coaching managers where appropriate.
+content	experience	 To contribute to and develop policies, procedures and processes in relation to areas of
+content	experience	responsibility and to collaboratively work with colleagues in Policy & Strategy.
+header	experience	Payroll –
+content	experience	 Updating and maintaining payroll records.
+content	experience	 Liaising with staff and management on payroll related queries.
+content	experience	 Maintaining leave, sickness and overtime reports.
+content	experience	 Interpreting awards/agreements and contracts in relation to overtime, shift allowances etc.
+content	experience	 Payroll administration – setting up new starters, terminations, transfer & promotions.
+content	experience	 Calculation and payment of termination payments.
+content	experience	 Address employee’s pay-related concerns and provide accurate payroll information.
+content	experience	 Develop, manage and maintain comprehensive payroll records.
+content	experience	 Investigate and correct payroll discrepancies and errors.
+content	experience	 Complete requests for pay-related documents including statements and verifications.
+header	experience	Birlasoft:-
+content	experience	 Proving payroll inputs to finance team.
+content	experience	 Policy Review
+content	experience	 Induction & HR Connects with employees
+content	experience	 Handing Employee queries.
+content	experience	 Review Management on Glassdoor.
+content	experience	 Updating HR Master data on Peoplesoft .
+content	experience	 Driving HR initiatives
+content	experience	 Appraisal and Review closer.
+content	experience	 HR Connects with employees.
+content	experience	 Taleo Implementation
+content	experience	 Background Verification
+header	others	Hobbies/Co-curricular Activities
+content	others	 Painting.
+content	others	 Listening to Music.
+header	others	Personal Profile
+meta	others	 Father’s Name : Mr. Sushil Kumar Sharma
+meta	others	 Marital Status : Single.
+meta	others	 Gender : Male
+meta	others	 Nationality : Indian.
+content	knowledge	 Language Known : Hindi, English.
+meta	others	I hereby declare that the facts given in resume are correct to the best of my knowledge & belief.
+meta	others	(GAURAV SHARMA)

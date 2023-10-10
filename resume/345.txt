@@ -1,0 +1,79 @@
+header	others	CURRICULUM VITAE
+meta	others	ANNAPPA.H.K
+meta	others	S/o Krishnappa.P.S
+meta	others	Pollibetta,Nellikad Estate.
+meta	others	Hebbale(V),Pollibetta(P).
+meta	others	Virajpet (Tq) , S.Kodagu 571215.
+meta	experience	Contact No: 9740777386
+meta	others	PAN : ETBPK8918R
+header	others	Career Objective
+meta	others	To work in a bright and challenging career by utilizing the resources around
+content	others	me to the best of my skills and use those skills towards organization and personal
+content	others	growth.
+header	education	Educational Qualification:
+content	education	Course Board University CollegeSchool Year Percentage
+content	education	M.Com
+content	education	Mangalore
+content	education	University
+content	education	Cauvery College
+content	education	Centre for PG
+content	education	Studies,Gonikoppal
+content	education	2017
+content	education	68.20%
+content	education	B.Com
+content	education	Mangalore
+content	education	University
+content	education	Nehru Memorial
+content	education	College, Sullia(D.K)
+content	education	2014
+content	education	65.7%
+content	education	PUC
+content	education	Department of
+content	education	Pre-University
+content	education	Govt. PU College,
+content	education	Pollibetta
+content	education	2011
+content	education	59.67%
+content	education	S.S.L.C KSEEB
+content	education	Namma High School,
+content	education	Pollibetta
+content	education	2009
+content	education	59.52%
+header	experience	Work Experience:-
+content	experience	➢ Worked as a Accountant in Vandam Enterprises, Madikeri, Kodagu for 01 year.
+content	experience	➢ Worked as Commerce Lecturer at KVG FIRST GRADE DEGREE COLLEGE
+content	experience	BHAGAMANDALA for 01 year.
+header	knowledge	Computer skills:-
+content	knowledge	➢ Basic Knowledge of Computer.
+content	knowledge	➢ Tally ERP9.
+header	knowledge	My Strengths:
+content	knowledge	➢ Positive attitude.
+content	knowledge	➢ Dedicated and Hardworking.
+content	knowledge	➢ Self-confident.
+header	knowledge	➢ Leadership Qualities.
+header	others	Achievement:
+content	others	➢ Active NSS Volunteer.
+content	others	Hobbies:
+content	others	➢ Singing and playing games.
+header	knowledge	Languages known:
+content	knowledge	➢ English
+content	knowledge	➢ Kannada
+content	knowledge	➢ Tamil
+header	others	Other information:
+content	others	➢ Attended leadership camp(M.R.pai foundation)
+content	others	➢ Attended commerce fest in Mangalore university “MAGMA”
+header	others	Personal Profiles:
+meta	others	Name : Annappa.H.K
+meta	others	Date of Birth : 22nd Feb 1994
+meta	others	Father Name : Krishnappa.P.S
+meta	others	Mother Name : Bhavani P.K
+meta	others	Religion : Hindu
+meta	others	Sex : Male
+meta	others	Marital Status : Single
+meta	others	Nationality : Indian
+meta	others	Email : ann.coorg743@gmail.com
+meta	others	Declaration:
+meta	others	I hereby declare that all the Information furnished above is true to the
+meta	others	best of my Knowledge and belief.
+meta	others	Place: Pollibetta
+meta	others	Date: (Annappa.H.K)

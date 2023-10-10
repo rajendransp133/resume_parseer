@@ -1,0 +1,62 @@
+header	knowledge	SKILLS
+header	experience	WORK HISTORY
+meta	others	VIVEK MANDAVA
+meta	others	vivek.vikky7273@gmail.com | 998 058 3990 | #177, 4th Line, Vsn Brothers Street, Ayyappanagar,,
+meta	others	Vijayawada, Andhra Pradesh 520007
+meta	experience	Customer retention
+meta	experience	Financial administration
+meta	experience	Strategy development
+content	experience	Marketing and advertising
+content	experience	Business planning
+content	experience	Strategic objective execution
+content	experience	Expertise in Excel
+content	experience	Rapid data entry skills
+content	experience	PAYROLL EXECUTIVE Ascent Consulting Services Pvt Ltd - Bengaluru, KA
+content	experience	03.2013 - 12.2014
+header	experience	JOB RESPONSIBILITIES
+content	experience	Handling Payroll, Reimbursements and Final Settlements, Calculation
+content	experience	and allocation of CTC for allotted clients based on their CTC structure.
+content	experience	Examine of inputs, checking control reports and generating error free &
+content	experience	timely outputs
+content	experience	Calculation of statutory compliances like Provident Fund, ESIC,
+content	experience	Professional Tax, TDS, Gratuity, LWF, VPF etc, for both onsite and offsite
+content	experience	employees.
+content	experience	Verification of Medical and LTA reimbursement claims and processing
+content	experience	the same in respective Payroll with the policy of Company.
+content	experience	Providing data/prepare reports for statutory filings within the stipulated
+content	experience	deadlines – Monthly, Quarterly and Annually.
+content	experience	Resolving to Employees queries.
+content	experience	Preparation of MIS Reports as per the client requirements.
+content	experience	TDS Reconciliation’s month wise and confirming the same with the client
+content	experience	before generating the challan
+content	experience	Year-end activities like investment proof verification and validating and
+content	experience	updating the same to the employee for yearly ITR returns.
+content	experience	Client Knowledge Manual.
+content	experience	Updating their pay slips, Reimbursements, Tax Computation sheet in
+content	experience	ESS(Employee Self Service) Portal after the completion of payroll.
+content	experience	Calculating the over time pay, holiday pay and Night Shift pay based
+content	experience	on the days they provide,
+content	experience	Calculating the perquisites like Stock, Gift, Vehicle, Rent free
+content	experience	accommodation, loan,Etc.
+content	experience	Parallel calculating on Excel with application for accurate delivery of
+content	experience	deliverable
+content	experience	Streamlining certain allotted clients from Migration to Live.
+content	experience	Executive Ramakrishna Housing (P) Limited - Vijayawada, AP 12.2015 -
+content	experience	Current
+header	experience	JOB RESPONSIBILITIES
+header	education	EDUCATION
+content	others	Maintaining individual account to each Flat
+content	others	Calculating Schedule wise payment
+content	others	Calculating the Interest and Commission to the customers for monthly
+content	others	payout
+content	others	Generating the Cost sheet based on their Respective Flats and
+content	others	generating the reports based on daily, monthly, yearly for general audit
+content	education	purpose and reconciliation purpose
+content	education	Bala Vignana Bhavan - Vijayawada, AP / 2005
+content	education	High School Diploma:
+content	education	Triveni Junior College - Vijayawada, AP / 2007
+content	education	INTERMEDIATE: COMMERCE
+content	education	Prabhas Degree &PG College - Vijayawada, AP / 2010
+content	education	B.COM (COMPUTERS): COMMERCE
+content	education	SNS College of Technology - Coimbatore, TN / 2012
+content	education	MBA: FINANCE AND MARKETING

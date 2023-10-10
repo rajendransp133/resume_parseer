@@ -1,0 +1,94 @@
+content	others	M
+header	others	RESUME
+meta	others	V.M.DHIVYA
+meta	others	NO. 71/78, Acharappan Street,
+meta	others	Near Kothawal Chavadi Market,
+meta	others	Chennai-600001.
+meta	others	Cell : +91-9380107299,+91-9176216183
+meta	others	E-mail : dhivya4oct@gmail.com
+header	others	OBJECTIVE
+content	others	Seeking a position to utilize my skills and abilities to fulfill the company interest that offers professional growth while being resourceful, innovative and flexible.
+header	education	EDUCATIONAL PROFILE
+content	education	B.C.A
+header	education	Institution :
+content	education	Sri Kanyaka Parameswari Arts & Science College For Women, Chennai-1.
+content	education	University
+meta	others	:
+content	education	MADRAS UNIVERSITY
+content	education	Percentage scored :
+content	education	68% (2010 passed out)
+content	education	H.S.C
+content	education	Institution
+meta	others	:
+content	education	Anderson Day Girls Higher Secondary School,
+content	education	Board
+meta	others	:
+content	education	State Board,
+content	education	Percentage scored :
+content	education	88% (2007 passed out)
+content	education	S.S.L.C
+content	education	Institution
+meta	others	:
+content	education	Anderson Day Girls Higher Secondary School,
+content	education	Board
+meta	others	:
+content	education	State Board,
+content	experience	Percentage scored
+meta	others	:
+content	experience	89% (2005 passed out)
+header	experience	Experience
+content	experience	· 2 years As a Tele Service Executive in MMC Infotech Services Pvt. ltd., Chennai-2.
+header	knowledge	COMPUTER LANGUAGES SKILL
+content	knowledge	· C
+content	knowledge	· C++
+content	knowledge	· Java
+content	knowledge	· Visual Basic
+header	project	ACADEMIC PROJECTS
+content	experience	Mini Project
+meta	others	:
+content	experience	Online Book Sale
+content	experience	Front End
+meta	others	:
+content	experience	.Net
+content	experience	Back End
+meta	others	:
+content	experience	Sql server 2005
+header	others	HOBBIES
+content	others	· Listening Music
+content	others	· Reading News paper and Magazines
+header	knowledge	KEY STRENGTHS
+content	knowledge	· Keen to know new things .
+content	knowledge	· Self confident with positive attitude.
+content	knowledge	· Enthusiastic and Hard working capacity.
+header	others	PERSONAL PROFILE
+header	others	Name
+meta	others	:
+meta	others	V.M.DHIVYA
+meta	others	Father’s Name
+meta	others	:
+meta	others	V. Madhanagopal
+header	others	Date of Birth
+meta	others	:
+meta	others	04-10-1989
+header	others	Nationality
+meta	others	:
+meta	others	Indian
+meta	others	Gender
+meta	others	:
+meta	others	Female
+meta	others	Marital status
+meta	others	:
+meta	others	Single
+header	knowledge	Languages Known :
+content	knowledge	Tamil,Telugu & English
+meta	others	Permanent Address :
+meta	others	NO. 71/78, Acharappan Street,
+meta	others	Near Kothawal Chavadi Market,
+meta	others	Chennai-600001.
+header	others	DECLARATION
+meta	others	I hereby declare that the above-furnished information is true to the best of my knowledge and belief.
+meta	others	Place:
+meta	others	Chennai
+meta	others	Yours Faithfully,
+meta	others	Date:
+meta	others	(V.M.Dhivya)

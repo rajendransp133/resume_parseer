@@ -1,0 +1,83 @@
+meta	others	ISHA SAXENA
+meta	others	A B.Sc. graduate, meticulous and diligent
+meta	others	individual, proficient at building and maintaining
+meta	others	professional relationships. Looking to leverage
+meta	others	proven communication, mold my skill-set for the
+meta	others	robust growth of organisation.
+meta	others	27ishasaxena@gmail.com
+meta	others	8860985115
+meta	others	Noida, India
+meta	others	linkedin.com/in/ishasaxena
+header	experience	WORK EXPERIENCE
+content	experience	06/2017 – 07/2017
+content	experience	HR trainee
+content	experience	Jaina Marketing & Associate
+content	experience	Delhi, India
+content	experience	Jaina group is a reputed distribution house with interests in telecom
+content	experience	and consumer durable
+content	experience	Provided customer service to organization employees.
+content	experience	Served as a point of contact with benefit vendors/
+content	experience	administrators.
+content	experience	Compiled reports and spreadsheets.
+content	experience	Managed appointments and arranged meetings.
+content	experience	Build credibility with employees to facilitate
+content	experience	communication and respond to concerns.
+content	experience	Exposure: Assisting departments with recruitment needs through
+content	experience	liaison with agencies.
+meta	others	–
+content	experience	Deal with employee requests regarding human resources
+content	experience	issues, rules, and regulation
+header	education	EDUCATION
+content	education	2015 – 2018
+content	education	Bachelor of Science
+content	education	Hansraj, Delhi University
+content	education	CGPA - 8.091
+content	experience	Chemistry Botany
+content	education	Zoology
+content	education	2014
+content	education	Intermediate
+content	education	Sophia Girls’ School
+content	education	93.4%
+content	education	Scored highest marks in
+content	education	school (Chemistry, 95)
+content	education	Scored highest marks in
+content	education	school (Biology, 95)
+content	education	2012
+content	education	Matric
+content	education	Sophia Girls’ School
+content	education	89%
+header	knowledge	SKILLS
+content	knowledge	Adept communication Team leadership
+content	knowledge	Meticulous Administration
+content	knowledge	Proficient in MS Excel, MS PowerPoint, MS Word Diligent
+content	knowledge	Decision making Adaptability
+content	knowledge	Social media advertising
+header	others	POSITION OF RESPONSIBLITIES
+content	others	EVENT MANAGEMENT (2016)
+content	others	Organised and volunteered in the annual cultural fest of the life
+content	knowledge	science society
+content	knowledge	Worked as a lead model, ‘Fashionista’ : The Fashion Society of Hansraj
+content	knowledge	college
+content	others	SPONSORSHIP HEAD (2016)
+content	others	Raised Rs 25000 for the annual cultural festival, ‘Scienza Di Vita’
+content	others	Led a team of 10 people to gain potential sponsorship for the fest.
+content	others	Promoted the festival on various online and offline platform.
+header	others	ACHIEVEMENTS & AWARDS
+content	others	Miss North India International 1st runner up (2017)
+content	others	Oriflame Queen of the City - Meerut (2017)
+content	others	Spawake Miss Beautiful You (2016)
+content	others	Consistent Progress in Studies (2014)
+content	others	ISC Chemistry Topper in Meerut (2014)
+header	others	Awarded in various athletic sports at school level.
+content	others	Scholarship from Union bank of India for exemplary
+content	others	performance in Board Examination
+header	knowledge	LANGUAGES
+meta	knowledge	English
+meta	others	Hindi
+meta	others	INTERESTS
+meta	others	Modeling Athletics Mentoring Music
+meta	others	Tasks
+meta	others	LIFE SCIENCES
+meta	others	Courses
+meta	others	mailto:27ishasaxena@gmail.com
+meta	others	https://linkedin.com/in/ishasaxena

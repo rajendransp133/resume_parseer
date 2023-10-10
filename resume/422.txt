@@ -1,0 +1,66 @@
+meta	others	Objective
+meta	others	BRAHMAIAH DUDEKULA
+meta	others	Email: brahma2501@gmail.comMobile: +91 7799269680
+header	others	Profile
+header	experience	Career Summary:
+content	experience	· With 2.6+years’ experience working as Network and Engineer
+content	experience	· Implementation and troubleshooting enterprise LAN, WAN & Data center NOC environment
+content	experience	· Vendor interacting and problem solving
+content	experience	· Team player with ability to analyze the problems, resolve and implement in the solution.
+content	experience	· Demonstrated quick learning ability, strong analytical, technical and problem-solving Skills.
+header	experience	Professional Certifications and Trainings
+content	experience	· CCNA - Cisco Certified Network Association.
+content	experience	· ITIL v3 Foundation program certified and good knowledge in Service Operations.
+content	experience	· Riverbed WAN Optimizer 200 and 350 vendor training.
+content	experience	· F5 BIG IP LTM vendor training
+content	experience	· Cisco Meraki Network Operator certified
+header	knowledge	TechnicalTools
+content	knowledge	IRIS, HP NNMI, HPSM,IRIS, , HP OPEN VIEW, CISCO PRIME, Meraki Dash-board
+header	experience	Routers and Switches
+content	experience	· Cisco Routers & Switches: Cisco(ISR) 1800,2800,3800 and 7206 ASR 1002, 1004, 1006 (RP1), Catalyst 2960,3750,3560, 6506. ISR 4300 & 4400, Nexus 5k & 7K
+content	experience	· F5 Models: Include Big-IP 1600, 2000, 3600, 3900, 4000
+content	experience	· Riverbeds Wan optimizers: Steelhead X7070H, CX7055M, CX5055M, CX5070L,CX6050 & SCC 8150
+content	experience	· Gigamon Network analysis device: G-VUE 2404, G-VUE 420, G-tap ASFs
+content	experience	· Meraki MR, MS & Mx devices
+header	experience	Professional Expérience
+content	experience	Accenture Services Pvt Ltd
+content	experience	Role: Network Engineer
+content	experience	OCT2015 to till date
+content	experience	Network operations – Johnson and Johnson
+content	experience	· Manage the Global NOC operations for J&J
+content	experience	· Managing LAN & WAN for JNJ data centers, Head Offices, Branches, and third-Party sites throughout global
+content	experience	· Working as a Network Support Engineer (L2) wherein I have been providing Information Technology Service Management Services, focusing on helping clients make smooth, meaningful changes to improve operational efficiency and the delivery of services.
+content	experience	· All of my work is based on industry best practice, including the Information Technology Infrastructure Library (ITIL).
+content	experience	· Responsible for ensuring progression of all incidents/ problems/ changes according to account specific SLAs.
+content	experience	· Maintaining Data Base and resolving the ticket with in a period of SLA.
+content	experience	· Daily operations including High priority incidents & recovery calls
+content	experience	· DNS, DHCP management with Infobox
+content	experience	· Implement change request with the user requirement.
+content	experience	· Delivering proactive monitoring and preventive maintenance for all locations
+content	experience	· Installation and configuration of ISR 4300 and 4400
+content	experience	· IOS upgrade on ASR 1002, 1004, 1006 (RP1) and module installations as per client requirement.
+content	experience	· Installation and troubleshooting Riverbed steelheads and Interceptors on WAN optimizing issue.
+content	experience	· Code upgradation on Datacenter WAN optimizers.
+content	experience	· IOS upgradation Gigamon (G-series) and troubleshooting on mapping issues for traffic mapping
+content	experience	· Creation, modification (adding) of I rules in F5 devices.
+content	experience	· SSL certs issues and SNMP config issues troubleshooting
+content	experience	· Nexus 5k upgradation and 3650 stack switch upgradations
+header	education	Academic Qualification
+content	education	Post-Graduation
+content	education	: MTech (SE)(2013-15) from JNTUH University.
+content	education	Graduation
+content	education	: BTech (IT)(2008-12) from JNTUA
+header	others	Personal Details
+meta	others	Father Name
+meta	others	:
+meta	others	Nadipi Dastagiri. D
+header	knowledge	Languages Known
+meta	others	:
+meta	knowledge	English, Hindi and Telugu.
+meta	others	Marital Status
+meta	others	:
+meta	others	Single
+meta	others	Present Address
+meta	others	:
+meta	others	#20, Venkateswara Layout, BTM, Bangalore – 560068.
+meta	others	Page 1

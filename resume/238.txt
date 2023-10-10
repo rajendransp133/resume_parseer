@@ -1,0 +1,51 @@
+meta	others	I SAI KUMAR
+meta	others	Plot No:47,
+meta	others	H.No: 4-12-692,
+meta	others	Sai baba temple
+meta	others	Opp lane,street no-5
+meta	others	Dwarakamai Nagar,
+meta	others	Vanasthalipuram-500070.
+meta	others	PH no: -9177573934 , 8096038788
+meta	others	Email Id: -apr.sai693@gmail.com
+header	others	OBJECTIVE
+content	others	Seeking a challenging career in esteemed organization, where my knowledge can be shared and enriched. I would like to have an opportunity to contribute effectively for the growth of the organization I work for, which I am sure, will in turn contribute to my personal growth.
+header	experience	WORK EXPERIENCE:-
+content	experience	Worked in CONCENTRIX DAKSH SERVICE INDIA Pvt. Ltd from May 2015 to July 2017.
+header	experience	Role: Customer Service Executive
+header	experience	Responsibilities:-
+content	experience	Credit card process inbound calling were we resolving the customer quires.
+content	experience	Card activation/ deactivation of card blocking / unblocking of card lost, card application eligibility.
+content	experience	Financial charges queries / Charges reversal for late payments fee, pitching bank offered products and converting it into sales, card limit increase request / pitching bank offered limit, change in billing cycle request etc.,
+content	experience	Worked in IMORGEN IT SERVICE. Pvt. Ltd from Jan 2015 to May 2015.
+content	experience	Role: Customer Service Executive
+header	experience	Responsibilities:-
+content	experience	Process student loan consolidation,
+content	experience	Were we try to reach and help US Citizens who has 1 or more federal student loans by merging into 1 loan, single interest and single lender that would be federal bank,
+content	experience	Were we use to consolidate all federal student loans
+content	experience	Worked in MAGUS Customer Dialog. Pvt. Ltd. From Aug 2010 to Feb 2012
+content	experience	Role: - Customer service executive
+header	experience	Responsibilities:-
+content	experience	Answering customer queries.
+content	experience	Follow up on issues and informing customer about the status.
+content	experience	Explaining the product advantages to the customers.
+content	experience	Supporting other team members on difficult calls.
+header	education	EDUCATIONAL QUALIFICATION:-
+content	education	· Graduation (B.Com. Computers) All India Institute of Trade and Commerce.
+content	education	· Intermediate (C.E.C) from Indian Institute of Secondary Education..
+content	education	· Secondary School Certificate (S.S.C) from Indian Institute of Secondary Education.
+header	knowledge	STRENGHTS:-
+content	knowledge	· Sincere, Dedicated and Hard Working,
+content	knowledge	· Good Communication & Inter Personal Skills,
+content	knowledge	· Confidence in things getting done.
+header	others	PERSONAL PROFILE:-
+meta	others	Name : I. SAI KUMAR
+meta	others	Fathers Name : I. Suresh
+meta	others	Date of Birth : 6th April (1986)
+meta	knowledge	Languages Known : English, Hindi, Telugu & Tamil
+meta	others	Gender : Male
+meta	others	Marital Status : Married
+meta	others	Nationality : Indian
+meta	others	Religion : Hindu
+meta	others	Hobbies : Listening Music & Playing Cricket.
+meta	others	Place: - Hyderabad
+meta	others	Date :- (I.SAI KUMAR)

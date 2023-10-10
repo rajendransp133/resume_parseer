@@ -1,0 +1,58 @@
+meta	others	BIO-DATA
+meta	others	R.POOVARASAN
+meta	others	Anna Nagar,
+meta	others	Edakudi,
+meta	others	Kiliyanur Post,
+meta	others	Tharangambadi Tk - 609402 E-Mail:poovarasanrm12@gmail.com
+meta	others	Mobile: 8098811808
+header	others	OBJECTIVE
+content	others	Seeking a challenging position in a progressive organization that could make the best use of my skills and thereby to contribute for the organization growth.
+header	education	EDUCATIONAL QUALIFICATION
+content	education	COURSE
+content	education	SCHOOL/COLLEGE
+content	education	BOARD
+content	education	YEAR OF PASSING
+content	education	PERCENTAGE
+content	education	B.C.A.,
+content	education	A.R.C Viswanahan College,
+content	education	Mayilduthurai
+content	education	Bharathidasan University
+content	education	2018
+content	education	65%
+content	education	H.S.C.,
+content	education	Kittappa Municipal Higher Sec. School,
+content	education	Mayiladuthurai.
+content	education	State Board
+content	education	2015
+content	education	55 %
+content	education	S.S.L.C.,
+content	education	K.S.O High School, Mangainallur.
+content	education	State Board
+content	education	2013
+content	education	75%
+header	knowledge	COMPUTER KNOWLEDGE:
+content	knowledge	· D.C.A
+header	others	STRENGHTS:
+content	others	· Hard Working
+content	others	· Having good communication skills.
+content	others	· Adaptable to all kinds of environments.
+header	knowledge	LANGUAGES KNOWN:
+content	knowledge	· Tamil
+content	knowledge	· English
+header	others	PERSONAL PROFILE:
+meta	others	Date of Birth : 15th March 1998
+meta	others	Age : 20
+meta	others	Sex : Male
+meta	others	Nationality : Indian
+meta	others	Religion ; Hindu
+meta	others	Marital Status : Single
+meta	others	Father’s Name : A.Ramadurai
+meta	others	Permanent Address : Anna Nagar,
+meta	others	Edakudi,
+meta	others	Kiliyanur P.O,
+meta	others	Tharangambadi Taluk,
+meta	others	Nagapattinam Dist,
+header	others	DECLARATION:
+meta	others	I hereby declare that the above mention particulars are true to the best of my knowledge.
+meta	others	Place: Signature
+meta	others	Date: (R.POOVARASAN)

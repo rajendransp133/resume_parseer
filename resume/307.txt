@@ -1,0 +1,56 @@
+meta	others	• johnny b and his goods employee of the year 2012• oakwood university dean’s lister, 1st semester of school year 2009
+meta	others	Ayruz Data Marketing Pvt
+meta	others	Ltd
+header	experience	EXPERIENCE
+header	experience	Key Responsibilities:
+content	experience	Performed the role of the content writer by
+content	experience	creating, editing, and proofreading the web
+content	experience	contents, blogs for in-house projects and client
+content	experience	websites.
+content	experience	Pay Per Click (PPC): Keyword research, Create Ad
+content	experience	groups, Create Ad copies, Create Ad Campaigns,
+content	experience	Optimize Landing Pages, Optimize Keywords,
+content	experience	Generate Leads & Conversions.
+content	experience	Website analysis, Competitor Analysis, Keyword
+content	experience	selection, Meta Tag Preparation, Content
+content	experience	Optimization, Alt tags on images, Heading Tag
+content	experience	Report creation based on the performance –
+content	experience	Daily, monthly and weekly
+content	experience	Mporium Impact Job – Managing and
+content	experience	monitoring various client performance,
+content	experience	Reporting bugs to the tech team-Ticket creation
+content	experience	etc.
+content	experience	Digital Marketing Executive
+content	experience	June 2017 - July 2018
+content	experience	DIGITAL MARKETING EXECUTIVE
+content	experience	NANDHINI RAJENDRAN
+header	experience	PROFILE
+content	experience	Aiming to achieve high career growth in the field of
+content	experience	digital marketing through a continuous learning
+content	experience	process and keep myself dynamic, visionary and
+content	experience	competitive with the changing scenario of the
+content	experience	world
+header	others	CONTACT
+meta	others	Mobile: (+91) 8848968723
+meta	others	E-mail: rsnandhu25@gmail.com
+meta	others	Location: Samruddhi Uplands, Varthur,
+meta	others	Bengaluru
+meta	others	Creace Technologies
+meta	others	Digital marketing Trainee
+meta	others	October 2016 - May 2017
+header	knowledge	SKILLS
+content	knowledge	Create effective contents based on the product
+content	knowledge	and client requirement which also includes meta
+content	knowledge	tags, adcopies etc Upload written ad copies
+content	knowledge	through Google Adwords editor.
+content	knowledge	Keyword analysis and research through keyword
+content	knowledge	planner
+content	knowledge	ShapeKnowledge on Google Adwords, Analytics
+content	knowledge	and web-master tools
+content	knowledge	Impact job skills – Handling and monitoring
+content	knowledge	client performance, Client interaction, Ticket
+content	experience	Creation.
+content	education	Christ Nagar College
+header	education	EDUCATION
+content	education	Bachelor’s in Computer Application
+content	education	2013 - 2016

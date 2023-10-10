@@ -1,0 +1,124 @@
+header	others	Contact details
+header	others	Permanent Address:
+meta	others	PARAMBATH HOUSE
+meta	others	CHOWARA P.O
+meta	others	ALUVA
+meta	others	PIN: 683571
+meta	others	Phone No: +919847256656
+meta	others	+971559053709
+meta	others	+971551122352
+meta	others	Email : naj.geeth@gmail.com
+meta	others	Personal Data
+meta	others	Date of Birth : 16-03-1991
+meta	others	Sex : Female
+meta	others	Nationality : Indian
+meta	others	Marital Status : Married
+header	knowledge	Languages Known
+meta	knowledge	English, Malayalam, Tamil, Hindi,
+meta	others	Arabic
+meta	others	Interests
+meta	others	Traveling,Photography, Watching
+meta	others	Movies, & Listening Music.
+header	knowledge	Skills
+content	knowledge	• Disciplined, dedicated
+content	knowledge	and hard working with
+content	knowledge	an ability to easily adapt
+content	knowledge	to changing work
+content	knowledge	environment.
+content	knowledge	• Keen learner with ability
+content	knowledge	to learn and imbibe new
+content	knowledge	knowledge.
+content	knowledge	NAJIYA P.A
+header	others	Objective
+content	others	To secure a promising, successful and challenging career in a reputed
+content	others	organization where my knowledge and gained technical skills can be
+content	others	effectively applied, enabling me to explore myself fully and realize my full
+content	others	potential.
+header	experience	Work Experience
+header	experience	1. SENIOR BUSINESS DEVELOPMENT MANAGER at
+content	experience	Pappyjoe International(Aug 2018 to Present)
+header	experience	2. SERVICE DESK ANALYST at Ernst & Young(EY) (Feb
+content	experience	2016 – May 2017)
+content	experience	• 1.3 years of experience with EY (Ernst & Young) as Service
+content	experience	Desk Analyst.
+header	experience	3. TECHNICAL SUPPORT ASSOCIATE at Sutherland
+content	experience	Global Services (June 2014 – Jan 2016)
+content	experience	• 1.6 years of experience at Sutherland Global Services as Technical
+content	experience	Support Associate.
+header	education	Academic Qualification
+content	education	B.E ELECTRONICS AND COMMUNICATION ENGINEERING
+content	education	Course Board School/
+content	education	College
+content	education	Year of
+content	education	passing
+content	education	Aggregate%
+content	education	Tenth CBSE Carmel CMI
+content	education	School
+content	education	2007 85
+content	education	Plus Two State Carmel CMI
+content	education	School
+content	education	2009 75
+content	education	B.E VTU Srinivas
+content	education	School of
+content	education	Engineering
+content	education	2014 67
+header	knowledge	• Excellent
+content	knowledge	communication and
+content	knowledge	interpersonal skills.
+content	others	• Pleasing personality in
+content	others	all respects. Able to
+content	others	work independently/
+content	others	Together in a team.
+header	experience	JOB PROFILE
+content	experience	SENIOR BUSINESS DEVELPOMENT MANAGER
+content	experience	• Prospect for potential new clients and turn this into increased
+content	experience	business.
+content	experience	• Cold call as appropriate within the market to ensure a robust
+content	experience	pipeline of opportunities.
+content	experience	• Identify the potential clients and the decision makers within the
+content	experience	client organization.
+content	experience	• Research and build relationship with new clients.
+content	experience	• Plan approaches and pitches.
+content	experience	• Work with team to develop proposals that speaks to the client’s
+content	experience	needs, concerns and objectives.
+content	experience	• Participate in pricing the solution/service.
+content	experience	• Handle objections.
+content	experience	• Client retention.
+content	experience	• Work with Technical staff and other internal colleagues to meet
+content	experience	client needs.
+header	experience	SERVICE DESK ANALYST(EY)
+content	experience	• First point of contact for the company.
+content	experience	• Assists EY users of Middle East.
+content	experience	• Provides support for basic incident resolution and requests
+content	experience	reported to the division service desk.
+content	experience	• Scheduling conference calls for the clients and the users.
+content	experience	• Prepares newsletters and thereby informing important
+content	experience	information to the clients and users by emails.
+content	experience	• Coordinates the requests and incidents with the concerned team
+content	experience	and hence connecting with the clients(sort of Coordinator role)
+content	experience	• Assists the clients and users with their requirements
+header	experience	TECHNICAL SUPPORT ASSOCIATE (SGS)
+content	experience	• Frontline support which includes installing and configuring the
+content	experience	software, assisting customers from APAC and EMEA region.
+content	experience	• Diagnosing hardware/software faults and solving technical
+content	experience	issues.
+content	experience	• After-sales support and IT maintenance
+content	experience	• Purchase, Sales of an Intel Product, McAfee Anti-Virus
+content	experience	(includes customer retention as well).
+content	experience	• Resolves network issues.
+header	knowledge	Skills gained
+content	knowledge	● Programming Languages :- C,C++,HDL ,DSP, VLSI,
+content	knowledge	Programming in Microcontroller, Microprocessor.
+content	knowledge	● Operating System :- Windows 2000,2007,2008,10,XP
+content	knowledge	● Others :- MS Office
+content	knowledge	● Technical Troubleshooting, Hardware/Software fix ,Network
+content	experience	Troubleshooting.
+header	others	References :
+meta	others	1. Prof.Shreeganesh Kedilaya
+meta	others	Professor & HOD
+meta	others	Dept. of E&C Engg
+meta	others	Srinivas School of Engineering, Mukka, Mangalore
+header	others	Declaration
+meta	others	I hereby declare that all the above stated statements are true and complete to
+meta	others	the best of my Knowledge and belief.
+meta	others	NAJIYA P.A

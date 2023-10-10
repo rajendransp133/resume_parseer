@@ -1,0 +1,50 @@
+meta	others	Saubhagya Pithora
+meta	others	Male, 27 Years
+meta	others	+91-7739469939
+meta	others	saubhagya1490@gmail.com
+header	education	EDUCATIONAL QUALIFICATIONS
+content	education	MBA
+content	education	Amity Global Business School, Patna(Amity University, Noida)
+content	education	2016
+content	education	BBA
+content	education	Amity Global Business School, Patna(Amity University, Noida)
+content	education	2014
+header	experience	ACADEMIC & CO-CURRICULAR ACHIEVEMENTS
+content	experience	· Secured 7.8 CGPA in MBA(Finance and HR)
+content	experience	· Secured 6.7 CGPA in BBA(Finance, HR, IT, Marketing)
+content	experience	PROFESSIONAL EXPERIENCE Post MBA
+content	experience	24 Months
+content	experience	Ankur Carriers-Cargo Service, Patna
+content	experience	July’16 –Jun ‘18
+header	experience	Responsibilities
+content	experience	· Reconciles processed work by verifying entries and comparing system reports to balances.
+content	experience	· Charges expenses to accounts and cost centres by analyzing invoice/expense reports; recording entries.
+content	experience	· Maintains accounting ledgers by verifying and posting account transactions.
+header	project	SUMMER INTERNSHIP PROJECT
+content	experience	Sai Construction Company, HR Policies, Construction sector ( Live Project)
+content	experience	June ’16 – Aug ’16
+content	experience	· The project was based on identifying the HR Policies in construction company and in Real Estate Sector
+content	experience	· Project profile was to identifying new recruitment trends prevailing in corporate sector and to find new talents from talent acquisition.
+content	experience	Axis Bank, Product Offerings, Retail banking sector (Live Project)
+content	experience	June ’14 – Aug ’14
+content	experience	· Helped and make the customers aware about the benefits of the various product offerings in retail banking
+content	experience	· Helped customers in their development and professionalization to understand the products
+header	experience	POSITIONS OF RESPONSIBILITY
+content	experience	Ankur carriers-Cargo Service, Patna
+content	experience	Accounts Payable
+header	others	EXTRACURRICULAR ACHIEVEMENTS
+content	others	· Associated with an NGO for social work
+content	others	· Actively participated in blood donation camps
+content	others	· Acted as a Coordinator of various events organized by college
+content	others	· Adjudged Winner in Quiz contest held by NIIT
+content	others	· Winner at various events in talent shows and functions in schools
+content	others	OTHER INTERESTS & ACTIVITIES
+content	others	· Activities –Whistle artist, Completed River rafting and mountain trekking in Uttarakhand
+content	others	· Interests-Coins collection, Politics, Travel, TV shows, Whistling, Cricket, Gadgets
+header	others	PERSONAL DETAILS
+meta	others	· DOB-14-09-1990
+meta	others	· ADDRESS-201-A, HARI OM APARTMENT
+meta	others	EXHIBITION ROAD, PATNA-800001
+meta	others	Ankur Yadav
+meta	others	Male, 25 Years
+meta	others	​

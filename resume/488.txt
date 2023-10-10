@@ -1,0 +1,95 @@
+header	others	Resume
+meta	others	Shweta Mohan Landge
+meta	others	B.Sc.( Computer Science)
+meta	others	Ph : 7588682478
+meta	others	Email :- landge.shweta92@gmail.com
+header	others	Objective:
+content	others	To be associated with an Organization that offers me a scope to explore my professional and technical skills for the growth of the Organization.
+header	others	Personal Information:
+header	others	Name
+meta	others	Ms. Shweta Mohan Landge
+meta	others	Date of Birth
+meta	others	3rd Oct , 1992
+meta	others	Gender
+meta	others	Female
+header	others	Father�s Name
+meta	others	Mr. Mohan P. Landge
+meta	others	Father�s Occupation
+meta	others	Civil Contractor
+header	others	Nationality
+meta	others	Indian
+meta	others	Blood Group
+meta	others	AB +ve
+header	experience	Language Known
+content	knowledge	English , Marathi , Hindi
+content	others	Marital Status
+content	others	Unmarried
+header	education	Qualification:
+content	education	Sr. no
+content	education	Degree
+content	education	Board/ University
+content	education	Percentage
+content	education	Passing Year
+content	education	1
+content	education	S.S.C
+content	education	Maharashtra Board
+content	education	80.15%
+content	education	2007-08
+content	education	2
+content	education	H.S.C
+content	education	Maharashtra Board
+content	education	62.17%
+content	education	2009-10
+content	education	3
+content	education	B.Sc.(Comp. sci.)
+content	education	Pune University
+content	education	Higher IInd class
+content	education	2013-14
+content	knowledge	· Prgramming languages : Java , C , C++, Php
+content	knowledge	· Operating Systems : Windows xp ,Windows 3 ,7, Redhat Linux
+content	knowledge	· Soft wares Used : MS Office
+header	experience	Experience :
+content	experience	· Mphasis LTD. ( 10th June, 2015-6th Mar, 2017) :
+content	experience	I have 1 year 8 months experience as a Transctn Procng offcr of insurance
+content	experience	Industry in Mphasis Limited, an HP Company, Tower 4, Magarpatta City
+header	experience	Job Profile:
+content	experience	·  Currently Working as Verifer in Verve Process.
+content	experience	·  Knowledge of Congnasis Application.
+content	experience	·  Worked for Mortgage Insurance. As well as Auto Insurance
+header	experience	Job Responsibility:
+content	experience	 To complete the work within Turn Arround Time (TAT)
+content	experience	·  Maintaing the productivity as per Client Requirement.
+header	experience	Achievements:
+content	experience	Awarded as Star Performer in feb 2016 for cross trainee (i.e. I worked for mortgage and auto insurance)
+content	experience	· Shipco IT Pvt. Ltd. ( 3rd Apr,2017-23rd Apr,2018) :
+content	experience	I have 1 year experience as Customer Service oficer Of Shipping Industry in Shipco IT Pvt. Ltd., Pune Station.
+header	experience	Job Profile :
+content	experience	·  Currently Working as Customer Service Officer in export department.
+content	experience	·  Knowledge of Phoenix application.
+content	experience	·  Worked House bill of lading with single lot and booking for Asia and Europe. Also pre-alerts for MBL.
+header	experience	Job Responsibility:
+content	experience	 To complete the work within Turn Arround Time (TAT)
+content	experience	·  Maintaing the productivity as per Client Requirement.
+content	experience	 Trained new joines for above process.Taking an initiatives for new ideas and simplifying the process
+header	others	Strengths:
+content	others	· Positive Attitude.
+content	others	· Punctual, disciplined.
+content	others	· Good listener and leadership skills.
+content	others	· Can lead an organisation in the best and positive way.
+content	others	· Has well spoken attitude to motivate and inspire people in the organisation.
+header	others	Hobby:
+content	others	· Drawing , Dancing ,
+content	others	· listining music, Chit chat , etc.
+header	others	Contacts:
+meta	others	Shweta Mohan Landge
+meta	others	c/o - Sr.no.-77, Jyotiba Nagar , Kalewadi ,
+meta	others	Pimpri , Pune-411017.
+meta	others	Dist - Pune
+meta	others	Pin - 411017
+meta	others	Email id � landge.shweta92@gmail.com
+meta	others	Contact – 7588682478
+header	others	Declaration:
+content	others	I hereby declare that the above written particulars are true to the best of my knowledge and belief.
+header	others	Date:
+header	others	Place :
+meta	others	( Shweta M. Landge )

@@ -1,0 +1,61 @@
+meta	others	Amruta Govekar
+meta	others	Ankita Kadam
+meta	others	Email address: ankitakadam15@yahoo.com | Contact number: +91 9773734966
+header	knowledge	Softwares used: -
+content	knowledge	· Microsoft office tools (Advance Excel)
+content	knowledge	· Tally ERP 9
+content	knowledge	· SAP (HR)
+content	knowledge	· Microsoft Great Plains
+content	knowledge	· Citrix
+content	knowledge	· MR Designer (Reporting software)
+header	project	Projects prepared during MBA: -
+content	experience	· Derivatives-A Financial Instrument
+content	experience	· Marketing of Patanjali products
+content	experience	· World Bank
+content	experience	· MIS in Hospitals
+header	knowledge	Skills: -
+content	experience	· NSE Academy certification in Financial market (NCFM) with 91%
+header	experience	Professional Experience:-
+content	experience	Quatrro Business Support Services
+content	experience	Analyst (July 2017 – Present)
+content	experience	· Reporting to Manager-Not for Profit Division
+content	experience	· Handling US Clients independently:- Equality Illinois, Children’s Surgical Foundation, Pads Lake Country
+content	experience	· Passing accounting entries or Journal entries in software:- Microsoft Great Plains, Citrix & MR Designer
+content	experience	· Handling Payroll of US Clients.
+content	experience	· Finalization of accounts and Financial analysis (Ratio Analysis)
+content	experience	· Revenue reconciliation, Bank reconciliation and Cash position activity
+content	experience	· Handling audit work
+content	experience	· Preparation of MIS reports through Microsoft Excel
+content	experience	· Co-ordinating with US Clients in Night shift.
+content	experience	· Handling correspondence work emails with clients.
+content	experience	· General Ledger Reconciliation and Inter-company reconciliation.
+content	experience	· Entering credit card expenses of US clients into particular expense codes into Microsoft Great Plains by JE Import.
+content	experience	· Handling Accounts Payable of US Clients
+content	experience	P.D.C & Co. Chartered Accountants,
+content	experience	Junior Accountant (June 2013 – April 2017)
+content	experience	· Reporting to Accounts & Finance manager in Mumbai Mantra Media Ltd. (Client: - Mahindra & Mahindra Group company, Mahindra Towers) and Chartered Accountant in P.D.C & Co. Chartered Accountants.
+content	experience	· Passing accounting entries or Journal entries
+content	experience	· TDS and Service Tax monthly returns and quarterly returns.
+content	experience	· Finalization of accounts and Financial analysis (Ratio Analysis)
+content	experience	· Handled Foreign remittance transactions and payments to vendors
+content	experience	· Handled internal audit and statutory audit
+content	experience	· Preparation of MIS report through Microsoft Excel
+content	experience	· Mutual Fund and its redemptions.
+content	experience	· Sending work emails to clients and the concerned banks.
+content	experience	· Maintaining employee details in SAP (HR).
+content	experience	Ashapura Garments Limited,
+content	experience	Junior Accountant (Nov 2010 – May 2013)
+content	experience	· Reporting to Accounting Manager.
+content	experience	· Bank reconciliation.
+content	experience	· Passing accounting entries in Tally ERP 9.
+content	experience	· Processing vendor’s invoices.
+content	experience	· Preparation and maintenance of Letter of credit documentation.
+content	experience	· Passing Letter of credit accounting entries.
+header	education	Educational Qualifications:
+content	education	· B. Com in Banking & Insurance in the year 2010 from University of Mumbai with 70.71%
+content	education	· M.Com in Accountancy in the year 2017 from University of Mumbai.
+content	education	· MBA in Finance from GNIMS (University of Mumbai) in the year 2018 with 65%
+header	others	Personal Details:
+meta	others	· Date of Birth: 15th March, 1990
+header	knowledge	· Languages Known: English, Marathi and Hindi.
+meta	others	· Hobbies: Reading books, watching movies and travelling.

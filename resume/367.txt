@@ -1,0 +1,98 @@
+header	others	CURRICULUM VITAE
+meta	others	Malavi Ashok,
+meta	others	C/o Sarat Chandra Bose Potduri,
+meta	others	Plot No. 54,
+meta	others	Anjana Nivas, Ground floor,
+meta	others	Sri Venkateshwara Colony,
+meta	others	Lothkunta, Secunderabad – 500 015.
+meta	others	Ph: 91-9885290603
+meta	others	Email: malaviashu@gmail.com
+header	others	OBJECTIVE:
+content	others	To serve the company to my fullest capabilities taking up challenging assignments, enhancing interpersonal skills, sincerity, team spirit and diligence at work place that would lead to the fulfillment of personal and corporate goals.
+header	knowledge	PERSONAL SKILLS & STRENGTH:
+content	knowledge	· Willing to work hard and take challenges.
+content	knowledge	· Good spirit and attitude with sound basics.
+header	education	education Qualification:
+content	education	Academic performance
+content	education	Institution
+content	education	University/Board
+content	education	Year of Passing
+content	education	Percentage
+content	education	S.S.L.C
+content	education	Sacred Heart Convent School, Parichha, Jhansi, U.P.
+content	education	ICSE
+content	education	2003
+content	education	56%
+content	education	P.U.C
+content	education	(Commerce)
+content	education	Sree Siddaganga College for Women, Tumkur, Karnataka.
+content	education	P U Board, Karnataka.
+content	education	2005
+content	education	71%
+content	education	B.COM
+content	education	Sree Siddaganga College for Women, Tumkur, Karnataka.
+content	education	TUMKUR University,
+content	education	Karnataka.
+content	education	2008
+content	education	77%
+content	education	M.B.A
+content	education	(Finance)
+content	education	H.M.S Institute of Technology, Tumkur.
+content	education	VTU,
+content	education	Karnataka.
+content	education	2010
+content	education	66%
+header	knowledge	COMPUTER SKILLS:
+content	knowledge	1. Tally – 9.0 certified course from InfoTech Education.
+content	knowledge	2. Handling SAP tool for accounts processing.
+content	knowledge	3. Computer Basic’s Course with good knowledge in Microsoft office.
+header	others	ACHIVEMENTS:
+content	others	1. Participated in Management Fest SCINTILLATE – 09 at Sri Siddhartha Institute of Management Studies, Tumkur.
+content	others	2. Participated in Management Fest CHAKRAVYUHA – 09 at Shridevi Institute of Engineering and Technology, Tumkur.
+content	others	3. Has been awarded as “BEST OUTGOING STUDENT” at H.M.S Institute of Technology, Tumkur.
+header	project	PROJECT DETAIL:
+content	experience	As a part of our academics, Project in FINANCE Area has been accomplished on the topic “RATIO ANALYSIS” at Dynamatic Technologies Limited, Peenya, Bangalore.
+content	experience	Project contains various Financial Ratios mainly Liquid Ratio, Profitability Ratio, Leverage Ratio and Turnover Ratio. Project has been utilized by the company to overcome the financial problems and also to increase the profitability. Had a experience of the management of the different departments practically has had only theoretical details.
+header	experience	WORK EXPERIENCE:
+content	experience	Worked as Process Associate in Capgemini B.P.O, Bangalore from Dec-2010 to May-2012.
+header	experience	Roles and Responsibilities:
+content	experience	· Releasing the Bank Statements from SAP by using the T-code.
+content	experience	· Taking the SAP Dump of the concerned accounts into the Excel by accessing the T-code.
+content	experience	· Clearing the matching line Items in SAP by using the T-code.
+content	experience	· Sending the query to the On-shore regarding the Open Line items and trying to resolve the issues concerned to the Open Line Items with the help of On-shore.
+content	experience	· Preparing Journal Voucher and posting into SAP for some of the Line Items as instructed from On-shore.
+header	experience	Weekly activity:
+content	experience	· Preparing the Journal Voucher for some of the entries and posting them into SAP.
+content	experience	· Preparing the Bank Reconciliation Statement and sending the report to On-shore.
+header	experience	Monthly activity:
+content	experience	· Preparing the Old Line Items reports with the ageing and sending to the Clients.
+content	experience	· Preparing the Bank Reconciliation Statement for the end of every month and sending the report to Client.
+content	experience	· Preparing the Journal Vouchers of different currencies like EUR, AUD, GPR and USD.
+content	experience	· Preparing the Global Treasury Account Report and statement of GTC (Global Treasury Account which will be useful for the inter company closing).
+header	others	PROFESSIONAL ACHIVEMENTS:
+content	others	· Completed Three Days of foundation course conducted by Capgemini Learning and Development Department in the month of March’2011. The Training course was regarding the basic accounting concepts, SCOA usage and regarding the Company profile.
+content	others	· Awarded as the best performer in the team at Capgemini, for clearing the Old Pending Open Line items ageing more than 150 days.
+content	others	· Completed One Day Training of Customer Satisfaction conducted by Capgemini Learning and Development Department in the month of August’2011. The Training course was all about the customer satisfaction and to meet the customer expectations.
+content	others	· Completed Two Days Training of Excel Inter conducted by Capgemini Learning and Development Department in the month of November’2011.
+content	others	· Prepared SOP and DTP of Bank Reconciliation, performing all the activities which may be day to day, weekly and also monthly in the SAP tool.
+header	others	Personal details:
+meta	others	Father’s Name: Jayaram. R.
+meta	others	Mother’s Name: Vinutha.
+meta	others	Date of Birth: 29-03-1987.
+meta	others	Nationality: Indian.
+meta	others	Sex: Female.
+meta	others	Marital status: Married.
+header	knowledge	Languages known:
+meta	knowledge	English, Kannada & Hindi.
+meta	others	REFERENCES:
+meta	others	P. Vinod
+meta	others	Shubha Rai,
+meta	others	Senior Process Associate, Senior Process Associate,
+meta	others	Capgemini BPO, Bangalore. Capgemini BPO, Bangalore.
+meta	others	Email: pvinod@capgemini.com Email: shubha.rai8@gmail.com
+meta	others	Contact No: 91-9845563975 Contact No: 91-9902312510
+meta	others	Declaration:
+meta	others	I hereby declare that the statement given above is correct and true to the best of my knowledge.
+meta	others	Date:
+meta	others	Place:
+meta	others	(Malavi)

@@ -1,0 +1,83 @@
+meta	others	Swetangi Kumari.cdr
+meta	others	SWETANGI KUMARI
+meta	others	CAREER OBJECTIVE
+header	experience	EXPERIENCE
+header	education	EDUCATION
+header	others	ADDRESS:
+content	others	CONTACT
+content	others	DOB:
+content	others	NATIONALITY:
+header	others	SEX:
+content	others	2016 - 2018
+content	others	To make a substantial contribution to the supply chain management discipline
+content	others	by collaborating with prime industry leader in a challenging market.
+content	others	Flat No: 23, Peace Villa
+content	others	6 Cross, 5 Block,
+content	others	Koramangala, Bangalore
+content	others	Karnataka
+content	others	India
+content	others	560095
+content	others	swetangiku93@gmail.com
+content	others	Indian
+content	others	Female
+content	others	10 March 1993 th
+content	others	+918553319287
+content	others	Skynet Electronic Pvt Ltd. (Karnataka Division of OPPO Camera Phone)
+content	others	Senior Operations Executive-Supply Chain Dept, Karnataka Branch
+header	experience	KEY RESPONSIBILITIES:
+content	experience	Warehousing and Transportation Management
+content	experience	Inventory Management
+content	experience	IIPM, Bangalore, India.
+content	experience	Marwari College, Bhagalpur, India.
+content	experience	Chandarakala Brahamdev Lohia Karpuri College, Munger, India.
+content	experience	Bariyarpur Girls High School, Bariyarpur, India.
+content	experience	Logistics Information Handling
+content	experience	Point of contact for OPPO INDIA warehouse (Delhi) and Karnataka
+content	experience	warehouse.
+content	experience	Managing 8 logis�cs vendors - including price nego�a�ons, for
+content	experience	dispatch of stocks towards distributors across karnataka.
+content	experience	Dispatch data recording and maintenance.
+content	experience	Coordinator between karnataka head office and branch offices.
+content	experience	Warehouse stock data and distributor stock data maintenance.
+content	experience	Master of Business Administra�on, Marke�ng and HR Management
+content	experience	Bachelor of Computer Applica�ons
+content	experience	Higher Secondary Educa�on, Class XII
+content	experience	Coordinator for purchase order (karnataka distributors) and freebies alloca�on
+content	experience	Coordina�or for stock data recording and maintenance.
+content	experience	Point of contact for insurance agencies and responsible for claim of
+content	experience	stock insurance coverage.
+content	experience	Part of Supply Chain Core Strategy Team-responsible for stock and prop
+content	experience	planning and management during product launch.
+content	education	Secondary Educa�on, Class X
+content	experience	2008
+content	experience	2014 - 2016
+content	experience	2010 - 2013
+content	experience	2008 - 2010
+content	experience	70%
+content	experience	69%
+content	experience	61%
+content	experience	62%th
+content	experience	th
+content	experience	thth
+header	knowledge	SKILLS
+content	others	ACHIEVEMENTS
+header	project	PROJECTS
+content	experience	KEY INTERESTS
+header	knowledge	PROFESSIONAL SKILLS PERSONAL SKILLS
+content	knowledge	Strategic Planning Communication
+content	knowledge	Gen Organisational
+content	knowledge	MS Office
+content	knowledge	Tally
+content	knowledge	C, C++
+meta	others	Attention To Details
+meta	others	Ambition To Succeed
+meta	others	Negotiation
+meta	others	…….. ……………………….
+meta	others	Winner of the best presentation award – Received for outstanding training given at the
+meta	others	Karnataka Hub City Sales Coordinator Meet,2017.
+meta	others	Winner of inter collegiate event - marketrix 2015 conducted at Alliance university.
+meta	others	Attitude of Consumers Towards Private Brands in Middle East.
+meta	others	Analysis of Product Mix in Dhanlaxmi Bank Pvt. Ltd.
+meta	others	Traveling, music enthusiast and fashion admirer.
+meta	others	Page 1
+meta	others	Page 2

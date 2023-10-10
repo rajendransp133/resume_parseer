@@ -1,0 +1,48 @@
+header	others	Microsoft Word - RAKESH KUMAR GUPTA_EDITED_18-Sep-18_12_07_52_04-Oct-18_15_34_13
+meta	others	RAKESH KUMAR GUPTA
+meta	others	E-mail : rakesh.gupta231@gmail.com
+meta	others	Mobile: 9748224195
+header	others	Career Object :
+content	others	Looking for responsible position of office Assistant/Accountant in the field of Information Technology
+content	others	and have the flexibility to adapt to any new environment and work on any project under Tally ERP-9 Industrial
+content	others	/any firm as data analyst or accountant and wish to utilize this experience in an organization as part of a team.
+header	others	Professional Profile :
+content	others	A good team player with communication skills and has an ability to work in a team and
+content	others	individual environment.
+header	experience	Work Experience :
+content	experience	• Motilal Oswal Securitties, Aug,2016 to Feb,2017
+content	experience	• Religare Health Insurance, Mar,2017 to Oct,2017
+content	experience	• SS Finacials, May,2018 to Nov,2018
+header	knowledge	Technical Skills :
+content	knowledge	Well versed with Office Automation & Internet Applications.
+content	knowledge	Operating systems : MS Dos, Windows 9X,2000,2007
+content	knowledge	Language : Tally ERP 9
+content	knowledge	Internet Program : HTML
+content	knowledge	Data Base : MS Access
+content	knowledge	Programming : Turbo C++ and Oracle
+content	knowledge	I.T . Credential :
+content	knowledge	Diploma in Industrial Accounting From ICA, Barrackpore in 2013
+content	knowledge	• MS –Excel
+content	knowledge	• Tally (ERP-9)
+content	knowledge	• Internet
+content	knowledge	• Turbo
+content	knowledge	• C++
+content	knowledge	• Oracl
+header	knowledge	Certificate in
+content	knowledge	1) Firefighting in 2012,
+content	knowledge	2) Civil Defense in 2010,
+content	knowledge	3) First Aid under initiative of Govt .of West Bengal.
+header	knowledge	Academic Credentials :
+content	knowledge	• M.COM with 57% from Burdwan University in 2018.
+content	knowledge	• B.Com (Hons ) with 46% From B.U in 2013
+content	knowledge	• H.S With 62.25% From WBCHSE in 2010
+content	knowledge	• M.P with 64.25% From WBSSE IN 2008
+header	others	Personal Details :
+meta	others	Father’s Name : Late Hiralal Gupta
+meta	others	Address : 55, Atchala Bagan Road ,P.O & P.S – Jagatdal,Dist -24Pgs
+meta	others	(N),Pin-743125(W.B)
+meta	others	Date of Birth : 10-11-1992
+meta	others	Marital status : Male-Unmarried
+meta	others	Nationality : Indian
+content	knowledge	Language Known : English, Hindi & Bengali (Read, Write, Speak)
+meta	others	Hobbies : Reading Books, Listening songs and swimming.

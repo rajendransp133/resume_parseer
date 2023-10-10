@@ -1,0 +1,87 @@
+meta	others	NIJA NAND MANI TRIPATHI
+meta	others	+91-9044064310,+91-7905932178
+meta	others	nijanandmani@gmail.com
+meta	others	H.NO. 586/E PURANI ASURAN CHUNGI MOH SHAHPUR POST BASHARATPUR NEAR RADHIKA COMPLEX MEDICAL COLLEGE ROAD GORAKHPUR – 273004
+header	others	CAREER OBJECTIVE
+content	others	TO CREATE VALUE AND RECOGNITION ON WORK PLACE BY PRODUCING THE BEST RESULT FOR THE ORGANIZATION THROUGH SYNCHRONIZE AND HARD WORK.
+header	education	EDUCATION DETAILS
+content	education	DEGREE/COURSE
+content	education	BOARD/UNIVERSITY
+content	education	INSTITUTION
+content	education	PASSING YEAR
+content	education	PERCENTAGE
+content	education	HIGH SCHOOL
+content	education	U.P.BOARD
+content	education	P .V. M. HIGH SCHOOL DABAULI KANPUR
+content	education	2005 - 2006
+content	education	61.5%
+content	education	INTERMEDIATE
+content	education	U.P.BOARD
+content	education	J.L.N.S.INTER COLLEGE SIDDHARTHNAGAR
+content	education	2008 - 2009
+content	education	50%
+content	education	COMPUTER H/W-NE
+content	education	DELHI BOARD
+content	education	JETKING INSTITUTE KANPUR
+content	education	2009 - 2010
+meta	others	—
+content	education	GRADUATION
+content	education	B.COM
+content	education	D.D.U.UNIVERSITY
+content	education	GORAKHPUR
+content	education	ST. ANDREW’S COLLEGE GORAKHPUR
+content	education	2012 - 2015
+content	education	43%
+content	education	COMPUTER
+content	education	DIPLOMA D.B.M.S
+content	education	D.D.U.UNIVERSITY
+content	education	GORAKHPUR
+content	education	ST. ANDREW’S COLLEGE GORAKHPUR
+content	education	2012 - 2013
+meta	others	—
+content	education	POST GRADUATION
+content	education	M.COM
+content	education	D.D.U.UNIVERSITY
+content	education	GORAKHPUR
+content	education	M .P. POST. GRADUATE COLLEGE
+content	education	GORAKHPUR
+content	education	2015 - 2017
+content	education	55%
+header	experience	WORK EXPERINCE
+header	experience	ACCOUNTS DEPARTMENT (ACCOUNTANT)
+content	experience	SCARCE INTERNATIONAL PUBLICATION / VIDYARTHI KENDRA
+content	experience	APR 2013 - JULY 2017
+content	experience	AGRICULTURE LOAN DEPARTMENT (LOAN RECOVERY OFFICER)
+content	experience	HDFC BANK LTD.
+content	experience	SEP2017 - PRESENT
+header	knowledge	SKILLS
+content	knowledge	COMPUTER HARDWARE /SOFTWARE ,COMPANY SOFTWARE,LIGHT KNOWLEDGE TALLY, WORKS COMPANY SOFTWARE, ACCOUNTS TRANSACTIONS, REPORTING DAILY TRANSACTIONS OF COMPANY, PAYMENT AND RECIPTS, VOUCHER, MANUAL DAY BOOK AND LEDGER ACCOUNT ENTRY KNOWLEDGE.
+content	experience	WORK EXPERIENCE
+header	others	HOBBIES
+header	others	PLAYING SUDOKU, RIDING BIKE
+header	others	PERSONAL DETAILS
+meta	others	NAME: NIJA NAND TRIPATHI
+meta	others	DATE OF BIRTH: 25 MARCH 1991
+meta	others	FATHER NAME: SRI OM PRAKASH MANI TRIPATHI
+meta	others	MATERIAL STATUS: UNMARRIED
+meta	others	SEX: MALE
+meta	others	PERMANENT ADDRESS: H.NO. 586/E PURANI ASURAN CHUNGI MOH SHAHPUR POST
+meta	others	BASHARATPUR NEAR RADHIKA COMPLEX MEDICAL COLLEGE
+meta	others	ROAD GORAKHPUR 273004
+meta	knowledge	LANGUAGE KNOWN: ENGLISH , HINDI
+meta	others	DECLARATION
+meta	others	DECLARATION
+meta	others	I do hereby declare that the above given statements are true and correct to the best of my
+meta	others	knowledge.
+meta	others	Date : NIJA NAND MANI TRIPATHI
+meta	others	Place :
+meta	others	(
+meta	others	NIJANAND MANI TRIPATHI
+meta	others	) (
+meta	others	2
+meta	others	)
+meta	others	(
+meta	others	NIJANAND MANI TRIPATHI
+meta	others	) (
+meta	others	3
+meta	others	)

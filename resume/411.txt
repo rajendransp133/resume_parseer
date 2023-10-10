@@ -1,0 +1,132 @@
+meta	others	Mohan Kumar Girirajan
+meta	others	mohankumar98@gmail.com
+meta	others	Mobile :+91-9566775209, 8610221982
+header	others	OBJECTIVE:
+content	others	Aspiring for Designing and Engineering assignments in Datacentre Operations/ Network Management/ Service Delivery, preferably in IT industry.
+header	experience	Profile Summary
+content	experience	· A dynamic professional with over 8+ years experience in Installation & Configuration of Cisco Routers & Switches(Data center Nexus devices), ACE PIX FWSM, ASA, Network Implementation, Resource Optimisation, Feasibility Analysis and Client Servicing
+content	experience	· Expertise in:
+content	experience	· Network planning and design including LAN/WAN design and implementation, network protection and restoration, and bandwidth availability and utilization.
+content	experience	· Carrying out periodical DR Drills and share the result with customer
+content	experience	· Design and implementation of Data center with Next Gen devices.
+content	experience	· Demonstrated abilities in commissioning of networks as well as ensuring the completion of project in minimum turnaround time effective resource utilisation to maximize the output
+content	experience	· Exposure in analysing Network and Security Infrastructure Needs, evaluating end-user requirements, custom designing solutions and troubleshooting of complex network and security issues.
+content	experience	· Furnished valuable assistance to Engineers by verifying network solutions and ensuring selection of that appropriate products and services for meeting client requirements
+content	experience	· Proven abilities in problem solving with exposure in solving complex design, network, and circuit problems and issues.
+content	experience	· Possesses excellent analytical, planning and problem solving skills
+header	experience	Employment Details
+content	experience	Since January 2015: VWR International, LLC, Coimbatore as Global Network Engineer.
+header	experience	Key Result Areas:
+content	experience	· Furnished Tier 3 Technical support for the VWR Global Infrastructure.
+content	experience	· Monitoring and Managing the Global infrastructure of the VWR and Datacenters.
+content	experience	· Troubleshooting Issues related to BGP MPLS & OSPF and Data centers.
+content	experience	· Managing and Configuring the ASA(5525, 5555, 5585), FWSM, Meraki Cloud Devices, Nexus 7000, 5000,2000 and F5.
+content	experience	· Involved in Engineering the Multiple Projects and Implement then as per the Plan.
+content	experience	· Implemented the Next generation core switches in the Data center’s.
+content	experience	· Designed the LAN infrastructure for the customer Head Office.
+content	experience	· Designed and implemented the server loadbalancer in customer Data Center.
+content	experience	· Design and implemented VPLS solutions for major call center locations with fall back.
+content	experience	· Designed and Implemented a next generation data center with Nexus switches .
+content	experience	· Implemented a Data center interconnect between amsterdam and piscataway for the DC-DR replication.
+header	experience	Highlights:
+content	experience	· Suggested and implemented the architecture change in the Redundant topology for the Call center connectivity
+content	experience	· Designed and implemented the BGP solution on DCI for the DC-DR replication.
+content	experience	· Involved in Major Next Generation Datacenters for VWR for and implemented successfully.
+content	experience	· Designed and implemented high speed LAN with Nexus 5672 as a core.
+content	experience	· Implemented Juniper SSL VPN solutions for remote office users.
+content	experience	February 2012 to January 2015 : Infosys Limited, Mysore, as Senior System Engineer .
+header	experience	Key Result Areas:
+content	experience	· Responsible for project management and commissioning.
+content	experience	· Responsible for network design after sales team hands over customer.
+content	experience	· Responsible for Interaction with Cisco TAC Team, Cisco Advanced Services Development Engineers, Clients and vendors.
+content	experience	· Ensure conformity to the ITIL process & procedures by AHD ticketing system.
+content	experience	· Connectivity solutions through MPLS, VPN-S2S, C2S, Leased Lines & ISDN lines.
+content	experience	· Configuring and troubleshooting routers with EIGRP and OSPF routing protocols.
+content	experience	· Plan and execute highly complex Network Upgrade and Network Migration projects.
+content	experience	· Generate standard project documentation including detailed test plan for highly complex networks.
+content	experience	· Involve in auditing processes and take steps necessary for maintaining ISO 270001 standards.
+content	experience	· Configuration of Layer 2 and Layer 3 Ether Channel.
+content	experience	· Configure Ether channel with different protocols and Load balancing them.
+content	experience	· Configuration of interior gateway routing protocols.
+content	experience	· Configuration of route-summarization, redistribution and route-filtering, route-maps
+content	experience	· Deployment and management of Cisco Call Manager
+content	experience	· Deployment of Cisco IP Phones - Series: 7910, 7940, 7960,7941 ,6921,6911
+content	experience	· Installation, Management and Monitoring of call manager cluster
+content	experience	· Configuring call manger features and services
+content	experience	· Configuration of call signaling protocols on Voice Gateways H.323 ,MGCP and SCCP
+content	experience	· Configuration of Voice Gateways, Gatekeepers, and SRST
+content	experience	· Configuration of soft phone and IP communicators on PC
+content	experience	September 2010 to January 2012 : Karuturi Telecom Pvt. Ltd (ISP) ,Bangalore as Network Engineer.
+header	experience	Key Result Areas:
+content	experience	· Configuration of Layer 2 and Layer 3 Ether Channel.
+content	experience	· Configure Ether channel with different protocols and Load balancing them.
+content	experience	· Configuration of route-summarization, redistribution and route-filtering.
+content	experience	· Configuration of iBGP and eBGP on Cisco routers and switches. Use of BGP attributes.
+content	experience	· Configuration of BGP scalability features like route-reflector and confederation.
+content	experience	· Configuration of BGP route-filtering, route-manipulation, redistribution, summarization, policy-based routing and route-maps.
+content	experience	· Configuring BGP features like synchronization, network backdoor and dampening.
+content	experience	· Configuration of security and traffic filtering on Cisco routers and switches with various ACLs
+content	experience	· Configuring QoS features like classification, marking, policing, shaping, congestion management, congestion avoidance, signaling and link efficiency mechanisms
+content	experience	September 2009 to September 2010: Commgate System India Pvt, Bangalore as System Engineer.
+header	experience	Key Result Areas:
+content	experience	· Configuring Network Address Translation (NAT)
+content	experience	· Configuring Access control list (ACL) in Cisco routers.
+content	experience	· Responsible for installing, configuring and managing CISCO 2500, 2600 routers.
+content	experience	· Responsible for installing, configuring and managing CISCO 1900, 2950, 3550 switches and Sonic firewall TZ210
+content	experience	· Responsible for installing, configuring and managing VLANs.
+content	experience	· Responsible for configured routing protocols RIP, IGRP, EIGRP and OSPF.
+content	experience	· Installation, configuration, troubleshooting the Linux Os.
+content	experience	· Managing Users, Groups and permissions.
+content	experience	· Implementation of DNS & DHCP services, NFS servers.
+content	experience	· Implementation of squid for user authentication.
+content	experience	· Implementation of FTP for downloads and upload server with user restriction.
+content	experience	· Implementation of firewall using IPTABLES and TCP wrapper
+header	knowledge	Technical Skills:
+content	knowledge	· Multi-vendor network environments Cisco, HP3com, Fortigate,Radware & checkpoint.
+content	knowledge	· IP routing protocols including static, RIP, EIGRP, OSPF,BGP,IP Multicast, MPLS
+content	knowledge	· TCP/IP fundamentals.
+content	knowledge	· Network protocols including TCP, UDP, HTTP, FTP, DNS, Mail
+content	knowledge	· Network infrastructure including LAN, WAN, Security, Routing, Switching & loadbalancing, HA
+content	knowledge	· Network applications including encryption, offloading, content switching.
+content	knowledge	· Network security including firewalls, proxies, ACL, Routemaps,Distributelist prefixlist,IPSec, VPN, L2TP,SSL, PKI
+content	knowledge	· Implemented HSRP/ VRRP/ GLBP, VTP, Port security, EtherChannel, STP, QoS
+content	knowledge	· Network management tools including WatzupGold,Wireshark, Solar winds,HP Open View, CA ticketing, AHD ticketing PRTG, Cisco Works, Nagios ,Cacti
+content	knowledge	· Network applications including DHCP, caching, VoIP, multi-media and other real-time content delivery.
+content	knowledge	· Configuration of Nagios and Cacti ,Cricket server.
+header	knowledge	Hardwares:
+content	knowledge	· Routers: - Cisco 1841,2811, 2821,3750,7609,7613,
+content	knowledge	Nortel SR2330, SR4134, REDBACK BNG
+content	knowledge	· Switches: - Cisco 2950,2960,3550,4507,4506,6509,6513, Nexus 7000, 5000,2000
+content	knowledge	HP3com 5500,5810,
+content	knowledge	Wireless Lan Controller – Cisco 3570. Access Points-Cisco Aironet & Linksys AP
+content	knowledge	· Firewalls: – Checkpoint Safe @office 500, 12400
+content	knowledge	Cisco PIX 515, 520, ASA 5525,5585
+header	education	EDUCATIONAL QUALIFICATIONS:
+content	education	· Bachelor of Engineering (BE)
+content	education	Electronics and Communication Engineering.
+content	education	2004 – 2007
+content	education	· Completed BE from Anna university at DMI college of Engineering
+content	education	· Passed with First Class
+content	education	· Designed and developed a data transfer between desktop. Programmed in C.
+content	education	· Diploma in Electronics and Communication - First Class with distinction from Rajaji Institute of Technology – 2004
+content	education	+2 – 2002 – 58.5%
+content	education	10 – 2000 – 59.5%
+content	education	Training and CIRTIFICATION : CCNA (CSCO11505609)
+content	education	CCNP (CSCO11505609)
+content	education	CISCO VOICE boot CAMP.
+meta	others	.
+header	others	Personal details :
+header	others	Name
+meta	others	: G.Mohan Kumar
+meta	others	Age & Date of Birth : 20-10-1984
+content	others	Communication Address : No 55/1 Sri Vishnu Bhavanam.
+meta	others	Murugan Nagar, Rangasamy Chettiyar Colony
+meta	others	Sundarapuram,Coimbatore – 641024
+meta	knowledge	Languages Known : English, Tamil.
+meta	others	Passport Number : G6279616
+meta	others	PAN : BSFPM2588F
+meta	others	Declaration:
+meta	others	I hereby declare that all the informations provided are true to the best of my knowledge.
+header	others	Place:
+meta	others	Yours faithfully
+meta	others	G.Mohan Kumar

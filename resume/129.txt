@@ -1,0 +1,53 @@
+header	others	CURRICULUM VITAE
+meta	others	Name: BHAWANA GARG
+meta	others	Address: H.NO.20, BL. NO. 10, GFB, SPRING FIELD COLONY, SECTOR-31
+meta	others	FARIDABAD.
+meta	others	Mob : 9015472176
+meta	others	Email : BHAWANA.GARG115@gmail.com
+header	others	OBJECTIVE:-
+content	others	I want to secure a challenging career position in an organization that provides me opportunities for my development as well as to learn new things & where I can use my skills and knowledge for the benefits of the organization.
+header	education	ACADEMIC QUALIFICATION:-
+content	education	· 10th Passed from CBSE Delhi in 2011.
+content	education	· 12th Passed from CBSE Delhi in 2013.
+content	education	· Passed B.Com. From MDU University in 2016.
+content	education	· Pursuing M.com from IGNOU.
+header	experience	WORK EXPERIENCE:-
+content	experience	· A competent professional with more than 1year of rich experience in accounting & finance.
+content	experience	· Currently employed with M/s Blink Better Sector-86 Fbd as an Accounts Assistance – since Aug 2016
+header	experience	JOB PROFILE:-
+content	experience	· Posting Accounts entry in MYOB, Xero, and Quickbook.
+content	experience	· Preparing Payroll for All Software.
+content	experience	· Reconciling GST Payable and Receivables.
+content	experience	· Books of Accounts i.e Cash Book, Bank Book.
+content	experience	· Sale Register, Purchase Register, Debtors & Creditors Ledger.
+header	experience	· Reconciliation of Bank, Sundry Creditors & Sundry Debtors.
+header	knowledge	Computer Skill:
+content	knowledge	· Office Tools: MS-Office2007 and above
+content	knowledge	· Internet Surfing
+content	knowledge	· Accounting Packages: TALLY 7.2, TALLY 9, and TALLY ERP 9.
+content	knowledge	Myob, Xero, and Quickbooks
+header	others	INTEREST:
+content	others	· Listening Music
+content	others	· Interacting With New People
+content	others	· Reading Books
+content	others	· Social Work
+header	knowledge	Strengths:
+content	knowledge	· Comprehensive problem-solving ability.
+content	knowledge	· Able to meet deadlines efficiently.
+content	knowledge	· Good verbal and written communication skills.
+content	knowledge	· Always willing to socialize with people.
+content	knowledge	· Willing to learn always.
+header	others	PERSONAL DETAILS:-
+meta	others	Father’s Name:
+meta	others	Date of Birth:
+meta	others	Sex:
+meta	others	Marital status:
+meta	others	Nationality:
+header	knowledge	Languages Known:
+meta	others	Mr. Ajay Kumar Garg
+meta	others	02-01-1995
+meta	others	Female
+meta	others	Single
+meta	others	Indian
+meta	knowledge	Hindi, English
+meta	others	Bhawana Garg

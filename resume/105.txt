@@ -1,0 +1,56 @@
+header	others	RESUME
+meta	others	M. SYED ABUDHAGIR RIAZ
+meta	others	No. 38, 1st Street,
+meta	others	Periyar Nagar,
+meta	others	Adambakkam,
+meta	others	Chennai – 600 088
+header	education	Academic credentials
+content	education	EDUCATIONAL QUALIFICATION
+content	education	NAME OF THE INSTITUTION
+content	education	BOARD / UNIVERSITY
+content	education	YEAR OF PASSING
+content	education	% OF MARKS
+content	education	B.Com
+content	education	The New College
+content	education	University of Madras
+content	education	2017
+content	education	60%
+content	education	HSC
+content	education	Vyasa Vidyalaya Matric Hr. Sec. School
+content	education	State Board
+content	education	2014
+content	education	75%
+content	education	SSLC
+content	education	Vyasa Vidyalaya Matric Hr. Sec. School
+content	education	State Board
+content	education	2012
+content	education	68.6%
+header	knowledge	TECHNICAL SKILLS
+content	knowledge	Basic Computer Knowledge
+header	knowledge	PERSONAL STRENGTH
+content	knowledge	· Good decision making and positive thinker.
+content	knowledge	· Highly motivated to work in a team.
+content	knowledge	· Good Analytical Skills.
+header	knowledge	LANGUAGES KNOWN
+content	knowledge	· To write: English, Tamil.
+content	knowledge	· To speak: English, Tamil.
+header	others	HOBBIES
+content	others	· Riding bikes
+content	others	· Carrom
+header	others	PERSONAL DETAILS
+meta	others	Name : M. Syed Abudhagir Riaz
+meta	others	Date of Birth : 27 - July - 1996
+meta	others	E-mail ID : howzlas@gmail.com
+meta	others	Mobile Number : +91 80565 64106
+meta	others	Father’s Name : A. Misfahudeen
+meta	others	Martial Status : Single
+meta	others	Community : Muslim
+meta	others	Nationality : Indian
+meta	others	Permanent Address : No. 38, 1st Street,
+meta	others	Periyar Nagar,
+meta	others	Adambakkam,
+meta	others	Chennai – 600 088
+header	others	DECLARATION
+meta	others	I hereby declare that the above mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the mentioned particulars.
+header	others	DATE:
+meta	others	PLACE: CHENNAI (M. SYED ABUDHAGIR RIAZ)

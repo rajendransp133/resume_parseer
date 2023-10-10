@@ -1,0 +1,94 @@
+meta	others	CV
+meta	others	Govardhan N Ph.+91-9959857197
+meta	others	SAP Basis & Security Consultant e-mail: govardhan.n.313@gmail.com
+meta	others	1
+header	experience	Summary:
+content	experience	· Having 2 years of experience as SAP Security Consultant, worked on implementation and support projects.
+content	experience	· Comprehensive experience with SAP Profile Generator with strong skills related to the Authorization concepts.
+content	experience	· Having technical skills in processing Tickets, Users & Authorization.
+content	experience	· Daily Monitoring, Troubleshooting and Support for ERP SAP R/3.
+content	experience	· Performed User related actives and worked with User Groups
+content	experience	· Creation Single, Derived and Composite Roles in R/3.
+content	experience	· Worked on AGR_1251, AGR_1252, AGR_AGRS, AGR_USERS, AGR_DEFINE, AGR_TCODES tables.
+content	experience	· Usage of SU53, SUIM to assign the missing authorizations to the users.
+content	experience	· Performed system Trace by using the T-codes ST01,STAUTHTRACE
+content	experience	· Fixing of missing authorizations for a user/role through SUIM and using su53
+content	experience	· Releasing request for Roles Transport across the system Land space
+content	experience	· Provided the access to the Tables through S_TABU_DIS & S_TABU_NAM object.
+content	experience	· Assigned the Critical Authorization Objects to the users.
+content	experience	· Users Support, Trouble shooting & providing solutions.
+content	experience	· Analyzing problem messages allocated and resolving them.
+content	experience	· Manage the annual security and the privacy program by following the guidelines and procedures for SAP systems.
+content	experience	· Documenting SAP R/3 and GRC administration procedures.
+content	experience	· Maintenance of authorization objects to transactions using su24.
+content	experience	· Knowledge on HCM security (Position Based) & BI Security.
+content	experience	· Worked on ChaRM tool part of SAP Basis.
+content	experience	· Comfortable in large-team, small-team, or individual environment.
+content	experience	· Received several appreciation emails from clients and the management.
+content	experience	· Comfortable with quick pace of change with a passion of learning and flexibility to adapt to changes.
+header	knowledge	Technical Expertise
+content	knowledge	SAP
+content	knowledge	SAP R/3 Security
+content	knowledge	Ticketing tools
+content	knowledge	Remedy and HP QC
+header	education	Education:
+content	education	B.Tech from JNTU A.
+content	experience	Employment Summary
+content	experience	Organization
+content	experience	Role
+content	experience	Period
+content	experience	SEAL Infotech
+content	experience	Associate Consultant
+content	experience	Dec 2015 – April 2017
+content	experience	SIFY Technologies Pvt Ltd
+content	experience	Digital Telecom Service
+content	experience	April 2017 to till date
+header	project	Projects Profile:
+header	project	Project #2:
+content	experience	Client : e-Mudra Limited
+content	experience	Organization : SIFY
+content	experience	Duration : April 2017 to till date
+content	experience	Client: eMudhra (Digital signature certification) is a Certifying Authority (CA) authorized by the Controller of Certifying Authority (CCA) for issuance of Digital Signature Certificates in India. eMudhra provides Class 1, Class 2 and Class 3 Digital Signature Certificates (DSC) along with digital signatures for specific needs such as Income Tax filing, MCA, e-tendering, e-procurement and Foreign Trade.
+header	experience	Responsibilities:
+content	experience	· Worked as Digital telecom services (DTS) Associate for phone verification on digital signature certification.
+content	experience	· Being a senior member in team, involved in assigning task to the team and Giving Process training to the fresher’s.
+content	experience	· Being a senior member, have taken care all issues and raise the complaint to team leader (or) manager.
+header	project	Project #1:
+content	experience	Client : Gutermann
+content	experience	Organization : SEAL
+content	experience	Duration : Dec 2015 to April 2017
+content	experience	Environment : SAP ECC6.0
+content	experience	Type of Proj. : Implementation/Support
+content	experience	Client: Gutermann is thread manufacturers, located across 80 countries worldwide. Innovative thread technologies arise from Gutach or have been further processed there.
+header	experience	Responsibilities:
+content	experience	· Create and Maintain User Roles and Authorization profiles
+content	experience	· Created user groups according to country and department.
+content	experience	· Managed all users according to user groups.
+content	experience	· Maintained expiry dates as per company policies.
+content	experience	· Worked with SUIM reports.
+content	experience	· Extensively worked on various authorization issues of end users.
+content	experience	· Troubleshooting with SU53 and ST01.
+content	experience	· Checking Risk violations of users, using simulation and execution.
+content	experience	· Assigning mitigation controls as per business policies.
+content	experience	· Assigning firefighter id’s to super users.
+content	experience	· Creating and managing FFID’s and FF roles.
+content	experience	· Worked on ChaRM requests for Transport related requests.
+content	experience	· Create, Maintain and Manage User Accounts
+content	experience	(User Administration using SU01 & SU10).
+content	experience	· Perform Authorization Error Analysis (SU53 & ST01) and perform appropriate troubleshooting.
+content	experience	· Create and Monitor Background Jobs (SM36 & SM37).
+content	experience	· Maintaining Users in central system by using Central User Administration (CUA).
+content	experience	· Gained knowledge on Role maintains. (Role Administration using PFCG).
+content	experience	· Ability to Create Authorization Groups and Assign Tables to them for maintaining Table Security (SE54).
+content	experience	· Execute appropriate Reports or Programs to check user access to SAP Systems as per given criteria at the time of Audits (SA38 & SUIM).
+content	experience	· Managed and created new users, groups and profiles.
+content	experience	· User Management, User Tracing and Troubleshooting.
+content	experience	· Resolving missing authorization issues (su53).
+content	experience	· Role design, development and assignment (PFCG, SU01).
+content	experience	· Authorization checks using transaction SU24 and maintained check indicators for Transaction codes.
+content	experience	· Involved in Central User Administration to manage multiple systems/clients.
+content	experience	· Performed reconciliation of user master record and roles and updated the user master records regularly by running pfcg_time_dependency job.
+content	experience	· Creation and Deletion of users from the central System.
+content	experience	· Role administration like, modifying, deleting and assigning to users based on request.
+content	experience	· Text compare of roles from the child system.
+content	experience	· Troubleshooting authorization issues of end-users.

@@ -1,0 +1,150 @@
+header	others	CURRICULAM VITAE
+header	others	CURRICULAM VITAE
+header	others	Name
+meta	others	Laxminarayan Shetty
+meta	others	Address:-
+meta	others	Mumbai (Permanent)
+meta	others	Prafulla CHS., M.H.B.Colony,
+meta	others	40/2994, Abhyuday – Nagar,
+meta	others	Cotton Green Station (W),
+meta	others	Mumbai – 400 033.
+meta	others	( R ):- 0222470 7224
+meta	others	( M ):- 09324531717
+meta	others	Email:- lpshetty4u@rediffmail.com
+meta	others	Bangalore (Native Place)
+meta	others	No.31, 6th Cross,
+meta	others	Bhuyaneshwari Nagar,
+meta	others	Opposite Surekha International School,
+meta	others	Magdi Road,
+meta	others	Bangalore – 560023
+meta	others	Father’s Name
+meta	others	Pandu Shetty
+meta	others	Mother’s Name
+meta	others	Kamala Shetty
+meta	others	Nationality
+meta	others	Indian.
+header	knowledge	Languages Known
+meta	knowledge	English, Hindi, Marathi & Kannada.
+meta	others	Passport Details
+meta	others	B 3016907
+meta	others	Pan Card
+content	others	AZEPS6426K
+header	education	Educational Qualification
+content	education	T Y B Com – 1999 – Mumbai University
+header	experience	Career progression
+content	experience	Organization
+content	experience	Designation
+content	experience	Reporting to
+content	experience	Tenure
+content	experience	PVR Pictures Ltd
+content	experience	Assistant Manager
+content	experience	HOD/COO/CEO
+content	experience	2010 to till
+content	experience	(MIS & Distribution)
+content	experience	Date
+content	experience	(India-Distribution Dept.)
+content	experience	Reliance Big Entertainment
+content	experience	Sr.Executives-MIS
+content	experience	Regional Manager & COO
+content	experience	2009-2010
+content	experience	Pvt Ltd-Div Big Pictures
+content	experience	(Operations & Accounts)
+content	experience	(July)
+content	experience	(Transfered from Adlabs)
+content	experience	(India-Distribution Dept.)
+content	experience	Adlabs Films Limited
+content	experience	Executives
+content	experience	HOD (Distribution)
+content	experience	2007-08
+content	experience	(Operations)
+content	experience	(India-Distribution Dept.)
+content	experience	Inox Leisure Ltd
+content	experience	Finance Executive
+content	experience	Sr.Finance Manager
+content	experience	2005-07
+content	experience	Blue Foods Pvt Ltd
+content	experience	Account Officer
+content	experience	Finance Controller
+content	experience	2002-05
+content	experience	Mahima Marketing Corp.
+content	experience	Accountant
+content	experience	Directors
+content	experience	2001-02
+content	experience	Gallant Computers Pvt Ltd
+content	experience	Account Assistant
+content	experience	General Manager
+content	experience	1999-01
+content	experience	S.P.Kanekar & Company
+content	experience	Accountant
+content	experience	Sr. Accountant
+content	experience	1998-99
+content	experience	( Chartered Accountants )
+content	experience	T R Rasam & Company
+content	experience	Data Entry Operator
+content	experience	Sr. Accountant
+content	experience	1997-98
+content	experience	( Chartered Accountants )
+content	experience	& Auditing
+content	experience	Expertise In
+content	experience	Accounting software – Tally (Any Version) &
+content	experience	Showbizz (Distributions & Exhibitions Software)
+content	experience	MS-Excel, MS-Word & Internet.
+content	experience	Purchase & sales accounting.
+content	experience	Bank reconciliation.
+content	experience	Statutory deduction - Income tax ,Vat Tax &
+content	experience	Service tax.
+content	experience	Laying accounting & procedures implementing
+content	experience	computerized accounting systems.
+header	experience	Present job profile
+content	experience	Handling MIS at corporate office. This essentially
+content	experience	involves closely monitoring the operating
+content	experience	performance at different location.
+content	experience	Registering the movie in ALL circuits in India
+content	experience	Interacting with all Regional Manager from all
+content	experience	over India to compile the data for MIS.
+content	experience	Highlighting and reporting critical issues.
+content	experience	Facilitating decision making on such issues, trend
+content	experience	analysis and projections etc.
+content	experience	Scrutinizing ledger for balance confirmation
+content	experience	quarterly & yearly basis.
+content	experience	Making the contract of the movie with Vendors
+content	experience	Collecting data (Daily Collection Report) from all
+content	experience	over Cinemas in India for MIS.
+content	experience	Interacting with vendors.(Distributors &
+content	experience	Exhibitors)
+content	experience	Following-Up DCR from all cinemas every weekend
+content	experience	Following-Up outstanding.
+content	experience	Reconciling books of accounts with Vendors.
+content	experience	Details of experience till date
+content	experience	Exposure to various aspects of accounting &
+content	experience	finance right from debtors & creditors control,
+content	experience	expenses accounting, finalization of accounts,
+content	experience	bank reconciliation, MIS reporting & statutory
+content	experience	deduction.
+content	experience	Wide range of experience in different industries
+content	experience	with different set-up systems.
+content	experience	Monitoring all routine accounting activities.
+content	experience	Sales, purchases, expenses, branch
+content	experience	accounting, etc.
+content	experience	Deducting TDS and Calculating set-off on Vat
+content	experience	Tax & Service Tax wherever applicable.
+content	experience	Bank Reconciliation.
+content	experience	Assisting in preparing Balance Sheet &
+content	experience	Profit & Loss A/c.
+content	experience	Scrutinizing general ledger accounts.
+content	experience	Statutory deduction.
+content	experience	Maintaining filing systems.
+header	knowledge	Strengths
+content	knowledge	Quick grasping power and strong analytical
+content	knowledge	capability, leadership qualities, strong
+content	knowledge	determination & will power.
+content	knowledge	Good inter – personnel relationships.
+header	others	Extra-curricular Activities
+meta	others	Football, Cricket, Chess & Carom.
+meta	others	Reference
+meta	others	Monika Khanna (ICWA)
+meta	others	( R ): 2840 9875
+meta	others	( M ): 983305400
+meta	others	Tukaram R Rasam ( Chartered Accountants )
+meta	others	( O ): 5601 6724
+meta	others	( M ): 9820272414

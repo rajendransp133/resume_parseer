@@ -1,0 +1,75 @@
+meta	others	MOHAMMED AFTHAB M E-Mail:faiz.afthab@gmail.com Mobile:9994013070
+meta	others	6/56 Dr.Ramadoss Street,
+meta	others	Medavakkam,
+meta	others	Chennai – 600100
+meta	others	______________________________________________________________________________
+header	others	OBJECTIVE
+content	others	Intend to build a career with leading corporate of hi-tech environment with committed & dedicated people. This will help me to explore myself fully and realize my potential. Willing to work as a key player in challenging & creative environment.
+header	experience	PROFILE:
+content	experience	· Over 2 Years - 4 months of experience in Non-Voice Insurance Vertical. Worked in Renewal and Acquisition of users Policies. Worked on Administration Changes on Coverages
+content	experience	· Good team player, ability to work in Co-ordination with large teams.
+content	experience	· Hard worker, got promotion within a year from PE to SPE
+header	education	ACADEMIC:
+content	education	Degree
+content	education	School/ College
+content	education	Year
+content	education	B.C.A
+content	education	SRM University, Chennai
+content	education	2015
+content	education	Higher Secondary
+content	experience	Mount St. Joseph Matriculation Higher Secondary School, Tiruvannamalai
+content	education	2011
+content	education	SSLC
+content	education	Gandhi Nagar Matriculation Higher Secondary School, Tiruvannamalai
+content	education	2009
+header	knowledge	TECHNICAL SKILLS:
+content	knowledge	· Operating Systems : Windows Xp, vista, windows7 & Windows 8, MAC (working knowledge).
+content	knowledge	· Spreadsheets and databases: Microsoft Excel, Microsoft Word
+content	knowledge	· Presentation: Microsoft PowerPoint
+header	experience	JOB HISTORY:
+header	experience	Profile 2
+content	experience	Project Name : CHUBB Services UK Limited
+content	experience	Designation : Senior Process Executive
+content	experience	Scope : Updating the CHUBB Portal with Customers Policy & Coverage Information
+content	experience	Role : Working on data entry
+content	experience	Organization : Cognizant Technology Solutions
+content	experience	Tools : UAT, SIT, Ace Chubb Network (VM)
+content	experience	Roles &Responsibilities:
+content	experience	· Analysing the customer’s policy and segregating it based on the coverage’s
+content	experience	· Updating the coverage information from Underwriting portal Input Template -Property/Casualty
+content	experience	· Working on rateable exposures of the policy and evaluating its values
+header	experience	Profile 1
+content	experience	Project Name: The Hartford Insurance Group (Nov 2015 – Aug 2017)
+content	experience	Designation : Senior Process Executive
+content	experience	Scope : Providing State Provided Coverage’s to the insure
+content	experience	Role : Allocating the work and target to the team, working on data entry
+content	experience	Organization : Cognizant Technology Solutions
+content	experience	Tools : Client, Café, SFE, and excel spread sheet
+content	experience	Roles &Responsibilities:
+content	experience	· Managing the team’s SLA
+content	experience	· Support to peers
+content	experience	· Responsible for monitoring process procedure updates
+content	experience	· Cross-trained in two other process
+content	experience	· Managing data and sending email to the team on performance tracker
+content	experience	· Conducting the team huddle
+content	experience	· Achieving the targets on daily and monthly basis
+header	others	STRENGTHS:
+content	others	· Quick Learner.
+content	others	· Hard working individual with good team
+content	experience	· Flexibility and Adaptability
+content	others	· Highly Energetic.
+content	others	· Good Team Player
+meta	others	· Positive Attitude: Creating a positive work environment
+header	others	PERSONAL PROFILE:
+header	others	· Name : MOHAMMED AFTHAB M
+meta	others	· Father’s Name : Mukthar Ahmed P.S
+meta	others	· Date Of Birth : 10.03.1993
+meta	others	· Gender : Male
+meta	others	· Marital Status : Single
+content	knowledge	· Languages Known : English, Tamil, Urdu, Hindi
+meta	others	REFEREES
+meta	others	Professional and academic referees available on request
+header	others	Declaration:
+meta	others	I hereby declare that the above mentioned information is true to the best of my knowledge
+meta	others	Place: Yours Faithfully,
+meta	others	Date: (MOHAMMED AFTHAB M)

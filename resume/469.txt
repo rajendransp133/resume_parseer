@@ -1,0 +1,50 @@
+header	others	RESUME
+meta	others	SAVITA NARAYAN JADHAV
+meta	others	Cell No : 8149891815
+meta	others	Email Id : jadhavsavita179@gmail.com
+header	others	Career Objectives :
+content	others	To percive a career in a renowned firm with a dedicated effort and to associate myself with an organisation that give a chance to update my knowledge.
+header	education	Educational Qualifications :
+header	experience	Qualification
+content	education	Institute
+content	education	Board/University
+content	education	Result
+content	education	S.S.C.
+content	education	Saraswati vidyamandir
+content	education	Maharashtra State Board
+content	education	Pass
+content	education	H.S.C
+content	education	Viva college
+content	education	Maharashtra State Board
+content	education	Pass
+content	education	T.Y.B. COM
+content	education	Viva college
+content	education	University of Mumbai
+content	education	Pass
+header	knowledge	Computer skill :
+content	knowledge	· Basic knowledge of computer application / MS-CIT.
+content	knowledge	· Certified in Tally ERP with A+ grade.
+content	knowledge	· Also completing course of Advance Excel.
+header	experience	Work Experience :
+content	experience	· 2 Year experience as a receptionist in sunrise classes.
+content	experience	· 1 Year experience in HR recruitment.
+content	experience	· 6 Months experience in TCS in trade.
+content	experience	· Export department.
+content	experience	· Import department.
+header	others	Personal details :
+meta	others	· Fathers Name : Narayan Tukaram Jadhav
+meta	others	· Adress : Dhnyaneshwar gorule,
+meta	others	Savita jadhav,
+meta	others	Room no: 20, Ashtvinayak vikas mandal,
+meta	others	Mahakali shiv shankar nagar, new agripada,
+meta	others	Santakruz east. 400055.
+meta	others	· Nationality : Indian
+meta	others	· Date of Birth : 23rd January 1995.
+meta	others	· Martial status : Unmarried.
+header	others	· Language : English, Marathi, Hindi.
+meta	others	· Gender : Female
+meta	others	· Hobbies : Reading a books and cooking.
+meta	others	Place : Nalasopara
+meta	others	Date :
+meta	others	Sign:
+meta	others	(SAVITA NARAYAN JADHAV)

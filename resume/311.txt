@@ -1,0 +1,50 @@
+meta	others	ASHISH SHARMA
+meta	others	Software Developer
+meta	others	Phone: +91 8976146897.
+meta	others	Email ID: scholars08@gmail.com
+meta	others	Address: Sai Sankul, Phase-2, A2/203,Khadakpada, Kalyan (W), 421301
+header	others	Objective
+content	others	To work as a dedicated employee in your organization and to use my thoughts that matches with the development of the organization.
+header	experience	WORK EXPERIENCE
+content	experience	· Current Company Name: Avendata Tehnology Pvt Ltd.
+content	experience	· Designation: Software Developer (From July 2017 till present)
+header	education	Academic Qualification
+content	education	· BE (Computer)– Completed in 2016 with 6.34 CGPA from Mumbai University.
+content	education	· H.S.C. (Science) – Completed in year 2011 with 66.67% from Maharshtra Board
+content	education	· S.S.C. – Completed in year 2009 with 73% from CBSE Board
+content	education	· Certfication – PHP & MySQL. (Seed Infotech)
+header	project	PROJECT EXPERIENCE:
+header	project	Project No:1
+header	project	Project Title - ViewBox
+content	experience	Technology: .Net Framework 4.0, C#, LINQ, MVC, JQuery, API, html5, bootstrap and MySql
+content	experience	Role: Developer
+header	project	Project Description:
+content	experience	By using ViewBox software, companies are able to build a global archive for any type of legacy application, in full compliance with legal requirements such as audit-proof storage, provision of process documentation, mapping of complex authorization structures, and extraction options.
+header	project	Project No:2
+header	project	Project Title - ViewBuilder
+content	experience	Technology: C#, Parse checker tool
+content	experience	Team Size: 3
+content	experience	Role: Developer
+content	experience	Project Description:
+content	experience	In this project we need to convert Different kinds of file into single CSV format by parsing the file into
+content	experience	Correct format.
+header	knowledge	Technical Skill
+content	knowledge	Languages
+content	knowledge	ASP.NET with C# MVC,API
+content	knowledge	Scripting Languages
+content	knowledge	PHP, (HTML & CSS)
+content	knowledge	Development Tools
+content	knowledge	Visual Studio, .NET (2012,2015), MS SQL Server,
+content	knowledge	Database
+content	knowledge	SQL,MYSQL,Crystal Report
+content	knowledge	Operating Systems
+content	knowledge	Windows, Linux (Basics)
+content	knowledge	Others
+content	knowledge	Github, Unit Testing, JIRA
+header	others	Personal Details
+meta	others	Date of Birth: 15/01/1994
+meta	knowledge	Languages known: Hindi, Marathi and English.
+meta	others	Hobbies Swimming, Cricket, Chess
+header	others	Declaration:
+meta	others	I hereby declare that the information given above is true, correct & complete in all respects, according to best of my knowledge & belief.
+meta	others	Ashish Sharma

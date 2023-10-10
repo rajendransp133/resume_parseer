@@ -1,0 +1,84 @@
+meta	others	Prakash Kumar Jha Email: prakash.jha86@gmail.com
+meta	others	Mobile: +918871771500
+header	others	Objective
+content	others	I am looking forward to join a progressive organization which believes in
+content	others	utilizing my learning capability and transforming it into the successful
+content	others	outcome of the project. I am willing to work hard and have great enthusiasm
+content	others	to learn and grow.
+header	experience	Summary
+content	experience	1. Currently working as Team Lead/Software Engineer at Poornam Infovision Pvt
+content	experience	Ltd. (Bobcares).
+content	experience	2. Extensive hands on experience on server administration/Web Hosting and
+content	experience	Remote Infrastructure Management.
+content	experience	3. Resolving Tickets within SLA and assisting customers.
+content	experience	4. Monitoring the services running in the server using different monitoring tools
+content	experience	Nagios and Zabbix and troubleshooting Load and other performance issues.
+header	education	Education
+content	education	Sagar Institute of Research and Technology, Bhopal, Madhya Pradesh
+content	education	BE: Computer Science Engineering Year: 2016
+header	others	Personal Details
+meta	others	Interests : Map reading, Awareness, Blogging, Cooking
+meta	knowledge	Language Proficiency: English and Hindi
+header	experience	Professional Experience
+content	experience	Team Unicorns
+content	experience	Duration: September 2017-Till Date Role: Team Lead
+content	experience	Team Size: 12
+content	experience	Role Description:
+content	experience	Team Unicorns is the Lead Team(Face of Bobcares) handling approx. 50 clients
+content	experience	having different types of infrastructure including shared hosting, VPS Hosting,
+content	experience	Dedicated Hosting, Cloud Services etc. Every Client having a different set of
+content	experience	procedures.
+header	experience	Responsibilities:
+content	experience	 Handling L2 and L3 issues normally escalated by other members in the team.
+content	experience	 Web Hosting Support, C-Panel/WHM, Plesk, WHMCS, Websites/server
+content	experience	migration & Security, email issues, load issues, server maintenance etc.
+content	experience	 Performing Quality-checks and ensuring preventive corrective actions for
+content	experience	team members
+content	experience	 Training new members in the team.
+content	experience	 Active Team Management
+content	experience	 Regular Review Meetings with Clients On Skype.
+content	experience	 Providing interactive sessions on DNS, Webserver, Mail Server, Database
+content	experience	Server, Linux to the new trainees in the company.
+content	experience	mailto:prakash.jha86@gmail.com
+content	experience	Team Blitzkrieg
+content	experience	Duration: March 2017 – September 2017 Role: Linux System Administrator
+content	experience	Team Size: 4
+content	experience	Role Description:
+content	experience	Working with the Canada based Web hosting company. Client provides dedicated
+content	experience	servers, PS hosting, Cloud hosting and Shared hosting. Hands on experience with
+content	experience	Odin.
+header	experience	Responsibilities:
+content	experience	 Web Hosting Support, C-Panel/WHM, Plesk, WHMCS, Websites/server
+content	experience	migration & Security, fixing email spam issues, load issues, server
+content	experience	maintenance etc.
+content	experience	 Common issues related to CMS like WordPress, Joomla, Drupal, DNN etc.
+content	experience	 Responsible for maintaining Linux servers including web servers, mail servers
+content	experience	and Panels.
+content	experience	 Provisioning, installing and configuring new VMs and containers using Xen,
+content	experience	Parallels and OnAPP.
+content	experience	 Alert monitoring using Zabbix and Nagios and Solarwinds
+content	experience	 Managing Shifts alone to handle tickets and alerts.
+content	experience	Team Optimus
+content	experience	Duration: November 2016 to Feb 2017 Role: Linux System Administrator
+content	experience	Team Size: 15
+header	experience	Role Description:
+content	experience	Working with the US based Web hosting company. Client only provides dedicated
+content	experience	servers and VPS hosting. Client has an initial response SLA of 15 minutes and
+content	experience	resolution time of 30 minutes for common issues. Hands on experience with
+content	experience	Ubersmith and Kayako ticketing system.
+header	experience	Responsibilities:
+content	experience	 Resolving load and resource outages, Installing SSL certificates on domains,
+content	experience	Abuse handling.
+content	experience	 Basic Troubleshooting of the Linux and Windows servers and CMS like
+content	experience	WordPress, Joomla etc.
+content	experience	 Server Hardening and Prevention of hacking by continuous monitoring the
+content	experience	server load and by stopping the brute force attacks in the CMS sites.
+content	experience	 Web Hosting Support, C-Panel/WHM, Websites/server migration & Security,
+content	experience	fixing email spam issues, load issues, etc.
+content	experience	 Nagios Alert monitoring.
+header	experience	Key Experiences
+content	experience	 Setting up gateway server for SSH Login to all the server using aliases and
+content	experience	key authentication method in Team Blitzkrieg.
+content	experience	 Setting up several Bash scripts for Load tracking and killing, Spamming
+content	experience	Alerts etc. for small clients who don’t have monitoring system in Team
+content	experience	Unicorns.

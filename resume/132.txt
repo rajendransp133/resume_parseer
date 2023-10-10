@@ -1,0 +1,62 @@
+meta	others	Navita Kumari Jain
+meta	others	+91-9261542673
+meta	others	canavitajain@gmail.com
+header	others	Career Objective:
+content	others	 To pursue a career which enhance & enrich my professional skills and accomplishing challenging task
+content	others	& ensure to provide a value addition to the organization as well as giving hands to its success.
+header	experience	Professional Details:
+content	experience	 Passed Chartered Accountants (C.A) in May‘13
+content	experience	 Passed B.Com in 2011 from Rajasthan University, Jaipur
+content	experience	Professional Experience: A Learning Synopsis
+header	experience	Working Experience
+content	experience	QX limited - Mar’17 to Till Now
+content	experience	Handling complete Management Accounts of UK based aerospace company :-
+content	experience	Designation: Senior Accounts Officer
+content	experience	Work Profile : Accounts and Finance
+content	experience	Software in use : Oracle e-business
+content	experience	 Handling Treasury activities such as dealing with Cash forecasting and Cash budget and preparing
+content	experience	weekly cash budget files in multiple currencies to trace the actual flow of cash balance.
+content	experience	 Assisting in Budget preparation
+content	experience	 Preparation and update of Forecast on quarterly basis
+content	experience	 Handling GST workings and monthly returns for India based site
+content	experience	 Migration done from tally to Oracle software including GST module
+content	experience	 Handling audit requirements of internal and statutory auditors and tax audit
+content	experience	 Preparing data and reports as per audit request
+content	experience	 Periodic Balance sheet analysis of company’s balance sheet and other financial statements to help
+content	experience	company to get loan from the various banks.
+content	experience	 Nominal Ledger Scrutiny - Scrutiny of all nominal account codes to ensure all transactions are correct
+content	experience	and no duplicate of expenses, Prepayments are properly released and accrual entries properly recorded
+content	experience	and reversed in next month
+content	experience	 Aging Debtors and Creditors Reconciliation and FX revaluation of the same
+content	experience	 Dealing with multiple currencies and FX revaluation of the debtors, Creditors and Bank balances
+content	experience	 Scrutiny of Trial balance
+content	experience	 Preparation of Final accounts on monthly basis and to ensure there are no reconciling items standing on
+content	experience	the Balance sheet date
+content	experience	Mind Space Outsourcing Pvt. Ltd. (From April’14 to Sep’16)
+content	experience	Handling clients based in UK, US, Australia, Ireland, Canada:-
+content	experience	Designation: Senior Accounts Officer
+content	experience	Work profile: Accounts, Finance & taxation
+content	experience	Software in use : Xero, Sage, Quickbooks, Saasu, Clearbook , Freshbooks, Bill.com etc.
+content	experience	Exposed to:
+content	experience	 Handling of 10 people team
+content	experience	 Interact with Clients to understand their requirements as per the projects and feedback of work
+content	experience	 To deal with issues related to work execution of financial analysis and Cashflow preparation,
+content	experience	bookkeeping, payroll, VAT or Sales Tax return analysis etc
+content	experience	 Other activities includes: Preparation of financial reports, Performing trend analysis and cash flow
+content	experience	projections, Preparing balance sheets, income statements, detailed cost and inventory analysis,
+content	experience	variance reports
+content	experience	Articleship Exposure: Article assistant under S. Tholia & Co., Jaipur for Three & Half Years
+content	experience	 During the course of the training, I have been exposed to work of conducting audit and preparing
+content	experience	Income Tax returns of Public Limited Companies, Private Limited Companies, Partnership Firms,
+content	experience	Trusts and Individuals.
+content	experience	 Income tax matters relating to preparation of statement of Income, preparing Income tax returns for
+content	experience	individuals, Firms, Trust & Companies.
+content	experience	 Company law matters like of Annual returns of Company and other forms etc.
+content	experience	Information Tech. & Management Proficiency:
+content	experience	 Efficient in advanced MS Excel and Powerpoint
+content	experience	 Accounting software -Tally, TDS/TCS Return Software, Oracle e business (with GST platform), Xero,
+content	experience	Sage, Quickbooks and various Other accounting softwares etc
+header	others	Personal Summary:
+meta	others	Date of Birth : 19th Aug 1991
+meta	others	Husband’s Name : Mayank Kanjolia
+meta	others	Hobbies : Listening Music

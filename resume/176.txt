@@ -1,0 +1,96 @@
+meta	others	(
+meta	others	Arpit Gupta
+meta	others	Phone
+meta	others	+91
+meta	others	(
+meta	others	898-378-9344
+meta	others	)
+meta	others	Email: arpitgupta1790@outlook.com
+meta	others	)
+header	experience	Professional summary:
+content	experience	· 6+ years of work experience in IT in Database Design, Development & Support ofMS SQL Server 2008 R2/2012/2014 for Production/development.
+content	experience	· Currently working with L&T Infotech as Senior Software Engineer.
+content	experience	· Previously worked with D2K TECHNOLOGY as Senior Software Developer fromMay 2013 to Sep 2016 and A-connexion pvt. Ltd. as SQL DEVELOPERfrom Oct 2011 to May 2013.
+content	experience	· Proficient inRelational Database Management Systems (RDBMS).
+content	experience	· Expertise inTransact-SQL (DDL, DML, DCL)and in Design and Normalization of the database tables.
+content	experience	· Experience in implementing business logic usingTriggers, Indexes, Views and Stored procedures.
+content	experience	· Extensive Knowledge of advance query concepts (e.g. group by, having clause, union so on).
+content	experience	· Experience with tools like SQL Server management studio and SQL Server 2008 R2/2012 integration (SSIS).
+content	experience	· Proficient inTuning T-SQL queriesto improve the database performance and availability.
+content	experience	· Experienced hands inQuery tuning and performance tuning.
+content	experience	· Experience in monitoringSQL Server Performance using SQL Profiler.
+content	experience	· Experience in Creating and Updating Clustered and Non-Clustered Indexes to keep up the SQL Server Performance.
+content	knowledge	· Good knowledge in Normalizing and De-normalizing the tables and maintaining Referential Integrity by using Triggers and Primary and Foreign Keys.
+content	experience	· Expertise increating Packages using SQL Server Integration Services (SSIS).
+content	experience	· Excellent analytical, communication and interpersonal skills. Proficient in technical writing and presentations and a good team player.
+header	education	Education:
+content	education	B.E (CSE) with First Class (2007 – 2011)
+content	education	Truba Institute of Engineering and Information Technology, Bhopal
+header	knowledge	Technical Skills:
+content	knowledge	SQL Server Tools: SQL Server Management Studio, Profiler, SSIS
+content	knowledge	RDBMS:MS SQL Server2008R2/2012/2014, Oracle 10G
+content	knowledge	Programming Languages:SQL, T-SQL, PL-SQL
+content	knowledge	Productivity Applications:MS Word, Excel, Access, Agile Methodology
+content	knowledge	Version Control Application:Team foundation server
+header	experience	Professional Experience:
+header	project	Project 1: PTSW
+content	experience	Company Name:L&T Infotech
+content	experience	Client : CITI Bank
+content	experience	Designation : Sr. SoftwareEngineer
+content	experience	Description : This is the Citi bank intranet project. It maintain the data of all vendors and also provides reports based on data.
+content	experience	Tools and Technologies:Microsoft SQL Server 2012, T-SQL, SSIS, TFS, Agile Methodology.
+content	experience	Role: Programmer, DBA, Tester.
+header	project	Project 2: Database Migration
+content	experience	Company Name:D2K Technologies
+content	experience	Client : Oriental Bank of Commerce
+content	experience	Designation: Software Developer
+content	experience	Description : In that project I write complex queries for insert data from old Database to new database, store procedure, create table withValidation and indexes.
+content	experience	Tools and Technologies: Microsoft SQL Server 2008R2,Microsoft SQL Server2012, T-SQL
+content	experience	Role : Database architecture, Programmer.
+header	project	Project 3: Asset Classification
+content	experience	Company Name : D2K Technologies
+content	experience	Client : Punjab National Bank, Oriental Bank of Commerce
+content	experience	Designation: Software Developer
+content	experience	Description : Asset classification is a process which gives the rating to its financial status and find out the NPA and standard assets. INthis project my work is to understand asset classification logic, implement that into t-sql and troubleshoot errors in Code.
+content	experience	Tools and Technologies: Microsoft SQL Server 2012, T-SQL.
+content	experience	Role: Database architecture, Programmer.
+header	project	Project 4: High availability and Disaster Recovery
+content	experience	Company Name:D2K Technologies
+content	experience	Client: Axis Bank
+content	experience	Designation : Software Developer
+content	experience	Description : In that project i set up Mirroring, Replication, Log shipping,
+content	experience	Auditing, Resource governor and CDC and maintain all these HAand DR components.
+content	experience	Tools and Technologies:Microsoft SQL Server 2012, T-SQL.
+header	project	Project 5: Basel II
+content	experience	Company Name : D2K Technologies
+content	experience	Client : Punjab National Bank, Oriental Bank of Commerce
+content	experience	Designation : Software Developer
+content	experience	Description : Basel II is an international business standard that requires financial institutions to maintain enough cash reserves to cover risks incurred by operations. The Basel accords are a series of recommendations on banking laws and regulations issued by the Basel Committee on Banking Supervision (BSBS).
+content	experience	Tools and Technologies:Microsoft SQL Server 2012, T-SQL, SSIS.
+content	experience	Role: Programmer.
+header	project	Project 6: User Control Module
+content	experience	Company Name : D2K Technologies
+content	experience	Client : Punjab National Bank, Axis Bank
+content	experience	Designation : Software Developer
+content	experience	Description : User control module is module by the help of this we can create new login, change login password , delete logins , give permissions on database objects, create SP backup automatically on database and save .sql file on disk. It is full logins permission and management related module.
+content	experience	Tools and Technologies:Microsoft SQL Server 2012, T-SQL.
+content	experience	Role: Programmer, DBA, Tester.
+header	project	Project 7: Data Mart Development for Clients (Wal–Mart Stores,Inc., Apple Inc., Other Clients)
+content	experience	Company Name: A-connexion PVT LTD.
+content	experience	Designation : SQL Developer
+content	experience	Description: That project is related to DataMart. There have various tables
+content	experience	On client database. Client sends a report related to any one oftable which is in database.Loaddata via SSIS services in MS SQL SERVER.
+content	experience	Tools and Technologies: Microsoft SQL Server 2008r2
+content	experience	Role: Analysis, Programming, Testing.
+header	others	Personal Details:
+meta	others	Name
+meta	others	Arpit Gupta
+meta	others	Date of Birth
+meta	others	17th April 1990
+meta	others	Marital Status
+meta	others	Married
+header	knowledge	Languages Known
+meta	knowledge	English, Hindi.
+meta	others	Hobbies
+meta	others	Cooking.
+meta	others	Place:Navi Mumbai (Arpit Gupta)

@@ -1,0 +1,69 @@
+meta	others	Tanwee Ramesh Worlikar
+meta	others	Tanwee Worlikar________________________________________________
+meta	others	House No 63, Near 122/K, Bhagyawan Chowk
+meta	others	Email: tanwee.worlikar@gmail.com
+meta	others	Worli Village, Mumbai - 400 030.
+meta	others	Phone: +91-9892455350
+header	education	EDUCATION______________________________________________________________​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+meta	education	Pursing MMM
+meta	education	(Masters in Marketing Management)
+meta	education	(Mar 2009-Mar 2012)
+meta	education	B.COM.
+content	education	Mumbai University
+content	education	Graduated in May 2006
+header	education	PROFESSIONAL QUALIFICATION
+content	education	· Passed with Distinction in Travel Agency Operations and International Air Fares and Ticketing, from International Air Fair Desk (IAFD), Sion Branch, Mumbai.
+content	experience	· Diploma in IATA/UFTAA Foundation, Montreal, September 2005.
+content	experience	· Training from Select Prospects on Auditing.
+content	experience	· Worked on various Computer Reservation System (CRS) – AMADEUS & ATPCO.
+content	experience	· Worked on BABEL (Shared Services) an Internal System for Virgin Atlantic Airways.
+header	knowledge	COMPUTER PROFECIENCY________________________________________________________ ​​​​​​​​​​​​​​​​​​​​​​​​​​​
+content	knowledge	· Microsoft Word, PowerPoint, Excel, Internet
+header	experience	PROFESSIONAL EXPERIENCE
+content	experience	1. From Jul 2007 – Till date, WNS - Virgin Atlantic Fares & Ticketing Desk
+content	experience	Operations – Sr. Customer Service Associate
+header	experience	Responsibilities:
+content	experience	· Working for Virgin Atlantic fares & ticketing Helpdesk internal department.
+content	experience	· Quote the fare/taxes for given Itinerary including Round The World (RTW) journey.
+content	experience	· Issue and Re-Issue/Revalidate tickets if required after fare quote.
+content	experience	· Do fare calculation and construct a less expensive fare for any changes requested
+content	experience	by the contact centre agent, ATO or travel agent in given PNR.
+header	experience	Responsibilities handled in the Team:
+content	experience	· Mentoring the new batch for OJT (On Job Training).
+content	experience	· Performing helpdesk duties in the absence of a Team Leader.
+content	experience	· Conducting quality checks for the agents.
+content	experience	Certificate of Achievement:
+content	experience	· Fares and ticketing Level 2/3 Hybrid Achieving a pass on 31july ’07.
+content	experience	2.
+content	experience	From Jan 2006 - Jun 2007 ZERO OCTA LTD.
+content	experience	Operations – Auditor (Quality Checker)___________________________________
+header	experience	Responsibilities:
+content	experience	· Quality checking on Sales, Refunds and Reissue
+content	experience	· Working on Sales, Refunds and Reissue for BD, AI, LX, NZ Stations.
+content	experience	· Handling Queries for Sale, Refunds and Reissue for these Stations.
+content	experience	· Auditing in terms for Sales, Refunds and Reissue Audits of various
+content	experience	International airlines.
+content	experience	· Application of IATA fares rules, detection of adherence to fare restrictions
+content	experience	like Min/Max stay, Advance purchase, Seasonality, Combinations, etc.
+content	experience	· Applying correct fares and penalizing guilty agents by raising ADM’s.
+content	experience	Responsibilities handled in the Team:
+content	experience	· Performing helpdesk duties in the absence of a Team Leader.
+content	experience	· Conducting quality checks for the agents.
+header	education	Certificate of Achievement:
+content	education	· Airline fare Auditing Achieving a distinction on 28Oct ’05.
+header	knowledge	LANGUAGES______________________________________________________________________
+content	knowledge	· English – speak fluently and read/write with high proficiency
+content	knowledge	· Hindi – speak fluently and read/write with high proficiency
+content	knowledge	· Marathi – speak fluently and read/write with high proficiency
+header	others	PERSONAL DATA_________________________________________________________
+header	others	Date of Birth
+meta	others	:
+meta	others	22nd February 1985
+header	others	Nationality
+meta	others	:
+meta	others	Indian
+header	others	Martial Status
+meta	others	:
+meta	others	Single
+header	others	REFERENCE_______________________________________________________________________
+meta	others	References will be provided on request

@@ -1,0 +1,76 @@
+header	others	Curriculum Vitae
+header	others	Curriculum Vitae
+meta	others	SUJATA CHANDA
+meta	others	13/10, S.M.NAGAR,
+meta	others	Phase-II(Back),
+meta	others	Budge Budge Trunk Road,
+meta	others	Kolkata-700143
+meta	others	Tel.: +919062103433
+meta	others	Email ID: suparna1422@gmail.com
+header	others	Career Objective
+content	others	Intend to make sincere and continuous effort towards building a promising and successful career and to take challenges in life so that I can contribute to the growth and success of the organization I am working with, which would ultimately empower me to lead my life and spend my time as I want.
+header	education	Educational Qualifications
+content	education	Degree / Certificate
+content	education	Qualification
+content	education	Institute
+content	education	Board /
+content	education	University
+content	education	Year
+content	education	Aggregate % / CGPA
+content	education	Graduation
+content	education	B.TECH
+content	education	(C.S.E)
+content	education	Durgapur Institute of Advanced Technology & Management
+content	education	WBUT
+content	education	2012
+content	education	8.2
+content	education	12th
+content	education	ISC
+content	education	Hirendra Leela Patranavis School
+content	education	New Delhi
+content	education	2007
+content	education	74
+content	education	10th
+content	education	ICSE
+content	education	Children’s Villa School
+content	education	New Delhi
+content	education	2005
+content	education	76
+header	knowledge	Skill set
+content	knowledge	· HTML/HTML5
+content	knowledge	· CSS and CSS3 with Bootstrap
+content	knowledge	· JAVASCRIPT (ES5 and ES6) with Accessibility
+content	knowledge	· JQUERY
+content	knowledge	· BACKBONE.JS and MARIONETTE.JS
+content	knowledge	· KENDO UI
+content	knowledge	· SENCHA TOUCH
+content	knowledge	· PHONEGAP
+content	knowledge	· ANGULARJS
+content	knowledge	· JASMINE (TEST CASES)
+content	experience	Worked as a Senior Software Developer at Innofied Solutions Pvt Ltd from July,2012-March,2015.
+content	experience	Currently working as a Senior Software Developer at LearningMate Solutions Pvt Ltd from March,2015-till present.
+content	experience	· A Pearson project named “Realize Reader (etext 2.0)”. We have developed the website and a chromeApp with all offline features.
+content	experience	Technologies Used: AngularJS 1.6(fully component based), ES6, Karma with Jasmine for test cases, Gulp for task runner.
+content	others	· Playing games like badminton, table tennis,etc.
+content	others	· Browsing the net.
+content	others	· Listening Music.
+meta	others	C
+header	others	Name
+meta	others	: Miss. Sujata Chanda
+meta	others	Father’s Name : Mr. Sankar Chanda
+header	others	Permanent Address
+meta	others	:
+meta	others	13/10, S.M.NAGAR, Phase-II(Back), Budge Budge Road, Kolkata-700143.
+header	others	Date of Birth
+meta	others	: 13th March, 1989.
+header	knowledge	Languages Known
+meta	knowledge	: English, Bengali and Hindi
+meta	others	I hereby declare that statements made here are true, complete and correct to the best of my knowledge and belief.
+header	others	PLACE:
+meta	others	KOLKATA.
+meta	others	Dated: 26/09/2017 Signature :
+header	experience	Working Experience
+header	project	Current Project
+meta	others	Hobbies and interests
+header	others	Personal Details
+header	others	Declaration

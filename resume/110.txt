@@ -1,0 +1,121 @@
+meta	others	VAIBHAV CHANDRAKANTBHAI SATHIYA
+meta	others	M. : (+91) 9574121308
+meta	others	E-Mail: vaibhavsathiya916@gmail.com
+header	others	OBJECTIVE
+content	others	To obtain, challenging position in different progressive work environment and to
+content	others	perform best with my abilities with integrity, sincerity, team spirit, zeal to learn and to
+content	others	utilize my experience and skill with dedication and commitment to be successful in the
+content	others	real word of challenges.
+header	experience	WORK EXPERIENCE
+content	experience	Total 04 years of corporate work experience, with job areas like
+content	experience	Telecommunication Service, operation, Finance & Account.
+content	experience	Current Employer:
+content	experience	Organization : QX Global Services LLP
+content	experience	Time Period : Mar’18 to Till Date.
+content	experience	Department : Finance and Account (Account Payable)
+content	experience	Post Held : Account Officer
+content	experience	Location : Ahmadabad (India)
+header	experience	Job Description :
+content	experience	• My Responsibility to identify and highlight improved ways of working through
+content	experience	continuous assessment of working practice.
+content	experience	• To maintain Purchase Ledger/supplier accounts for areas of responsibility to
+content	experience	include the completion of Supplier Statement Reconciliations as and when required
+content	experience	and the regular and timely clearance of debit/unallocated cash balances.
+content	experience	• To assist with the processing of invoices and credit notes for supplier accounts in
+content	experience	areas of responsibility.
+content	experience	• Keep track, process and reconcile payments and expenditures, including payroll,
+content	experience	purchase orders, invoices, statements, checks..etc, in compliance with financial
+content	experience	policies and procedures.
+content	experience	• Resolution of all invoicing queries via email/phone for supplier accounts.
+content	experience	• To chase for missing invoices with the suppliers.
+content	experience	• Liaising closely with the client account team in order to prepare payable reports.
+content	experience	• Prepare supplier payment list for client approval.
+content	experience	• Prepare the BACS payment details and control file before payments are processed.
+content	experience	• Timely and accurate processing, VAT Preparations, weekly cash-flow forecasts and
+content	experience	payments for client services.
+content	experience	• Prepare and send remittance advice for payments made.
+content	experience	• Expenses claims are processed and paid per agreed timetable.
+header	experience	Previous Employer:
+content	experience	Organization : VODAFONE MPESA PVT LTD.
+content	experience	Time Period : July’16 to Nov‘17.
+content	experience	Department : Commercial Operation-PAN India
+content	experience	Post Held : Executive
+content	experience	Location : Ahmadabad (India)
+header	experience	Job Description :
+content	experience	• My Responsibility to activate Customer, trade and Enterprise accounts by checking
+content	experience	necessary Documents and check points.
+content	experience	• I also flash MIS for customer, Trade and enterprise TAT, FTR and Rejection by doing
+content	experience	analysis to the Corporate and circle Operation and customer Service leads.
+content	experience	• Co-ordinate with Bank mobile commerce team to resolve customer queries and with
+content	experience	Mpesa Finance Team for complete activation and documentation related query also
+content	experience	for Merchant code, Enterprise code and SAP code creation for different type of
+content	experience	Commission band.
+content	experience	• Audit & final reconciliation of Trade & Enterprise agreements.
+header	experience	Achievement
+content	experience	• On boarding leading petrol Pumps and Gas Agencies as a merchant
+content	experience	• I play significant role to achieve “Wallet of the year award 2017” for the Mpesa
+content	experience	Wallet Due to fastest and accurate activation.
+content	experience	• Received Lots of Appreciations from Mpesa Corporate, Operation, marketing,
+content	experience	Product team for end to end resolution of queries.
+content	experience	• Approximately 45,000 Accounts activated(Customer, trade & Enterprise)
+content	experience	Organization : VODAFONE SHARED SERVICE INDIA PVT LTD.
+content	experience	Time Period : Aug‘14 to July’16(2 -years).
+content	experience	Department : M – Pesa, Customer Service Delivery
+content	experience	Post Held : Officer
+content	experience	Location : Ahmadabad (India)
+header	experience	Job Description :
+content	experience	• My Responsibility in this position to make MIS, of all over the India Registered
+content	experience	Mpesa Customers. daily, Monthly and Quarterly basis and reporting to Corporate
+content	experience	Officers and Stack Holders
+content	experience	• Prepared PPT for Every Quarterly to give Presentation to the Manager also
+content	experience	Corporate Officers.
+content	experience	• I have knowledge of CRM (Customer Relationship Manager) Software and took
+content	experience	Practical training in the company.
+content	experience	• Also was handling Commission related activity to pay commission to the M-Pesa
+content	experience	agents and resolved Technical queries, Wrong bank transfer, settlement, and
+content	experience	Transaction related quires.
+content	experience	Achievement : Closed 20,000 Mpesa customers’ queries through CRM.
+content	experience	Organization : AFFINITY ASSOCIATES PVT LTD
+content	experience	Department : Account and Finance
+content	experience	Post Held : Accountant
+content	experience	Location : Ahmedabad (India)
+header	experience	Job Description:
+content	experience	• I have worked as an U.K firm vat Return Preparation. I was responsible to prepare
+content	experience	various bank reconciliation, payable, Relievable entries, Finalization of accounts and
+content	experience	I am responsible for maintaining books of various restaurants.
+content	experience	• Accounts payable, Accounts Receivable and Bank reconciliations
+header	education	ACADEMIC QUALIFICATION
+content	education	➢ I’ve completed B. Com. (Bachelor of Commerce) from Gujarat University in 2010.
+header	knowledge	TECHNICAL SKILL
+content	knowledge	Databases : MS Access, Excel, Word.
+content	knowledge	OS : Windows XP onwards…
+content	knowledge	Others : Account Software like Tally 9.0 ERP, Quick books, Sage,
+content	knowledge	Yardi (Property Management software), Viztopia,
+content	knowledge	SAP (FICO): Learning FICO Module of SAP.MIS, CRM,
+content	knowledge	Zendex (Customer Service Software) Online Portals
+content	knowledge	VAT, Excise, Service Tax, Income Tax.
+header	knowledge	KEY SKILLS AND ABILITIES
+content	knowledge	• Creative &self-starter, good listener, observer & organizer
+content	knowledge	• Ability to work on own initiative and result oriented
+content	knowledge	• Effective team worker and ready to work in any situation
+content	knowledge	• Detail oriented, strong learning and organizing skills matches with ability to manage
+content	knowledge	stress, time and resources effectively.
+content	knowledge	• Having positive attitude
+header	others	AREA OF INTEREST
+meta	others	• Lead, Management
+meta	others	• Education, Science & Technologies.
+meta	others	PERSONAL INFORMATION
+meta	others	Date of Birth : 28-01-1988
+meta	others	Gender : MALE
+meta	others	Marital Status : UNMARRIED
+meta	others	Nationality : INDIAN
+meta	others	Religion : HINDU
+meta	knowledge	Language known : ENGLISH, HINDI, GUJARATI
+meta	others	ADDRESS
+meta	others	A/6, Badrish Row House, Nr. Shalibhadra Society,
+meta	others	D-Cabin, Sabarmati, Ahmedabad-380019
+header	others	DECLARATION
+meta	others	I, Vaibhav Sathiya, hereby declare that all the information presented above is true to the
+meta	others	best of my knowledge.
+meta	others	PLACE: Ahmedabad
+meta	others	DATE: VAIBHAV SATHIYA

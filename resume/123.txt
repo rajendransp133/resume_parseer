@@ -1,0 +1,50 @@
+header	others	RESUME
+meta	others	PAGE
+header	others	RESUME
+meta	others	YADHUNANDAN M.J. Mobile: 7892274422
+meta	others	Email id: yadhulogin@gmail.com
+header	others	CAREER OBJECTIVE
+content	others	To work in a company that offers me a stable and positive atmosphere and inspires me to enhance and therefore to innovate the work culture for the betterment of all parties concerned.
+header	experience	WORK EXPERIENCE
+content	experience	1) Currently working as a Finance Consultant for Kalkura Associates(CA firm) at METRO CASH & CARRY (I) PVT LTD from Jan17.
+content	experience	2) Worked as a Finance Executive at the Mysore Electrical Industries Ltd. (a Govt. of Karnataka undertaking) from April15.
+header	experience	JOB PROFILE:
+content	experience	· Reconciliation of vendors like SAMSUNG, PARLE, MTR, LG,PEPSI etc.
+content	experience	· Reconciliation of Govt Sectors-GCMMF, KMF, etc.
+content	experience	· Inter Branch vendor reconciliation.
+content	experience	· Meeting vendors for query resolving relating to recon.
+content	experience	· Follow up on overdue payables to vendors.
+content	experience	· Bank Reconciliation, cash book, bills and voucher maintence.
+content	experience	· Mainatainance of Accounts receivable data.
+header	knowledge	SOFTWARE SKILLS:
+content	knowledge	Operating System
+content	knowledge	: Windows 95/98/2000/XP/Vista
+header	knowledge	Typing Skill
+content	knowledge	: Junior Typing (25wpm)
+header	knowledge	Additional Skills in Apps
+content	knowledge	: Working in MS Excel by using relevant formulas
+content	knowledge	like V-lookup, Pivot table, Conditional Format etc.
+header	others	PERSONAL DETAILS:
+meta	others	Name
+meta	others	: Yadhunandan M. J.
+meta	others	Father�s Name
+meta	others	: Joyappa M. P.
+meta	others	Date of Birth
+meta	others	: 16-11-1993
+meta	others	Gender
+meta	others	: Male
+meta	others	Nationality
+meta	others	: Indian
+header	knowledge	Languages Known
+meta	knowledge	: English, Hindi and Kannada
+header	education	ACADEMIC PROFILE:
+meta	education	· BBM from Mahajana First Grade College with 64.3%(2014)
+meta	education	· PCMB from St.Aloysius College with 48%(2011)
+meta	education	· 10th from Vidyarashmi Vidyalaya with 83.2% (2009)
+meta	others	I hereby declare that the above information & details are true to the best of my knowledge.
+meta	others	Place: Bengaluru
+content	others	(Yadhunandan M. J.)
+meta	others	Date:
+meta	others	Signature
+meta	others	PAGE
+meta	others	1

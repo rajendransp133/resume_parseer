@@ -1,0 +1,103 @@
+meta	others	Present : Creative Logic Networking Pvt Ltd
+header	experience	• 3+ years of experience in IP Telephony,
+content	experience	Networking Operations and Technical Support
+header	experience	RESPONSIBILITIES
+content	experience	 Providing support for Cisco products mainly in CUCM,
+content	experience	CME, CUC, IM & Presence.
+content	experience	 Configuring and troubleshooting user features like call park,
+content	experience	call forward, call transfer, call pickup, extension mobility,
+content	experience	Hunt pilot configuration and Unified mobility.
+content	experience	 Adding and changing phone features, templates and
+content	experience	registering phone using BAT.
+content	experience	 Troubleshooting CME and its features (Call forward, call
+content	experience	transfer, call pickup, SNR etc).
+content	experience	 Troubleshooting call routing, IP phone registration and
+content	experience	MACD issues.
+content	experience	 Provisioning voice mail users along with Password reset and
+content	experience	creating alternate extension for voice mail users.
+content	experience	 Managing dial plan using DNA like translation pattern, route
+content	experience	pattern, calling/called transformation pattern, FAC, CMC,
+content	experience	route list, route group.
+content	experience	 Used monitoring tools like RTMT to collect traces and to
+content	experience	check CPU usage, CDR to find utilization and accounting
+content	experience	calls (CMC).
+content	experience	 Troubleshooting media resource issues in conference,
+content	experience	transcoder, MOH and MTP.
+content	experience	 Monitoring and troubleshooting of the voice gateways,
+content	experience	checking the PRI connections, SRST and gateway protocols
+content	experience	H323, MGCP and SIP.
+content	experience	 Troubleshooting of Voice Interfaces like FXS, FXO, ISDN
+content	experience	T1/E1 PRI, SIP and H323.
+content	experience	 Daily check-list reporting.
+content	experience	 Providing better relations with customers and fulfilment of
+content	experience	requirement.
+content	experience	MUHAMMED MUSTHAFA
+content	experience	CISCO UC ENGINEER
+content	experience	EMAIL:musthafampv786@gmail.com
+content	experience	m
+content	experience	OBJECTIVE
+content	experience	To be associated with a Progressive organization that gives me the scope to share
+content	experience	my Knowledge and skills in accordance with the latest trends and be a part of a
+content	experience	team that dynamically works towards the growth of organization.
+header	experience	EXPERIENCE
+content	experience	2015-18 Till date: CISCO UC Engineer
+meta	others	PHONE:7892606773
+header	knowledge	DOMAIN KNOWLEDGE
+content	knowledge	 CUCM (9,11.5)
+content	knowledge	 CUC
+content	knowledge	 IM & PRESENCE
+content	knowledge	 SRST
+content	knowledge	 SIP
+content	knowledge	 MGCP
+content	knowledge	 H323
+content	knowledge	 CUCME
+content	knowledge	 SCCP
+header	education	COURSE COMPLETED
+content	education	 CCNA R & S
+content	education	 CCNA VIOCE
+content	education	 CCNP VOICE
+header	knowledge	SKILL SET
+content	knowledge	 Knowledge in CUCM clustering, deployment and
+content	knowledge	architecture.
+content	knowledge	 Knowledge about PSTN, PBX, RTP, RTCP, CCS and CAS.
+content	knowledge	 Configuring E1 PRI and Troubleshooting.
+content	knowledge	 Knowledge about Different manipulation Techniques
+content	knowledge	(VTR, Number Expansion etc) in Gateway.
+content	knowledge	 Knowledge about VLAN configuration.
+content	knowledge	 Configuring Route Group, Rout list, Rout pattern, SLRG,
+content	knowledge	LRG and Device Pool.
+content	knowledge	 Knowledge about calling Privileges (Partition, CSS, FAC
+content	knowledge	and CMC).
+content	knowledge	 Configuring hunt pilot, hunt list and line group for Call
+content	knowledge	hunting.
+content	knowledge	 Configuring and Troubleshooting of Extension Mobility.
+content	knowledge	 Knowledge in SRST for IP phone and MGCP gateways.
+content	knowledge	 Configuring Cisco unified mobility (mobile connect,
+content	knowledge	MVA).
+content	knowledge	 Knowledge in database replication.
+content	knowledge	 Manging and configuring POTS and VOIP dial-peer.
+content	knowledge	 Integrating CUC with CUCM using both SIP and SCCP
+content	knowledge	protocol.
+header	education	EDUCATION
+content	education	2012-15 : DIPLOMA IN ELECTRONICS ENGINEERING.
+content	education	 Under Technical Education of Kerala.
+content	education	2010-12 : HSC (Higher Secondary School Certificate).
+content	education	 G.V.H.S.S Cherpulassery.
+content	education	2009-10 : SSLC (Secondary School Leaving Certificate).
+content	education	 G.V.H.S.S Cherpulassery.
+header	others	DECLARATION
+content	others	I hereby declare that above furnished details are true and correct to the best of my
+content	others	knowledge and belief.
+meta	others	Date: MUHAMMED MUSTHAFA
+header	knowledge	Languages
+meta	knowledge	English
+meta	others	Tamil
+meta	others	ADDRESS
+meta	others	Door No. 1795, 13th Main,
+meta	others	banashankari 2st Stage,
+meta	others	Bangalore-560070
+header	others	PERSONAL DETAILS
+meta	others	Father’s Name : MUHAMMED
+meta	others	Gender : Male
+meta	others	Date of Birth : 03-02-1994
+meta	others	Nationality : Indian

@@ -1,0 +1,71 @@
+header	others	RESUME
+meta	others	Dinesh Kumar
+meta	others	Contact No.: +91-9915025433(M), +91-9888403043(H)
+meta	others	E-mail: Rjlucky432@gmail.com
+meta	others	Permanent Address: H.no-Ihds-26 Thapar Colony Phagwara
+meta	others	Distt. : Kapurthala,
+meta	others	State: Punjab
+meta	others	India
+header	others	CAREER OBJECTIVES:
+content	others	I seek challenging opportunities where i can improve my skill and experience for the success of the organization.
+header	education	BASIC ACADEMIC CREDENTIALS:
+content	education	Qualification
+content	education	Institute / University
+content	education	Pass Out
+content	education	Percentage
+content	education	MBA (Finance & Marketing)
+content	education	Punjab technical university
+content	education	2018
+content	education	76 %
+content	education	B.COM (prof)
+content	education	G.N.D. U
+content	education	2015
+content	education	58 %
+content	education	12th
+content	education	P.S.E. B
+content	education	2012
+content	education	75 %
+content	education	10th
+content	education	P.S.E, B
+content	education	2010
+content	education	78 %
+header	experience	Internship:
+content	experience	· Institution Name: Jct Mill Limited, PHAGWARA
+content	experience	· Work: Finance Training
+content	experience	· Project Title – Cash flow statement At, Jct Mill Limited
+content	experience	· Duration-6 Weeks
+header	knowledge	IT PROFICIENCY
+content	knowledge	· Operating System: Window XP, Window 7,Windows 8, Windows 10
+content	knowledge	· Basic Knowledge of Computer
+content	knowledge	(MS-Excel,MS-Word,MS-Powerpoint,Notepad)
+content	knowledge	· Knowledge of Internet
+header	experience	EXPERIENCE:
+content	experience	· Working July 2015 to till now working Accountant (include Gst return, Tds, bank recognition,Balance sheet)
+header	knowledge	KNOWLEDGE :
+content	knowledge	· GST RETURN
+content	knowledge	· INCOME TAX RETURN
+content	knowledge	· TDS RETURN
+content	knowledge	· SHARE MARKETING KNOWLEDGE
+header	knowledge	INTERPERSONAL SKILLS:
+content	knowledge	· I am determined, resourceful, hardworking and dedicated individual as well as team member.
+content	knowledge	· I am able to demonstrate my qualitative and quantitative skills in an efficient manner.
+header	knowledge	STRENGTHS:
+content	knowledge	· Punctual
+content	knowledge	· Can learn Things quickly
+content	knowledge	· Self Confidence
+content	knowledge	· Learning Attitude
+content	knowledge	· Motivator
+header	others	PERSONAL DETAILS:
+meta	others	· Father’s name :Mr.Shiv Kumar
+meta	others	· Mother’s name :Mrs.Vilma Devi
+meta	others	· Date of Birth :03-01-1994
+meta	knowledge	· Languages Known :English, Hindi, Punjabi
+meta	others	· Marital Status : Single
+meta	others	· Nationality : Indian
+meta	others	· Sex : Male
+meta	others	· Hobbies & Interest : Singing, Writing, Listening Music.
+header	others	DECLARATION:
+meta	others	I hereby certify that the information above furnished are true and correct to the best of my Knowledge and Belief.
+meta	others	Place:
+meta	others	Date:
+meta	others	(Dinesh Kumar)

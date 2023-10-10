@@ -1,0 +1,65 @@
+header	others	CURRICULUM VITAE
+header	others	CURRICULUM VITAE
+meta	others	Name-Akshay Murlidhar Bagde
+meta	others	Contact No. : - 7083332250
+meta	others	Email Id: - akshaybagde21@gmail.com
+header	others	Career Objective
+content	others	To build the career with sincere dedication towards the esteemed organization and to help organization to achieve its goal with effective decision making, Knowledge and problem solving skill with team members.
+header	education	Academic Qualification
+content	education	Examinations
+content	education	School/college name
+content	education	Board/University
+content	education	Year of Passing
+content	education	%
+content	education	B.Com
+content	education	Hislop Science College
+content	education	RTMNU (Nagpur University)
+content	education	2016
+content	education	52
+content	education	HSC
+content	education	Mohata Science College
+content	experience	Maharashtra Board
+content	education	2011
+content	education	51
+content	education	SSC
+content	experience	New Apostolic English High School
+content	education	Maharashtra Board
+content	education	2009
+content	education	69
+header	knowledge	Technical Skills
+content	knowledge	Operating systems: Windows OS
+content	knowledge	Computer software’s: MS-Office and all types of browsers.
+content	knowledge	MS-CIT , Typing (30 w.p.m. English)
+header	experience	Work Experience
+content	experience	Current Organization - Infosys BPM Ltd. Pune.
+content	experience	Period : From 27th June 2016 to till now
+content	experience	Job Profile: Working As a Senior Accountant in Account receivable (Cash application Team).
+content	experience	· Provided Improvement Idea. (Presented to V.P of finance, Client).
+content	experience	· Worked on Project with DMAIC methodology.
+content	experience	· Work allocation.
+content	experience	· Weekly Audit of work, reconciliation and their report preparation.
+content	experience	· Providing Query resolution and process updates by emails to the Team members.
+content	experience	· Handling customer escalation and providing refund to customer through different tracks.
+header	others	Awards
+content	others	· Extra miler and Sport award
+content	others	· Client Appreciation for Process Improvement Project
+header	education	Trainings
+content	education	· Milestone 2.0 training
+content	education	· T-100 Certified (Domain/Telecom)
+content	education	· Design Thinking
+header	others	Personal Profile
+meta	others	Name : Akshay Murlidhar Bagde
+meta	others	Father’s Name : Murlidhar Abhiman Bagde
+meta	others	Sex : Male
+meta	others	Marital Status : Single
+meta	others	Nationality : Indian
+meta	others	Date of Birth : 7th April 1993
+meta	others	Hobbies : Throw Ball (National, State level), Outdoor Sports.
+meta	others	Permanent Address : New Babul kheda, Nagpur Maharashtra Pin-440027
+meta	others	Residential Address: Dange Chowk, Pune Maharashtra, Pin-411033
+header	others	Declaration:
+meta	others	I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above-mentioned particulars.
+header	others	Date:
+header	others	Place:
+meta	others	Akshay Murlidhar Bagde
+meta	others	2

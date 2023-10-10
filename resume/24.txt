@@ -1,0 +1,100 @@
+meta	others	Nirav Doshi
+meta	others	Career objective
+meta	others	To achieve new heights in the field of Business Development, Strategic Marketing and After Sales Operations with the growth of the Organization
+header	education	Education Qualification
+header	education	EDUCATION
+content	education	YEAR OF PASSING
+content	education	COLLEGE / SCHOOL
+content	education	UNIVERSITY / BOARD
+content	education	PERCENTAGE
+content	education	PGP (Mktg)
+content	education	2008
+content	education	MIT SOB (PUNE)
+content	education	AUTONOMOUS
+content	education	64.02%
+content	education	(Aggregate)
+content	education	B.M.S.(Mktg)
+content	education	2005
+content	education	BIRLA COLLEGE (KALYAN)
+content	education	MUMBAI UNIVERSITY
+content	education	60%
+content	education	H.S.C
+content	education	2002
+content	education	C.H.M. COLLEGE (ULHASNAGAR)
+content	education	MAHARASHTRA BOARD
+content	education	59%
+content	education	(Second Class)
+content	education	S.S.C
+content	education	2000
+content	education	PMM INNER WHEEL SCHOOL (AMBARNATH)
+content	education	MAHARASHTRA
+content	education	BOARD
+content	education	69%
+content	education	(First Class)
+header	project	PROJECT UNDERTAKEN
+content	project	· NAME OF COMPANY: Honeywell Automation India Limited
+content	project	· BRANCH: Marketing Research
+content	project	· PROJECT TITLE: Strategic Business Planning For Honeywell’s Pharmaceutical Sector Automation Solutions
+content	project	· DURATION: Two Months
+content	project	extra curricular activities
+content	project	· Member of Youth Hostels Association of India.
+content	project	· Selected in all India Programme, “SHODH MARATHI MANACHA” held in MIT.
+content	project	· Selected for various events at College levels.
+header	experience	Professional experience
+content	experience	· Global Innovsource Solutions Pvt. Ltd.
+content	experience	Asst. Manager - Business Development, Staffing and Facilities.
+content	experience	From: July 2011 till date.
+header	experience	Responsibilities:
+content	experience	1. Providing recruitment and staffing support across the industry.
+content	experience	2. Meeting recruiters, HR Managers and briefing them on Database and other software used for recruitment and staffing process.
+content	experience	3. Exploring new areas for recruitment and staffing in the SME Sector.
+content	experience	4. Providing after sales support to the clients and maintaining good relationship with them.
+content	experience	· HDFC Bank Limited
+content	experience	Acquisition Manager - Premier Banking
+content	experience	From: Jan 2011 to July 2011
+header	experience	Responsibilities:
+content	experience	1. Acquire New Premier Relations for the Bank
+content	experience	2. Handle the Investment Portfolio of HNI and NRI clients of the Bank.
+content	experience	3. Cross sell various Asset Products.
+content	experience	4. Exploring new acquisition avenues through activities and research.
+content	experience	· All Check Deals India Pvt Ltd (A naukri.com Group Co.)
+content	experience	Sr. Executive, Residential Services
+content	experience	From: July 2009 to Dec 2010
+header	experience	Responsibilities:
+content	experience	1. Meeting HNI’s and NRI clients and giving them various investment proposals, briefing them about the product, convincing the customers.
+content	experience	2. Converting prospects into customers and achieving sales targets.
+content	experience	3. Providing after sales support to clients and create relationship with them.
+content	experience	4. Exploring new investment avenues through Market Research.
+content	experience	Achievements: Topped PAN India for the month of June 2010
+content	experience	Achieved the Sales target for Q2, Q3 (Dec 2009) and Yearend target for March 2010.
+content	experience	· Info Edge India Limited (naukri.com)
+content	experience	Sr. Executive
+content	experience	From: June 2008 to July 2009.
+content	experience	Responsibilities: (Corporate Sales)
+content	experience	1. Meeting Recruiters, HR Managers and briefing them on the Database and other Software used for Recruitment Process.
+content	experience	2. Streamlining the process of recruitment with the Consultants.
+content	experience	3. Exploring new areas for recruitment in the SME Sector.
+content	experience	4. Providing recruitment support across the Industry.
+header	others	Achievements: Sales target for Q2 (2008-09) and the Yearend target for March 2009.
+header	knowledge	Languages Known
+content	knowledge	· English, Hindi, Marathi (Read, Write and Speak)
+header	others	personal Information
+header	others	Date of Birth
+meta	others	: 15/09/1984
+meta	others	Gender : MALE
+header	others	Nationality
+meta	others	: INDIAN
+meta	others	Marital Status : Married
+meta	others	Location Preference : Mumbai / Pune
+meta	others	Hobbies : Driving, Listening Music, Travelling, Trekking
+meta	others	Permanent Address: Plot No.133, Kansai Section, Ambarnath, PIN – 421 501, Dist. Thane, MS
+meta	others	Family Background: FATHER: Retd. (Nicholas Piramal).
+meta	others	MOTHER: Service (Central Govt. - Railways)
+meta	others	WIFE: Presently on Pregnancy Leave
+header	experience	Date:
+meta	others	Place: Mumbai
+meta	others	(Nachiket A. Likhite)
+meta	others	Nachiket A. Likhite
+meta	others	E-mail: � HYPERLINK “mailto:nalikhite@gmail.com” ��nalikhite@gmail.com�
+meta	others	Contact: M: 98209 97917
+meta	others	CONTACT NO: 9226759751

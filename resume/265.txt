@@ -1,0 +1,115 @@
+header	others	CURRICULUM VITAE
+meta	others	Rohit Arun Kode.
+meta	others	Address: 4, Shri Krushna Krupa, Thergaon,
+meta	others	Chinchwad, Pune: 411033.
+meta	others	Cell : 8668589762 / 8657048151
+meta	others	Email: rohitkode02@gmail.com
+header	experience	Career Summary
+content	experience	A financial services professional with 2 years of experience in SAP R/3 FICO and hands on experience in GL, AP, AR. AA, & GST. Complete one support project that includes customizations, configuration in IMG, Documentation, end user training and post support. Also have an accounting experience in accounting in Tally ERP 9.0 on daily account writing and service tax working.
+header	knowledge	Detailed Sap Finance Skills:
+content	knowledge	Achieve a challenging position in the area of Enterprise Resource Planning (SAP), where my analytical, academic professional skills can be used to the benefit of the organization as well as my career growth.
+header	experience	Enterprise Structure:
+content	experience	Defined Company, company code,
+content	experience	Defined an assigned fiscal year variant, posting period variant, field status variant document number
+content	experience	range for various document type, tolerance group
+content	experience	Configured Chart of accounts (COA), accounts group
+content	experience	Controlling Area
+content	experience	Configured fiscal year variant, posting period and field status variant
+content	experience	General Ledger:
+content	experience	Created of G/L accounts
+content	experience	Defined tolerance for G/L accounts as well as employee level tolerance
+content	experience	Configured GL account by customizing account group and number range.
+content	experience	Configured sample document and recurring document.
+content	experience	Configured of park and hold document.
+content	experience	Accounts Payable and Accounts Receivable:
+content	experience	Created of Customer/Vendor Accounts Groups, Number Ranges, and Customer/ Vendor Masters
+content	experience	Creation
+content	experience	Processed parked A/R, A/P, G/L account documents and getting Reports for A/R, A/P based on
+content	experience	Requirements
+content	experience	Foreign currency invoice, Maintain Exchange Rate.
+content	experience	Configured of Special G/L Transactions, Parking document along with holding document
+content	experience	Processed Partial payment, Cash discount
+content	experience	Run manual /automatic of payment (APP) as well as clearing programmes
+content	experience	Configured Automatic Payment Program and Dunning for Vendors
+content	experience	Created House bank and assigned account numbers for House banks
+content	experience	Defined Dunning procedure to assign to customer master records and dunning run.
+header	experience	Asset Accounting:
+content	experience	Depreciation Methods, Chart of Depreciation, Depreciation Areas, Account Determination,
+content	experience	Screen Layout, Number ranges, Asset Classes, Creation of GL Accounts, Assign GL
+content	experience	Accounts, Calculation Methods, Depreciation Keys, Screen Layout for Asset Master Data,
+content	experience	Asset Master Records, Acquisition of Assets, Depreciation Run.
+header	experience	Controlling:
+content	experience	Define Controlling Area, Define Cost Centre, Profit Centre.
+content	experience	FI-SD Integration (Order to Cash Cycle)
+content	experience	FI-MM Integration (Procurement to Pay Cycle)
+header	experience	DETAILED EXPERIENCE:
+content	experience	1) Shalom ERP Pvt Ltd, Pune.
+content	experience	Company Profile: Shalom ERP is one of the global providers of Information Technology services and business solutions.
+content	experience	Specialize in providing complete customized IT business solution to small size and mid-size level companies.
+header	experience	Responsibilities:
+content	experience	SAP R/3 Post Support Project:
+content	experience	· Client : UB Engineering Ltd. Pune
+content	experience	· Role : SAP FI Consultant.
+content	experience	· Duration : July 2016 to till date.
+content	experience	· Basic setting for SAP FICO
+content	experience	· General Ledger Accounting:
+content	experience	· Basic setting for general ledger accounting, Chart of account, Posting period, Field status group, Document type, Account group, Tolerance for GL and employee group, Post general entries, Parking & Holding of documents, Reset and reverse documents, Cleating document, Cost centre, Profit centre, Prepares journal entries and financial statements, Reconciles bank accounts, Reconciles all other general ledger accounts, Works with auditors answering questions and providing support as necessary, Load journal entries into the general ledger and then validate loads for accuracy.
+content	experience	· Account Payable :
+content	experience	Basic setting for FI Vendor, Configuration of House Bank, Automatic payment program, Advance payment to Vendors, Payment term configuration, Cash discount. Creation of new vendor, Vendor reconciliation, vendor invoice, vendor manual payment, Vendor knocking off entries.
+content	experience	· Account Receivables:
+content	experience	Basic setting for FI customer, Advance receipt from customer, Dunning procedure, Special GL posting for Down Payment, Correction made in the configuration setting for different company codes as per clients requirements, Withholding tax, Creation of new customer, Customer reconciliation, Customer invoice, Customer incoming payment, Customer knocking off entries.
+content	experience	· Asset Accounting:
+content	experience	Basic setting for Asset Accounting, Asset acquisition, Asset master data, Run monthly depreciation, Asset explorer.
+content	experience	· Month End Activities:
+content	experience	Open and close posting period, Run monthly depreciation, Post provision entries, Vendor reconciliation, Customer reconciliation.
+content	experience	· Procurement to Pay & Order to Cash.
+content	experience	· Analyzing & resolving the issues on priority basis.
+content	experience	· Monthly presentation to the client on the FI ticket received during the month.
+content	experience	· Helping end user to post different transaction and generate various reports.
+content	experience	· Involved in end user training and preparing user manuals & trained employees at various levels for document entry with concepts like Reverse, Holding, and Parking.
+header	experience	2) Shree Krushnai Publication, wai.
+content	experience	Role: Jr. Accountant. (Part time)
+content	experience	Duration: Sept 2015 to April 2016
+content	experience	· Maintain accounting entries and S. Tax accounting entries.
+content	experience	· Preparing and submitting S. Tax Returns.
+content	experience	· Inspect account books and accounting systems to keep up to date
+content	experience	· Maintain Journal entries, sales, Purchase Entries in tally ERP 9.
+content	experience	· Organize and maintain financial records.
+content	experience	· Reconciliation of creditors, Debtors and Bank Account.
+content	experience	· Prepared Checks and Receipts (payable and receivable).
+content	experience	· Maintain Petty Cash book.
+header	education	Academic:
+content	education	Exams Passed
+content	education	College / School
+content	education	University/ Board
+content	education	Marks
+content	education	Pass Year
+content	education	B. Com.
+content	education	Kisan Veer Mahavidyalaya, Wai.
+content	education	Shivaji University
+content	education	59.17%
+content	education	2015-16
+content	education	H. S. C.
+content	education	Maharshi Shinde College, Wai.
+content	education	Maharashtra Board
+content	education	65.50%
+content	education	2012-13
+content	education	S. S. C.
+content	education	Patit pawan VidyaMandir, Ozarde.
+content	education	Maharashtra Board
+content	education	78.36%
+content	education	2010-11
+header	knowledge	Technical Skills:
+content	knowledge	SAP FICO.
+content	knowledge	GST Returns Filling (GSTR1,2,3)
+content	knowledge	CCC (Course on Computer Concepts)
+content	knowledge	Ms-Office.
+content	knowledge	Advanced Excel.
+content	knowledge	Certificate Programme in E-Accounting. (Tally ERP 9, Advance Accounting, Finalization of Accounts, Ms-Office, Direct Tax, Indirect Tax, Payroll, Networking.)
+header	others	Personal Information
+meta	others	Full Name: Mr. Rohit Arun Kode.
+meta	others	Father Name: Mr. Arun Narayan Kode.
+meta	others	Date of Birth: 02/06/1996.
+meta	others	Pan DZPPK8608R
+meta	knowledge	Language Known: Marathi, Hindi, English, German [Basic]
+meta	others	Permanent Address: At post: Ozarde, Tal: Wai, Dist: Satara.

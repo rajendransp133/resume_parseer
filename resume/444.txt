@@ -1,0 +1,110 @@
+meta	others	P
+header	others	RESUME
+meta	others	Mobile No: 9642167000
+meta	others	SRINIVAS REDDY.P e-mail ID: padamatis@yahoo.co.in
+meta	others	padamatis78@gmail.com
+header	experience	Career Objective
+meta	others	To achieve a position that allows me to enhance my analytical, operational and managerial skills and dynamically work towards growth and success of the organization.
+header	experience	Work Experience
+content	experience	Total 18 years of experience in Finance and Accounting
+content	experience	Current Organization: Genpact India, Hyderabad
+content	experience	Functional Area: Financial Services
+content	experience	Sub Functional Area: R2R, General Ledger Reconciliation, Intercompany and
+content	experience	MIS Reporting
+content	experience	Current Position: Assistant Manager � Finance and Accounts
+content	experience	Transitions
+content	experience	Completed three overseas Client F & A Transitions related to General Ledger, Intercompany and Revenue Recognition processes. Successfully stabilized the new processes.
+header	experience	Applications Exposure
+content	experience	· Experience with working on Oracle General Ledger
+content	experience	· Seasoned in using MS Office application
+content	experience	· Experience on working with SAP General Ledger
+content	experience	· Hands on experience in utilizing Hyperion, TM1, Bison, Qlikview and other reporting tools
+header	education	Academic Details
+content	education	· MBA Finance from Holy Mother P.G. College, Osmania University in the year 2015
+content	education	· Bachelor of Commerce from Pragati Maha Vidyalaya,
+content	education	Osmania University in the year 1998
+content	education	· Intermediate in CEC from Agarwal Junior College,
+content	education	Board of Intermediate in the year 1995
+content	education	· S.S.C from St.Donald�s High School, Board of Secondary Education in the year 1993
+header	experience	Summary of Skills and Experience
+header	experience	1. Position: Assistant Manager, Finance
+content	experience	Company: Genpact India, Hyderabad
+content	experience	Period: June 2012 to till date
+content	experience	Successfully transition the R2R processes related to US clients. Achieved Go-Live status within specified timelines across the account and was recognized with silver award.
+content	experience	· Prepared the process flow charts and Standard Operating Procedures for various sub-processes involved.
+content	experience	· Managing a team of twelve members involved in multi-business functions which include General Ledger Accounting and Transaction Processing.
+content	experience	· Involved in Reconciliation of General Ledger Accounts and Preparation of Financial Reports.
+content	experience	· Financial Planning and Analysis. Allocation of Estimates and actuals in Hyperion.
+content	experience	· Preparing monthly Reports using TM1, Bison and MS office applications.
+content	experience	· Setting up goals for the team and monitoring the stringent SLA�s of the team.
+content	experience	· Handling daily and monthly calls with overseas process owners to understand requirements and resolve process related issues.
+content	experience	· People Management for effective and smooth running of the business.
+content	experience	· Helping the team in development of their skill sets to expand the team capabilities and provide growth opportunities.
+header	experience	2. Position: Lead, Finance and Accounts
+content	experience	Company: IBM Global Business Process Services, Bangalore
+content	experience	Period: Oct 2009 to May 2012
+content	experience	Travelled to Seoul, South Korea for two times and successfully transitioned the process from client location in the year 2010 and 2011. Achieved Go-Live status within specified timelines across the account.
+content	experience	· The responsibilities include monitoring the GL accounts, passing journal entries, reviewing reconciliations and managing the day to day process involving a team of five. Trained the team members on sub-processes.
+content	experience	· Handled Intercompany Transactions like Sales Commission, Loan Labor, Installment and Warranty charges, Employee Relocation Charges and Freight Charges.
+content	experience	· Revenue Recognition Process related to Different Business Groups like System Enhancement, APG and Display.
+content	experience	· Intercompany and General Ledger Accounts Reconciliation.
+content	experience	· Preparation and submission of KPI and ABC Volume reports.
+content	experience	· Handling calls with the counter parties and clients.
+content	experience	· Preparing Management Dashboard Reports along with Power Point Presentations.
+header	experience	3. Position: Sr. Executive � F & A
+content	experience	Company: IBM Global Business Process Services, Bangalore
+content	experience	Period: March�2007 to September�2009
+content	experience	· Responsibilities includes processing of Journal Entries in SAP like Provisions for Insurance, Advertising, Promotional expenses, Bonus and Restructuring provisions
+content	experience	· Accruals booking like allowances to employees, Traveling expenses and Service fee.
+content	experience	· Customer and Vendor Accounts Reconciliation
+content	experience	· Preparation of Adhoc Reports as required by management and clients
+header	experience	4. Position: Internal Auditor
+content	experience	Company: Acer Motors (Authorized dealer of Maruti Udyog Limited), Trimulgherry, Hyderabad
+content	experience	Period: October� 2003 to February� 2007
+content	experience	· Duties & Responsibilities includes verification of Purchase and Sale Invoices
+content	experience	of vehicles ,Spares & Accessories
+content	experience	· Auditing of Accounting Vouchers like Cash Payments, Cash Receipts,
+content	experience	Bank Payments, Bank Receipts and Journal Vouchers.
+content	experience	· Checking of Ledger entries in Tally and Oracle accounting software of Maruti Udyog Limited
+content	experience	· Preparation of monthly Audit Reports of Accessories, Spares and
+content	experience	Workshop Departments
+content	experience	· Dealing with Service Advisors regarding receivables
+content	experience	· Preparation of Payments to Contractors
+content	experience	5. Position: Accountant
+content	experience	Company: Rahul Auto Bajaj, Begumpet, Hyderabad
+content	experience	Period: August� 1999 to September� 2003
+content	experience	· Preparation of Accounting Vouchers, day-to-day accounting activities
+content	experience	· Dealing with Debtors and Creditors regarding due dates and account balances
+content	experience	· Liaison with financial institutions and banks
+content	experience	· Preparation of Bank Reconciliation Statements
+content	experience	· Finalization of Annual Accounting and preparing the Financial Reports
+header	others	Achievements
+content	others	Attended most of the OD trainings like SAP, Time Management, 7 Habits of Highly efficient people and Presentation skills which improved my skills in all of these areas to grow individually and dynamically work towards growth and success of the organization.
+content	others	Got many awards for successfully handling the processes.
+content	others	Star Award for Q1 2018
+content	others	Individual extra miler Award for Q2 2017 & Q1 2016. STAR award for Q2 2015.
+content	others	Best Team Player Award for 2012.
+content	others	Received Service Recognition Award in March�12.
+content	others	Received Super Talented AchieveR for 2011.
+header	experience	Experienced in on-shore transition and remote KT (Knowledge transfer).
+content	others	Trained the team mates to perform well in processing of Journal entries and reconciliation process.
+content	experience	Always try to look out for more learning and opportunities that come in my way and prepared myself to take more responsibilities.
+header	others	Personal Details
+header	others	Full Name
+meta	others	:
+meta	others	Srinivas Reddy Padamati
+meta	others	Father Name : Satyanarayana Reddy. P
+header	others	Date of Birth
+meta	others	: 31st May, 1978
+header	knowledge	Languages known
+meta	knowledge	: English, Telugu and Hindi
+meta	others	Strengths : Quick Learning of new activities.
+meta	others	Shown positive behavior to overcome various challenges.
+meta	others	Marital Status
+meta	others	: Married
+meta	others	Present & Permanent Address:
+meta	others	H. No. 1-1-90, Plot No. 32,
+meta	others	Road No. 1, Shringeri Colony,
+meta	others	Kothapet, Hyderabad � 500035.
+meta	others	Landline No. 040-24031678
+meta	others	Place: Hyderabad (Srinivas Reddy. P)

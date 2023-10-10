@@ -1,0 +1,78 @@
+meta	others	Phone:​ +91 8108506489
+meta	others	Email:​ ​jazz.zaidi@gmail.com
+meta	others	Jasmine Zaidi
+header	others	Career goal
+content	others	Proactive individual with proficient working experience of 9 Years, holding Degree in Commerce. Excellence in team
+content	others	management, analyzing business requirements, QA auditing Risk Compliance and analytical skills. Enhancing career
+content	others	prospects while making optimum utilization of the knowledge & skills under the branches of that institution. I aspire for
+content	others	Responsible Position to discover uncovered possibilities within any suitable arena
+header	knowledge	Core Competencies
+content	knowledge	● Team Management
+content	knowledge	● Analytical / Logical Skills
+content	knowledge	● Problem Solving Skills
+content	knowledge	● Flexible & Creative
+content	knowledge	● Result Oriented
+content	knowledge	● Communication / Verbal Skills
+header	knowledge	Technical Proficiencies
+content	knowledge	● MS Office, Google Docs, Google Slide & Google Sheets
+content	knowledge	● Operating Systems: Chrome OS, Windows XP, 7, 8 & 10
+header	experience	EXPERIENCE
+content	experience	Accenture, Hyderabad ​— Quality Analyst for Google process
+content	experience	2016 June – 2018 April
+content	experience	● Google Play & Hardware
+header	experience	Roles & Responsibility
+content	experience	● Managed Quality Assurance for a Social Media giant
+content	experience	● Trained employees on E-Service Troubleshooting
+content	experience	● Played an important role in transitioning process on multiple occasions by supporting training,quality and CSAT
+content	experience	● Independently handled process refreshers,created canned responses,shared best practice talk off’s and website
+content	experience	troubleshooting methods
+content	experience	● Attended client calls on regular basis to share site performance updates
+content	experience	● Successfully handled complaints tracking project which helped the company track, review and resolve customer
+content	experience	issues
+content	experience	● Handled customer escalations
+content	experience	● Special focus on Quality and Voice of customer
+content	experience	● Communicated process updates to the team on a Daily basis
+content	experience	Accenture, Mumbai ​— Process Trainer /Subject matter Expert
+content	experience	2012 May – 2016 May
+content	experience	Zenta Pvt Ltd / Accenture Mumbai ​— Customer care executive
+content	experience	2010 Mar – 2012 (2011 Accenture takeover)
+content	experience	● PHH Mortgage services
+content	experience	mailto:jazz.zaidi@gmail.com
+header	experience	Roles & Responsibility
+content	experience	● Operations Management focusing on maximizing customer satisfaction and process
+content	experience	compliance
+content	experience	● Process Improvement Initiatives to achieve maximum efficiency in various operations
+content	experience	● Upskill & New product training
+content	experience	● Trained bottom performer for BCP (Business Continuity Plan)
+content	experience	● Maintained and updated the training manual with timely calibration with the clients
+content	experience	● Updated the whole process as and when required
+content	experience	● Ensured Accuracy In Evaluation Of Calls Consistently
+content	experience	● Regularly coordinated with the clients to ensure calibration
+content	experience	● Monitored Escalated Complaints And Provide Feedback
+content	experience	● Maintained And Published Production Report To The Team
+content	experience	Adventity (Sutherland), Location(Mumbai) ​ — Customer Service Executive
+content	experience	2009 Mar – 2010 Feb
+content	experience	● Dish TV & Healthcare
+header	experience	Roles & Responsibility
+content	experience	● Retained and handled customers complaint for the business
+content	experience	● Maintain ownership of customer issues until problem resolution
+content	experience	● Achieving the sales target set by the process under quality guidelines
+content	experience	● Working under limited supervision with little direction from management and adheres to
+content	experience	administrative policies and escalation procedures
+header	others	SIGNIFICANT ACCOMPLISHMENTS
+content	others	● Achieved multiple appreciations from operation for improving the performance of the bottom performer
+content	others	● Achieved appreciation from client for being excellent in handling BCP in overall location
+content	others	● Instrumental in helping the process achieve Gen4 status as per OE standards
+content	others	● Encore award for performing consistently throughout the year
+content	others	● Achieved personal and team SLA’s every month
+header	education	EDUCATION
+content	education	● Bcom from Mumbai University
+content	education	● HSC from Ratnam College of Science
+content	education	● Proficient with Operational Excellence methodology
+header	others	PERSONAL DETAILS
+meta	others	Date Of Birth :​ 9th March
+meta	knowledge	Languages Known : ​English, Hindi & Marathi
+meta	others	Nationality : ​Indian
+meta	others	Personal Interests : ​Cycling, Eating & Sleeping
+meta	others	Place:​ Mumbai ​Jasmine Zaidi
+meta	others	Date :

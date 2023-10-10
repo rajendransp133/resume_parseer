@@ -1,0 +1,102 @@
+header	others	Contact Details:
+meta	others	Dr. Ayanti Kundu Medical Writing/Pharmacovigilance
+meta	others	Contact Details:
+meta	others	Present Address
+meta	others	Permanent Address
+meta	others	B-201, Rudra Appartment C/O Mr. Tirtha Kundu
+meta	others	Near Harishkunj Society
+meta	others	A-6 V.I.P Park Vejalpur, Ahmedabad
+meta	others	P.O.Prafulla Kanan
+meta	others	(Cell) +91 9227495166
+meta	others	Kolkata-101
+meta	others	Email:drayan.kundu5@gmail.com
+meta	others	ayanti.kundu@cadilapharma.co.in
+header	others	CAREER OBJECTIVE:-
+content	others	To pursue a challenging, growth oriented and a responsible position in field, which will lead me to further utilization of my knowledge and experience to become a competent professional.
+header	experience	JOB SUMMARY:-
+content	experience	Total 6.5 yrs of experience (2yrs in Hospital as a Physician + 4.5 yrs in CRO).
+content	experience	Presently working as Research Scientist-I in the Department of Medical Regulatory writing of Cadila Pharmaceuticals Limited, Ahmedabad.
+header	experience	WORK EXPERIENCE:-
+content	experience	1. Nov. 2007-till date in Cadila CRO.( Position: Regulatory Writer)
+content	experience	2. House staffship in the Deptt.of Medicine for 1yr.in State Govt. Hospital.
+content	experience	3. Internship in the Dept.of Medicine, Paediatrics, Dermatology and Gynecology & Obstetrics for 4 months in M.R.Bangur Hospital (Govt. Of West Bengal).
+content	experience	4. Internship in the Dept.of Medicine, Community Medicine, Surgery, Ophthalmology, ENT and Dentistry for 8 months in The C.H. Medical College & Hospital (Govt. of West Bengal).
+content	experience	5. Private practice in local clinic.
+header	experience	JOB PROFILE:-
+content	experience	· Report preparation (CSR) for ANDA (USFDA), MHRA, WHO and ROW submission.
+content	experience	· Preparation of Modules as per CTD guideline.
+content	experience	· Preparation of Module 2 (Summary) and Module 5 for ANDA submission.
+content	experience	· Preparation of protocols and reports according to the requirements of regulatory agencies and clients for BA/BE studies.
+content	experience	· Preparation of CSR as per ICH E3 format for BA/BE.
+content	experience	· Preparation of CSR and safety reports for clinical Trials Phase I - IV (CT).
+content	experience	· Preparation of BTIF for BA/BE for submission in WHO.
+content	experience	· Query resolution and compilation related to clinical study reports and protocols and timely reply to queries from regulators and sponsors for BE studies.
+content	experience	· Literature search to generate protocol synopsis.
+content	experience	· Report compilation as per Regulatory Guidelines.
+content	experience	· QCed of the final compiled report.
+content	experience	· Ensure all documents are well-organized, accurate, consistent, and in compliance with applicable company SOPs and regulations.
+content	experience	· Preparation of SOPs related to Regulatory / Medical Writing.
+content	experience	· Protocol presentation.
+content	experience	· Poster presentation.
+content	experience	· Basic knowledge to operate WinNonlin and SAS softwares for Pharmacokinetic and statistical analysis for BA/BE study.
+content	experience	· To prepare randomization schedule and coding sheet for BA/BE.
+content	experience	· Conducting SOP training and presentation for up gradation of knowledge.
+content	experience	· Data Analysis by using Winnonlin and SAS software (Randomization, Primary & Final Analysis of Un & Ln Transformed Data, Presentation of Graphs, SAS output and Statistical Report & appendix preparation according to ICH E3.
+header	education	ACADEMICS:-
+content	education	· MSc. in Medical Sociology (2011).
+content	education	· PG Dip. in Clinical Research (2007) (1yr classroom+1yr internship): American Institute of Pharmaceutical technology (USA). (87% - First Class*).
+content	education	· B.H.M.S (2005): University of Calcutta (65 %- First Class).
+content	education	· HIGHER SECONDARY (1997): W.B.C.H.S.E (66% - First Class).
+content	education	· SECONDARY (1995): W.B.B.S.E (81% First Class*).
+header	project	PROJECTS:-
+content	experience	· Training on ICH-GCP, FDA regulations regarding Clinical Trials, Drug and Cosmetic Act 1940 India and their application organized by Cadila CRO.
+content	experience	· During internship of PG Dip. in Clinical research gained hands-on experience in PK and Statistical calculation of plasma concentrations and report preparation and compilation for a BA/BE study.
+content	experience	· During internship of PG Dip. in Clinical research gained hands-on experience in the Dept. of BE clinical, medical writing, API and formulation regulatory with proper SOP training.
+content	experience	· Classroom project during PG Dip course on BE study & techniques of Pharmaceutical dosage form.
+content	experience	· Field visit in a GMP – complained Pharmaceutical Company.
+header	others	ACHIEVEMENTS:-
+content	others	· Ranked within the top 5 at the graduating level.
+content	others	· NATIONAL MERIT SCHOLARSHIP 1995 from W.B.B.S.E. with ranking 110 in Madhyamik.
+content	others	· Faced ANVISA, DCGI, WHO and various sponsors’ audit successfully.
+content	others	· Familiar with ICH E6, ICH E3, USFDA, DCGI, EMEA and TGA guidelines for BA/BE study design, report preparation.
+header	experience	PRESENTATION/SEMINAR:-
+content	experience	· Poster presentation at Cadila CRO on “The New Regulatory Environment in CTD”.
+content	experience	· Poster presentation at Cadila CRO on “The Bioequivalence Study Design”.
+content	experience	· Poster presentation at Cadila CRO on “How to Write a Good Scientific Paper”.
+header	knowledge	COMPUTER EXPOSURE:-
+content	knowledge	· Statistical Packages: SAS and WinNonlin (Basic knowledge).
+content	knowledge	· Operating Systems: MS DOS, MS WORD, MS EXCEL, MS POWER POINT,
+content	knowledge	WINDOWS 98/XP, INTERNET
+content	knowledge	· Medical Software: HOMPATH CLASSIC, CARA.
+header	others	PERSONAL DETAILS:-
+meta	others	NAME
+meta	others	:
+meta	others	Dr Ayanti Kundu
+meta	others	PARMENANT ADDRESS : C/O Mr. Tirtha Kundu
+meta	others	A-6, V.I.P Park
+meta	others	P.O. prafulla Kanan
+meta	others	Kolkata-101
+meta	others	West Bengal.
+meta	others	NATIONALITY
+meta	others	:
+meta	others	Indian
+meta	knowledge	LANGUAGE KNOWN : English, Hindi, Bengali
+meta	others	PASSPORT NUMBER : E 5160406
+header	knowledge	STRENGTHS & COMPETENCIES:-
+meta	knowledge	I am very friendly in nature. Punctual and sincere in my work. Can do any sort of work preferably challenging work. Like to utilize maximum of my time constructively and do not like to work pending on next day. Willingness to learn from each moment of the life.
+header	others	REFERENCES:-
+meta	others	Dr. Bhaswat Chakraborty; B Pharm, PhD
+meta	others	Sr.Vice President, Cadila CRO
+meta	others	Ph. 09879112032(M)
+meta	others	E-mail: bhaswatchakraborty@yahoo.co.in
+meta	others	Dr. Anil Patel; M.D.
+meta	others	Manager
+meta	others	Regulatory Affairs
+meta	others	Zydus Cadila
+meta	others	Ph. 09825112326(M)
+meta	others	E-mail: anilpatel@zyduscadila.com
+meta	others	DECLARATION:-
+meta	others	I hereby declare that the above mentioned information is correct to the best of my knowledge.
+meta	others	DATE: 12/04/2012 DR. AYANTI KUNDU
+meta	others	PLACE: Ahmedabad B.H.M.S. (CAL), MSc. (Madras) P. G. Dip. CRA (USA)
+meta	others	Page 1 of 4

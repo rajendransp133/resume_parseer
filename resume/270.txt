@@ -1,0 +1,58 @@
+header	others	CURRICULUM VITAE
+meta	others	PRASHANT D. MANKAR CONTACT DETAILS
+meta	others	Flat No-407, B-Wing,
+meta	others	Mobile: 9727698902
+meta	others	Shirang Apartment,
+meta	others	Email: prashant.mankar1@gmail.com
+meta	others	Nava vadaj, Ahmedabad
+meta	others	________________________________________________________________________
+header	others	OBJECTIVE:
+content	others	To sincerely contribute my knowledge to the organization that will have complete job satisfaction leading to individual overall growth with the growth of the organization.
+header	experience	WORK EXPERIENCE:
+content	experience	· Currently working with “Zydus Cadila Healthcare Ltd.” Ahmedabad, as ‘Sr. Executive-Regulatory Affairs’ from April 2012 to till date.
+content	experience	· Worked as “Executive-Regulatory Affairs” at ‘Torrent Pharmaceuticals Ltd.’, Ahmedabad from November 2009 to April 2012.
+content	experience	· Worked as “Quality Assurance-Officer” at ‘AnaZeal Analytical & Research Pvt. Ltd.’, Mumbai from May 2008 to October 2009.
+content	experience	· Worked as “Trainee Scientist” at ‘Torrent Research Center’, Ahmedabad from September 2007 to April 2008.
+content	experience	· One month Industrial training at Hindustan Antibiotics Ltd.(A.Govt. of India Enterprises), Pimpari, Pune – 411018.
+header	experience	JOB DESCRIPTION:
+content	experience	· Zydus Cadila Healthcare Ltd. -
+content	experience	· Review CMC documents for module 3 and prepare dossier in CTD format.
+content	experience	· Product registration for national market.
+content	experience	· Co-ordination with QA, plant, R&D for documentation & query response.
+content	experience	· Torrent Pharmaceuticals Ltd. -
+content	experience	· Prepare dossier for national market and in NeeS format.
+content	experience	· Review analytical method validation, specification, STP and stability documents.
+content	experience	· Review PDR, BMR, MFC, process validation report.
+content	experience	· Review art work, packing material specification, prescribing information (PI).
+content	experience	· Review PSUR & P2P documents (Principle to Principle).
+content	experience	· Evaluate queries raised by regulatory authority & making response.
+content	experience	· Anazeal Analytical & Research Pvt. Ltd. -
+content	experience	· Review clinical study report, bioanalytical study report, CRF, ICF, etc. (module 5)
+content	experience	· Conduct audit of ongoing clinical studies.
+header	education	EDUCATIONAL QUALIFICATION:
+content	education	· M. Pharmacy (Quality Assurance) with GPA 8.29 from Annamalai University in May 2008.
+content	education	· B. Pharmacy with 59.50% from Modern college of Pharmacy, Pune University in April 2006.
+content	education	· HSC with 75.50% from Pune University in March 2002.
+content	education	· SSC with 78.40% from Pune University in March 2000.
+header	experience	M. PHARMACY THESIS WORK:
+content	experience	Title of Thesis: – ‘Analytical Method development and Validation of Esomeprazole Magnesium Capsule.’
+content	experience	In this project I did Assay as well as Dissolution Method development and Validation of Esomeprazole Magnesium Capsule.
+header	knowledge	TECHNICAL SKILL:
+content	knowledge	· Knowledge of ICH guideline.
+content	knowledge	· Knowledge of global regulatory regulation and guideline.
+content	knowledge	· Proficient in Microsoft office Tools and Internet.
+header	others	PERSONAL DETAILS:
+meta	others	· Date of Birth
+meta	others	: 2nd August 1984.
+meta	others	· Marital Status
+meta	others	: Married
+header	knowledge	· Languages known
+meta	knowledge	: Marathi, Hindi & English
+meta	others	· Hobbies & Interest : Playing Cricket, Listening Music, Reading.
+meta	others	· Email : prashant.mankar1@gmail.com
+meta	others	· Permanent Address : Raw Ho.-2, Sahil Park
+meta	others	Sect-16, Chikhali pradhikaran,
+meta	others	Raje shivajinager, Pune-411019
+header	others	REFERENCE:
+meta	others	1) Mr. Pankaj Pare, Scientist, Torrent Pharmaceutical Ltd, Gujarat.
+meta	others	2) Ms.Archana Karlekar, Q.A. Manager, Anazeal Analytical &Research Pvt.Ltd. Mumbai.

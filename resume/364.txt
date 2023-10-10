@@ -1,0 +1,74 @@
+meta	others	Bharat Sanghtani
+meta	others	(Financial Analyst, MBA Finance)
+meta	others	Mobile: 9904914913 Residence: 8320338983
+meta	others	E-Mail ID: - bsanghtani@gmail.com
+meta	others	Address: 80/1, kanwargali, Thakkarbapanagar
+meta	others	Ahmedabad-382350
+header	others	Career Objective
+content	others	To engage in a career that will allow for progress in terms of expertise, socio-economic development, and innovation through exposure to new ideas for professional growth, as well as growth of the company.
+header	knowledge	Technical Skills
+content	knowledge	· Outlook
+content	knowledge	· Word
+content	knowledge	· Excel
+content	knowledge	· PowerPoint
+content	knowledge	· Tally ERP 9.0
+header	experience	EMPLOYMENT
+content	experience	Current Job-Financial Analyst
+content	experience	7/2016-Present, I-serve Systems Pvt. Ltd
+content	experience	· Consolidating and analyzing financial data, taking into account company’s goals and financial standing
+content	experience	· Assembling and summarizing data to structure sophisticated reports on financial status and risks
+content	experience	· Preparation of quaterly balance sheet, income statement and cash flow statement
+content	experience	· Analysing production data and preparation of production report
+header	others	Achievements:
+content	others	· Became best performer in six month of joining the company
+content	others	· Lead the hedging project and helped others to finish it on time
+content	experience	Previous Job-Customer Service Executive
+content	experience	11/2013-6/2016, MotifInfotech Ltd., Ahmedabad
+content	experience	Handling customer inquiries, complains, work as a mediator and resolve their queries through Web chats and emails.
+header	education	Educational Qualifications
+content	education	Degree
+content	education	Institute / University
+content	education	Year
+content	education	Percentage/Spi
+content	education	Class
+content	education	MBA
+content	education	(Finance)
+content	education	NRIBM, Gujarat
+content	education	2013
+content	education	Sem IV-8.02
+content	education	First
+content	education	B.B.A.
+content	education	Gujarat University
+content	education	2011
+content	education	65.10
+content	education	First
+content	education	HSC
+content	education	GHSEB
+content	education	2008
+content	education	76.14
+content	education	Distinction
+content	education	SSC
+content	education	GSEB
+content	education	2006
+content	education	63.84
+content	education	First
+header	project	Major Projects:
+header	project	Comprehensive Project:
+content	experience	Title: - Comparative analysis of PVT & PSU banks with regard to performance & banking reforms
+content	experience	Objective: Study and analysis of non-performing asset of banks and performance before the reform policy and after the reform policy
+header	project	Summer Project:
+content	experience	Title: - investor’s preference for commodity over equity
+content	experience	Objective: To study the growth of commodity market over the last few years
+content	experience	Projects Undertaken during MBA
+content	experience	1. Study of Black money in India.
+content	experience	2. Project on Corporate social responsibility of Cadila pharmaceuticals limited.
+content	experience	3. Project on Job satisfaction of employees in Divyabhaskar, Ahmedabad.
+content	experience	References
+content	experience	Ravi Vadgama
+content	experience	Senior Financial Analyst,
+content	experience	I-serve Systems Pvt. Ltd.,
+content	experience	Mobile: 9016141961
+content	experience	Nawaz Khan,
+content	experience	Auditor,
+content	experience	Motif Infotech Pvt.Ltd.,
+meta	others	Mobile: 8460295991

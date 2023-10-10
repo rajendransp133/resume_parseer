@@ -1,0 +1,33 @@
+meta	others	Tejaswani Satapathy
+meta	others	+91 9032177078
+meta	others	tejaswanisatapathy18@gmail.com
+header	experience	To work in a challenging environment that promises growth as well as opportunity to learn more.
+header	experience	To shoulder responsibilities effectively and contribute towards the growth of the organization
+content	experience	with the skills I possess and have developed.
+content	knowledge	• Good working knowledge of computer i.e., MS-Office
+content	experience	• Excellent verbal & written communication & presentation skills.
+content	experience	• Good client management skills with eye for detailing, proactively identifying gaps in
+content	experience	processes and flag it to internal leadership & client as appropriate.
+content	experience	• Good Interpersonal & people management skills with good problem solving approach.
+content	experience	• Ability to exercise managerial judgment and perform as a mentor. Ability to multi task
+content	experience	multiple activities by effective delegation and monitoring.
+content	experience	• Demonstrated efficient Customer Service Skills.
+content	experience	• Customer Service Professional - (BPS Non-Voice).
+content	experience	Wipro / Senior Analyst
+content	experience	(June 2015 – May 2017, HYD)
+content	experience	• Work towards improving teams Performance.
+content	experience	• Work towards contributing my performance in meeting Team SLA/SLA+.
+content	experience	• Providing feedback to everyone in the team and enhancing quality of the work.
+content	experience	• Experience working with digital marketing websites.
+content	experience	Cognizant Corporation / Senior Process Associate
+content	experience	(June 2017 – 15 March 2018, HYD)
+content	experience	• Auditing and filtering of ads on Facebook official pages
+content	experience	• Labeling of ads for various ecommerce and digital platform sites/clients
+content	experience	• Keyword selection
+content	experience	• MIS Operations
+content	experience	Swami Vivekanand Technical University/ B.E
+content	experience	Aug 2009 - Aug 2013, Chattisgarh
+content	experience	Bharat Mata Higher secondary school / Intermediate
+content	experience	Apr 2008 - Apr 2009, Chattisgarh
+content	knowledge	Written: English, Hindi
+content	knowledge	Oral: English, Hindi, Oriya & Bengali

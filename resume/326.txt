@@ -1,0 +1,58 @@
+header	others	RESUME
+meta	others	MURULI M S
+meta	others	Contact: 9538690209
+meta	others	E-mail: murumagadi@gmail.com
+meta	others	Objective:
+content	others	Seeking for a Responsible Position in an Organization where I can enhance my Knowledge and contribute towards the growth of the organization and to demonstrate competence,
+header	knowledge	Strengths:
+content	knowledge	Ability to deal with people diplomatically, having potential problem solving abilities..
+header	education	Educational details:
+content	education	Qualification
+content	education	Institute/university
+content	education	Year of Passing
+content	education	M.A
+content	education	K.S.O.U Mysore
+content	education	2015
+content	education	B.Com
+content	education	Government First Grade College, Magadi. (Bangalore University)
+content	education	2010
+content	education	II PUC
+content	education	Government Junior P U College Magadi, Ramanagara dist
+content	education	2007
+content	education	10TH
+content	education	Government junior college Magadi, Ramanagara Dist.
+content	education	2005
+header	knowledge	Technical Skills:
+content	knowledge	1. Windows XP
+content	knowledge	1. M.S Word, M.S Excel
+content	knowledge	1. Tally ERP9
+header	experience	Work Experience :
+content	experience	2Years Experience In Magadi police station (computer oparater) Magadi.
+content	experience	2 Years Experience Boomika Associate (Accounting Asst) Magadi.
+content	experience	3 Years Experience Shiva commercials (Accounting Asst) Magadi.
+header	experience	Job Function:
+content	experience	1. Cheque Preparation
+content	experience	1. Data entry
+content	experience	1. Vendor Reconciliation
+content	experience	1. Bank Letter Preparation
+content	experience	1. Filling & Vouching Bills
+content	experience	1. Bank & Cash Entry
+content	experience	1. Inter unit Reconciliation
+content	experience	1. Purchase voucher Entry
+header	experience	1. Accounts Payable and Receivables
+header	others	Personal Information:
+meta	others	Father Name : Somashekara
+meta	others	Sex : Male
+meta	others	Marital status : Single
+meta	others	D.O.B : 01.06.1990
+meta	knowledge	Languages : Kannada, English, Hindi
+meta	others	Hobbies : Debets, Essay writing, Reading books
+meta	others	Address for Communication:
+meta	others	Muruli M S
+meta	others	S/o Lt Somashekara
+meta	others	Kottanagere Street, Magadi Town,
+meta	others	Magadi Tq, Ramanagara Dt.
+meta	others	Yours Faithfully
+meta	others	(Muruli M S)
+meta	others	Date:
+meta	others	Place:

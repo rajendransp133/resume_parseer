@@ -1,0 +1,100 @@
+header	others	CURRICULUM VITAE
+meta	others	VIJAY DHABALIYA
+meta	others	E-19,Sukanchan Soc,,
+meta	others	Mobile: 09224332474
+meta	others	Tanki Road, Email ID: vijaydhabaliya@gmail.com
+meta	others	Nallasopara (E),
+meta	others	Mumbai – 401 209
+header	others	OBJECTIVE
+content	others	To work in an organization, which will give me ample opportunities to grow and hence
+content	others	help in overall growth of organization and myself.
+header	education	EDUCATION
+content	education	Qualification
+content	education	Name of the Institute/ School
+content	education	Name of the University/ Board
+content	education	Percentage Obtained %
+content	education	Year of Passing
+content	education	M.Com - II
+content	education	Mumbai University
+content	education	Mumbai University
+meta	others	–-
+content	education	Appeared in May 2012
+content	education	M.Com - I
+content	education	Mumbai University
+content	education	Mumbai University
+content	education	55.00 %
+content	education	July 2011
+content	education	B.Com.
+content	education	Shri chinai College of Comm & Eco.
+content	education	Mumbai University
+content	education	65 .71%
+content	education	April 2009
+content	education	H.S.C.
+content	education	Shri chinai College of Comm & Eco.
+content	education	Maharashtra Board
+content	education	59.00 %
+content	education	March 2006
+content	education	S.S.C.
+content	education	Shishu Vidhyalaya
+content	education	Maharashtra Board
+content	education	69.73%
+content	education	March 2004
+header	education	ADDITIONAL QUALIFICATION
+header	knowledge	1) COMPUTER KNOWLEDGE
+content	knowledge	i) Basic Knowledge– Office Automation
+content	knowledge	ii) Accounting Knowledge – Tally 4.5, 5.4, 6.3, 7.2.ERP 9
+content	knowledge	iii) Language – C
+content	experience	WORK EXPERIENCE
+header	experience	Name of the Organization
+content	experience	: FAITH TAX CONSULTANT.
+content	experience	Duration
+content	experience	: 12 Months (April’07 – March’08)
+header	experience	Designation
+content	experience	: Jr.Accountant
+header	experience	Name of the Organization
+content	experience	: JAIN SALIA & ASSOCIATES (CA Firm)
+header	experience	Duration
+content	experience	: 24 Months (April’09 – May.’11)
+header	experience	Designation
+content	experience	: Sr Accountant & Tax Assistance
+content	experience	Name of the Organization : Ramesh Vora & co. (CA Firm)
+header	experience	Duration
+content	experience	: 12 Months (June’11 – Till Date)
+content	experience	Designation
+content	experience	: Tax & Accounts Executive
+header	experience	JOB PROFILE
+content	experience	(A) Accounting Specialization
+content	experience	· Books of Accounts With Inventory & Without Inventory, Inventory Evaluation, Trail Balance, Balance Sheet, General Ledger Accounts, Bank Reconciliation, Receivables, Payables, Finalizing Accounts, of all Proprietary Concern Business, Partnership firm, Private Ltd Co etc.
+content	experience	· Accounting Experience of all Small Size & Mid size Similer Industry like manufacturing industry, Pharma industry,Chemical industry
+content	experience	(B) Direct Taxation
+content	experience	· Computation of Total Income & Income Tax Return of Individuals, Partnership firm, HUFs, Private Limited Companies
+content	experience	· Tax Audit Report U/s 44AB of Proprietary Concern Business, Partnership Firms, Private Ltd co.
+content	experience	· Preparation for replies to orders passed by Income Tax authorizes for rectification and further actions.
+content	experience	· Preparations of TDS returns & Service Tax Return
+header	experience	(C) Indirect Taxation:
+content	experience	· Handling Sales tax return & computation , Profession tax return of Employee & Employer,
+content	experience	· E-return filed along with Annexure J1,J2, C,D,G,H,I.
+content	experience	· Online E-application for refund, Sales Tax Declaration Forms.
+content	experience	· Summarized List of Sales Tax forms like C,E1, E2, H,F etc.
+content	experience	· Obtained Procedure of MVAT & CST Reg.No from Sales Tax Dept.
+content	experience	· VAT Audit Report -704 of all Proprietary Concern Business , Partnership Firms & Pvt Ltd.co
+content	experience	· Drafting of Compliance Letter for Sales Tax related Matter.
+header	experience	(D) Audit Works:
+content	experience	· Tax Audit ,Vat Audit ,Cooperative Society Audit
+header	knowledge	COMPETENCIES
+content	knowledge	Flexibility, Willingness to learn, Team player
+header	others	PERSONAL DETAILS
+meta	others	· Date of Birth
+meta	others	: 01/07/1989
+meta	others	· Languages Known
+meta	others	: English, Hindi, Gujarati, Marathi
+meta	others	· Marital Status
+meta	others	: Single
+meta	others	· Hobbies
+meta	others	: Playing Cricket, Watching Cricket, Playing Soccer.
+meta	others	CURRENT REMUNERATION
+meta	others	· Current CTC : Rs.1,50,000/-
+meta	others	· Expected CTC : As per Industry
+meta	others	Place : Mumbai
+header	others	Date :
+meta	others	Vijay.R.Dhabaliya

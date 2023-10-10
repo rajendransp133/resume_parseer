@@ -1,0 +1,77 @@
+meta	others	Periwinkle Minimalist Corporate Resume
+meta	others	CONTACT INFORMATION SHUBHANKAR BISWAS
+meta	others	Digital Marketing Manager
+header	experience	PROFILE SUMMARY
+content	experience	A young dynamic, goal oriented & result driven digital marketing
+content	experience	expert with 3.5+ year experience in PPC, SEO, content writing,
+content	experience	mobile app marketing, affiliate marketing, lead generation and
+content	experience	growth hacking.
+header	experience	WORK EXPERIENCE
+content	experience	DIGITAL MARKETING MANAGER
+content	experience	Tapp Me, Gurgaon | Dec 2017 - Present
+content	experience	Managed PPC, SEO, social media, affiliate, app installation
+content	experience	campaign, content writing for the organization
+content	experience	Increased lead acquisition up to 130% via digital channels.
+content	experience	DIGITAL MARKETING ANALYST
+content	experience	PrepSmarter Inc.. | May 2015 - Jun 2017
+content	experience	Successfully created & executed digital marketing strategies from
+content	experience	scratch.
+content	experience	Managed PPC, SEO, social media, App Marketing & offline
+content	experience	marketing activity for the organization.
+content	experience	Took lead acquisition 0% to 35% within 3 months from marketing
+content	experience	effort.
+header	others	CAREER ACHIEVEMENTS
+content	others	Boosted website traffic up to 200% within 3 months.
+content	others	Increase SEO keywords ranking from 100 position to 3rd position on
+content	others	google.
+content	others	Boosted social media engagement on Facebook, Twitter, Instagram
+content	others	up to 250% within 4 months.
+content	others	Increase no of bookings & lead acquisition via PPC and affiliate
+content	experience	marketing channels from 30% to 115%
+content	experience	Helped in improving UX & UI of the website, which increased lead
+content	experience	generation via the website up to 35% .
+content	experience	Boosted app installs from 100 to 3000 per month via PPC and
+content	experience	affiliate marketing campaign.
+header	knowledge	PROFESSIONAL
+header	knowledge	SKILLS
+content	knowledge	PPC
+content	knowledge	SEO
+content	knowledge	Content Writing
+content	knowledge	Mobile App Marketing
+content	knowledge	Affiliate Marketing
+content	knowledge	Lead Generation
+content	knowledge	Moz
+content	knowledge	SemRush
+content	experience	Google Analytics
+content	experience	Google Tag Manger
+content	experience	Facebook Ads
+content	experience	Canva
+content	experience	3126/55 L-8, Company
+content	experience	Bagh, Rewari, HR
+content	experience	shubhankarb8@gmail.com
+content	others	https://www.linkedin.com/i
+content	others	n/shubhankarbiswas/
+content	education	Guru Jambheshwar University
+content	education	2015
+content	education	Master of Science
+content	education	Adverting &PR
+content	education	CGC, Landran, Mohali
+content	education	2012
+content	education	Bachelor of Science
+content	education	Hospitality & Travel
+content	education	NIIT
+content	education	2015
+content	education	Professional Diploma
+content	education	Digital Marketing
+content	education	Travelling
+content	education	Reading
+content	education	Listening to EDM & Electro
+content	education	songs
+content	education	Surfing on internet
+content	education	Cooking
+header	education	EDUCATION
+meta	others	Managed PPC, SEO, social media, content writing activity for the
+meta	others	client from US, UK, Canadian Market.
+meta	others	DIGITAL MARKETING MANAGER
+meta	others	Solvoguru, Hisar | Jun-2017 -Dec 2017
+meta	others	HOBBIES

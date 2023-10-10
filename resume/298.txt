@@ -1,0 +1,81 @@
+header	others	CURRICULUM VITAE
+header	others	RESUME
+meta	others	SUMAN SHIVARAM SALGAONKAR
+meta	others	04, Kadam Niwas,
+meta	others	2nd Rabodi Thane (W),
+meta	others	Mumbai-400601
+meta	others	E-Mail ID: sayali3334@gmail.com
+meta	others	Contact No. : 9082757836 / 9820378727
+header	others	OBJECTIVE:-
+content	others	To make optimum use of my educational knowledge in an organization that can offer me executive and Professional growth opportunities
+header	experience	WORK EXPERIENCE:-
+content	experience	COMPANY
+content	experience	: NEETA ENTERPRISES POSITION
+content	experience	: INDUSTRIAL TRAINEE (ACCOUNT/FINANCE)
+content	experience	DURATION
+content	experience	: From 20 Feb 2017 to present JOB PROFILE : Account Process
+content	experience	· Processing PO Invoices
+content	experience	· Passing Journal Vouchers, GR Clearing
+content	experience	· Ensure check / controls in sub processes
+content	experience	· Vendor master data maintenance.
+content	experience	· Resolving client’s queries regarding overdue payments
+content	experience	· Quick response to query mails
+content	experience	· Preparing GSTR-1 Return and GST-3B
+content	experience	· Checking company stock every three months.
+content	experience	· Creation of Vouchers on daily bases.
+content	experience	· Maintain daily expenses of office
+content	experience	· Handle daily cash & maintain cash book.
+content	experience	· Maintain accounting work in tally ERP 9 and radix software
+content	experience	· Handle banking work & monthly bank reconciliation of company.
+content	experience	· Prepare up to data excel sheet of all contractor.
+content	experience	· Make daily updated report of all creditor & Debtor.
+content	experience	· Compare the current year expenses with previous year expenses.
+header	education	OTHER QUALIFICATION:
+content	education	Having Knowledge of MS-Word, Excel & PowerPoint.
+content	education	Having Knowledge of V-Lookup, H-Lookup, Match, Index, Chart, and PivotTable.
+content	education	Passed Certificate Examination in Computerized Advanced Excel with 87%.
+content	education	Passed English Typing Examination 30 W.P.M. and Marathi Typing Examination 30 W.P.M.
+header	education	ACADEMIC QUALIFICATION:-
+content	education	DEGREE
+content	education	UNIVERSITY/BOARD
+content	education	PASSING YEAR
+content	education	Percentage
+content	education	S.S.C
+content	education	Shreerang Vidyalaya
+content	education	2012-2013
+content	education	78%
+content	education	H.S.C
+content	education	S.N.D.T COLLEGE
+content	education	2014-2015
+content	education	76%
+content	education	T.Y.BBI
+content	education	Mumbai University
+content	education	2017-2018
+content	education	‘A’ GRADE
+header	others	PERSONAL DETAILS:-
+header	others	Name
+meta	others	:
+meta	others	Suman S. Salgaonkar.
+header	others	Date of Birth
+meta	others	:
+meta	others	30/05/1997
+header	others	Gender
+meta	others	:
+meta	others	Female
+header	others	Marital Status
+meta	others	:
+meta	others	Unmarried
+header	others	Nationality
+meta	others	:
+meta	others	Indian
+header	knowledge	Language Known
+meta	others	:
+meta	knowledge	English, Hindi & Marathi
+header	others	Hobbies
+meta	others	:
+meta	others	Cooking, Listening music.
+header	others	DECLARATION:-
+meta	others	I declare that the information and facts stated above are true and correct to the best of my knowledge and belief.
+meta	others	Place: - THANE
+meta	others	Date: -
+meta	others	(Suman S. Salgaonkar)

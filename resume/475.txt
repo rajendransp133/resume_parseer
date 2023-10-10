@@ -1,0 +1,56 @@
+meta	others	Name: Vyshnavi Ambadipudi.
+meta	others	Address: P.NO-29/A, F.NO: 301 KARKHANA, SECUNDERABAD, INDIA.
+meta	others	E-Mail Id: vyshnavi.ambadipudi27@gmail.com
+meta	others	Contact No:+919573493068.
+meta	others	––––––––––––––––––––––––––––––––
+header	others	CAREER OBJECTIVE:
+content	others	To acquire a position more suited to my skills and capabilities. I intend to pursue a deep rooted career in Information technology.
+content	others	Endeavor to make the best use of my Skill sets/Potential to benefit the Organization.
+header	others	Current Role:
+content	others	As a TSR I provide IT Related support for WPP Employees Globally. Support includes Hardware and Corporate Network troubleshooting and configuration, Network related Issues, Network Printers, Application support & Outage Management.
+header	knowledge	IT SKILLS:
+content	knowledge	Reporting Tools: Service Now, Avaya CMS supervisor Operating Systems: Windows, MAC, Linux - RedHat
+content	knowledge	Applications: Cisco, Lan Desk, Sophos, IP Soft, Lotus Notes, Active Directory, VPN, O365, Server access and management, Remote Desktop tools, other OS based apps
+content	knowledge	Packages: MS-Office, Lotus Notes, Citrix
+header	others	AREAS OF EXPOSURE:
+header	others	Active Directory:
+content	experience	Create, Modify and Delete Objects on Active Directory.
+content	experience	Password resets, account unlocks, account validity extensions.
+content	experience	Managing Member Of AD groups.
+content	experience	Create, Modify and Delete Distribution Lists.
+content	experience	Create, Modify and Delete Security and Mail-enabled Security groups.
+header	experience	Windows:
+content	experience	Installing and Configuring Active Directory.
+content	experience	Group Policies.
+content	experience	Organizational units.
+header	experience	O365:
+content	experience	Application based support.
+content	experience	Provide support to desktop and mobile apps like Outlook, Excel, Power point, Word, Skype for Business ( aka LYNC )
+content	experience	Admin tasks like creating, modifying and deleting user accounts on O365 environment. Manage various tasks on O365 admin consoles.
+header	experience	CITRIX:
+content	experience	To facilitate secure access to applications and contents.
+content	experience	Offer products for Windows, Macintosh and Linux platforms.
+content	experience	Installing software that allows the individuals of an enterprise to work and collaborate remotely Assisting clients access Media applications through web browsers.
+content	experience	regardless of device or network.
+header	experience	VPN:
+content	experience	Provide support to end users by granting and managing VPN access to enable remote access to Company’s systems.
+content	experience	Provide end to end support for users for all VPN related queries such as installing VPN clients, granting access, troubleshoot VPN login related issues.
+content	experience	OS& other Apps:
+content	experience	Provide end to end support to all OS apps such as IE, Network, mapping network drives, printers etc., Provide remote assistance with troubleshooting all OS related issues like slow PC, system crashes, boot login issues, blue screen issues etc.,
+content	experience	Installing applications and pushing latest updates or patches to an application remotely onto an end users’ PC.
+header	experience	Initiatives:
+content	experience	•Floor support for a current team of 35
+content	experience	•New Hire Trainings
+content	experience	•Ticket Analysis and RCA on aged tickets
+content	experience	•Took part in the R2L calls with the resolver groups.
+header	experience	EMPLOYMENT DETAILS:
+content	experience	Joined as a fresher at IBM India Pvt Limited through Walk In in the year January 2016.
+header	others	ACHIEVEMENTS:
+content	others	I was awarded with a certificate in recognition of the meritorious work and turning out to be a strong competitor by topping the stack month on month in a very short span of time.
+content	others	2 Awards (Shining star) were presented under the category of Bravo Awards in the year 2016-2017.
+content	others	I was recognized in the IBM Manager’s Choice Awards for demonstrating IBM best practices at everyday work.
+content	others	Nominated for Hall of Fame for the highest usage of Knowledge Base.
+header	others	ACADEMIA:
+content	others	Completed B.Tech in the field of Computer Science and Engineering from Holy Mary Institue of Technology and Science on the year 2015.
+content	others	Passed Intermediate in first division with a percentage of 85%.
+content	others	Passed SSC with a percentage of 80 %

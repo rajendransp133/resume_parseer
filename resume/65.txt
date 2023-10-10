@@ -1,0 +1,98 @@
+meta	others	Resume_Sudha
+meta	others	S U D H A P R A S A N T H I P A R I M I
+content	others	Passionate individual seeking a challenging role
+meta	others	to become an all-round professional at a
+meta	others	progressive and reputed organization by
+meta	others	applying academic skil ls and personal strengths
+meta	others	and promote mutual growth
+header	knowledge	C A R E E R O B J E C T I V E T O O L S
+content	knowledge	SAS Base
+content	knowledge	SAS E-Miner
+content	knowledge	XLMiner
+content	knowledge	R/Python
+content	knowledge	Microsoft Office suite
+content	knowledge	Adobe Premier Pro
+content	knowledge	Adobe Photoshop
+header	experience	W O R K E X P E R I E N C E
+header	education	EDUCATION QUALIFICATIONS
+content	education	2016 -2018
+content	education	Bachelor of Commerce
+content	education	2012 - 2015
+content	education	PGDM
+content	education	(Finance & Data Analytics)
+content	education	CGPA-8/10
+content	education	St. Daniel’s Degree College, Osmania
+content	education	University, Hyderabad
+content	education	67.66%
+content	education	Institute of Management Technology,
+content	education	Hyderabad
+content	education	2012
+content	education	X (SSC) 2010
+content	education	XII (IBE) 92.9%
+content	education	Sri Chaitanya Techno High School,
+content	education	Hyderabad
+content	education	87.33%
+content	education	Narayana Junior College, Hyderabad
+content	education	sudhaprasanthiparimi@gmail.com | +91-9010726688 | Hyderabad,TS
+header	education	MANAGEMENT TRAINEE
+content	experience	KAARA INFOSYSTEMS
+content	experience	Acquired knowledge on SQL and Python on
+content	experience	the job to ass ist in bui ld ing AI based
+content	experience	Informative Chat-Bot targeted for
+content	experience	Hospita l i ty Management.
+content	experience	Ass ist ing in c l ient on-boarding in Retai l
+content	experience	domain by providing analyt ica l ins ights
+content	experience	using Stat ist ica l model l ing.
+content	experience	As a part of my f inance portfol io at El ico.
+content	experience	Ltd, contributed to Cost optimization by
+content	experience	analyzing working capital requirement by
+content	experience	reporting the forex remittances, preparing
+content	experience	Management Information System (MIS).
+content	experience	Worked on procedure for booking Export-Import of Goods & Services
+header	experience	SUMMER INTERN
+content	experience	ELICO LTD.
+content	experience	2018-Present March 2017 - June 201 7
+content	experience	https://www.linkedin.com/in/sudhaprasanthi-parimi-864016137/
+header	others	A C H I E V E M E N T S &
+header	others	P A R T I C I P A T I O N
+content	others	Volunteer at ISHA FOUNDATION
+content	others	Certif ied green belt in “SIX SIGMA”
+content	others	Certif ied in Bloomberg market concepts
+content	others	Cert if ied CPMA:in Management Accounting
+content	others	Certif icate Course offered by Symbiosis Centre
+content	others	for Distance learning in June 2016
+content	others	Associated with the placement committee ,
+content	others	Finance club and Data Analyt ics c lub at IMT
+content	others	Hyderabad
+content	others	Part ic ipated in Bloomberg Olympiad at TAPMI
+content	others	Part ic ipated in Airtel Hyderabad Marathon 10K
+content	others	run
+content	others	Certif ied in Hindustani Vocal Music from
+content	others	“Bangiya Sangeeth Parishad” in 2008 from
+content	others	Agartala
+content	others	Cert if ied in painting from “Bangiya Sangeeth
+content	others	Parishad” in 2008 from Agartala
+content	others	Sports : Badminton, Throw ball
+content	others	Adventure : Trekking & hiking
+content	others	Trained classical singer
+content	others	Managing syamalaskitchen.in
+content	others	YouTube channels-Syamalacreates,
+meta	others	Syamala’sKitchen
+header	others	I N T E R E S T S
+meta	others	Team Player & able Leader
+meta	knowledge	Good Interpersonal Skil ls
+meta	others	Quality Oriented Work
+meta	others	Urge to Learn
+meta	others	Problem Solving Capabil ity
+header	knowledge	S T R E N G T H S
+meta	others	sudhaprasanthiparimi@gmail.com | +91-9010726688 | Hyderabad,TS
+meta	others	Nationality : Indian
+meta	others	Date of Birth : 10/10/1995
+meta	others	Sex : Female
+meta	knowledge	Languages : English, Telugu, Hindi,
+meta	others	Bengali
+content	others	Father’s name : P.S.Rama Chandra Murty
+meta	others	Mother’s name : P.S.Syamala
+meta	others	A B O U T M E
+meta	others	http://syamalaskitchen.in/
+meta	others	https://www.linkedin.com/in/sudhaprasanthi-parimi-864016137/

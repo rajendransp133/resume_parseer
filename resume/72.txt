@@ -1,0 +1,64 @@
+meta	others	Ramesh Chandran E-mail ID |chezhiyan.chandran@gmail.com
+meta	others	Mobile | 8428680284
+meta	others	___________________________________________________________________________________________
+header	others	OBJECTIVE
+meta	others	To be in the responsible position and to utilize my skills and abilities in the outsourcing field that offers growth
+meta	others	to the organization and to meet the objective of the organization.
+meta	others	___________________________________________________________________________________
+header	experience	EXPERIENCE
+content	experience	Just Dial Ltd Jun 2014-Nov 2016 & Aug 2017-Till Date
+content	experience	Customer Service Executive
+content	experience	 Manage large amounts of incoming calls
+content	experience	 Identify and assess customer needs to achieve satisfaction
+content	experience	 Build sustainable relationships of trust through open and interactive communication
+content	experience	 Provide accurate, valid and complete information by using the right methods/tools
+content	experience	 Handle complaints, provide appropriate solutions and alternatives within the time limits; follow up to
+content	experience	ensure resolution
+content	experience	 Keep records of customer interactions, process customer accounts
+content	experience	 Direct requests and unresolved issues to the designated resource
+content	experience	 Follow communication procedures, guidelines and policies
+content	experience	 Take the extra mile to engage customers
+content	experience	 Assign the job to all employees without affecting their productivity & manage the work as per the
+content	experience	availability.
+content	experience	 Worked as a SPOC for special projects. Allocate the work to employees & consolidate the data in excel
+content	experience	sheet and send the report on time
+content	experience	 Assist with individual and team coaching for process improvement opportunities & effectively resolve all
+content	experience	issues
+content	experience	 Answering any queries quickly and efficiently
+content	experience	 Quickly understanding the callers point of view and to empathize with them.
+content	experience	Sulekha.Com New Media Pvt. Ltd Nov 2016-May 2017
+content	experience	User Operation Executive
+content	experience	Responsibilities: collecting feedback of the users who are all searching properties in “property.sulekha.com”
+content	experience	website and keep tracking the records of them-User Need Full filment (Out Bound)
+content	experience	Tata Business Support Services
+content	experience	Customer Care Executive Nov 2012-Feb 2014
+content	experience	Responsibilities: Solving customer queries for Tata sky DTH services and keep tracking the records of existing
+content	experience	and new customers as per the complaint. Pitching sales for Tatasky products Team-Mas Operations (Inbound)
+content	experience	Solving customer complaints that were escalated by associates. Follow up the customers queries till the problem
+content	experience	gets resolved. Team Buddy & Repeat Desk (Inbound)
+meta	others	___________________________________________________________________________________________
+header	education	Education:
+content	education	B E in electronics & Communication Engineering from Anna University of Technology Trichy passed out in 2012
+content	education	scoring an aggregate of 86%
+content	education	Higher Secondary Course Certificate from NNHSS State Board of Secondary Education Tamil Nadu Passed out in
+content	education	the year May 2008 with 88.22%
+content	education	Secondary School leaving certificate from NNHSS state Board of Secondary Education Tamil Nadu Passed out in
+content	education	the year May 2006 with 92%
+meta	others	___________________________________________________________________________________________
+header	knowledge	Personal Skill
+content	knowledge	 Strong phone contact handling skills.
+content	knowledge	 Exceptional analytical and listening skills.
+content	knowledge	 Customer orientation and ability to adapt / respond to different types of customers
+content	knowledge	 Keenness and flexibility to work extended hours and in rotational shifts
+header	others	Personal Profile:
+meta	others	Name : Ramesh
+meta	others	Nationality : Indian
+meta	others	DOB : 26 Jan 1990
+meta	knowledge	Language Known : Tamil & English
+meta	others	Temporary Address : S1 Aarathana Homes Kannadasan Nagar Sai Baba Avenue Thoraipakkam-600097
+meta	others	__________________________________________________________________________________________
+header	others	Declaration
+meta	others	I hereby declare that all the information furnished above is true and correct to the best of my knowledge and
+meta	others	belief
+meta	others	Place : Ramesh Chandran
+header	others	Date :

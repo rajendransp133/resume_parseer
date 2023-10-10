@@ -1,0 +1,61 @@
+meta	others	Nityanandan Paramasivam
+meta	others	43/15/2, Subramania Swamy Koil street, Saidapet
+meta	others	Chennai-600015, Tamil Nadu.
+meta	others	+919566148435
+meta	experience	pnityanandan@gmail.com
+header	others	OBJECTIVE
+content	others	Succeed in a challenging work environment which serves the purpose and goals of the organization and the goals set by myself to my satisfaction.
+header	experience	Professional Experience
+content	experience	Groupon Shared services pvt ltd. DLF RAMAPURAM, CHENNAI
+content	experience	Job Description: Customer Service Representative July 2015 – Present
+content	experience	· Listen to customer queries and solve them efficiently.
+content	experience	· Handle chats and email queries from customers.
+content	experience	· Help trainees by assisting them with the process.
+content	experience	· Learn new efficient steps and implement them in the process.
+content	experience	· Deliver solutions within the particular time period and maintain SLA.
+content	experience	Job Description: Client Specialist August 2017 - Present
+content	experience	· Listen to merchant queries and resolve them using Salesforce as the main tool.
+content	experience	· Handle emails from merchants in US, CA, UK, UAE, QC (English), ANZ.
+content	experience	· Help trainees by assisting them with the process
+content	experience	· Look into the financial problems of the merchant and resolve them
+content	experience	· Help the merchant in editing their page on our site and help them with queries regarding customers
+header	experience	Key Accomplishments:
+content	experience	· Trained in multiple processes in Customer Services both email and chat (UK&IE, UAE, Singapore and Malaysia, Revenue Generation).
+content	experience	· Trained in Merchant Support for all regions as mentioned above.
+content	experience	· Was a part of the revenue generation pilot batch helping the organization procuring additional revenue by implementing new process steps.
+content	experience	· Consistent performer and achieve all metrics without fail.
+content	experience	· Generated revenue of $21.3K during a span of 17 weeks from August 2016 to December 2016.
+content	experience	· Awarded for the most number of conversions.
+content	experience	· Awarded the best employee of the month 8 times in a span of 24 months and always in the top tier in terms of performance.
+content	experience	· Received C-SAT awards.
+content	experience	· Have maintained exceptional quality throughout my time-span in the organization and have been recognized as an empowered agent.
+header	project	Project:
+content	project	· Member of a Six Sigma Green Belt project titled “Increase save the sale conversion rate for UK Chat support – Chennai” to increase the revenue.
+content	project	· This was done as DMAIC Storyboard.
+content	project	· Helped the members understand all about my process.
+content	project	· Assisted in scrubbing actual information from a given data pile.
+content	project	· Provided data from time motion study.
+content	project	· Did reason code analysis and implemented changes in the process.
+header	education	Education
+content	education	TAGORE ENGINEERING COLLEGE RATHINAMANGALAM, CHENNAI
+content	education	Bachelor of Engineering (Electronics and Electrical Engineering)
+content	education	· Graduated with a GPA of 6.3 with the course spanning from 2010-2014.
+content	education	ALPHA MATRICULATION HIGHER SECONDARY SCHOOL C.I.T NAGAR, CHENNAI
+content	education	· Completed Higher Secondary in the year 2010 with 86% of excellence.
+content	education	· Completed Secondary School in the year 2008 with 86% of excellence.
+header	knowledge	Additional Skills
+content	knowledge	· Microsoft Office, with focus on Excel.
+header	others	PROFESSIONAL TRAITS
+meta	others	· Ability to learn new processes and applications which helps improve the process.
+meta	others	· Team player.
+meta	others	· The go-to person in times of crisis.
+meta	others	· Ability to train people new to the process.
+meta	others	· Intellectually curious.
+meta	others	· Inclined to useful action rather than speculation.
+header	others	INTERESTS
+meta	others	· Reading books
+meta	others	· Playing the keyboard
+meta	others	· Travel
+header	others	DECLARATION
+meta	others	I hereby declare that the above furnished information are true to the best of my knowledge.
+meta	others	Place: Chennai (Nityanandan P)

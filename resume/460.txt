@@ -1,0 +1,96 @@
+meta	others	CURRICULUM VITAE
+meta	others	RAJESH KUMAR
+meta	others	Email-id: raj.rajeskr@gmail.com Mobile No. 7795595217 / 9008809911
+content	others	HR Generalist with 5 years of work experience in an IT company.
+header	others	Career Objective:
+content	others	To succeed in an environment of growth and excellence and earn a job which provides me job satisfaction, self-development and help me achieve personal as well as organizational goals.
+header	knowledge	Skill Set:
+content	knowledge	HR Business Partner Employee Relations Employee Engagement
+content	knowledge	Compensation & Benefits Performance Management Employee Retention
+content	knowledge	HR Policies & Procedures Manpower Planning Attrition/Exit Control
+content	knowledge	Training & Development HR Strategies Rewards & Recognition
+content	knowledge	Leaves & Attendance Reporting & Documentations Handling Grievances
+content	knowledge	Payroll Statutory Compliance Change Management
+header	experience	Current Employment Details:
+content	experience	· Employer : Appnomic Systems Pvt. Ltd., Bangalore (www.appnomic.com).
+content	experience	· Role : HR Generalist.
+content	experience	· Designation : Sr. Executive – Human Resources.
+content	experience	· Duration : 5 Years (22nd August 2013 - till date).
+header	experience	Job Profile Summary:
+content	experience	· Single point of contact for the employees and managers.
+content	experience	· Interacting with employees at all levels.
+content	experience	· End-to-end employee life cycle management.
+content	experience	· Conducting Induction and updating employees regarding policies and processes.
+content	experience	· Ensuring policies compliance.
+content	experience	· Employee relations, employee engagement, employee retention, and resolving employees’ grievances related to their salary, performance appraisal, etc.
+content	experience	· Conducting rewards & recognition, indoor & outdoor games, team outings, fun activities and birthday celebrations.
+content	experience	· Partnering with project heads for performance appraisal reviews and facilitating performance appraisal activities across variety of different business groups.
+content	experience	· Recommending for promotions for the highly productive and deserving employees based on their performance, our trackers and manager’s feedback.
+content	experience	· Discussions with employees regarding performance reviews and performance improvement plans.
+content	experience	· Conducting one on one meeting, skip level meeting and group discussions.
+content	experience	· Periodical meetings with project managers / line managers.
+content	experience	· Identifying developmental needs of employees and recommending & facilitating all aspects of suitable training & development programs and follow ups on their progress.
+content	experience	· Partnering with senior management and the HR team to develop HR plans, policies, and solutions for process excellence, process development, policy formulation and implementation to meet the business needs.
+content	experience	· Partnering with organization’s leaders on right workforce planning including goal alignment within the organization.
+content	experience	· Implementing changes within the organization and streamlining the process, facilitating and planning for organization design and restructuring.
+content	experience	· Separation, conducting exit interview to understand and address employee satisfaction and dissatisfaction factors and presenting monthly attrition report to the management and project heads.
+content	experience	· Background Verification.
+content	experience	· Payroll and Statutory Compliance.
+content	experience	· HR MIS, reporting, analysis, maintaining HRMS, master employee data, attrition and headcount.
+content	experience	· Handling and managing large amount of confidential data.
+content	experience	· Coordinating with vendors for medical insurance, gratuity and GTLI.
+content	experience	· Handling HR audits independently.
+content	experience	· Attendance and leave management.
+header	others	Achievements:
+content	others	· Handled 500 employees independently as HR Generalist.
+content	others	· Successfully cleared ISO HR audit and KPMG HR audit independently.
+content	others	· Attended and successfully cleared client’s audit like Oracle, Infosys, and TATA Sky.
+content	others	· SPOC for entire gamut of HR activities.
+header	experience	Previous Employment Details 1:
+content	experience	· Employer : Fidelity Business Services India Private Limited.
+content	experience	(Fidelity Investments), Bangalore.
+content	experience	· Designation : Associate.
+content	experience	· Domain : US Payroll and Defined Contribution.
+content	experience	· Duration : 15th April 2010 to 30th December 2011.
+header	experience	Job Profile Summary:
+content	experience	· Processing auto debit request for 401K plans.
+content	experience	· Addressing and resolving client’s grievances and issues.
+content	experience	· Research and reconciliation, fixing errors, working on special service requests received from client.
+content	experience	· Allocating customer’s money in various 401K retirement plans as per their requests.
+content	experience	· Attending team hurdles for QC and QA updates.
+content	experience	· Proving KT to new hires in the team.
+content	experience	· Responsible for processing biweekly and semimonthly payroll for the clients Bank of America, The Hartford, and ABB.
+content	experience	· Creating, updating and uploading batches and files into the payroll system for biweekly and semimonthly payroll.
+content	experience	· Mass change, data modification into the system, addressing and responding to the client’s query.
+content	experience	· Attending weekly call from the client related to work progress, payroll related issues, escalations, special requests, SLA and TAT.
+content	experience	Achievements:
+content	experience	· Got Zero Defect Silver Award for 3 consecutive months.
+content	experience	· Got On the Spot Award for the outstanding performance.
+content	experience	· Got early promotion.
+content	experience	Previous Employment Details 2:
+content	experience	· Employer : Fulmar Shipping & Cargo (L.L.C.) Dubai.
+content	experience	· Domain : Merchant Navy
+content	experience	· Designation : O.S. (G P Ratings).
+content	experience	· Duration : 26th July 2005 to 29th May 2006.
+header	education	Academic Qualification:
+content	education	· MBA (HR) - Visvesvaraya Technological University, Belgaum, Karnataka. -Year: 2011 - 2013.
+content	education	· BA (Political Science) - Vinoba Bhave University, Hazaribagh, Jharkhand. - Year: 2006 - 2009.
+content	education	· XIIth - CBSE - Year: 2004.
+content	education	· Xth - CBSE - Year: 2002.
+header	knowledge	Technical Qualification:
+content	knowledge	· GNIIT “Software Engineering” from NIIT Ltd.
+content	others	Extra-Curricular Activities: Awards & achievements while pursuing MBA.
+content	others	· Secured first position in Business Skit in Management Fest at NMIT, Yelahanka, Bangalore.
+content	others	· Participated in National Level Management Fest for Best Manager event at Reva Institute of Technology, Bangalore.
+content	others	· Participated in Management Fest for Best CEO event at R V Institute of Management, Bangalore.
+header	others	Personal Profile:
+content	others	· Father’s Name : Mr. Ghanshyam Saw.
+content	others	· Date of Birth : 20th August 1986.
+content	others	· Marital Status : Married.
+content	knowledge	· Languages Known : English and Hindi.
+content	others	· Home Town : Dhanbad, Jharkhand – 828112.
+content	others	· Present Address : Prajapath Nivas, #7, 2nd Cross,
+content	others	Veerabhadra Nagar, Bangalore – 560037.
+header	others	Declaration:
+content	others	I hereby declare that the above-mentioned information is correct up to my best of knowledge and I bear the responsibility for the correctness of the above mentioned particulars.
+content	others	Place: Bangalore Rajesh Kumar

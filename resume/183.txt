@@ -1,0 +1,54 @@
+meta	others	SAIPREETHA K
+meta	others	H.No.123 , 16th main,
+meta	others	4th Block, 4thCross
+meta	others	Koramangala
+meta	others	Bangalore-93
+meta	others	Phone No-9686678643
+meta	others	Email ID-saipreetha6@gmail.com
+header	others	SUMMARY
+content	others	To utilize my skills and abilities and seeking opportunities in challenging environment and have the desire to make through success while being resourceful, innovative and flexible.
+header	experience	PROFESSIONAL EXPERIENCE
+content	experience	MAGNA INFOTECH COMPANY.
+content	experience	HR EXECUTIVE,(Recruiting), 8/2010 – 1/2011
+content	experience	Client-HP , India
+content	experience	· Handled the tasks of screening, selecting and submitting candidates to job orders within a defined discipline
+content	experience	· Assigned the tasks of utilizing on-line database, candidate referrals, internet and networking to identify potential candidates
+content	experience	· Practiced numerous sourcing strategies including referral generation, ad placement, position postings, direct sourcing/cold calling and networking to develop a qualified pool of candidates
+content	experience	· Assigned the tasks of negotiating offers with candidates to meet target gross margins of the organization
+content	experience	· Handled the tasks of follow-up of candidates regarding offer letters .
+content	experience	IBM INDIA Pvt. Ltd. Bangalore, India
+content	experience	2/2011 – Present
+content	experience	Procurement Buyer, SCM – Indirect Purchase
+content	experience	· Worked on P2P (Procure to Pay) Platform which is widely used by FMCG, Manufacturing & Production, IT/ITES clients for Operational activities being carried out all over the globe for SCM.
+content	experience	· Creation of Purchase Order’s from Shopping Carts based on order type on E-buy P2P system.
+content	experience	· Interacting with new vendors for creation in MDM.
+content	experience	· Coordinated with internal teams like Accounts Payable, VMG, WOI and Tax team.
+content	experience	· Trainer for e-Buy which is the client’s portal on intranet which goes for SCM activities.
+content	experience	· Worked on the platform of SAP R/3 (MM) Net-weaver Tool, Rapid, Lotus Notes 8.5, WOI Portal and E-CRM & E-Buy Prod. tool of client’s.
+content	experience	· Training the suppliers and enabling them to use the WOI(Web Order Invoice ) .
+content	experience	SAIPREETHA K
+header	education	EDUCATIONAL QUALIFICATION
+content	education	· MBA (HR) A.J institute of management - Mangalore, India ( 2008-2010) passed with 65.52%
+content	education	· B.Sc (Microbiology) St Agnes College Mangalore( 2005-2008) passed with 74%
+content	education	· PUC St Mary’s College Mangalore( 2003-2005) passed with 66%
+content	education	· SSLC St Mary’s school Mangalore (2003) passed with 77%
+header	project	Project Topic
+content	experience	“A STUDY ON EFFECTIVENESS OF PERFORMANCE APPRAISAL IN LAMINA FOUNDRIES LTD”
+content	experience	AREA OF INTERST
+content	experience	Human resource – Payroll, Appraisal performance, Training system.
+header	experience	INTERNSHIP
+content	experience	· Worked in MAX NEW YORK LIFE as an HR Executive for 2 months
+header	knowledge	COMPUTER SKILL
+content	knowledge	· Basic computer knowledge, (Word, Excel, PowerPoint.)
+content	knowledge	· C Programming
+content	knowledge	· Macromedia Flash & Dream weaver
+header	others	ACHIEVEMENTS
+content	others	· Won prizes in cultural activities
+content	others	· Participated and won awards in many state level management fest
+content	others	· Participated in Basket Ball for the Dasara Tournament
+header	knowledge	LANGUAGE PROFICIENCY
+content	knowledge	· Fluent in and English, Hindi , Kannada & Tulu.
+header	others	DECLARATION
+content	others	I here by declare that the information furnished above is true to the best of my knowledge
+meta	others	REFERENCES AVAILABLE UPON REQUEST
+meta	others	(SAIPREETHA K)

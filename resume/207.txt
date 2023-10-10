@@ -1,0 +1,103 @@
+header	others	RESUME
+header	others	RESUME
+meta	others	YOGITA SURESH BOTE
+meta	others	CONTACT INFORMATION :
+meta	others	H-17, 204,
+meta	others	Press Enclave,
+meta	others	Pratiksha Nagar,
+meta	others	Sion Koliwada,
+meta	others	Mumbai 400 022
+meta	experience	Phone: +919930178751
+meta	others	E-Mail : yogitabote@gmail.com
+header	experience	PROFESSIONAL EXPERIENCE :
+content	experience	SAMRIA & CO., Chartered Accountants
+content	experience	Duration : From September, 2007 to till date
+content	experience	Position : Article for the period of 3 years and now as an employee.
+content	experience	Location : Churchgate, Mumbai.
+content	experience	Worked on following projects
+header	experience	1) Project Report for Shree Shakti Mills Limited
+content	experience	· Preparation of Financial Model
+content	experience	· Data Collection & Analysis
+header	experience	2) Statutory Audits of following
+content	experience	rganizations
+content	experience	i) ASREC Ltd. (UTI undertaking-Asset Reconstruction Company)
+content	experience	ii) BOBCARDS Ltd. (Credit Card Co.)
+content	experience	iii) BOISL (BSE Clearing House)
+content	experience	iv) Delhi Public School
+content	experience	Nature of work and Responsibility
+content	experience	· Vouching & verifying records
+content	experience	· Statutory compliance,
+content	experience	· Investments, Reconciliation Compliance of Accounting Standards, Provisioning,
+header	experience	3) Statutory Audit of Banks
+content	experience	i) Bank of Baroda – for 2 Years.
+content	experience	ii) Janakalyan Sahakari Co-operative Scheduled Bank.
+content	experience	iii) Deccan Merchant Bank
+header	experience	Nature of work and Responsibility
+content	experience	· Verifying documentation of Advances & deposits
+content	experience	· Cash Verification
+content	experience	· Ledger Scrutiny
+content	experience	· Stock Verification
+content	experience	· ATM operations
+header	experience	4) Internal Audit and Tax Audit –
+content	experience	i) People Group –
+content	experience	People Interactive (India) Pvt. Ltd.
+content	experience	People Infocom (India) Pvt. Ltd.
+content	experience	ii) Podar Group –
+content	experience	Podar Education Network Pvt. Ltd.
+content	experience	Podar Education Trust
+content	experience	Podar Education & Sports Trust
+content	experience	Nature of work and Responsibility
+content	experience	· Content / Expenses Audit
+content	experience	· Revenue Audit,
+content	experience	· Statutory Due Deligence,
+content	experience	· HR Audit
+header	experience	5) Other Experience
+content	experience	· MIS Preparation and analysis
+content	experience	· Income Tax Return filing
+content	experience	· ROC Return filing.
+header	education	EDUCATION :
+content	education	Exam Passed
+content	education	Year of Passing
+content	education	% Obtained
+content	education	University
+content	education	C.A. Final Group II
+content	education	November, 2011
+content	education	55%
+content	education	ICAI
+content	education	C.A. Final Group I
+content	education	November, 2010
+content	education	55 %
+content	education	ICAI
+content	education	P.E. II
+content	education	May, 2007
+content	education	50%
+content	education	ICAI
+content	education	B.Com
+content	education	March, 2006
+content	education	72.71%
+content	education	Mumbai
+content	education	H.S.C
+content	education	February, 2003
+content	education	72.23 %
+content	education	Maharashtra
+content	education	S.S.C
+content	education	March, 2001
+content	education	71.67%
+content	education	Maharashtra
+header	knowledge	COMPUTER KNOWLEDGE :
+content	knowledge	MS Word, MS Excel, Power point, Tally 9 ERP
+header	others	PERSONAL INFORMATION :
+header	others	Date of Birth
+meta	others	:
+meta	others	11th December, 1985
+header	others	Gender
+meta	others	:
+meta	others	Female
+header	others	Marital Status
+meta	others	:
+meta	others	Unmarried
+header	others	REFERENCE :
+meta	others	Mr. Adhar Samria
+meta	others	Partner, Samria & Co. Chartered Accountants
+meta	others	Contact > Office: 22018158
+meta	others	Email > samriaco@gmail.com

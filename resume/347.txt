@@ -1,0 +1,47 @@
+meta	others	SUMIT DAS
+meta	others	B-23, aurobinda PARK, KOLKATA i +917278562769 i sunny.rockford@gmail.com
+header	others	SUMMARY
+content	others	To work successfully and achieve new benchmark of competence along with honing my skills and talents.
+header	others	HIGHLIGHTS
+content	others	· General Ledger Accounting
+content	others	· Reporting Proficiency
+content	others	· Financial Statement Analysis
+content	others	· Team Leadership
+content	others	· Detail Oriented
+content	others	· Account Reconciliation Expert
+header	experience	EXPERIENCE
+content	experience	Process Developer 2016-Present
+content	experience	GENPACT INDIA Pvt. Ltd.-KOLKATA
+content	experience	· With more than 2.5years of Core Accounting Team in R2R domain.
+content	experience	· Presently having more than 9years of Valid US B1/B2 VISA.
+content	experience	· Was part of the GA Team in last year US transition for a US Plane manufacturing company.
+content	experience	· Being assigned the role of Process Trainer post completion of 6 months in Genpact for having end to end knowledge in the process domain.
+content	experience	· Single GA member handling different month end and reconciliation activities of a particular client.
+content	experience	· Pro in handling Client Escalation on behalf of my team.
+content	experience	· Expert in monthly reconciliation activity, Sub ledger book close on monthly basis, accrual bookings.
+content	experience	· Pro is preparing and presenting different Metrics.
+content	experience	· Lean Digital trained, tested and certified. Provided lean ideas which helped in streamlining of production.
+content	experience	· Received several recognition from Client side as well as from Genpact side for my work.
+content	experience	Accountant 2013–2016
+content	experience	Food Corporation of India-KOLKATA
+content	experience	· Worked as a Cost Trainee in Food Corporation of India with more than 2 years of experience in Gunny Accounts, Cash Management, different applications of Oracle software.
+content	experience	· Resourceful at maintaining invoices of Gunnies purchased during season-wise, creating Inter Office General Accounts and certificates related to gunnies.
+content	experience	· Prepared Bank Reconciliation Statement in Cash management.
+content	experience	· Proficient in working in Oracle software.
+content	experience	· Ensure the ongoing self-development.
+content	experience	Accounts Assistant
+content	experience	Fra Mauro Enterprise-KOLKATA
+content	experience	· Worked as an Accounts Assistant in Fra Mauro Enterprise for 3 years.
+content	experience	· Maintaining & Recording of Invoices.
+content	experience	· Assist in preparation of Bank Reconciliation Statement.
+header	education	EDUCATION
+content	education	· Inter Qualified CMA and CS.
+content	education	· Commerce Graduate from CU in the year 2009
+content	education	· Completed my schooling from CBSE board in 2006
+header	knowledge	ADDITIONAL SKILLS
+content	knowledge	· SAP FICO
+content	knowledge	· Oracle
+content	knowledge	· OBIEE (Oracle Business Intelligence Enterprise Edition)
+content	knowledge	· PeopleSoft Software (EAS-PROD,EAS Reporting)
+content	knowledge	· MS Office.
+content	knowledge	· Application Package: Tally 9.1, FACT, Oracle, Payroll from Brainware Computer Academy.

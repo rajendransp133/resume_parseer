@@ -1,0 +1,89 @@
+meta	others	Shafaat Rasool Hashmi
+meta	others	Phone: (M) +971-50-3181-900 (R) +92-042-5836162 Email: shafaatrasool@hotmail.com
+header	others	Resume
+meta	others	Name: - Abhishek G. Lasurkar.
+meta	others	Email ID: - abhi_lasurkar@rediffmail.com
+meta	others	Contact No: - +919730324001
+meta	others	Address: - Muktai Park, Flat No – 28, Street Name – Dhayari – Narhe road, Benkar Mala, Pin - 411041
+meta	others	(
+header	experience	PROFESSIONAL SUMMARY
+meta	others	)
+content	experience	· A result oriented Accounting Professional with around 9+ years of experience in Payroll Management.
+content	experience	· A Good Team player, excellent written & oral communication skills, able to handle pressure, multitasking ability, Inherent ability to absorb the values from each person and each day of my life.
+content	experience	· Presently associated with ADP Pvt. Ltd. Pune since Feb 2009 to till date.
+meta	others	(
+content	experience	CAREER SNAPSHOT
+meta	others	)
+content	experience	Name of organization: - ADP Pvt. Ltd.
+content	experience	Designation: - Senior Analyst
+content	experience	Duration: - 23rd Feb 2009 to till date
+header	experience	Roles & Responsibilities:-
+content	experience	· Completed Course at Chartered Institute of Payroll Professionals for UK Payroll.
+content	experience	· Working as Sr. Analyst in iHCM team providing end to end payroll support to UK based clients, with independent responsibility of processing payrolls along with EOY and SOY activities.
+content	experience	· Working as one of the shift in-charge and as team coordinator for 7 members’ team, who looks after all the task & distribution of work with other team and within the team which includes resolving queries for the team other responsibilities as daily allocations of tasks (analysis, cases, PCR reports, etc.), monitoring breaks & also involves in providing inputs to Manages for the checking leave details so that each team member will get the leaves as per their requirements & availability.
+content	experience	· Deliver quality outputs in line with UK Statute.
+content	experience	· Follow the mapped processes in line with deliverables to effectively support UK service model.
+content	experience	· Follow the processing calendar to complete time critical tasks.
+content	experience	· To provide support to a team of associates performing payroll processing and administration functions in the UK.
+content	experience	· To maintain/gain knowledge of current ADP products and services (update your knowledge in line with latest business updates).
+content	experience	· To maintain/gain knowledge of current statutory legislation.
+content	experience	· To plan and prioritize the work allotted.
+content	experience	· To follow process and client specific documentation to complete the tasks.
+content	experience	· To validate post commit reports and analyze the discrepancies if any.
+content	experience	· To send the reports to the client within stipulated time frame
+content	experience	· To complete Year to date reconciliation on a monthly basis.
+content	experience	· To prepare Quarterly reports for every quarter.
+content	experience	· To complete End of Year (EOY) activity at the end of the financial year.
+content	experience	· To import Wide Area Template.
+content	experience	· To import PDE Import Template.
+content	experience	· To create blank PDE batches to support Payroll Specialist in processing payroll.
+content	experience	· To respond to Client / payroll specialist queries and take appropriate action.
+content	experience	· To Highlight and escalate/respond to any matter that may affect the smooth running of client payrolls.
+content	experience	· To utilize knowledge to contribute to the training programs for new and less experienced members of staff
+content	experience	· To check the quality of output which is delivered by the other associates
+content	experience	· To support Payroll Specialist in processing their payrolls.
+content	experience	· To carry out other duties as required fulfilling the role.
+meta	others	(
+header	education	EDUCATION/QUALIFICATION
+meta	others	)
+content	education	NAME OF DEGREE
+content	education	BOARD/UNIVERSITY
+content	education	YEAR
+content	education	B.COM
+content	education	PUNE UNIVERSITY
+content	education	2007
+content	education	H.S.C.
+content	education	PUNE BOARD
+content	education	2004
+content	education	S.S.C.
+content	education	PUNE BOARD
+content	education	2002
+meta	others	(
+header	knowledge	COMPUTER PROFICIANCY
+meta	others	)
+content	knowledge	· MS Office, Word, Excel, PowerPoint, Advance Excel (PivotTable, V Lookup, H Lookup)
+content	knowledge	· Tally 7.2 & 9.0(Financial Accounting Software)
+meta	others	(
+meta	others	INTEREST/HOBBIES
+meta	others	)
+meta	others	Listening to music, Internet browsing, Playing cricket.
+meta	others	(
+meta	others	EXTRA CURICULLAR ACTIVITIES
+meta	others	)
+meta	others	Typing Speed: - 40 WPM
+meta	others	(
+header	experience	PERSONAL DETAILS
+meta	others	)
+meta	others	· Name : Abhishek Gokuldas Lasurkar
+meta	others	· Date of Birth : 23rd march 1985
+meta	others	· Permanent Address : Muktai Park, Flat No – 28, Dhayari Pune.
+meta	others	· Marital Status : Married
+meta	others	· Gender : Male
+meta	others	· Strength : Confident, Patient Listener, Positive Thinker and good team player.
+meta	knowledge	· Language Known : English, Hindi, Marathi.
+meta	others	· REFRENCES : available upon request
+meta	others	I hereby declare that all the information provided by me in this application is factual and correct to best of my knowledge and belief.
+meta	others	Date: Abhishek G.Lasurkar
+meta	others	Place: Signature
+meta	others	Saudi Arabia
+meta	others	1

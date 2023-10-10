@@ -1,0 +1,78 @@
+meta	others	ARBAZ KHALIL SURVE
+meta	others	203/01 NCH Colony LBS Marg Email ID: arbazsurve00@gmail.com
+meta	others	Kanjumarg west mumbai-400078 Contact No: 91887387360725
+header	others	PERSONAL DETAILS
+meta	others	· Name : Arbaz Khalil Surve.
+meta	others	· Father name : Khalil A.Sattar Surve.
+meta	others	· Date of birth : 15th April 1996.
+meta	others	· Marital status : Single.
+meta	others	· Nationality : Indian.
+meta	others	· Qualification : Bachelor of commerce.
+content	knowledge	· Language : English, Hindi, Marathi, Urdu.
+meta	others	· Religion : Islam.
+meta	others	· Passport No : P8484941.
+meta	others	· Passport Validity : 23/02/2027.
+header	education	EDUCATIONAL QUALIFICATION
+content	education	Qualification
+content	education	College/ Institute
+content	education	Board/ University
+content	education	Year
+content	education	Percentage
+content	education	Financial Management
+content	education	Welingkar College
+content	education	Welingkar Institute of Management
+content	education	2017
+content	education	B+
+content	education	Bachelor of Commerce
+content	education	Dnyandeep College
+content	education	Mumbai University
+content	education	2016
+content	education	53.60%
+content	education	H. S. C
+content	education	Dnyandeep College
+content	education	Kolhapur Board
+content	education	2013
+content	education	62.54%
+content	education	S. S. C
+content	education	M. I. Hajwani English Medium School
+content	education	Kolhapur Board
+content	education	2011
+content	education	53.60%
+header	others	CAREER OBJECTIVES
+content	others	· Seeking a job in Administrative and finance department in an organizaion that believes in employee customer relationship values and providing quality treatment to the employees and customers both.
+header	experience	WORK EXPERIENCE
+content	experience	· Organization : KPJ Associates.
+content	experience	· Designation : Accountant.
+content	experience	· Duration : 01th May 2016 to till dated.
+header	experience	Job Responsibilities
+content	experience	· Prepare and observe book keeping records financial statement and reports.
+content	experience	· Mantain and update knowledge of all companies products and services
+content	experience	· Develop financial statement and payrolls process of account receivable and account payable.
+content	experience	· Deduct tax at correct rates and return files to the government.
+content	experience	· Prepare and submit financial report timely.
+content	experience	· Compile tax and information for tax department.
+content	experience	· Maintain all accouting records for future preference.
+content	experience	· Writing up forms and manuals for accounting and book keeping personal.
+content	experience	· Making balance sheet,profit and loss , all schedules and bank summary.
+content	experience	· Prepare financial reports for require team meeting and requested customers.
+content	experience	· Collecting raw financial data.
+content	experience	· Co-ordinate with client.
+header	knowledge	TECHNICAL SKILLS
+content	knowledge	· Complete Knowledge of MS-Excel
+content	knowledge	· Complete Knwledge of MS-Word, MS-Office.
+content	knowledge	· Complete Knowledge of Tally-ERP 9.
+header	knowledge	OTHERS SKILLS
+content	knowledge	· Inetrpersonal and communication skills.
+content	knowledge	· Continous learner and willing to improve with experience.
+content	knowledge	· Open to different ideas and working practice with culture.
+content	knowledge	· Active question and learning skills.
+content	knowledge	· Polite and humble.
+content	knowledge	· Good listener.
+header	others	HOBBIES
+meta	others	· Playing Cricket, Volleyball.
+meta	others	· Swimming, Listening Music.
+meta	others	· Collecting Old currency.
+header	others	DECLARATION
+meta	others	· I hereby declared that all the information furnished above is true to best of my knowledge and belief.
+meta	others	Place: Mumbai.
+meta	others	Date: 20/10/2017 ARBAZ KHALIL SURVE.

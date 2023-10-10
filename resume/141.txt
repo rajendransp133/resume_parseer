@@ -1,0 +1,112 @@
+header	experience	CURRICULUM VITAE
+meta	experience	PUNEET A.S.
+meta	experience	Email:1991.puneet@gmail.com Mobile:+918892095545
+header	experience	1 Career Objective:
+meta	experience	A Versatile, Resourceful, Dedicated and Result-driven programmer and a Post Graduate of M.E
+meta	experience	Computer Science specialization in Bio-Informatics graduate.
+meta	experience	To groom my skills and knowledge in the organization and contribute to its growth; in
+meta	experience	addition to improve my abilities. I am interested in machine learning and data mining for its practical
+meta	experience	uses in healthcare, business analytics and all other fields applicable for the betterment of society.
+header	education	2 Academic Profile:
+content	education	Examination School/College Board /University
+content	education	Year of
+content	education	Passing
+content	education	Percentage
+content	education	(%)
+content	education	ME
+content	education	Bioinformatics
+content	education	UVCE
+content	education	Bangalore University,Bangalore 2015
+content	education	81.14%
+content	education	BE(CSE)
+content	education	New horizon college
+content	education	of engineering,
+content	education	Bangalore
+content	education	Visvesvaraya Technological
+content	education	University, Belgaum
+content	education	2013
+content	education	58.23%
+content	education	Diploma
+content	education	(CSE)
+content	education	Baldwin Polytechnic,
+content	education	Bangalore
+content	education	Department of Technical
+content	education	Education, Bangalore
+content	education	2009
+content	education	72.55%
+content	education	S. S. L. C.
+content	education	B.M.English High
+content	education	School, Bangalore KSEEB, Bangalore 2006
+content	education	75.04%
+header	knowledge	3 Software Proficiency:
+content	knowledge	Operating Systems : Windows Vista/7/8.1, Linux, Ubuntu 14
+content	knowledge	Languages : C++, Java, Perl, Python, PHP, Javascript, NODE.js, AngularJS
+content	knowledge	Framework : Django, LAMP, WAMP, D3.js, GIT, CI
+content	knowledge	GUI : HTML, Java Script,VB
+content	knowledge	Database : Oracle 9i, MySQL, MongoDB
+header	project	4 Academic Projects:
+content	experience	ME Dissertation
+content	experience	Project Title : ONLINE DRUG-TARGET DATABASE OF NARCOLEPSY
+content	experience	DISORDER CAUSAL GENES.
+content	experience	Team Size : 1 member
+content	experience	Operating Syste : Windows
+content	experience	Technology : Python, MODELLER, PyMOL, Hexserver, Molinspiration, WAMP,
+content	experience	PHP, HTML, CSS, Java Script, Python
+content	experience	Duration : 3 months
+content	experience	I developed an online drug target database (http://puneet.tk/file.php) that had preprocessed data
+content	experience	from a pipeline developed by me that analyzed known drug compounds with target proteins that cause
+content	experience	NREM (Non-Rapid Eye movement) sleep disorders in particular to a syndrome known as Narcolepsy.
+content	experience	Results analysed where uploaded into an online website which enables other Bioinformaticians, Bio-clinicians and Industry Experts to conduct further investigations in laboratory. The Website functions
+content	experience	using PHP and JavaScript for backend and HTML, CSS as front end for users to view analyzed
+content	experience	information that is available free of charge without paying for analysis for the above diseases and
+content	experience	further conduct laboratory explorations
+content	experience	http://puneet.tk/file.php
+header	experience	5 Publications :
+content	experience	• Puneet AS, Vinay RS, Preenon Bagchi, Mahesh. M, 2016, “Establishing Novel Drug Leads For
+content	experience	Amyotrophic Lateral Sclerosis Using In-Silico Method”, Journal of Medicinal Chemistry and Drug
+content	experience	Discovery, 7:1-20
+content	experience	• Poster Publication Titled “Establishing novel drug leads for Amyotrophic Lateral Sclerosis
+content	experience	using in-silico method.” In International Conference on Public Mental Health &
+content	experience	Neurosciences, Bangalore, December 2014.
+header	experience	6 Internship: Duration 6 months since March 2015
+content	experience	Python Developer at Leucine Rich Bio
+content	experience	Proficiency in MySQL, Python, Perl
+header	experience	7 Work Experience: since August 2015 – Present
+content	experience	Bioinformatician / Data Analyst (Machine Learning) at Leucine Rich Bio
+content	experience	Developed and automated curation of large dataset there by eliminating hours of manual curation
+content	experience	in Python and Mysql.
+content	experience	Developed scripts to analyze given data.
+content	experience	Worked on Task Queues on Celery and Django.
+content	experience	Worked on Creating an app in Django Framework.
+content	experience	Working in the Research and Development Team duties include in assisting for analysis of raw
+content	experience	sequence data for New Product Development, Existing Product Updates, Quality Checks and Innovation.
+header	knowledge	8 Strengths :
+content	knowledge	General Transferable Skills:
+content	knowledge	• Excellent writing and editing: clear & concise.
+content	knowledge	• Effective communication of technical information to a non-technical audience.
+content	knowledge	• Problem solving: thorough and tenacious.
+content	knowledge	• Multitasking: ability to juggle multiple projects simultaneously.
+content	knowledge	Personal Qualities: Proactive, self-starting, intelligent, quick learning, creative, resourceful, confident,
+content	knowledge	objective, versatile, adaptable, open-minded, honest, ethical, trustworthy, and loyal.
+header	others	9 Hobbies / Interests :
+content	others	Collecting Vintage Coins/Paper Money.
+content	others	F1(Formula 1) and MotoGP.
+content	others	Traveling.
+content	others	Reading Tech Magazines, News and Current Trends in Technology.
+header	others	10 Personal Profile :
+meta	others	Name : Puneet A.S.
+meta	others	Sex : Male
+meta	others	Date of Birth : 12/02/1991
+meta	others	Nationality : Indian
+meta	others	Marital Status : Single
+meta	others	Father’s name : Sivananda A.D.
+meta	others	Linguistic Ability : English, Hindi, Kannada, Tamil and Telugu.
+meta	others	Place : Bangalore (PUNEET A.S)
+meta	others	1 Career Objective:
+header	education	2 Academic Profile:
+header	knowledge	3 Software Proficiency:
+header	project	4 Academic Projects:
+meta	others	5 Publications :
+meta	others	8 Strengths :
+meta	others	9 Hobbies / Interests :
+meta	others	10 Personal Profile :

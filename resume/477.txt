@@ -1,0 +1,56 @@
+meta	others	Tejas Arjun Sarde
+meta	others	A-10, Mahatma Phule Co-op Hsg. Soc. Patwardhan Baug, Mobile: +91-9766476650 Erandwane, Pune, Maharashtra, Pin – 411004 Email: tejas.sarde27@gmail.com
+header	experience	Professional Experience:
+meta	experience	Senior Associate Analyst, Tech Mahindra (March 2015 – Present)
+content	experience	· Financial and Business data research of Venture Capital (VC), Private Equity (PE) backed companies
+content	experience	· Following M&A, VC & PE backed companies on a day-to-day basis with special focus on funding information and examining data related to company’s core business, investment round details and financial reports
+content	experience	· Analysis of deal valuations and complex financial research of private companies through Primary & Secondary methodology to evaluate corporate transactions and it’s reporting
+content	experience	· Research of VC and PE funds, investment portfolios, investment professional’s profiles and limited partners
+content	experience	· Working with leads to improve, develop and streamline the research methodologies for continuous improvement in the process as well as providing live support to team members
+content	experience	Intern, Corporate Accounts Finance & BDM, Ecolab Nalco Water India Ltd. (February 2014 – August 2014)
+content	experience	· Worked with FP&A and Business Development & Marketing (BDM) Team to check the feasibility of the contracts and deals
+content	experience	· Responsible for preparing monthly reports, P&L’s as well as forecasting sales and COGS for SBU’s
+content	experience	· Coordinating with marketing team by providing competitive quotes to the customers and assisting SBU heads with the pricing strategy in order to maintain the requisite margins
+content	experience	· Analysis of the factors affecting the costs and profitability as well as the risks related to the contracts
+content	experience	Analyst, Investment Banking – Verity Knowledge Solutions (UBS Affiliate) (April 2011 – November 2011)
+content	experience	· Experience in preparing different parts of pitch books (profiles, benchmarking etc) for various M&A pitches
+content	experience	· Trained and worked on financial valuation models like trading comparables and transaction comparables
+meta	knowledge	· Knowledge of financial databases offered by Thomson Reuters, Bloomberg, FactSet and Datastream
+content	experience	· Responsible for maintaining Indian, Malaysian Banks trading comparables
+content	experience	· Research on Insurance sector for business opportunities in upcoming markets
+header	education	Educational Qualification:
+content	education	Examination
+content	education	College/University
+content	education	Subject of Specialization
+content	education	Percentage
+content	education	Obtained
+content	education	Year of Passing
+content	education	M. Com
+content	education	Pune University
+content	education	Costing
+content	education	57%
+content	education	2017
+content	education	B. Com
+content	education	Symbiosis College, Pune University
+content	education	Costing
+content	education	71%
+content	education	2011
+content	education	12th
+content	education	Symbiosis College of Arts & Commerce
+content	education	I.T.
+content	education	77%
+content	education	2008
+content	education	Professional Qualification:
+content	education	Name of the Course
+content	education	Institute
+content	education	Level
+content	education	CMA (ICWA)
+content	education	Institute of Cost Accountants of India
+content	education	Intermediate cleared.
+content	education	Appearing for Final Level.
+header	others	Achievements:
+content	others	· Cleared ICAI (ICWA) Intermediate Level in first attempt and secured 85th rank all over India
+content	others	· Secured 95% marks in Book keeping and Accountancy in 12th (HSC) Exam
+header	knowledge	Language and Computer Proficiency:
+content	knowledge	Languages known: English, Hindi and Marathi
+content	knowledge	Computer Proficiency: MS Office, Bloomberg, FactSet, Factiva, Adobe Photoshop and Tally

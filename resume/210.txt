@@ -1,0 +1,69 @@
+header	others	Resume
+meta	others	Irfan Khan. S
+header	others	CONTACT INFORMATION
+meta	others	Irfan Khan. S
+meta	others	E-mail : khan.rules20012@gmail.com
+meta	others	16/20, Syed Noor Street,
+meta	others	Mount Road, Chennai – 600002. Mobile : +91-9884778729
+header	others	PROFESSIONAL AND EDUCATIONAL DETAILS
+meta	education	Masters Degree
+content	education	MBA (HR & FINANCE)
+content	education	(2010-2012)
+content	education	SRM UNIVERSITY 7.8/10 CGPA
+content	education	(For II Semesters)
+content	education	Degree
+content	education	B.C.A (2006-2009)
+content	education	SRM UNIVERSITY 59.94%
+content	education	H.S.C(Private)
+content	education	2006 54%
+content	education	X(Matriculation)
+content	education	2003
+content	education	61%
+header	experience	Total Work experience
+content	experience	10 Months Experience in TCS E-Serve as
+content	experience	Process Associate (Pre-Foreclosure-Strat2
+content	experience	Ref)from 06/07/2009 to 10/05/2010.
+content	experience	3 Years Experience in CSIT as HR Trainee
+content	experience	Cum Marketing executive from may 2006
+content	experience	– june 2009
+header	knowledge	Skills
+content	knowledge	Innovative skills, Communication Skills
+content	knowledge	Team player, Organizing skills.
+content	knowledge	Computer Skills
+content	knowledge	MS PowerPoint Presentation, MS Word,
+content	knowledge	Internet.
+header	project	PROJECTS
+content	experience	Sumer Internship: “A survey on customer preference towards the upcoming residential projects” – For ETA star Properties
+content	experience	Final Project: “Control on Attrition Rate” For ETA star properties
+header	others	Personal Information
+meta	others	Father’s Name
+meta	others	Mr. Samiullah Khan. M
+meta	others	Date of Birth
+meta	others	28th September 1988
+meta	others	Sex
+meta	others	Male
+meta	others	Languages Known
+meta	others	English, Urdu, Tamil, Hindi
+meta	others	Marital Status
+meta	others	Single
+meta	others	Extra-Curricular Activities
+meta	others	Technical & Cultural Activities
+meta	others	Have won numerous prizes in Aarush’08 and Aarush ’09 a National level Technical Fest held at SRM University.
+meta	others	Organizing Activities
+meta	others	Other Activities
+meta	others	Have won prizes in Milan’08 a National level cultural fest held at SRM University.
+meta	others	Worked as an organizer for Milan’ 09, Fabuloush’ 09, Faculty Development Programs ‘10, Desafio ‘ 11, National Seminar on Rise of Indian Brands ‘ 11.
+meta	others	President For computer Association.
+meta	others	Secretary For Management Association (AMA).
+meta	others	Editorial Board Head, Gerencia, Management magazine.
+header	others	Reference:
+content	others	Prof. Shanthi Venkatesh
+content	others	Asst Professor & Mentor
+meta	others	SRM B School
+meta	others	SRM University
+meta	others	Ph No: 9840097489
+meta	others	Mr. Abdul Fareed
+meta	others	Team Manager
+meta	others	TCS-EServe
+meta	others	Ph No:9790902706
+meta	others	SIGNATURE

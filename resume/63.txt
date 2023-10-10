@@ -1,0 +1,72 @@
+meta	others	Vamsi Krishna Murkur
+meta	others	E-mail: murkur.vamsi@gmail.com ~ Contact: +91-7795729733
+meta	others	Address: House No. 237, 27th Main, Ejipura, Bangalore-560071
+meta	others	Seeking challenging assignments in IT Industries with an organization supporting innovative ideas
+meta	others	SNAPSHOT
+meta	others	· M.E. in Computer Science and Engineering from JNTUA with 2+ years of experience in IT sector and Software tools.
+meta	others	· Currently working with IBM India Pvt. Ltd, Bangalore, on contract as an Application Developer.
+meta	others	· Gained experience in Core JAVA, Java Script, Web Services,, JSP ,Servlet, Ajax, Applet, JDBC, Collections, Threads . Tools Putty, Jenkins, SVN, SOAP UI,SFTP,PSCP .
+meta	others	· Worked with various delivery platforms TDP, Rally, Quality Center, Prism.
+meta	project	· Current Project :
+header	experience	1. Working as Associate System Engineer in Telecom Domain Software Services to AT&T client in a web application team :: The purpose of the web application is to manage the corporate user accounts of AT&T. It provides the front end web application through which customers can interact with AT&T and register there accounts , see there bills and do other activities related to there telecom queries
+content	experience	2. Also done a hands on Web application development .
+header	knowledge	Undertook academic projects on:
+content	knowledge	· cloud computing security from single to multi clouds.
+content	knowledge	· Data security aspect of cloud computing.
+content	knowledge	· Design was with JAVA, Html, JavaScript, CSS, My SQL.
+content	knowledge	· Proficient in UNIX, PLSQL, JAVA, JSP, Servlet, JavaScript, Webservices.
+content	knowledge	· Knowing Waterfall and Agile methodology
+content	knowledge	· Conversant with MS office, MS Excel and Internet Applications.
+content	knowledge	· An effective communicator with excellent interpersonal, logical thinking & analytical abilities.
+header	others	AREA OF INTEREST
+content	others	· Software Development
+content	others	· Agile methodology
+content	others	· Web Application Development
+content	others	· Mobile App Development
+content	others	· Research
+content	others	· Troubleshooting
+header	others	ORGANIZATIONAL SCAN
+content	experience	IBM India Pvt. Ltd, Bangalore
+header	experience	Roles and Responsibilities:
+content	experience	· Designing all system models and specifications for application development team.
+content	experience	· Evaluating all latest technologies to provide support to all businesses.
+content	experience	· Maintaining effectiveness of all programs and implementing all strategies.
+content	experience	· Providing resolutions for all systems and maintaining documentation for system configuration and mapping
+content	experience	· Assisting first level support to system engineering processes.
+content	experience	· Developing and implementing new strategies for all procedures.
+content	experience	· Preparing project expenses and ensuring delivery of products within time.
+header	project	Project Handled
+header	project	Project Title : Enhanced Universal Account Manager(AT&T Project)
+content	experience	Role : Application Developer
+content	experience	Duration : 017-March-16 to present
+content	experience	Key Learning : Working on EAD4J Framework, JAVA , JSP, JS, JDBC, MySql ,Servlet, WebServices, Weblogic, Applet
+content	experience	Stratageeks Software India Pvt. Ltd, Hyderabad
+header	project	Project Handled
+header	project	Project Title : Hostel World, DMV unlocked wireless
+content	experience	Role : Application Developer
+content	experience	Duration : 6 months
+content	experience	Key Learning : JAVA, JSP, Wordpress, Mysql.
+header	project	ACADEMIC PROJECTS
+header	project	Project title : cloud computing security from single to multi clouds
+content	experience	Key Learning : Analysed nature of cloud computing and gained knowledge about security aspects of cloud computing.
+content	experience	Project title : Decentralized Access Control with Anonymous Authentication of Data Stored in Clouds.
+content	experience	Key Role : Developed logic of Decentralized design and analysed the security to Store and retrieve data.
+content	experience	Project title : Online Gas Booking
+content	experience	Key Role : Implemented as a part of mini Project and it reduces traditional gas booking effort which can be done through online.
+header	education	EDUCATIONAL QUALIFICATION
+content	education	2015 M.E. in Computer Science And Engineering from Dr.KVSRIT, JNTUA, with 74.08% marks.
+content	education	2013 B.E. in Computer Science And Engineering with 70.02% marks.
+header	knowledge	IT SKILLS
+content	knowledge	· Conversant with the following:
+content	knowledge	· UNIX, SQL ,HTML+CSS , JAVA, JSP, Web Services ,JavaScript, Servlet,Applet
+content	knowledge	· MS office, MS Excel and Internet Applications.
+header	experience	EXTRA CURRICULUM
+content	experience	· Actively participated in College events.
+content	experience	· Took part and won awards in various cultural competitions at School and College.
+content	experience	· Worked with web based projects as a part of internship with Strtageeks for “dmvunlockedwireless.com”,” Peroxywhite.com”, “vasudevhospitals.com”, “Stratageeks.com”, “quadnet.com.au”.
+content	experience	· Worked as team leader in the Academic project.
+content	experience	· Presented papers in many competitions.
+header	others	PERSONAL SNIPPETS
+meta	others	Date of birth : 27th August 1992
+meta	knowledge	Language known : English , Telugu and Hindi
+meta	others	Permanent Address : Plot no:32 , Baba Brundavan Nagar, Kurnool

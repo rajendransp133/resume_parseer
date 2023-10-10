@@ -1,0 +1,94 @@
+meta	others	Raghu Teja YVN +91-7349 780 921
+meta	others	ITIL ServiceNow Engineer raghuteja1992@gmail.com
+header	experience	CAREER SUMMARY
+content	experience	· Over 4 years of experience in supporting and developing ITIL Process as engineer
+content	experience	· Well experienced in ITSM processes using ServiceNow Platform ,HP SM 9.21 and HP SiteScope
+content	experience	· Experienced in supporting Telecom and Banking and Financial Services domains
+content	experience	· Good experience in working with global clients through the largest employers across the world
+content	experience	· B.Tech (Honors), a dual degree in Computer Science and Bio-Technology with CGPA of 8.2
+content	knowledge	· Good knowledge on ITIL V3 and Trained in HP Service Manager suite of tools and ServiceNow
+content	experience	· Versatile support engineer-a team player with Ability to prioritize and work under pressure with good communication skills
+header	experience	CURRENT EMPLOYMENT
+content	experience	Employer
+content	experience	Role/Designation
+content	experience	From
+content	experience	To
+content	experience	Thomson Reuters(India)
+content	experience	Management Systems Engineer
+content	experience	June 2016
+content	experience	Till date
+content	experience	Accenture, India
+content	experience	Software Engineer
+content	experience	November 2013
+content	experience	May 2016
+header	knowledge	TECHNICAL SKILLS
+header	knowledge	Languages
+content	knowledge	C, C++, .Net, Java Script, Shell Script, Batch Scripting
+header	knowledge	RDBMS
+content	knowledge	SQL, PL SQL, Oracle
+header	knowledge	Platforms
+content	knowledge	Windows, DOS, Win 98/2000/2003/7/Win XP/Vista/Unix
+header	knowledge	Applications
+content	knowledge	ServiceNow, HP Service manager 9.21, HP Site Scope, UCMDB, AM9, CIT
+header	experience	WORK EXPERIENCE
+header	project	Project # 1
+content	experience	· Project: DCO Management Systems Operations
+content	experience	· Employer/Client: Thomson Reuters
+content	experience	· Software: ServiceNow, HP Service Manager 9.21, UCMDB, AM9
+content	experience	· Duration: June 2016 to till Date
+content	experience	· Roles & Responsibilities:
+content	experience	· Providing 2nd and 3rd Level support for ServiceNow and HP suite of tools
+content	experience	· Providing enhancements and customizations to Management Systems infrastructures in production, pre-production and development groups
+content	experience	· Provide Subject Matter Expert (SME) support for ITSM suite of applications
+content	experience	· Providing service delivery to enhance existing and new capability of management systems infrastructure by implementing customizations, fixes and patches based on design specifications
+content	experience	· Working with global and local expert groups to provide intermediate to advanced level of consultancy and solution to the users
+header	project	Project # 2
+content	experience	· Project: Operation Support System (OSS) Assurance
+content	experience	· Employer/Client: Accenture India / Singtel-Optus, Australia
+content	experience	· Software: HP Service Manager 9.21, UCMDB, AM9,HP Sitescope
+content	experience	· Duration: November 2013 to June 2016
+content	experience	· Roles & Responsibilities:
+content	experience	· Implementing the customization and development requirement for change, incident, problem and knowledge modules using HP SM tool
+content	experience	· Integration of ConnectIT scenarios, HP SiteScope and other applications with HP SM9.
+content	experience	· Interact with the Client, Project and Build Manager to understand the project requirements and own the deliverables to meet the project milestone
+content	experience	· Implement the client requirements in the HP SM9 using tool set like format control, links, display option, Script Library, form Design, RAD Debugger etc.
+content	experience	· Provide knowledge transfer to client application support team about the new changes in their IT workflow
+content	experience	· Responsible for L1, L2, L3 fixes in Performance Management in Femto-small cell technology for Alcatel Lucent products.
+content	experience	· Responsible for configuring servers and applications in HP Fault management tool-HP SiteScope with alarms for fault detection for complete OSS Applications using Batch scripts, shell scripts
+content	experience	· Enhancement of Integrated Fault management Systems (IFMS) tool using C++, PL SQL, SQL
+content	experience	· Support and Monitoring of Fault Management tool like TeMIP, Infovista etc.
+content	experience	EXPERTIZE IN ServiceNow and HP Service Manger
+header	experience	ServiceNow:
+content	experience	· Developing and supporting ITSM processes on ServiceNow Platform I.e. Incident, Problem, Change, Configuration, Knowledge Management, Integrations, Service Catalog etc.
+content	experience	· Scripting in Business Rules, Client Scripts, Script Includes, UI Policies.
+content	experience	· Creating and modifying Email Notifications, SMS Notifications.
+content	experience	· Creating and Customising Dashboards, Homepage, Reports, widgets, Scheduled Reports/Jobs etc.
+content	experience	· Managing data upload through Import Sets, Transform Maps, and Data Sources.
+content	experience	· Designing Workflows and activities, Catalog items, Reports.
+content	experience	· Developing UI actions, managing Form Layout, Related Lists and List Control.
+content	experience	· Gathering requirements, analysis, and designing the solution.
+content	experience	· Working on customizations using JavaScript, Glide etc.
+content	experience	· Overview knowledge on MidServer, LDAP Integration
+content	experience	· Create demo projects like Leave/Holiday management system using ServiceNow
+header	experience	HP Service Manager:
+content	experience	· Experience on HP tools – HP SM9, UCMDB, AM9, CIT
+content	experience	· Knowledge in integrating third party applications such as Exchange server, NNM using connector tools such as ConnectIT and SC-Auto.
+content	experience	· Experience in SM9 tools like format control, links, display option, Script Library, form Design, RAD Debugger, etc. to implement the requirements.
+content	experience	· Good understanding of SM Architecture, workflows, Web services, load balancer and other components.
+content	experience	· Knowledge and working experience in HP ConnectIT.
+content	experience	· Experience in working on SM DB as per the requirement.
+content	experience	· Collaborating with HP Support to improve system’s performance and reduce current issues.
+header	education	PROFRESSIONAL TRAININGS UNDERTAKEN
+content	education	· ServiceNow - An overview, training in August 16 provided by Thomson Reuters
+content	education	· IT Service Manager – An Expert’s way, training in Dec’16 provided by Thomson Reuters
+content	education	· HSFP (Head Start Foundation Program) on fundamentals in RDBMS, hardware and software architecture, Operating System and JAVA in December, 2012 through Accenture, India
+content	experience	· GFT (Green Field Training) on fundamentals in C/C++, UNIX, SDLC, Testing, RDBMS, hardware and software architecture, HTML/CSS and Operating System in November,2013 through Accenture, India
+header	others	ACHIEVEMENTS
+content	others	· Created and customised dashboard and automated the report generation in ServiceNow to avoiding the manual work and analyse the data better in Thomson Reuters
+content	others	· Received multiple appreciations from ‘appreciation hub-For Making a difference’ in Thomson Reuters
+content	others	· Received various client appreciations for automation of health check activities using HP sitescope that enables proactive measures related to server health, network issues etc. and significantly reduce the reported incidents.
+header	others	EXTRA CURRICULAR ACHIEVEMENTS
+content	others	· Associated with SMART, village adoption program, to provide education to under privileged children
+meta	others	· Skipper in the Zonal Level Cricket team and was awarded Man of the Match
+content	others	· District level chess player with many individual championship trophies
+meta	others	Page 1 of 3

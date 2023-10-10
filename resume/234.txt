@@ -1,0 +1,71 @@
+meta	others	VIJENDRA KUSHWAH
+meta	others	Mobile:9978830206 Email:vijendrakushwah171991@gmail.com
+header	others	Objective:-
+content	others	To obtain a position where I can maximize my organizational and interpersonal skills and knowledge, which will contribute my years of experience that will allow me to grow personally and professionally.
+header	education	Educational Qualification
+content	education	Qualification
+content	education	University/Board
+content	education	Percentage
+content	education	Class
+content	education	M.com
+content	education	Gujaratl University
+content	education	55
+content	education	Second class
+content	education	B.com
+content	education	Gujarat University
+content	education	65
+content	education	First Class
+content	education	HSC
+content	education	GSHSEB
+content	education	60
+content	education	First Class
+content	education	SSC
+content	education	GSEB
+content	education	67.71
+content	education	FirstClass
+content	education	LLB
+content	education	Gujarat University
+content	education	55
+content	education	Second class
+header	knowledge	Technical Skills.
+content	knowledge	Basic of Computer, M.S.Office-2007 ,DTP, Tally ERP 9,S&FAS ,ERP SOFTWARE
+header	others	Name
+meta	others	: Vijendrasingh N.Kushwah .
+header	others	Address :
+meta	others	B-138,Sifon Society,
+meta	others	B/H-chandkheda railway station,Jagatpur road,
+meta	others	Ahmedabad-382470.
+header	others	Date of Birth
+meta	others	: 17th april, 1991
+header	others	Marital Status
+meta	others	: Married
+meta	others	Gender : Male
+header	knowledge	Language knows
+meta	knowledge	: Hindi, English, and Gujarati.
+meta	others	Nationality: Indian
+meta	others	Hobby: Cricket, Music, Travelling
+header	experience	WORKING EXPERIENCE:
+content	experience	ORGANIZATION
+content	experience	: PODDAR TYRES LTD.
+content	experience	EXPERIENCE
+content	experience	: ACCOUNTANT
+content	experience	· PREPARATION OF MONTHLY CASH FLOW
+content	experience	· HANDLING FIRM BANKING & ACCOUNTS RELATED MATTERS.
+content	experience	· PREPARATIONS OF MONTH END JOURNAL VOUCHERS & CHECKING OF TRIAL BALANCE.
+content	experience	· PAYROLL RECONCILIATION WITH PREVIOUS MONTH.
+content	experience	· PREPARATION OF BANK RECONCILIATION.
+content	experience	· PREPARATION DAILY REPORT.
+content	experience	· ENSURE DAILY CASH SALES ARE DEPOSITED IN BANK AND RECORDED PROPERLY IN THE BOOKS OF ACCOUNTS.
+content	experience	· AUTHORIZING PETTY CASH DISBURSEMENTS.
+content	experience	· RECONCILIATION OF MONTHLY ACCOUNTS PAYABLE.
+content	experience	· TIMLEY PAYMENT TO OVERHEADS LIKE TELEPHONE, ELECTRICITY, TAXES, OTHER OVERHEADS ETC.
+content	experience	· MAINTENANCE OF SALES & PURCHASE REGISTER IN MONTHLY
+content	experience	· KNOWLEDGE ABOUT GST
+meta	others	+
+content	experience	PERIOD: 07TH JANUARY,2012 TO STILL WORKING
+content	experience	NOTICE PERIOD :- 1 Months
+content	experience	Location preference
+content	experience	: AHMEDABAD , GANDHINAGAR
+meta	others	Date:
+meta	others	Place:- Ahmedabad Yours Faithfully,
+meta	others	(VIJENDRA KUSHWAH)

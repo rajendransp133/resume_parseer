@@ -1,0 +1,94 @@
+meta	others	Upendra Kumar Singh
+meta	others	E-mail: upendrasinghmca@gmail.com :+91-8178503483 , 9650124916
+header	experience	Professional Synopsis
+content	experience	· Currently working in IAP Company Pvt. Ltd. as a Sr. Software Engineer and having 4.10 years of experience in Analysis, design, development and support using client-server architecture on JAVA & J2EE technology and also implement CMMI –III Process.
+content	experience	· Proven ability of quickly learn and apply new technologies.
+content	experience	· Collaborative and Team oriented, Ability to plan, organize and keep going when things get difficult, Self-Motivated, Lifetime Learner.
+header	education	Educational Qualification
+content	education	Qualification
+content	education	University/Board
+content	education	Year of passing
+content	education	Marks (%)
+content	education	MCA
+content	education	Utter Pradesh Technical University
+content	education	2012
+content	education	71.15
+content	education	Graduation (Mathematics)
+content	education	DDU Gorakhpur University Gorakhpur (U.P)
+content	education	2008
+content	education	51.38
+content	education	10+2
+content	education	UP Board Allahabad
+content	education	2005
+content	education	68
+content	education	10th
+content	education	UP Board Allahabad
+content	education	2003
+content	education	58.16
+header	knowledge	Computer Proficiency /Skill Set
+content	knowledge	 Programming language : Core Java, J2EE
+content	knowledge	 Operating System : Windows xp, Windows 98/2003/2007, Linux
+content	knowledge	 Web Technology : JSP, Servlet, HTML, CSS, AJAX, XML
+content	knowledge	 Framework : Struts1.2, Struts2.0, Spring 3.0 (Core & MVC)
+content	knowledge	 Scripting Language : Java Script. JQuery,
+content	knowledge	 ORM : JDBC, Hibernate2.0, 3.0.
+content	knowledge	 Reporting : itext
+content	knowledge	 Database : MySQL, SQL Server, Postgres, Oracle.
+content	knowledge	 Web /Application server : Jakarta Tomcat.
+content	knowledge	 IDE Tools : MyEclipse, Eclipse, Net-beans.
+header	experience	Organizational Experience
+content	experience	Currently working with IAP Company Pvt. Ltd. as a Sr. Software Engineer since June 2016 to till date.
+content	experience	2.1 years’ work experience with LightHouse Info Systems as a Software Engineer since April 2014 to May 2016.
+content	experience	1.5 years’ work experience with Nysa Communication Pvt.Ltd. as a Software Developer since November 2012 to April 2014.
+header	project	Project Details
+meta	others	.
+content	experience	Project Title : iHR-Pro.
+content	experience	Role : Team Lead.
+content	experience	Duration : November 2016 to till date.
+content	experience	Operating System : Linux.
+content	experience	Skills Used : Java, J2EE, Postgres, JSP, Servlet, Tomcat Web Server,
+content	experience	Struts 1.2, Hibernate.
+content	experience	Environment : JDK 1.6.
+content	experience	Team Size : 5
+content	experience	IDE Tool : Eclipse.
+content	experience	Description : This is internal project that are used by IAP Company. This software is used for manage the employee information, salary, invoice, Leave etc.
+header	project	Project Title : IAPNet.
+content	experience	Role : Team Lead.
+content	experience	Duration : May 2016 to till date.
+content	experience	Operating System : Linux.
+content	experience	Skills Used : Java, J2EE, Postgres, JSP, Servlet, Tomcat Web Server,
+content	experience	Struts 2.0, Spring3.0 (Core), Hibernate.
+content	experience	Environment : J2SDK 6.04.
+content	experience	Team Size : 2
+content	experience	IDE Tool : Eclipse.
+content	experience	Description : This is internal project that are used by IAP Company. This software is used for manage the employee attendance, Expanse management, LMS etc.
+content	experience	Project Title : Tax-CPC.
+content	experience	Role : Team Member.
+content	experience	Duration : April 2014 to May 2016.
+content	experience	Operating System : Windows.
+content	experience	Skills Used : Java, J2EE, Oracle, JSP, Tomcat Web Server,
+content	experience	Struts 2.0, Hibernate 3.0.
+content	experience	Environment : JDK1.6.
+content	experience	Team Size : 6
+content	experience	IDE Tool : Net Bean.
+content	experience	Description : TAX-CPC is a state-of-the-art software solution, enabling the companies / detectors to keep in pace with the ever changing TDS filing procedures by the Income Tax authorities.
+content	experience	TAX-CPC helps in generation of TDS / TCS return, Correction of the returns filed earlier (irrespective of the software in which the earlier return was filed) and generation of various reports, certificates and online FUV generation.
+content	experience	It adapts to your business regardless of whether it is corporate, banking & insurance, Government bodies or SMEs & individuals. TAX-CPC is a versatile and configurable tool that enables return generation of all type of Forms
+content	experience	Form 24Q, Form 26Q, Form 27Q & Form 27EQ in line with the requirements of Income Tax authorities.
+header	project	Project Title : Nysa Call Center.
+content	experience	Role : Team Member.
+content	experience	Duration : November 2012 to April 2014.
+content	experience	Operating System : Windows.
+content	experience	Skills Used : Java, J2EE, MySql, JSP, Servlet, Tomcat Web Server,
+content	experience	Environment : JDK1.6.
+content	experience	Team Size : 3
+content	experience	IDE Tool : Net Bean.
+content	experience	Description : Make this project for design for different call center employee with different user id .call center employee gathering student information like student name, call from collage or school name and many more. And display all student record data in browser screen and provide information. And generate a excel report for client.
+header	others	Personal Details
+meta	others	Father’s Name : Ram Kunwar Singh
+meta	others	Marital status : Un-Married
+meta	others	Nationality : Indian
+meta	others	Date of Birth : 07 September 1987.
+meta	knowledge	Languages Known : Hindi, English.
+meta	others	Present Address : D-214 Pandav Nagar Near KaliMandil Akashardham,New Delhi-110092
+meta	others	(Upendra Singh)

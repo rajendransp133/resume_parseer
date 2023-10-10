@@ -1,0 +1,50 @@
+meta	others	Pooja N. GUPTA
+meta	others	Contact no-(+91)9167380689
+meta	others	Email pooja.gupta118227@gmail.com
+header	others	Career Objective
+content	others	ServiceNow with1 years of IT Experience involved in implementation and support of enterprise applications based on ITIL framework. Worked on key modules such as Incident management, Service Request,Service CatLog, SLA Configurations. I intend to work within an organization where I can utilize my acquired skill-set and knowledge for its performance enhancement. Moreover, I wish to add value to my-self by having a practical exposure to the prevailing management trends and practices.
+header	education	ACADEMIC QUALIFICATION
+content	education	· Bachelor in Information Technology (2011-2014) with 61.8% marks from K.V.PENDHARKAR College MUMBAI University.
+content	education	· HIGHER SECONDARY SCHOOL (2010-2011) with 71.17% from PRAGATI COLLEGE from dombivali, Mumbai.
+content	education	· Secondary School Certificate (2008-2009) with 73.84% marks from BLUE BIRDS ENGLISH SCHOOL from dombivali, Mumbai.
+header	experience	PROFESSIONAL EXPERIENCE
+content	experience	Current Organization: - Accenture MDC3.
+content	experience	Role: Business Care Specialist-(IT Tech support) (Present).
+content	experience	1. Providing User support and registration to P&G products
+content	experience	2. Domain ID creation and deletion on Active directory
+content	experience	3. Ensures that appropriate call escalation procedures are followed for all high profile calls.
+content	experience	4. Ensuring that all call details are captured and entered in the logging software.
+content	experience	5. Assigning calls to the Engineer and concern Domains.
+content	experience	6. Raising the ticket using the SERVICE NOW/HPSM tool and providing the technical Support to P&G users (World Wide Customers)
+content	experience	7. Keeping customers updated as to progress and ensuring calls are closed SLA
+content	experience	8. Identifying the document any business risks related to computing
+content	experience	9. Prepares the user manuals and associated documentation resulting from
+content	experience	Business System implementation.
+content	experience	ITSM PROCESS IMPLEMENTED
+content	experience	• Incident Management
+content	experience	• Change Management
+content	experience	• Service Request Management/ Service Catalog
+content	experience	• User Access Management
+content	experience	• SLA
+header	experience	PROFESSIONAL EXPERIENCE
+content	experience	Organization-Orient Technologies Pvt Ltd
+content	experience	Role: Network Support Engineer
+content	experience	Experience: 1yrs 6 months
+content	experience	Roles & Responsibilities:
+content	experience	· Maximizes network performance by monitoring performance; troubleshooting network problems and outages; scheduling upgrades; collaborating with network architects on network optimization.
+content	experience	· Secures network system by establishing and enforcing policies; defining and monitoring access.
+content	experience	· Handling incoming incidents from the customers via the phone/email and effectively.
+content	experience	· Keeping customers updated as to progress and ensuring calls are closed within the SLA.
+content	experience	ACTIVITIES AND ACHIEVEMENTS
+content	experience	· Participated in college gatherings and seminars in Pragati college, Mumbai.
+content	experience	· Participated in school level Kho-Kho competitions and winner of school level team.
+header	others	PERSONAL DETAILS
+meta	others	Date of birth : 25 SEP 1993
+meta	others	Gender : Female
+meta	others	Marital status : Unmarried
+meta	others	Nationality : Indian
+meta	knowledge	Languages known : English, Hindi, Marathi.
+meta	others	Address : 001,12/A, Trinity CHS, Opp to Talwalkar gym, Star colony, Manapada road, Dombivali (East)
+meta	others	I hereby informed that above mentioned Information is true to best of my knowledge and Belief.
+meta	others	Place: Mumbai
+meta	others	Date : (POOJA GUPTA)

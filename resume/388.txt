@@ -1,0 +1,81 @@
+header	others	Resume
+meta	others	KUSUM BERA
+meta	others	Mobile: + 91 7827651098
+meta	others	Email: kusumbera25@gmail.com
+header	others	CAREER OBJECTIVE
+content	others	To pursue a challenging career and be part of a progressive organization that gives scope to enhance my knowledge, skills and to reach the organization goal with sheer determination, dedication and hard work.
+header	experience	Professional Experience
+content	experience	Currently Working: Globrin System & Solution Ltd (www.globrin.com), Gurgaon
+content	experience	Designation: Software Engineer from Jan 2016 to till date.
+header	project	Project Details:
+header	project	Project 1
+content	experience	Title: UKMA
+content	experience	Client: SMS-PLC (www.sms-plc.com)
+content	experience	Environment: Asp.net, MVC, C#, SQL Server Management Studio (SSMS), IIS, Windows 7/8
+content	experience	Team Size: 10
+content	experience	Age of Project: 15 years
+content	experience	Description: We manage meter assets of all types, being trusted by the country’s leading energy suppliers to fit, relocate and introduce new meters nationwide. We can work at this scale due to fact that we have the experience and the capacity to deal with high demand.
+header	project	Project 2
+content	experience	Title: g2Audit
+content	experience	Client: g2bs (www.g2bs.com)
+content	experience	Environment: Asp.net, C#, SQL Server Management Studio (SSMS), IIS, Windows 7/8
+content	experience	Description: It is designed to capture and display information in the form of structured audits and reports, meaning that Customers, and the executors of tasks, are able to see their service levels, processes and business systems being implemented, executed and monitored, all in one neat, comprehensive and reliable utility.
+content	experience	My Responsibilities:
+content	experience	1. Prepared & Maintained test cases in Test rail against the stories of JIRA.
+content	experience	2. Actively involved in Reviewing and Execution of Test cases in Epic Stories.
+content	experience	3. Knowledge of back end testing, writing SQL Queries and testing database.
+content	experience	4. Test case preparation using requirement documents provided in Jira stories
+content	experience	5. Reported bug in Mantis, Test rail.
+header	knowledge	TECHNICAL SKILL
+header	knowledge	Test Skills
+content	knowledge	: Manual Testing
+content	knowledge	Defect Tracking Tools : Mantis, Red mine, Jira
+content	knowledge	Database Packages
+content	knowledge	: SQL Server 2008, MySQL
+content	knowledge	Operating System
+content	knowledge	: Window 7, Window 10, and Window XP
+header	others	Academic ACHIEVEMENT
+content	others	· B. TECH (INFORMATION TECHNOLOGY).
+content	others	· Orissa Engineering College Bhubaneswar.
+content	education	· Biju Patnaik University of Technology, Orissa in year 2015 with CGPA 8.03 out of 10.
+content	others	· INTERMEDIATE OF SCIENCE (I.Sc).
+content	others	· Baharagora College, Baharagora, Jharkhand
+content	others	· Jharkhand academic council board in 2011 with 66.8%.
+content	others	· MATRICULATION.
+content	others	· +2 Baharagora High School, Baharagora.
+content	others	· Jharkhand academic council board in 2009 with 81.6%.
+header	education	Training & Certification undertaken
+content	education	· C++ certification taken from NIIT, Bhubaneswar.
+content	experience	· Oracle 10 g certification taken from Lakhshaya, Bhubaneswar.
+header	others	Achievements
+content	others	· Secured highest percentage in 10th & 12th and was the topper of my School as well as in College.
+content	others	· Participated in “ GRAMIN VIKASH MELA” Drawing Competition and got First prize.
+content	others	· Published an article on “ SKINPUT TECHNOLOGY” in National Assessment and Accreditation Council.
+meta	others	hobbies and Interests:
+meta	others	· Painting
+meta	others	· Travelling
+meta	others	· Internet Surfing
+header	others	Personal Particulars
+meta	others	· Name
+meta	others	:
+meta	others	KUSUM BERA
+meta	others	· Father’s Name
+meta	others	:
+meta	others	DR. PADMANAV BERA
+meta	others	· Date of birth
+meta	others	:
+meta	others	4th April 1994
+meta	others	· Gender
+meta	others	:
+meta	others	Female
+meta	others	· Nationality
+meta	others	:
+meta	others	INDIAN
+header	knowledge	· Languages Known
+meta	others	:
+meta	knowledge	English, Hindi, Bengali, Oriya,
+meta	others	· Permanent Address : At-Baharagora, Dist-East Singhbhum, Jharkhand 832101
+meta	others	· Current Address : Royal PG, Islampur Village, Sec38, Gurgaon, Haryana
+meta	others	I hereby confirm that all the information given above is true to best of my knowledge and belief.
+meta	others	Place: Gurgaon, Haryana
+meta	others	(Kusum Bera)

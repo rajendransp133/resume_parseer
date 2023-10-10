@@ -1,0 +1,64 @@
+meta	others	Satya Sudheer CV
+meta	others	Ravinder Reddy.V
+meta	others	E-Mail: ravinder.robo007@gmail.com
+meta	others	Mobile No: +91-8008085405
+meta	others	Professional Abilities:
+meta	others	Looking for a challenging carrier, where I can utilize my skills and expose my talent to the max, to reach the heights of success.
+header	experience	Professional Experience:
+content	experience	· GENPACT
+content	experience	Designation
+content	experience	: Process Developer
+content	experience	Role : GL Accounting, Intercompany Reconciliation, Accounts payable.
+content	experience	Client : General electronic company (GE Business, US)
+content	experience	Duration
+meta	others	:
+content	experience	May2011 - Till Date.
+content	experience	Impact on the Business &Team work (GL & Reconciliation):
+content	experience	· Review journal entries, compile account reconciliations to ensure accurate and consistent and consolidated intercompany accounting.
+content	experience	· Prepare monthly reconciliations to ensure that the balances recorded in the general ledger.
+content	experience	· Identify and resolve intercompany accounting disputes and inquiries within the terms of the SLA’s.
+content	experience	· Establish and maintain excellent stakeholder relationships to ensure that quality business practices and standards
+content	experience	· Prepare period schedules and perform reconciliations for intercompany accounts for review by intercompany.
+content	experience	· Analyze reconciliations in comparison with prior periods to identify variances and trends.
+content	experience	· Effectively communicate with business units, regions, internal and external stakeholders to ensure timely resolutions.
+content	experience	· Act as an SME and first point of contact for the team for issues and escalations, and ensure resolution to all accounts.
+content	experience	· Processing of GL accounting reconciliation total documentation of GL ending balance.
+content	experience	· Downloading the monthly and quarterly Journal entry reports from CCL ledger. Preparing general Ledger to single recons for monthly processing. Reconciling total line items review of Debit balance and Credit balance.
+content	experience	· Reconciling the open items monthly accounting and find the variance of debt, credit amount. Reconciling items compare the two records and find the items which cause the difference between them. Preparing Due to recon templates each account monthly, quarterly process and prior valid backups depends on the recon excel sheets.
+content	experience	· Following all accounts work flows for sent for approval. Sent for client approval and timely completion of accounting activities.
+content	experience	Customers / Stakeholders:
+content	experience	· Ensure support is provided as per requirement from onshore counterparts related to responsible GL.
+content	experience	· Attend all business calls and meetings and drive issue resolution as required.
+content	experience	· Respond to queries from senior group level management as appropriate
+content	experience	· Provides management and financial statement users with relevant, comparable, and accurate data on which to base decisions
+content	experience	· Analyzes data and translates into meaningful information.
+header	others	Achievements:
+content	others	· I have given training to Saudi TCS team and successfully completed.
+content	others	· Promoted process associate to Process Developer.
+content	others	· Transaction the new balance sheet category accounts.
+content	others	· Received process performance award.
+content	others	· Received client appreciations.
+content	others	· Received many rewards and appreciations from manager.
+header	education	Education Profile:
+content	education	· MBA with Finance as Specialization from Osmania University.
+content	education	· B.Com with Computer Applications as specialization from Kakatiya University.
+header	others	PERSONAL DETAILS:
+meta	others	Name
+meta	others	:
+meta	others	Ravinder Reddy.V
+meta	others	Date of Birth
+meta	others	: 19-06-1987.
+meta	others	Father’s name
+meta	others	: Ram Reddy.
+header	knowledge	Languages Known
+meta	others	:
+meta	others	Telugu, &, English
+meta	others	Nationality
+meta	others	:
+meta	others	Indian
+meta	others	Permanent address : Vill: Dubbapalli 3-110, Mandal: Manthani,
+meta	others	Pin: 505184, Dist.: Karimnagar (TS).
+meta	others	Declaration:
+meta	others	I consider myself familiar with The above Aspects. I am also confident of my ability to work in a team as well as individual.
+meta	others	Date:
+meta	others	Place: Hyderabad. (RAVINDER REDDY.V)

@@ -1,0 +1,101 @@
+header	others	CURRICULUM-VITAE
+header	others	Resume
+meta	others	Name Shubhalaxmi Haridas Parkar
+meta	others	Address A/903, Princeton, Hiranandani Estate,
+meta	others	Ghodbunder Road, Patlipada, Thane – 400607.
+meta	others	Mobile No. / Phone No. 9820689333
+meta	others	Email shparkar@gmail.com
+meta	others	Date of Birth 16
+meta	others	th
+meta	others	November 1982
+content	knowledge	LANGUAGES KNOWN ENGLISH, MARATHI & HINDI
+header	education	Educational Qualification:
+content	education	S.S.C. Passed in March - 1999 Maharashtra Board (English Medium)
+content	education	H.S.C. Passed in March – 2001 Maharashtra Board
+content	education	B.Com Passed in August - 2008 Institute of Technology & Management Studies (ITMS)
+header	education	Other Qualification:
+content	education	Passed Diploma in Computer Operation CDC Institute (Kurla – East)
+content	education	OS, Packages Studied Windows XP 98, MS-Office 2003
+content	education	Financial Markets (Beginners Module) NSE’s Certification in Financial Market - 2007
+content	education	Diploma in HR Management - 2009 Institute of Technology & Management Studies (ITMS)
+header	experience	Experience:
+content	experience	No. Name of the Company and Address Experience Post
+content	experience	1 Compat Digital Conversion
+content	experience	66/2207, Nehru Nagar, Kurla (E), Mumbai–24
+content	experience	Tel: 91-22-25232546
+content	experience	From May 2002
+content	experience	(1 Years 3 Months)
+content	experience	Computer
+content	experience	Operator cum
+content	experience	Accountant
+content	experience	2 Triumph International (India) Pvt. Ltd.
+content	experience	309, Abhishek Building, Plot No. C-5, C.T.S. 671,
+content	experience	Off. Link Road, Andheri (W), M –53
+content	experience	Tel: 91-22-56973684
+content	experience	From 01.09.2003
+content	experience	To 30.12.2005
+content	experience	(2 Years 4 Months)
+content	experience	Sales Advisor
+content	experience	(Retail)
+content	experience	3 Lawkim Limited (Godrej Upstream Ltd.)
+content	experience	Chitalsar, Manpada, S.V. Rd. Thane (W)– 610
+content	experience	Tel: 91-22-25893333/34/35/36
+content	experience	From 10.01.2006
+content	experience	To 13.06.2006
+content	experience	(5 Months)
+content	experience	Customer
+content	experience	Contact
+content	experience	Executive
+content	experience	4 SPANCO Telesystems and Solution Limited
+content	experience	Krishna Bhavan, B.S. Deoshi Marg, Deonar, M–88
+content	experience	Tel: 91-22-55975566 / 25557201
+content	experience	From 05.06.2006
+content	experience	To 31.12.2006
+content	experience	(6 Months)
+content	experience	Customer
+content	experience	Service
+content	experience	Associates
+content	experience	5 Zenta Private Limited
+content	experience	Fairmont, High Street, Hiranandani Business Park,
+content	experience	Powai, Mumbai – 400076.
+content	experience	Tel: 91-22-25761000
+content	experience	From 02.01.2007
+content	experience	To 30.06.2007
+content	experience	(6 Months)
+content	experience	Customer
+content	experience	Relation
+content	experience	Associates
+content	experience	Level 1
+content	experience	6 Firstsource Solutions Limited
+content	experience	5th & 6th Floor, 4th Dimension, Mindspace, Off.
+content	experience	New Link Road, Malad (W), Mumbai – 64.
+content	experience	TeL: 91-22-66983500 / 66660888
+content	experience	From 02.07.2007
+content	experience	To 30.04.2013
+content	experience	(5 Years 10 Months)
+content	experience	Sr. Customer
+content	experience	Service
+content	experience	Associate
+content	experience	H1 Grade
+content	experience	7 First Credit ITES Private Limited
+content	experience	D-211, Ghatkopar Indl. Estate, Behind R-City Mall,
+content	experience	Off. L.B.S. Marg, Ghatkopar (W), M – 86.
+content	experience	TeL: 91-22-66983500 / 66660888
+content	experience	From 08.06.2016
+content	experience	To 31.05.2017
+content	experience	(1 Year)
+content	experience	Customer
+content	experience	Support
+content	experience	Associate
+content	experience	8 Sterling Information Resources India Pvt. Ltd.
+content	experience	G-Corp. Tech Park, 9
+content	experience	th
+content	experience	Floor, Kasarvadavali,
+content	experience	Ghodbunder Road, Thane (West) - 400615
+content	experience	TeL: 91-22-41020202
+content	experience	From 12.06.2017
+content	experience	To 21.08.2018
+content	experience	(1 Year 2 Months)
+content	experience	Specialist in
+content	experience	Operation
+content	experience	Department

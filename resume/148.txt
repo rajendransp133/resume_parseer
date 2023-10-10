@@ -1,0 +1,93 @@
+meta	others	PREETHI M
+meta	others	Email: preethimece93@gmail.com
+meta	others	Mobile: +91 7823945311
+header	experience	Experience Summary
+content	experience	 3 years of experience in working as SAP Basis consultant at DXC.Technology, Chennai.
+header	experience	Highlights
+content	experience	 Good Skills in SAP Support with experience in SAP ECC6.0/Netweaver 7.x
+content	experience	 Installation of Netweaver 7.3 system.
+content	experience	 Suppport pack upgrade in ECC NW 7.4 of FINBASIS 600 SP27 to 747 SP10 using : SUM 1.0 SP20
+content	experience	 Good Experience in various support pack upgrades, system refresh and kernel upgrades.
+content	experience	 Knowledge on backups and restore on MSSQL & Oracle.
+content	experience	 Tablespace extension, Archive log disable/enable via BRTOOLS.
+content	experience	 Have good experience in Analysis, Debugging & solving of SAP Issues using – ABAP dumps, System
+content	experience	log, OS level logs etc.
+content	experience	 SAP BASIS Support including SAP system health checks and monitoring using Solman, OSS
+content	experience	Administration, Transports, Printer Administration, Background jobs administration, File system
+content	experience	clean ups.
+content	experience	 Client Administration
+content	experience	 SNOTE implementation.
+content	experience	 EWA analysis and recommendations to improve the system performance.
+content	experience	 Language Installation in ABAP systems.
+content	experience	 Diagnostic Agent installation.
+content	experience	 Router Certification renewal and knowledge in SAP Router installation
+content	experience	 SAP HANA Studio Installation 2.0, Cockpit Monitoring.
+content	experience	 BW –Process chain monitor, BOBJ jobs monitoring and user adminstration.
+content	experience	 Scheduling/Monitoring of jobs in production systems. Setting up OSS connectivity to SAP and
+content	experience	addressing issues related to basis. Applying SAP license in ABAP/Java systems.
+content	experience	 Creation/analysis of printers issues. Managing Spool Requests and troubleshooting SAP printing
+content	experience	problem.
+content	experience	 RunSAP configurations which includes RCA Change Reporting, Early Watch report, Central system
+content	experience	administration, Central System Monitoring.
+header	experience	Security Administration
+content	experience	 Day to day technical support and resolution of Security issues.
+content	experience	 Copying and Modifying SAP-Provided User Role Templates.
+content	experience	 Troubleshoot security/authorization related problems using SU53, ST01 and SUIM
+content	experience	 Transporting the changes across the landscape.
+content	experience	 Worked on RSUSR* reports and analysis usimg USR* tables.
+content	experience	 Configured CUA for 40 systems landscape and good knowledge in administration tasks.
+header	knowledge	Technical experience
+content	knowledge	 Environment : ECC 6.0, Net weaver 7.3/7.4, Solman7.1/7.2
+content	knowledge	 Operating Systems : Windows 2008 & 2012 server, Linux RHEL 7.2
+content	knowledge	 Databases : Oracle 11g, MSSQL 2008 & 2012
+content	knowledge	 Ticketing tools : Remedy,SNOW,Connectwise
+header	project	Projects
+content	experience	Client Arthrex Inc., Florida, US
+content	experience	SAP SAP ECC 6.0, BW, PI, Solman 7.1
+content	experience	Database& Operating System SQL 2014 & Windows
+content	experience	Duration October 2014 to January 2017
+header	experience	Responsibilities
+content	experience	 Daily monitoring and monthly report.
+content	experience	 Support Pack Upgrade and Kernel upgrade.
+content	experience	 System Refresh, Client copies (local, remote)
+content	experience	 CUA Configuration and administration
+content	experience	 EWA Report analysis.
+content	experience	 SAP Router certificate Renewal
+content	experience	 Alert monitoring in SOLMAN
+content	experience	 Installing / Configuring SMD Agent, managed system configuration and alert configuration for
+content	experience	managed systems from solution manager system.
+content	experience	 CIM CR Content upgrade
+content	experience	Client Rich Products
+content	experience	- United Kingdom SAP SAP NetWeaver-ECC 6.0 NW 7.4
+content	experience	Database& Operating System Oracle & Linux RHEL 7.2
+content	experience	Duration May 2016 to Present
+header	experience	Responsibilities
+content	experience	 Monitoring System logs for errors, warnings and information, analyzing ABAP dumps.
+content	experience	 Creation and movement of transports in all systems.
+content	experience	 Background job monitoring and troubleshooting long running jobs.
+content	experience	 System startup and shutdown .
+content	experience	Client Johnson Matthey-Asia,UK
+content	experience	ERP SAP ECC 6.0
+content	experience	Database& Operating System Oracle 11g, MSSQL 2008&Linux,Windows
+content	experience	Duration April 2015 to Present
+header	experience	Responsibilities
+content	experience	 Day to day monitoring of systems,analyzing and reporting issues.
+content	experience	 Providing developer access keys and object access keys to customize programs from SAP
+content	experience	Marketplace.
+content	experience	 Opening OSS connections in SAP Marketplace.
+content	experience	 Creating and maintaining S-User in Marketplace
+content	experience	 Batch Job scheduling, monitoring and housekeeping of batch jobs
+content	experience	 BW –Process chain monitor, BOBJ jobs monitoring
+content	experience	 Kernel upgrades and Implementation of Support packs
+content	experience	 Maintaining the RFC connections between different SAP systems using SM59.
+content	experience	 Decommissioning of SAP net weaver 7.3.
+content	experience	 Initiate Oracle backups using BRTOOLS, MSSQL Backups.
+content	experience	 Managing HP_SYMANTEC Tape server.
+header	education	Academic Qualification
+content	education	Bachelor of Engineering in Electronics and Communication Engineering from Panimalar Institute of
+content	education	Technology, ANNA University Affiliated (2010-2014).
+header	education	Academics:
+content	education	HSC: 91.5 % (Sir Sivaswami Hr Sec School, chennai), SSLC: 95.8 % (St.Raphael’s Girls Hr Sec school,
+content	education	Chennai)
+content	education	Place: Chennai
+meta	others	(PREETHI M)

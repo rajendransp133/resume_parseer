@@ -1,0 +1,43 @@
+header	others	CURRICULAM VITAE
+meta	others	Uday Saudagar
+meta	others	H.No: 2-3-286
+meta	others	Macha Bolarum
+meta	others	Alwal Email: uday.saudagar@yahoo.com
+meta	others	Secunderabad. Mobile: 9704258312
+header	others	CAREER OBECTIVE:
+content	others	To pursue a challenging career in an organization and keeping up pace
+content	others	with latest trend and apply experience and knowledge to work result oriented
+content	others	team towards the growth of Self and the organization.
+header	education	EDUCATION QUALIFICATION:
+content	education	➢ B.Com from Vandana Degree college -2011
+content	education	➢ Inter mediate from Vandana Junior College -2008
+content	education	➢ S. S. C from Holy Faith High School -2006
+header	knowledge	TECHNICAL SKILLS:
+content	knowledge	➢ Ms Office
+content	knowledge	➢ Net Browsing
+header	experience	EXPERIENICE:
+content	experience	Sitel India Private Limited, Hyderabad, Telangana
+content	experience	CUSTOMER SERVICE September 2011 - September 2013
+content	experience	ICICI BANK TOWERS, GACHIBOWLI, HBD,
+content	experience	PHONE BANKING OFFICER (PBO) September 2014 - December 2017
+header	knowledge	STRENGTH:
+content	knowledge	➢ Ability to hard work with strong determination.
+content	knowledge	➢ Can adjust to any environment.
+content	knowledge	➢ Facing challenges.
+content	knowledge	➢ Self Confidence.
+header	others	PERSONAL PROFILE:
+meta	others	Name : Uday Saudagar
+meta	others	Father’s Name : Rooplal Saudagar
+meta	others	Date of birth : 23rd Aug 1989
+meta	others	Mother Tongue : Hindi
+meta	others	Nationality : Indian
+meta	others	Religion : Hindu
+meta	others	Marital Status : Single
+meta	knowledge	Languages Known : Hindi, Telugu and English
+meta	others	Hobbies : Watching T.V & Travelling
+header	others	DECLARATION:
+meta	others	I hereby declare that all the above furnished information is true and
+meta	others	correct to the best of my knowledge and belief.
+header	others	Place:
+header	others	Date:
+meta	others	(UDAY SAUDAGAR)

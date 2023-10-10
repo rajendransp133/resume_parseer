@@ -1,0 +1,118 @@
+meta	others	1
+meta	others	RAMESHREDDY T
+meta	others	: +91-9440468719
+meta	others	E-: trreddy86@gmail.com
+header	experience	Profile
+content	experience	 Having around 4.5 years of experience in IT industry and extensively worked on mainframe technologies and
+content	experience	credit card industry on Vision Plus platform mainly in EAS/FAS Subsystem.
+content	experience	 Experienced in BRD analysis, Solution designing, development, testing support and implementation.
+content	experience	 Having good analytical and working experience in COBOL, CICS, JCL, VSAM and mainframe tools.
+content	knowledge	 Good knowledge on SDLC process, functional & technical design preparation, test cases preparation, test
+content	experience	case execution and managing defects.
+content	experience	 Having good knowledge in REXX and developed REXX tools to minimize manual efforts.
+content	experience	 Ability to work cooperatively in group environment to achieve common goals, ability to build and maintain
+content	experience	effective working relationships.
+content	experience	 Provided knowledge sharing sessions to new team members in grooming their vision plus knowledge and
+content	experience	REXX.
+header	experience	Experience
+content	experience	 Working as Project Engineer in Wipro Technologies (www.wipro.com) from Mar 2013 to till date.
+content	experience	Technical Skills
+content	experience	Operating Systems : z/OS, MVS.
+content	knowledge	Languages : COBOL, CICS, Easytrieve, JCL and REXX.
+content	experience	Database : DB2 and VSAM.
+content	experience	Beginner Level : Mainframe Assembler
+content	experience	Utilities/tools : Changeman, File-Aid and OPC.
+header	education	Education Credentials
+content	experience	2013 M.Tech (DECS / 75.64%) from JNTU College of Engineering, Anantapur (A.P).
+content	experience	2008 B.Tech (ECE / 74.78%) from JNTU, Hyderabad (A.P).
+content	experience	2004 XII (Board of Intermediate/85.9%) from S.G.V.R.M Memorial College, Gudur (A.P).
+content	experience	2002 X (SSC Board Andhra Pradesh/78.34%) from Z.P Boys High School, Chennur (A.P).
+header	others	Achievements
+content	others	 Received appreciations from clients and from higher management for my deliverables and support in the
+content	others	implementation of projects.
+content	others	 Achieved “Luminous Best New Recruit” award for the successful implementation of projects and for support.
+content	others	 Got “certificate of Excellence” award for supporting Japan BAU EAS functionality.
+content	others	 Our team got “Dream Team” award for excellent support in EAS.
+content	others	Core Competencies
+content	others	 Strong analytical and problem solving abilities. Deliver first rate results under tight deadlines.
+content	others	 Adept in time and task management. Go a step beyond to assure project completion and fast learner.
+content	others	 Equally productive on solo projects or as part of a team. Flexible when faced with changing priorities.
+header	project	Project Details:
+content	experience	Jun ’16 – Till Date Developer Wipro Technologies
+content	experience	Client : Citi Bank Credit Cards, Japan, Taiwan and India
+content	experience	Project : Enhanced Authorization System
+content	experience	Technologies: COBOL, CICS, JCL, Easytrieve, REXX
+content	experience	Tools : File Manager, Changeman and OPC
+content	experience	mailto:trreddy86@gmail.com
+content	experience	http://www.wipro.com)
+content	experience	2
+content	experience	Client Description:
+content	experience	Citibank, N. A. is the consumer banking arm of financial services giant Citigroup. It is one of the largest financial
+content	experience	services firms known to the world. Citibank has more than 200 million customer accounts and does business in
+content	experience	more than 150 countries. It offers deposits, loans, investment banking, brokerage, wealth management, and
+content	experience	other financial services.
+content	experience	Project Description:
+content	experience	EAS – various projects are involved and main projects are JP Splunk, JP DCI action code update, JP Divesture,
+content	experience	TW BB project and TW AML.
+header	experience	Responsibilities
+content	experience	 Provided estimates by analyzing the impacted components.
+content	experience	 Analyzed and prepared functional requirement and technical design documents for projects.
+content	experience	 Prepared the unit test case document and documented unit test results.
+content	experience	 Participated in Daily and weekly status calls and presented operational status to client.
+content	experience	 Provided SIT, UAT batch support and implementation support.
+content	experience	 Developed REXX tools for JP Divesture project.
+content	experience	 Supported Japan Divesture project.
+content	experience	Jun ’15 – Jul ‘16 Developer Wipro Technologies
+content	experience	Client : Citi Bank Credit Cards, Japan
+content	experience	Project : Enhanced Authorization System
+content	experience	Technologies: COBOL, CICS, JCL, Easytrieve, REXX
+content	experience	Tools : File Manager, Changeman and OPC
+header	experience	Client Description:
+content	experience	Citibank, N. A. is the consumer banking arm of financial services giant Citigroup. It is one of the largest financial
+content	experience	services firms known to the world. Citibank has more than 200 million customer accounts and does business in
+content	experience	more than 150 countries. It offers deposits, loans, investment banking, brokerage, wealth management, and
+content	experience	other financial services.
+header	project	Project Description:
+content	experience	EAS – Japan various projects are involved and main projects are Bureau handoff report update, Stratus
+content	experience	relocation, Japan EMV rollout, Cost optimization activities and supported association compliance changes.
+meta	experience	Responsibilities
+content	experience	 Provided estimates by analyzing the impacted components.
+content	experience	 Prepared the unit test case document and documented unit test results.
+content	experience	 Analyzed and prepared functional requirement and technical design documents for projects.
+content	experience	 Developed code changes and reviewed test cases.
+content	experience	 Developed REXX utilities to automate daily process.
+content	experience	 Provided SIT, UAT batch support and implementation support.
+content	experience	 Trained new rookies on REXX and conducted knowledge sharing sessions with in team.
+content	experience	Aug ’13 – May ‘15 Developer/L3 Support Wipro Technologies
+content	experience	Client : Citi Bank Credit Cards, Japan
+content	experience	Project : Enhanced Authorization System, Product Launch Tool
+content	experience	Technologies: COBOL, CICS, JCL, Easytrieve, REXX
+header	experience	Client Description:
+content	experience	Citibank, N. A. is the consumer banking arm of financial services giant Citigroup. It is one of the largest financial
+content	experience	services firms known to the world. Citibank has more than 200 million customer accounts and does business in
+content	experience	more than 150 countries. It offers deposits, loans, investment banking, brokerage, wealth management, and
+content	experience	other financial services.
+header	project	Project Description:
+content	experience	EAS – Japan various projects are involved. Most projects are JP specific and main projects are Bonus Payment
+content	experience	Restriction, fix for 2014 Audit findings, Bureau hand off update and fixes for production incidents. We have
+content	experience	3
+content	experience	provided SIT, UAT batch support for these projects and L3 support for Japan. As part of batch support, our
+content	experience	scope is to provide temporary or permanent resolution to EAS job abends. As part of product launching tool
+content	experience	project, developed REXX tools and the tools helped in reducing manual efforts for parameters extraction.
+header	experience	Responsibilities
+content	experience	 Understood the requirements from the requirement specification documents and converting them into the
+content	experience	deliverables.
+content	experience	 Analyzed and prepared functional requirement and technical design documents based on BRD.
+content	experience	 Provided code changes and prepared Unit test plan, TD and necessary documents.
+content	experience	 Production implementation and L3 support.
+content	experience	 Handling EAS batch support which includes problem determination and problem resolution.
+content	experience	 Documented test results and storing all documents in the project documentation repository.
+content	experience	 Participated in Daily and weekly status calls and presented operational status to client.
+content	experience	 Developed REXX tools for product launch tool.
+content	experience	Trainings
+content	experience	 Mainframe application programming: This was 60 days of training program which imparts grueling training on
+content	experience	mainframe to understand basic programming. Key concepts were Mainframe, MVS/390, TSO/ISPF, COBOL,
+content	experience	JCL, CICS, VSAM and DB2.
+content	experience	 Vision Plus learning program: This was one month training program which introduces the basic understanding
+content	experience	of Vision Plus system, its various subsystems and basic concepts of credit card industry. Key concepts were
+content	experience	use of routines, concepts of credit card processing, master files used in CMS etc.

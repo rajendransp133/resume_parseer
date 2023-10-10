@@ -1,0 +1,67 @@
+meta	others	SHABBIR HUSSAIN
+meta	others	46-A Gorachand Road Kolkata 700014
+meta	others	Mob: 9163746270
+meta	others	e-mail: shabbir2_hussain@yahoo.co.in
+meta	others	Career Objective
+meta	others	Seeking full time position as a Senior Associate to work in an employee friendly environment leading developing constantly.
+header	experience	Employment History
+meta	experience	Working in HSBC Data processing in Banking & Insurance section
+meta	experience	· Key Functions include Activation of Transaction. Reconciliation of Commissions .
+meta	experience	· Previous role included Generation of Invest Direct accounts.
+content	experience	· Deputized Line manager during his absence by allocating work to the Team and handling team issues and resolving them.
+content	experience	· Maintaining daily Trackers
+content	experience	· Constantly liaise with Business Area & resolving their queries.
+content	experience	· Helped in Improvisation of Process procedure.
+content	experience	· Training New Joiners with process knowledge as a Subject Matter Expert.
+content	experience	· Making Training Plan, Imparting training & Evaluating trainees & their progress.
+content	experience	· Helped in Organizing Centre Related Activities such as CSR activities, Team Offsite programs
+content	experience	2006 – Current
+content	experience	Wipro BPO Ltd
+content	experience	· Customer Service Executive in HP Printer support Inbound Process
+content	experience	· Took Technical calls & Handled call Escalations in WIPRO
+content	experience	· Monitored & Audited Calls and gave Call Coaching & Feed Back to callers in WIPRO.
+content	experience	· Trained New Joiners with the process knowledge .
+content	experience	2005-2006
+content	experience	Tiljala Society For Human & Educational Development 2001-2005
+content	experience	· Worked as an Assistant Accountant writing up of Cash Books & General Ledger
+content	experience	· Maintaining Daily Cash Book & Budgeting.
+content	experience	· Making Monthly reports on expenses etc.
+content	experience	· Maintaining Pay Roll registers
+content	experience	· Helped External Auditors during Annual Audit.
+content	experience	· Managed Project Team of 5 people as a Team Coordinator in a Micro Credit Finance Project.
+content	experience	Was preoccupied with family exigencies 2000-2001
+content	experience	Ballygunj Park Day School 1992-2000
+content	experience	· Worked as English Teacher in Middle School.
+content	experience	· Prepared Teaching Modules & Trained slow learners.
+content	experience	· Prepared Learning Modules as per the Board Standards.
+content	experience	· Interviewed Students & Parents for New Admission.
+content	experience	· Later served as School Coordinator.
+content	experience	Olympus Control 1988-2000
+content	experience	· Worked as Office In charge and managed the sales Team.
+content	experience	· Drew Up Monthly Plan and maintained Daily Call reports for field staff.
+content	experience	· Maintained Stock Register, Daily Sales Register.
+content	experience	· Generated Monthly Sales Report & Monthly Stock Reports.
+header	others	Achievements
+content	others	HSBC
+content	others	· Received several performance related awards between 2007-2010 .
+content	others	WIPRO
+content	others	· Received Exceptional Performance award from WIPRO in April 2006
+header	others	PERSONAL DETAILS
+header	education	Education
+content	education	· Passed ICSE from St. James’ School Kolkata in 1984
+content	education	· Passed Higher Secondary from Maulana Azad College in 1986 in Commerce Stream.
+content	education	· Passed B.Com Pass Course from Calcutta University in 1988
+meta	others	Fathers Name
+meta	others	· Late Shafkat Hussain
+meta	experience	Age and Date of Birth
+meta	others	· Age 43 Years
+meta	others	· Married
+meta	others	Total Work experience
+meta	others	· 24years
+header	knowledge	MAJOR SKILLS:
+meta	knowledge	Basic Knowledge of Excel , Powerpoint & MS Word with capability to develop enhance skills as per the requirement.
+meta	knowledge	Fluency in English , Hindi and Bengali. Excellent capabilities in writing business letter in good English.
+meta	knowledge	Previous Teaching Experience has inculcated and made me excel in the field of Training.
+meta	knowledge	Excellent team Player with good Interpersonal Skills. Confident and Quick Learner with ability to grasp knowledge quickly.
+meta	knowledge	Ability to mix & adjust with people of all ages.
+meta	others	Shabbir Husain.

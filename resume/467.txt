@@ -1,0 +1,87 @@
+header	others	RESUME
+header	others	RESUME
+meta	others	Shadab Ahmad
+meta	others	Address: -
+meta	others	House No. 20, 2nd Cross,
+meta	others	Krishnamurthy Layout, S.G.Palya,
+meta	others	Near Tasty Magic Restaurant,
+meta	others	Taverekere Main Road, Bangalore,
+content	others	Karnataka-560029.
+meta	others	Mob. No.: -
+meta	others	+91-9513409854.
+meta	others	D.O.B: -
+meta	others	04th July 1993.
+meta	others	Email. Id: -
+meta	others	ahmadanwer058@gmail.com
+header	others	Objective: -
+content	others	Looking for a functional position within an organization that would best recognize and utilize my skills and expertise from the corporate sector and gives me the chance to contribute in the growth and success of organization.
+header	knowledge	Skills: -
+content	knowledge	· 3 Years and 3 Month Experience in the area of Finance & Accounting.
+content	knowledge	· Unique ability to adapt quickly to challenges and changing environment.
+content	knowledge	· Ability to work to under Complex Deadlines & Stretched Timelines.
+content	knowledge	· Able to Co-Ordinate Multiple Project Teammates.
+content	knowledge	· Proficiency in MS-Office, Blackline, Mainframe & Oracle Financial Application.
+header	experience	Work Experience: -
+content	experience	Currently Working in Accenture Services Pvt. Ltd., Bangalore, Karnataka.
+content	experience	Designation: - General Accounting Operations Associate.
+content	experience	Duration: - Nov-2015 to Till Date.
+header	experience	Responsibilities: -
+content	experience	· Prepare Monthly & Daily Cash Reconciliations for Reputed Banking Client.
+content	experience	· Follow up on Exception/Open items.
+content	experience	· Preparing monthly Balance Sheet Accounts.
+content	experience	· Production of Daily end of the report.
+content	experience	· Working closely with On-Shore team to clear the Exception/Open item within the agreed SLA.
+content	experience	· Assuring the Accuracy, Quality and Timeliness of the Daily/Monthly reports before sending it to On-Shore team.
+content	experience	· Maintaining a close working relation with other departments such as AR/AP.
+content	experience	· Assisting on the queries with other Departments.
+content	experience	· Assistance to fulfill additional, relevant & tasks appropriate to my role or business needs.
+content	experience	· Assistance in continued process improvement.
+content	experience	Worked with Meditech Systems (An Authorized Channel Partner of Philips Healthcare & India Medtronic Pvt. Ltd.), Patna, Bihar.
+content	experience	Designation: - Executive, Back Office Operations cum Accounts Assistant.
+content	experience	Duration: - Mar-2014 to Oct-2015.
+header	experience	Responsibilities: -
+content	experience	· Prepare Monthly Reconciliations for Inter Company Transactions.
+content	experience	· Communicate with Client Counterpart for agreement in prepared Reconciliations.
+content	experience	· Communicate with Bank Officials for clarifications of Undescribed Transactions in Bank Statement.
+header	others	Qualifications & Extra Curricular activities: -
+header	education	Educational Qualification: -
+content	education	Graduation [B.Com (Hons.)] from Magadh University, Bodh Gaya, Bihar in 2013.
+content	education	Intermediate from B.S.E.B+2 from Patna in 2010.
+content	education	Matric from C.B.S.E from New Delhi in 2008.
+header	knowledge	Technical Qualification: -
+content	knowledge	D.C.A (Diploma in Computer Application) & Tally.ERP9 from Shri Shyam Infotech, Patna recognized by Tally Academy, Bangalore.
+header	knowledge	Computer Skills: -
+content	knowledge	Operating System-Windows 07/Vista & Windows XP.
+content	knowledge	Applications - Ms Word, Excel, Power-Point, Tally, Blackline, Mainframe & Oracle Financial Application.
+header	others	Personal Details: -
+content	others	Father�s Name
+content	others	: Late Syed Ishteaqe Ahmad.
+content	others	Date of Birth
+content	others	: 04th July 1993.
+header	others	Gender
+content	others	: Male.
+header	others	Nationality
+content	others	: Indian.
+header	others	Religion
+content	others	: Islam.
+header	others	Marital Status
+content	others	: Single.
+header	knowledge	Languages
+content	knowledge	: English, Hindi and Urdu.
+header	others	Hobbies
+content	others	: Listening Songs and Playing Cricket.
+header	others	Permanent Address
+content	others	: S/o Late Syed Ishteaqe Ahmad.
+content	others	Ahmad Villa, Opp. Md. Ali Johar Community Hall,
+content	others	Kashmiri Kothi, Patna City, Patna, Bihar-800008.
+header	others	Current Address
+content	others	: House No. 20, 2nd Cross, Krishnamurthy Layout,
+content	others	S.G.Palya, Near Tasty Magic Restaurant,
+content	others	Taverkere Main Road, Bangalore, Karnataka-5600029
+content	others	Contact No.
+content	others	: 91-9513409854.
+content	others	Deceleration: -
+content	others	I feel that this demonstrates the ability, dedication and enthusiasm for a project over a long period
+content	others	Of time.
+content	others	Date: - �����
+content	others	Place: - Bangalore. (Shadab Ahmad)

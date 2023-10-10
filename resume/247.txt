@@ -1,0 +1,135 @@
+meta	others	Umar Azeem Khan
+meta	others	Contact: +971-509705493 ~ E-Mail: umar1005@live.com
+content	others	OBJECTIVE: To become a successful database administrator with in-depth technical knowledge and excellent management skills, searching for position that invites technical challenges in database administration. Currently working in Pact Employment Services with a total experience of 4 years and 2 months in the IT domain.
+header	experience	Profile Summary
+content	experience	· Database administrator working in 24*7 support environment handling critical databases on SQL Server 2005,2008,2008r2, 2012 & 2016 Standalone & Cluster systems
+content	experience	· Interacting with higher management and other stake holders about their requirements and implementing the same.
+content	knowledge	· Strong knowledge in Installing, configuring & managing SQL Server 2005,2008,2008r2, 2012 & 2016 Standalone & Cluster systems
+content	experience	· Knowledge of High Availability (Clustering) , Disaster Recovery (Log shipping& Mirroring) & HADR(Always on) options for MSSQL Server
+content	experience	· Migrating SQL Server databases to newer versions
+content	knowledge	· Knowledge of DTS,SSRS & SSIS
+content	experience	· Hardening of SQL Server as per audit requirement
+content	experience	· Good expertise in Performance Tuning , using Performance Monitor, SQL Profiler, Extended events, Execution plans & Query Store
+content	experience	· Design and implement database health check process, security policy and backup contingency tests
+content	knowledge	· Knowledge of configuring various SQL Server alerts using Database mail
+content	knowledge	· knowledge of database backups, restores ,logins ,user ,roles, link server & index management
+content	experience	· Experience in troubleshooting SQL server related CPU, Memory & I/O resource contention , Blocking and Deadlocking Issues, Log Shipping & mirroring Issues , Connectivity & Security Issues
+content	experience	· Documentation Report/Review – Site Documents, System Study, Backup Policy, Security Policy, Patch Management Document, Activity Report, Incident Report, Plan of Action, Monthly Service Report etc.
+content	knowledge	· Knowledge of SQL Server tools (Profiler, SSMS, Configuration Manager, Perfmon & Extended events)
+content	experience	· Good Documentation Skills and Communication Skills
+header	education	EDUCATION
+content	education	Degree
+content	education	Institute
+content	education	Board/University
+content	education	Year
+content	education	Performance (CGPA or %)
+content	education	B.Tech(Electronics)
+content	education	NMIMS, MPSTME
+content	education	NMIMS
+content	education	2013
+content	education	3.25/4(78.08%)
+content	education	XII
+content	education	Cosmopolitan College Of Arts Science And Commerce
+content	education	Maharashtra Board
+content	education	2008
+content	education	64.17%
+content	education	X
+content	education	St . Joseph High School
+content	education	Maharashtra Board
+content	education	2006
+content	education	72.53%
+header	knowledge	TECHNICAL SKILLS
+content	knowledge	· MS SQL Technologies Worked On-MS SQL Log Shipping, Database Mirroring, Replication, AlwaysOn FCI & Availability Group ,Performance Monitoring and tuning.
+content	knowledge	· Database - SQL Server 2000, SQL Server 2005, SQL Server 2008, SQL Server 2008 R2, SQL Server 2012, SQL Server 2014 & SQL Server 2016
+content	knowledge	· Operating Systems-Windows Server 2003, Windows Server 2008, Windows Server 2008R2, Windows Server 2012, Windows Server 2012R2 & Windows Server 2016
+content	knowledge	· Database Tools Used-SQL Enterprise manager, Management Studio, Profiler, Extended Events, Query Store & Performance Monitor.
+header	experience	EXPERIENCE
+content	experience	APRIL 14 - OCTOBER 14 (6 Months) CLOVER INFOTECH PVT. LTD. MUMBAI
+content	experience	Client: DSP Blackrock mutual fund
+content	experience	Function: Database Administrator
+content	experience	Database Technologies Used on Job: SQL Server 2000, SQL Server 2005 & SQL Server 2008
+content	experience	Operating Systems Used on Job: Windows Server 2003 & Windows Server 2008
+header	experience	Role:
+content	experience	· Installing & configuring SQL Server 2005 & 2008r2 standalone systems
+content	experience	· Successfully migrated DTS packages to SSIS packages
+content	experience	· Successfully migrated & consolidated SQL server production databases
+content	experience	· Implemented SQL Server best practices & configure various SQL Server alerts
+content	experience	· Monitored system resource availability and responded to system memory and data issues.
+content	experience	· Design and implement database health check process, performance tuning, security policy and backup contingency
+content	experience	· Responsible for maintaining and managing Production, UAT & DEV Server
+content	experience	· Daily monitoring of Servers
+content	experience	· Creating jobs & carrying out daily activities as per application team requests
+content	experience	· Implemented Log shipping on all production databases
+content	experience	· Export/ Import data using in-built utility
+content	experience	· Hardening of SQL Server as per audit requirement
+content	experience	· Version upgrades and Patch management.
+content	experience	· Implement Re-index, Update stats & usage on weekly basis.
+header	others	Achievements:
+content	others	· Planning and working on migration from SQL Server 2008R2 to SQL Server 2012
+content	others	· Successfully done Consolidation of UAT and DEV Servers and syncing them with production servers.
+content	others	· Successfully completed Log Shipping DR-Drills including reverse Log Shipping
+content	experience	OCTOBER 14 - FEBRUARY 18 (40 Months) CLOVER INFOTECH PVT. LTD. MUMBAI
+content	experience	Client: RBL Bank Ltd.
+content	experience	Function: Database Administrator
+content	experience	Database Technologies Used on Job: SQL Server 2008 R2, SQL Server 2012 & SQL Server 2016
+content	experience	Operating Systems Used on Job : Windows Server 2008, Windows Server 2008R2, Windows Server 2012 & Windows Server 2012R2
+header	experience	Role:
+content	experience	· Installing & configuring SQL Server 2008, 2008r2 ,SQL 2012 & SQL 2016 Cluster systems
+content	experience	· Planning and working on database migration to SQL Server 2012 and implementing HA/DR using Always On FCI & Availability group multi-subnet Cluster
+content	experience	· Hardening of SQL Server as per audit requirement
+content	experience	· Implemented SQL Server best practices & configured SQL server alerts
+content	experience	· Implement Re-index, Update stats & usage on weekly basis.
+content	experience	· Successfully done various DR Switchover & Switchback on Log shipping ,
+header	experience	Database Mirroring & Always On
+content	experience	· Identifying long running, blocking queries & deadlock on databases
+content	experience	· Responsible for maintaining and managing Production, DEV and UAT Servers
+content	experience	· Implemented Log Shipping/Mirroring/Always On all production databases
+content	experience	· Daily monitoring of disk space, backups, jobs, Log Shipping, Mirroring, Always on & EOD/BOD processes
+content	experience	· Creating jobs & carrying out daily activities as per application team requests via release management process
+content	experience	· Planning Data warehouse Database migration from Vectorwise to SQL server 2016 dev edition using SSIS & implementing Cluster Column store index
+content	experience	· Design and implement database security policy and backup contingency test
+header	experience	Achievements:
+content	experience	· Initiated and Implemented data purging activity to tackle massive database growth and resolved space issues.
+content	experience	· Optimized core banking database EOD/BOD process using execution plan & recommending index creation
+content	experience	· Troubleshoot & reduced intra parallel deadlock issue by index creation & reducing max DOP values of individual queries involved in deadlock
+content	experience	· Successfully migrated SSRS(RDL) , SSIS(Packages) & databases to new server
+content	experience	FENRUARY 18 - TILL DATE (3 Months) PACT EMPLOYMENT SERVICES ABU DHABI (U.A.E)
+content	experience	Client: First Abu Dhabi Bank
+content	experience	Function: Database Administrator
+content	experience	Database Technologies Used on Job: SQL Server 2005,SQL Server 2008 R2, SQL Server 2012, SQL Server 2014 & SQL Server 2016
+content	experience	Operating Systems Used on Job: Windows Server 2003, Windows Server 2008, Windows Server 2008R2, Windows Server 2012, Windows Server 2012R2 & Windows Server 2016
+content	experience	Role:
+content	experience	· Installing & configuring SQL Server 2008, 2008r2 ,SQL 2012 & SQL 2016 SQL Cluster systems
+content	experience	· Planning and working on database migration from NBAD & FGB domain to BANKFAB domain
+content	experience	· Hardening of SQL Server as per audit requirement
+content	experience	· Implemented SQL Server best practices & configured SQL server alerts
+content	experience	· SSRS,SSRS & SSIS migration from one domain to another
+content	experience	· Successfully done various DR Switchover & Switchback on Always On
+content	experience	· Identifying long running, blocking queries & deadlock on databases
+content	experience	· Responsible for maintaining and managing DM profile, DEV,SIT and UAT Servers
+content	experience	· Implemented Mirroring/Always On all databases which are going to be migrated to new domain
+content	experience	· Daily monitoring of disk space, backups, jobs, Log Shipping, Mirroring & Always on
+content	experience	· Creating jobs & carrying out daily activities as per application team requests via release management process
+content	experience	· Design and implement database security policy and backup contingency test
+content	experience	· Creating SQL Logins, Assigning Roles to the users and Authentication Modes as a part of Security Policies for various categories of users.
+content	experience	· Created Linked Servers between SQL Servers and other Heterogeneous environments.
+content	experience	Achievements:
+content	experience	· Optimized data load operation from MS SQL Server to Oracle through SSIS using Oracle attunity driver(Bulk Insert) for Enterprise editions
+content	experience	· Troubleshoot performance issue using Query store
+header	education	Certifications
+content	education	· Microsoft Certified Professional
+content	education	· Completed Exam 70-462 : Administering Microsoft SQL Server database
+content	education	· Completed Exam 70-473: Designing and Implementing Cloud Data Platform Solutions
+content	education	· Pursuing Exam 70-764 (Administering a SQL Database Infrastructure) exam of MCSE track.
+header	others	EXTRA CURRICULAR ACTIVITIES, INTERESTS & ACHIVEMENTS
+content	others	· Received ‘PAT on the Back Award’ and cash reward from my unit head for excellent performance at Clover InfoTech Pvt. Ltd
+content	others	· Received appreciation mail from the company director of delivery and the vice president for successfully Migrating the database of our client RBL Bank at Clover InfoTech Pvt. Ltd. Within the stipulated downtime.
+content	others	· Interests include keeping tabs of the latest technologies in gadgets, automobiles, gaming and watching spiritual and motivational videos.
+content	others	· Outdoor interests include playing Cricket and Football.
+header	others	PERSONAL DETIALS
+meta	others	· Date of Birth: 10th May 1990
+meta	others	· Address: 1201-Malvani West View Society,Malvani no 8,Malad West,Mumbai-61
+meta	knowledge	· Languages Known: Hindi and English
+header	others	Declaration:
+meta	others	I hereby declare that the above mentioned information is true to the best of my knowledge.
+meta	others	-Umar Azeem Khan

@@ -1,0 +1,65 @@
+header	others	Curriculum Vitae
+header	others	Curriculum Vitae
+header	others	OBJECTIVE
+content	others	I want to utilize my knowledge, skills and my learning capability for the cause of my employer being resourceful, innovative and flexible, by which my organization can grow better and my career becomes a prosperous one. Also, I want to be of more need and reliability for everybody around me.
+header	education	ACADEMIC QUALIFICATION
+content	education	EXAMINATION
+content	education	YEAR OF PASSING
+content	education	BOARD/ COUNCIL
+content	education	PASSED FROM
+content	education	PERCENTAGE
+content	education	B.Com(Hons)
+content	education	2010
+content	education	Calcutta University
+content	education	Bhairab Ganguli College
+content	education	47.40
+content	education	Higher Secondary Examination (10+2)
+content	education	2007
+content	education	WBCHSE
+content	education	Kankinara Himayatul Ghurba High School (H.S)
+content	education	52.80
+content	education	Madhyamik Examination (Class 10)
+content	education	2005
+content	education	WBBSE
+content	education	Kankinara Himayatul Ghurba High School(H.S)
+content	education	55.90
+header	knowledge	EXTRA CURRICULUM
+content	knowledge	· Basic Computer Application
+content	knowledge	· Typing speed : 25 – 30 words per minute
+header	knowledge	LANGUAGES KNOWN
+content	knowledge	· Reading, writing and speaking in English, Hindi and Urdu.
+header	others	PERSONAL DETAILS
+header	others	Father’s Name
+meta	others	: Md Nasim
+header	others	Mother’s Name
+meta	others	: Hazara Khatoon
+meta	others	Date of Birth
+meta	others	: 3rd Feb, 1989
+header	others	Nationality
+meta	others	: Indian
+header	others	Sex
+meta	others	: Male
+header	others	Marital Status
+meta	others	: Unmarried
+header	others	Hobby
+meta	others	: Playing Cricket, Football and Watching News
+header	others	Interest
+meta	others	: Watching sports and news channels.
+header	others	Permanent Address
+meta	others	: H/No.-12, Bl.No-4, PO – Kankinara, Pin: 743126,
+meta	others	Dist. – 24 PGS (N), West Bengal.
+header	experience	WORK EXPERIENCE
+content	experience	· Working in Tech Mahindra back office from 20th April to till date
+content	experience	· Working in Aticis Technology as a Customer Executive from 9th Jan 2014 to 20th March 2015
+content	experience	· Worked in SPANCO as a customer executive from 19th Jan 2013 to 30th Sep 2013.
+content	experience	· Worked as Sales and Account Associate in Abedin Communication from 5th Nov 2010 to 30th Dec 2012
+header	others	ACKNOWLEDGEMENT
+meta	others	I hereby declare that the above mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above mentioned particulars.
+meta	others	Dated ……………………………..
+meta	others	KANKINARA
+meta	others	Place ……………………………..
+meta	others	……………………………………………………………………
+meta	others	(Nasir Jamal Ansari)
+meta	others	Nasir Jamal Ansari
+meta	others	Mobile No.: +919831715556
+meta	others	E-mail ID: nasirjamal650@gmail.com

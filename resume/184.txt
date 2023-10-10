@@ -1,0 +1,148 @@
+header	others	RESUME
+meta	others	J. Hardik Naidu
+meta	others	E-mail: hardik.j.naidu@gmail.com
+meta	others	Mobile: +91 9866737836, +91 8801731655
+header	experience	Professional Summary:
+content	experience	Work Experience of 5+ years in IT industry which involves various implementations and support roles mainly in SAP Business Objects.
+content	experience	· Expertise on SAP BO 4.x and 3.x versions.
+content	experience	· Created BEx queries.
+content	experience	· 6+ months of experience in SAP Lumira.
+content	experience	· 6+ months of experience on Tableau
+content	experience	· Experience of directly working and interacting with client.
+content	experience	· Ability to adapt and work under critical project.
+content	experience	· Ability to learn quickly and share knowledge amongst team.
+header	experience	Experience Summary:
+content	experience	· Working in Accenture Solutions Pvt. Ltd. from Jul-2015 to till date.
+content	experience	· Worked in HCL Technologies Ltd from Jan-2012 to Jul-2015.
+header	knowledge	Technical Skills:
+header	knowledge	Reporting Tools
+content	knowledge	: SAP Business Objects Tools BI 4.2, 4.1 and 3.2 , BEx Query Designer,
+header	knowledge	Visualization Tools
+content	knowledge	: Tableau, SAP Lumira
+header	knowledge	Database
+content	knowledge	: SAP BW, Oracle 11g, SQL, Vertica, BPC Cubes
+header	knowledge	Domain Knowledge
+content	knowledge	: Supply Chain Management and Travelling.
+header	education	Educational Qualification:
+content	education	B-Tech from JNTU Hyderabad in 2011.
+header	others	Achievements:
+content	others	· Received Delivery R&R Award for OND’12 quarter with HCL Technologies.
+content	experience	· Received ACE Award for AMJ‘16 quarter with Accenture.
+content	experience	· Edureka certified as Tableau Desktop Qualified Associate
+header	experience	Professional Experience:
+content	experience	Company
+content	experience	: Accenture Services Pvt Ltd. (Jul-2016 – Till Present)
+content	experience	Client
+content	experience	: Amadeus AO
+content	experience	Duration : Nov 2015 – Till present
+content	experience	Role : BO Developer
+content	experience	Duration : Nov - 2015 – Sep - 2016
+content	experience	· Creating complex reports using features like Drill capabilities, @Functions and Cross Tab tables with multiple breaks ,Sections
+content	experience	· Scheduled & published the reports to end users using Publication
+content	experience	· Involved in presentations, end-user training, and documentation
+content	experience	· Involved in gathering, analyzing, documenting business requirements, functional requirements and data specifications for Business Objects Universes and Reports
+content	experience	· Developed universe from universe design specification document using UDT or IDT and creating Universe specification document
+content	experience	· Resolved loops and traps using alias and contexts
+content	experience	· Extensively used aggregate awareness for better performance of the universe as well as reports
+content	experience	· Extensively worked on converting reports from Deski to Webi Using RCT & manually.
+content	experience	Role : Senior Support Analyst
+content	experience	Duration : Oct - 2016 – Mar -2017
+content	experience	· Involved in platform upgrade from BO 4.1 to BO 4.2
+content	experience	· Extensive use of CMC for support activities
+content	experience	· Troubleshooting and resolving issues on WebI reports and universes.
+content	experience	· Scheduled & published the reports to end users using Publication and client tool Allstats Report Engine (ARE)
+content	experience	· Used Promotion Management to Promote Universe & Report from one environment to other
+content	experience	· Enabled Monitoring application.
+content	experience	· Enabled Platform Search application.
+content	experience	· Automated the process of restarting the Tomcat and BO services using batch scripts or 360+ view tool.
+content	experience	· Working on Continuous improvements to reduce the manual efforts using WebI reports.
+content	experience	· Raised OSS tickets with SAP to resolve issues in the BO product.
+content	experience	Role : Senior Developer
+content	experience	Duration : Apr - 2017 – Till present
+content	experience	· Creation of visualizations using SAP Lumira.
+content	experience	· Creation of visualizations using Tableau
+content	experience	· Worked on the server sizing activity for SAP BI4 services.
+content	experience	· Converting reports from Deski to Webi.
+content	experience	· Working on enhancements on universes.
+content	experience	Client
+content	experience	: Shell UBDV
+content	experience	Duration : July 2015 – Oct-2015
+content	experience	Project & Assignment Description
+content	experience	MI Foundation Program kick-started in end of 2012 to deliver a new HANA based SAP Business Warehouse environment (PB7) which will eventually replace current
+content	experience	Blueprint MI Landscape (PB6). This new environment will be the basis for the user reporting development using latest BO suite with BICS technology (BI4.x) and
+content	experience	will serve as the foundation for the delivery of future upstream business improvements based on the SAP BW 7.4 on HANA platform.
+content	experience	Roles and Responsibilities:
+content	experience	· Created Web Intelligence Reports with BICS using Bex query.
+content	experience	· Interacted Business Processing Analysts and design authority to understand/review the Functional Specifications.
+content	experience	· Created OLAP connection in Central Management Console.
+content	experience	· Involved in ITC and UAT defect fix.
+content	experience	· Performed Data analysis in Business Objects reports with RSRT in BW.
+content	experience	· Trained end users on WebI tool to personalize reports.
+content	experience	· BO focal on managing the BO content go live to production.
+content	experience	· Prepared Technical design specifications for use cases(deliverables)
+content	experience	Company
+content	experience	: HCL Axon (Jan-2012 – Jul-2015)
+content	experience	Client
+content	experience	: Fonterra
+content	experience	Duration
+content	experience	: October 2012 – Jul-2015
+header	project	1. Project :
+content	experience	VSO
+header	experience	Responsibilities:
+content	experience	· Data-Modeling, Data Extraction, Data Loading, Scheduling, Monitoring
+content	experience	· Creating BEx queries with Filters, Variables, Structures, Restricted Key Figures, Calculated Key Figures, Conditions, Exceptions
+content	experience	· Creating Web Intelligence reports using BI Launch pad.
+content	experience	· Applying drill down, conditional formatting.
+content	experience	· Inserting charts and cross tabs.
+content	experience	· Formatting the report at standard level.
+content	experience	2. Project : Delegated Authority Reporting
+header	experience	Responsibilities:
+content	experience	· Creating BEx reports using filters, variables and conditions.
+content	experience	· Creating Universe, Web Intelligence reports and Crystal reports.
+content	experience	· Creating charts, conditional formatting.
+content	experience	· Formatting the report at standard level.
+content	experience	· Working on access levels.
+content	experience	· Supporting the reports before handing over to the support.
+header	project	3. Project : Business Objects BAU Support
+header	experience	Responsibilities:
+content	experience	· Resolving issues faced by users in reports and universe.
+content	experience	· Providing access to user.
+content	experience	· Deploying reports and universes between Dev, Quality and Production environment.
+content	experience	· Working on ad-hoc requests raised by the user.
+content	experience	· Involved in migration of reports and universes from BO3.1 to BO4.0 using UMT.
+content	experience	· Scheduling of reports with calendars as per user requests.
+content	experience	· Managing and monitoring of servers.
+content	experience	· Worked on Performance tuning of reports for which we were appreciated by the client for this activity.
+content	experience	Client
+content	experience	: DPSG
+content	experience	Duration
+content	experience	: April 2012 – September 2012
+content	experience	1. Project
+content	experience	: Data Quality Reporting
+header	experience	Responsibilities:
+content	experience	· Creating universe with Oracle as database.
+content	experience	· Creating Web Intelligence reports using the Infoviews.
+content	experience	· Applying prompts and cascading LOV’s from universe level.
+content	experience	· Applying drill down, charts and necessary filters at report level.
+content	experience	· Formatting the report at standard level.
+content	experience	· Working on access levels.
+content	experience	· Supporting the universe and reports before handing over to the support.
+header	project	2. Project
+content	experience	: AME Sales
+header	experience	Responsibilities:
+content	experience	· Creating universe with Oracle as database.
+content	experience	· Creating Web Intelligence reports using the Infoviews.
+content	experience	· Applying prompts, filters and row level restrictions from universe level.
+content	experience	· Applying cross-tabs, calculation context and necessary filters at report level.
+content	experience	· Formatting the report at standard level.
+content	experience	· Working on access levels.
+content	experience	· Supporting the universe and reports before handing over to the support.
+header	others	Personal profile:
+meta	others	Name : J. Hardik Naidu
+meta	others	Father name : B. Janak Raj Naidu
+meta	others	Date of birth : 01-05-1990
+meta	others	Sex : Male
+meta	others	Marital status : Unmarried
+meta	others	Declaration:
+meta	others	I hereby declare that the above information is true and correct to the best of my knowledge.
+meta	others	- J. Hardik Naidu

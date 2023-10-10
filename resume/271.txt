@@ -1,0 +1,60 @@
+header	others	RESUME
+header	others	RESUME
+header	others	GAUTAM SRINIVAS MAJETI
+meta	others	Mobile: 8904485350, 8310862567
+meta	others	Email Id:gautamsrinivas9@gmail.com
+header	others	Objective.
+content	others	To develop my potential as an individual by integrating my skills and hence contributing for the achievement of organizational goals.
+header	experience	PROFESSIONAL EXPERIENCE
+content	experience	Kewaunee Labway India Pvt Ltd, Kewaunee Scientific Corporation India Pvt Ltd
+content	experience	December, 2017 to till date
+content	experience	Senior Accounts executive
+content	experience	· In charge of Trade transactions (Bank Guarantee (including vetted draft), LC, Import, Export, NEFT, RTGS) of the company.
+content	experience	· Prepare MIS reports, invoices required for company.
+content	experience	· Assisting Manager in sales meetings to get projects.
+content	experience	· Monitoring amounts received by customers and give commercial clearance for
+content	experience	delivery of goods.
+content	experience	HSBC bank, Bangalore (commercial banking)
+content	experience	July, 2016 to October, 2017
+content	experience	REL SUPPORT ASSOC-BB (service manager)
+meta	others	.
+content	experience	· Handle portfolio of Relationship managers.
+content	experience	· Creating leadsfor new customers, sale of banking products to existing customers.
+content	experience	· Take care of clearing, inward remittances, outward remittances, FIRC,EEFC conversions, DD processing, RTGS, NEFT requests, TAX notices by government bodies.
+content	experience	· Work with Trade department for liaising with customers for the documentation, clearing discrepancies, transaction processing related to Import/Export.
+content	experience	· Apply cross-selling skills i.e. sales through service technique wherever applicable.
+content	experience	· To assist walk-in customers in the department for the queries and products related to their accounts.
+content	experience	· Take care of customer requests and provide excellent service as required.
+content	experience	HSBC DATA PROCESSING INDIA LTD, Visakhapatnam
+content	experience	Jan 2016 to June 2016
+content	experience	Customer Service executive-INM Personal Banking /Credit cards (INBOUND VOICE) at HSBC HDPI
+content	experience	· To handle escalations and feedbacks to set quality standards and customer expectations.
+content	experience	· To assist customers with accounts related to Personal accounts, NRE, NRO, loans
+content	experience	related to their balances, pre closure of loans, fixed deposits, deliverables, debit cards.
+content	experience	June 2009 to Jan 2016
+content	experience	HSBC DATA PROCESSING INDIA LTD
+content	experience	Customer Service executive-INM Commercial Banking (INBOUND VOICE)
+content	experience	· To handle customer queries effectively and try to solve customer queries regarding business banking/current accounts and also queries related to remittances.
+content	experience	· Actively leading the role of team coordinator between team and Business area.
+content	experience	· Take the privilege to provide assistance on HSBCNET (specific software for corporate companies),trouble shooting and provide appropriate solutions,
+content	experience	· Recognized in the site to drive migrating projects efficiently and effectively towards BAU (Business as usual).
+content	experience	· Back up trainer in the team.
+content	experience	June, 2006 TO June, 2009
+content	experience	Part time in HSBC DATA PROCESSING INDIA LTD
+content	experience	Customer Service executive (part time) - New Business.
+content	experience	· It is a non-voice process where we get the credit card applications and we process them through many queues and many stages and issue the credit cards to UK customers if the requirement is fulfilled.
+content	experience	REWARDS AND RECOGNITION
+content	experience	· Achieved awards in HSBC HDPI like TOP PERFORMER (July,2015), TOP PERFORMER (sales through service), SPECIAL RECOGNITION award in social committee, awards in CSR activities, compliments and appraises from customers, recognized for team spoc.
+content	experience	1999-2006
+header	experience	HOSPITALITY INDUSTRY
+content	experience	· Experience in esteemed hotels like ITC GROUP, MARS GROUP INTERNATIONAL (Umbrella group, Mumbai), LOTUS GROUP (Mumbai), DOLPHIN HOTELS (Ramoji Rao Group).
+content	experience	· Teaching and conducting sessions for Hotel Management students as per the possibility and availability.
+header	education	EDUCATIONAL QUALIFICATIONS
+content	education	· M.B.A (finance), from ANDHRA UNIVERSITY (School of Distance Education)
+content	education	· B.com, Customer Service Management from ANDHRA UNIVERSITY in collaboration with HSBC.
+content	education	· Diploma in FRENCH from ANDHRA UNIVERSITY.
+content	education	· Diploma in Hotel Management (3 years) from INDO-AMERICAN HOTEL MANAGEMENT ACADEMY (in collaboration with AMERICAN HOTEL AND MOTEL ASSOCIATION).
+header	others	.PERSONAL INFORMATION
+meta	others	Marital status: Married
+meta	others	Date of Birth: 5th December, 1978.
+meta	others	Hobbies: Listen to Music, Playing Chess, Read Novels, Watching Television.

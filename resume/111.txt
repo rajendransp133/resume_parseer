@@ -1,0 +1,118 @@
+meta	others	SOFTWARE PROGRAMMER
+meta	others	SUNDARA MOORTHI S
+meta	others	Mobile: (+91)-9112627902
+meta	others	E-mail:sjsmsk@gmail.com.
+header	others	Objective:
+content	others	· To pursue a challenging career in the industry of Information Technology in an adeptly managed organization that provides excellent opportunity to produce quality software and working for the growth of the company & my own through adopting to new technologies.
+header	experience	Experience Summary:
+content	experience	· Enthusiastic Software Programmer with 4.11 years of Experience using Object Oriented Design techniques and Microsoft.NET technologies to develop solutions for diverse scenarios. Designed and developed Microsoft.NET applications using ASP.NET, C#.NET, VB.NET, ADO.NET, and SQL Server 2012.
+content	experience	· Designed Reports using Crystal Report tool.
+content	experience	· Designed databases, tables, stored procedures and views with SQL Server.
+content	experience	· Hands on experience in WMS, HRMS, HEALTH CARE, Products Development, PLC Integration and Assembly Traceability System development and having the knowledge about the functionalities of MES.
+content	experience	· Excellent communication skills with strong background working directly with coworkers and clientele to identify business objectives and establish requirements.
+content	experience	· Strong but realistic belief in own capabilities and ideas, exhibiting a “can do” attitude & seeing problems as “solvable”.
+content	experience	· Maintain a positive attitude in the face of changes in work assignments or conditions.
+content	experience	· Have excellent analytical, problem solving, communication and interpersonal skills, with ability to work with people with different technical knowledge.
+header	experience	Work Experience:
+content	experience	· Working as Software Engineer in MothersonSumi INfotech & Designs Ltd (MIND) since July 2015, and located currently at customer place in FIAT, Pune.
+content	experience	· Working in Akkenam Technologies. Dindigul from Oct 2014 to Jun 2015.
+content	experience	· Worked in MicroSpark Business Soft Solutions. Dindigul from Sep 2012 to Sep 2014.
+header	knowledge	Technical Skills:
+content	knowledge	Languages
+content	knowledge	ASP.NET,VB.NET, C#. NET
+content	knowledge	Technologies
+content	knowledge	ASP.NET 3.5.
+content	knowledge	RDBMS
+content	knowledge	MS-SQL Server 2005/08 R2/2012, My Sql
+header	knowledge	Designing Tools
+content	knowledge	HTML, CSS, JAVASCRIPT, JQUERY
+content	knowledge	Operating Systems
+content	knowledge	XP & Windows 7,8,10
+header	education	Educational Qualification:
+content	education	· MCA from University of Madurai Kamarajar University,Madurai.
+content	education	· BCA from College of G.T.N Arts College, Dindigul.
+content	education	· HSC - GHSS,K.Ramanathapuram, Kovilur
+content	education	· SSLC - GHSS, K.Ramanathapuram, Kovilur.
+header	project	Project Summary:
+header	project	Project #1
+content	experience	Title
+content	experience	: Production Management System
+content	experience	Client Name
+content	experience	: Interfit India Pvt.Ltd-Dindigul
+content	experience	Role
+header	experience	: Software Programmer.
+content	experience	Environment
+content	experience	: VB.NET, Sql Server 2008 R2.
+content	experience	Duration
+content	experience	: Apr 2014 to Sep 2014
+header	experience	Description:
+content	experience	Interfit India Pvt.Ltd is maintaining them production in systematic.
+content	experience	Responsibilities:
+content	experience	· Understanding the Business requirement and Functional specification documents.
+content	experience	· Develop Business logic and screen design.
+content	experience	· Developed Business Logics in VB.net.
+header	project	Project #2
+header	project	Title
+content	experience	: ASSEMBLY TRACEABILITY SYSTEM
+content	experience	Client Name
+content	experience	: Brakes India Pvt. Ltd-Chennai
+header	experience	Role
+content	experience	: Software Programmer.
+content	experience	Environment
+content	experience	: C#.NET, Sql Server 2008 R2.
+content	experience	Duration
+content	experience	: Aug 2015 to Dec 2016
+header	experience	Description:
+content	experience	PLC APPLICATION: The PLC Windows Application is used to communicate with the Machine PLC through the KEPWARE OPC. It is configured with tag addresses. The PLC Application is developed to control the machine activity and also records the test results which are received from the PLC as part of traceability.
+content	experience	ASSEMBLY TRACEABILITY SYSTEM: The Assembly Traceability System is windows based thick client application. This application has the following modules. (Production Planning, POKAYOKE, Production Confirmation, Couple the two child part, JIT, Material Feeding, Packing, Rework)
+header	experience	Responsibilities:
+content	experience	· Understanding the Business requirement and Functional specification documents.
+content	experience	· Develop Business logic and screen design.
+content	experience	· Developed Business Logics in C#.net.
+content	experience	· Unit testing and integration testing of the application.
+content	experience	· Interacting with team lead and translate their requirements, business rules into technical requirements.
+content	experience	· Involved in Data Migration
+header	project	Current Project Summary:
+content	experience	Since Jan-2017, I have deputed to FIAT at Pune to understand and analysis the automation technology in manufacturing industry MES System. Following modules are covering in that system.
+content	experience	1. WIP Management
+content	experience	2. Torque Traceability
+content	experience	3. Part Traceability
+content	experience	4. Part Complexity
+content	experience	5. Quality Gate
+content	experience	6. JIT Point
+content	experience	7. Pick to Light System
+content	experience	8. Andon
+content	experience	Role
+content	experience	: Software Programmer.
+content	experience	Environment
+content	experience	: ASP.Net, C#, MSSQL Server 2012.
+content	experience	Duration
+content	experience	: Jan 2017 to Till now
+header	experience	Responsibilities:
+content	experience	· Understanding the automation technology in manufacturing industry MES System.
+content	experience	· Analysis Business logic and screen design.
+content	experience	· Developed trial application in ASP.Net, C#.net for MES System.
+content	experience	· Unit testing and integration testing of the application.
+header	others	Personal Details
+meta	others	Father Name
+meta	others	: SANMUGA SUNDARM V
+meta	others	Date of Birth
+meta	others	: 10th May 1992
+meta	others	Gender
+meta	others	: Male
+meta	others	Marital Status
+meta	others	: Single
+meta	others	Nationality
+meta	others	: Indian
+header	knowledge	Languages Known
+meta	knowledge	: Tamil, English
+meta	others	Current Address
+meta	others	: B5/303, Aura City, Talegaoun Road, Shikrapur, Pune.
+meta	others	Permanent Address
+meta	others	: Poosari patty,Kovilur(P),Vedasandur,Dindigul(DT)
+meta	others	DECLARATIOn
+meta	others	I hereby confirm that the information provided above is true to the best of my knowledge.
+meta	others	Date:
+meta	others	Place:
+meta	others	(SUNDARA MOORTHI S)
+meta	others	3

@@ -1,0 +1,49 @@
+header	others	Resume
+meta	others	Mobile : +91 9685955475
+meta	others	Email ID: kapydev5@gmail.com
+meta	others	Kapil Namdev
+meta	others	Male, 24
+header	others	Objectives:
+meta	others	To work for an organization where I can contribute my knowledge and skills to the organization and enhance my experience through continuous learning and teamwork.
+header	education	Educational Qualifications:
+content	education	Course / Degree
+content	education	Institute
+content	education	CGPA/Percentage
+content	education	Bachelor of Engineering(Mechanical Engineering)
+content	education	Sagar Institute of Science & Technology, Bhopal
+content	education	8.10
+content	education	XII
+content	education	Red Rose Higher Secondary School, Bhopal
+content	education	62.60
+content	education	X
+content	education	Fr. Agnel Higher School, Berasia, Bhopal
+content	education	68.66
+header	experience	Technical Exposure:
+content	experience	· Underwent a 30 days industrial/vocational training on Heat Exchanger at Laxmi Engineering Industries (Bhopal) Pvt. Ltd, Bhopal in year 2017.
+content	experience	· Major Project on Experimental study and analysis of “Straight Copper Tube, Straight Steel Tube and Corrugated Steel Tube with helix angle 600 double pipe Heat Exchanger” for parallel flow and its validation with CFD in year 2017.
+content	experience	· Underwent a 15 days industrial/vocational training on Automobile service centre at TATA Motors, Bhopal in year 2016.
+content	experience	· Minor Project on Multi-Purpose Chair in year 2016.
+content	experience	· Participated in National Working Model Competition NIRMAAN at Sagar Institute of Science &Technology, Bhopal in year from 2014-2017.
+content	experience	· Certified course on AutoCAD from college, Bhopal (Duration: 30 days) in year 2015.
+content	knowledge	· Having basic knowledge of ANSYS Workbench 15 software.
+content	experience	· 1-day Industrial Visit to Manjeet industry, Bhopal.
+content	experience	· 1-day Industrial Visit to Thermal Power Plant, Saarni.
+content	experience	· 1-day Industrial Visit to CIPET, Bhopal.
+content	experience	· Attended 1-day seminar on Automobile Engineering at Sagar Institute of Science &Technology, Bhopal.
+header	others	Co-curricular Activities:
+content	others	· Won 1st Price in Assemble and Dissemble competition.
+content	others	· Won 3nd Price in National conference on green technology.
+content	others	· Won 1st Price in 100 percentage attendance at School and College.
+content	others	· Won Cricket Tournament at School Level.
+content	others	· Attended 7 days campus recruitment training program “ Sagar Manthan 2015”.
+content	others	· Attended 4 days campus recruitment training program “ Sagar Manthan 2016”.
+header	others	Additional Information:
+meta	others	· Father’s Name : Mr. Kamal Namdev
+meta	others	· Address : Durga chowk Berasia, Bhopal (M.P)
+meta	others	· Date of Birth : 21-04-1994
+meta	others	· Nationality : Indian
+meta	others	· Hobbies : Playing Cricket, Listening Music, Fitness, Reading Technical books.
+meta	education	· Languages known : English and Hindi
+header	others	Declaration:
+meta	others	I do hereby declare that the above given information are true and correct to the best of my knowledge.
+meta	others	Date: Place: Kapil Namdev

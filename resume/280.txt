@@ -1,0 +1,68 @@
+header	others	CURRICULAM VITAE
+meta	others	GAYATHRI.G
+meta	others	No. 82/B, 3R CROSS,
+meta	others	Old Manjunatha Layout,
+meta	others	Ramamurty nagara
+meta	others	Bangalore-560016
+meta	others	Email: gayathrip2217@gmail.com
+meta	others	Mobile: 9632344667
+header	others	OBJECTIVE
+content	others	Seeking a position to utilize my skills and abilities in an industry that offers exposure and professional growth where being resourceful, innovative and flexible.
+header	knowledge	COMPUTER KNOWLEDGE
+header	knowledge	APPLICATION S/W : BASIC COMPUTER
+content	knowledge	: MS-OFFICE
+content	knowledge	: MS-EXCEL
+content	knowledge	: Tally ERP 9
+content	knowledge	: Typing (Accuracy90%).
+content	knowledge	: SAS & SAP
+header	experience	JOB PROFILE
+content	experience	· Daily Production & Sales Report.
+content	experience	· Daily Sale Orders in SAP & Billing.
+content	experience	· Filing E-Way bills.
+content	experience	· Maintain Triplicate Copies
+content	experience	· Making Proforma Invoices
+content	experience	· Receipt Collections From Customer Through Cheque (C.I.B)
+content	experience	· Updating Quotations in SAP.
+content	experience	· Conversion Letter To Nagpur ( Maintaining PESCO CERTIFICATE)
+content	experience	· Payment Collections.
+header	education	QUALIFICATION
+content	education	EXAMINATION
+content	education	BOARD/ UNIVERSITY
+content	education	YEAR OF PASSING
+content	education	PERCENTAGE
+content	education	SSLC
+content	education	Bangalore University (Govt high school Varthur)
+content	education	2010-11
+content	education	63.63%
+content	education	PUC
+content	education	Bangalore University (Govt PU College Varthur)
+content	education	2012-13
+content	education	50%
+content	education	BCOM
+content	education	Bangalore University (Sacred Hearts Girls First Grade College)
+content	education	2016-17
+content	education	60%
+header	knowledge	PERSONAL SKILLS
+content	knowledge	· Quick learner
+content	knowledge	· Believe in Team Work
+content	knowledge	· Dedication to Work
+header	education	CERTIFICATION:
+content	education	· Distinction in Banking Exam by MERIDIAN institute.
+header	experience	EXPERIENCE:
+content	experience	· Worked at CA office as ACCOUNTANT in N.P. Sreedhar CA office (Whitefield) for 6 months.
+content	experience	· Currently Working at Bhuruka Gases Limited as Sales executive in SAP From Jan-23-2017 to till date.
+header	others	PERSONAL DETAILS
+meta	others	Name : Gayathri.G
+meta	others	Date of birth : 22-01-1996
+meta	knowledge	Languages known : Kannada,English,Hindi, Marathi, Telugu, & Tamil.
+meta	others	Gender : Female
+meta	others	Marital Status : Married
+meta	others	Nationality : Indian
+meta	others	Email : gayathrip2217@gmail.com
+meta	others	Phone : 9632344667
+meta	others	Husband Name : Punith Kumar.N
+meta	others	I hereby declare that the information furnished above is true to the best of my knowledge.
+meta	others	Yours Faithfully
+meta	others	Place : Bangalore
+meta	others	(GAYATHRI .G)
+meta	others	Date :

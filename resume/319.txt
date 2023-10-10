@@ -1,0 +1,134 @@
+meta	others	Page 3 of 3
+meta	others	Page 1 of 3
+meta	others	Vaibhav Sansare
+meta	others	Phone: 9820946093 Email: vaibhav.sansare@gmail.com
+header	education	Education
+content	education	Degree/Course
+content	education	Year of Passing
+content	education	College/University
+content	education	Post Graduate Diploma in Pharma Management
+content	education	March,2007
+content	education	Mumbai University, India
+content	education	B.sc (Chemistry )
+content	education	March, 2006
+content	education	Mumbai University, India
+header	knowledge	technical skills
+content	knowledge	Data Base
+content	knowledge	Skill
+content	knowledge	Currently working on RAVE Database, INFORM and HPQC (AZ-Medimmune)
+content	knowledge	Data Management Set-up and Conduct
+content	knowledge	Worked on Oracle Clinical database, UNIX & FTP server (Pfizer – Data Acquisition)
+content	knowledge	Loading of electronic data & QC of Lab Slips
+content	knowledge	MS Office
+content	knowledge	Skilled in MS - Office
+header	experience	EMPLOYMENT HISTORY:
+content	experience	Name of the Company
+content	experience	Designation
+content	experience	Address of the employer
+content	experience	From
+content	experience	To
+content	experience	Duration
+content	experience	Cognizant Technology Solutions
+content	experience	Data Analyst
+content	experience	Powai, Mumbai
+content	experience	July 2011
+content	experience	Till date
+content	experience	06 Months
+content	experience	Cognizant Technology Solutions
+content	experience	Jr. Data Analyst
+content	experience	Powai, Mumbai
+content	experience	July 2009
+content	experience	June 2011
+content	experience	24 Months
+content	experience	Cognizant Technology Solutions
+content	experience	Trainee. Jr. Data Analyst
+content	experience	Powai, Mumbai
+content	experience	July 2008
+content	experience	June 2009
+content	experience	12 Months
+content	experience	Caliber Point Business Solutions
+content	experience	Service Delivery Executive
+content	experience	Mahape, Navi Mumbai
+content	experience	Oct 2007
+content	experience	July 2008
+content	experience	8 Months
+header	project	PROJECT DETAILS
+header	project	Project Title
+content	experience	AZ Med Immune (Set-up & Conduct)
+header	project	Project Title
+content	experience	Pfizer Data Acquisition
+header	experience	CLIENT DESCRIPTION:
+content	experience	1) Working since Jan 2008 as a Data Loader in Clinical Data Management for ‘pfizer’ in therapeutic area of phase I, phase II and phase III.
+content	experience	2) Working since Dec 2009 as a Data Manager in Clinical Data Management for ‘Astra Zeneka-MedImmune’ in therapeutic area of phase I, phase II and phase III
+content	experience	Project Experience Summary
+content	experience	Client
+content	experience	Project
+content	experience	Domain
+header	experience	Role
+content	experience	Duration
+content	experience	AZ Med Immune (Conduct)
+content	experience	Clinical Data Management
+content	experience	Life Sciences
+content	experience	Team Member
+content	experience	(Data Management)
+content	experience	25 Months
+content	experience	Pfizer Inc.
+content	experience	Clinical Data Management
+content	experience	Life Sciences
+content	experience	Team Member
+content	experience	(Data Acquisition)
+content	experience	17 Months
+content	experience	ROLES AND RESPONSIBILITIES IN THE PROJECT: Pfizer CDM
+content	experience	Perform data administration activities.
+content	experience	Perform QC of lab slips and revert back with the findings to the client.
+content	experience	Send errors if any encountered to the client.
+content	experience	Follow-up and get resolutions for issues.
+content	experience	Provide personal metrics to the team lead for team metrics collation.
+content	experience	Adherence to Cognizant and Client SOPs.
+content	experience	AD-Hoc Activities: Pfizer CDM
+content	experience	Perform manual review of data listings for all modules.
+content	experience	Perform the database cleaning activities prior database lock.
+content	experience	ROLES AND RESPONSIBILITIES IN THE PROJECT: AZ Med Immune (Set-Up)
+content	experience	Develop eCRF Review Manual and eCRF Instructions (for EDC studies).
+content	experience	Review EDC Core Configuration against study requirements and assess need for any amendments.
+content	experience	As applicable, prepare the mock CRF, Unique CRF casebook and annotated CRF.
+content	experience	Create and maintain study Required Documents.
+content	experience	Create and maintain study CRF data standard document.
+content	experience	Creation of script for UAT in HPQC.
+content	experience	Create and maintain project and study Data Entry Instructions.
+content	experience	Perform UAT according to Validation Plan of all applicable Data Management systems.
+content	experience	Create and maintain Data Management Plan.
+content	experience	Create and maintain Data Review Plan.
+content	experience	Maintain Data Management related operational data flows.
+content	experience	ROLES AND RESPONSIBILITIES IN THE PROJECT: AZ Med Immune (Conduct)
+content	experience	Implement and promote the use of consistent, efficient quality processes to meet timelines and deliverables for the site based project teams according to specifications.
+content	experience	Review and action queries on an ongoing basis and update database based on the query resolutions.
+content	experience	Review reports and take actions as defined in the DMP or eCRF review manual.
+content	experience	Provide listings for review to study team as per the timelines defined in the DMP and process discrepancies found from reviews.
+content	experience	Perform ongoing and final consistency checks, review protocol deviation handling document and data listings to ensure that all data have been handled appropriately according to the DMP and eCRF Review Manual.
+content	experience	Perform updates post database lock if any.
+content	experience	Perform SAE Reconciliation between the Safety and Clinical study databases with supporting documentation. Determine whether inconsistent data points exhibit acceptable or unacceptable discrepancies.
+content	experience	Issue queries for data points that exhibit unacceptable discrepancies, including sending data correction request forms to the Client, document the status of events in a reconciliation spreadsheet, update the safety database and Update Project database with query resolutions, closing out queries.
+content	experience	Support Quality control checks for the trial.
+content	experience	Ensure that all Data Management activities are conducted in compliance with relevant regulatory requirements.
+content	experience	Contact with study team, CRA, CPM and DMPL if required.
+content	experience	Schedule and attend Telecon Meeting with study team.
+content	experience	Enter Lab Normal Ranges in Rave Data Base.
+content	experience	Working on Inform Studies.
+content	experience	Additional responsibilities
+content	experience	Participate in knowledge sharing sessions as an when applicable.
+content	experience	Ensure adherence to Cognizant and Client SOPs.
+content	experience	Ensure timely submission of timesheets/ functional tracking spreadsheets.
+content	experience	Performing SME role for Vaccine studies and for entering LNR in RAVE.
+content	experience	Proactively attending personality development training.
+content	experience	PERSONAL DETAILS:
+content	experience	Address: A/301, 3rd flr, Vinod Palace,
+content	experience	Near Panchmukhi Hanuman Mandir,
+content	experience	Near MNS office,
+content	experience	Opp. Hidusthan Bank,
+content	experience	Beturkar Pada,
+content	experience	Kalyan (W)
+meta	others	Contact number: 9820946093
+meta	others	E-mail address: vaibhav.sansare@gmail.com / sansare_vaibhav1983@rediffmail.com
+meta	others	Marital status: Single
+meta	others	Birth Date: 25 Nov 1983

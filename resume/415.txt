@@ -1,0 +1,52 @@
+meta	others	CURRICULUM VITAE
+meta	others	ANIL RAMESH NIMMA
+meta	others	Room no 110, Mariamma Temple Nagar,
+meta	others	Sion Koliwada, Mumbai 400 022.
+meta	others	Mobile no: 91-9967429256
+meta	others	Email: nimmaanil56@gmail.com
+header	others	Career Objective:
+content	others	To be able to find an internship wherein I can fully utilize my skills and knowledge,
+content	others	and further enhance them to contribute to my development as a person; and to be able to
+content	others	be a part of a team whose development I can contribute to as a member, In preparation for
+content	others	my future career.
+header	experience	Work Experience:
+content	experience	Transcontinental E Services Pvt Ltd
+content	experience	Job Title: Customer Service Associate
+content	experience	(23rd Oct 2016 – 29th April 2017)
+content	experience	 Worked as inbound Customer service executive for Blue Star Ltd.
+header	knowledge	Academics:
+content	knowledge	Qualification Board/University School/College Year of Passing Percentage
+content	knowledge	TYBCOM Mumbai
+content	knowledge	University
+content	knowledge	S.I.E.S College 2018 71.92%
+content	knowledge	HSC Maharashtra
+content	knowledge	Board
+content	knowledge	A.E.S College 2014 72.15 %
+content	knowledge	SSC Maharashtra
+content	knowledge	Board
+content	knowledge	A.E.S High
+content	knowledge	School
+content	knowledge	2012 54.18%
+header	knowledge	Additional Qualification:
+content	experience	 MS-CIT with 93%(MS Office),
+content	knowledge	 Advance Excel,
+content	knowledge	 Advance Tally ERP 9 (from Keerti Institute in the year 2016.)
+content	knowledge	 Completed Career Development course of Antarang Foundation in SIES College.
+meta	knowledge	(Dec 2018 – April 2018)
+meta	others	mailto:nimmaanil56@gmail.com
+header	others	Personal Detail:
+meta	others	Name: Anil Ramesh Nimma
+meta	others	Date of Birth: 09th April 1997
+meta	others	Gender: Male
+meta	others	Marital Status: Single
+meta	others	Religion: Hindu
+meta	others	Nationality: Indian
+meta	others	Hobbies: Playing Chess, Watching T.V
+meta	knowledge	Language Known: Hindi, Telugu, English, Marathi
+meta	others	Strength: Positive Attitude, Self Motivated
+header	others	Declaration:
+meta	others	I hereby declared that all the information in the resume is true to my
+meta	others	knowledge.
+meta	others	Place:Mumbai.
+header	others	Date:
+meta	others	(Anil Nimma)

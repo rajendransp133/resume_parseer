@@ -1,0 +1,71 @@
+meta	others	MYTHILI V
+meta	others	No: 381, 27th Street,
+meta	others	6th Sector, KK Nagar
+meta	others	Chennai-600 078.
+meta	others	Tamil Nadu.
+meta	others	Mobile:91 7338718438
+meta	others	Mail :
+meta	others	navaneethammythili@gmail.
+meta	others	com
+header	experience	Resume
+content	education	Graduation: B.B.A (Bachelor of Business Administration) –JBAS College for
+content	education	Women with an aggregate of 60% during 2012 – 2015.
+content	education	Higher Secondary Course: 12th DR K.K Nirmala Girls Higher Secondary
+content	education	School with an aggregate of 72% during 2010-2012.
+content	education	Secondary Course: SSLC – DR K.K Nirmala Girls Higher Secondary School
+content	education	with an aggregate of 75% during 2009 – 2010.
+header	education	EDUCATION
+header	others	Professionnal Objective
+content	others	To acquire an innovative and challenging career in an esteemed
+content	others	organization and use my skills and right stuffs for the upliftment of
+content	others	the organization.
+header	experience	WORK EXPERIENCE
+meta	others	Father’s Name : V.Velmurugan
+meta	others	Mother Name : V.Navaneetham
+meta	others	Date of Birth : 28-07-1995
+meta	others	Age : 22yrs
+meta	others	Nationality : Indian
+meta	others	Sex : Female
+meta	others	Marital Status : Single
+header	others	OTHERS INFORMATIONS
+header	knowledge	COMPUTERS SKILLS
+content	knowledge	• Windows-7
+content	knowledge	• Windows XP
+content	knowledge	• MS OFFICE
+content	knowledge	• Tally ERP 9
+content	knowledge	• HTML
+header	knowledge	LANGUAGES
+content	knowledge	• Tamil
+content	knowledge	• English
+header	others	INTERESTS
+content	others	• Leasing Music
+content	others	• Reading Books
+content	experience	 6 Months : Srinivasan & Co – Accountant - Chennai.
+content	experience	• Petty Cash,
+content	experience	• BRS,
+content	experience	• Client Invoice Preparation,
+content	experience	• Net banking and
+content	experience	• customer document handking.
+content	experience	 5 Months : Chubby Plastics – Manufacturing Unit –Junior
+content	experience	Accountant –Chennai
+content	experience	• Petty Cash,
+content	experience	• BRS,
+content	experience	• Client Invoice Preparation,
+content	experience	• Net banking and
+content	experience	• Payroll (Basic)
+content	experience	 May 2017 to Current :DXC Technology - Process Associate -Finance.
+content	experience	• Reconcilation
+content	experience	• Unreconcilation
+content	experience	• Cash Management
+content	experience	• AP Invoice Clearance
+meta	others	___________________________________________________
+content	others	I hereby declare that all statements made in the resume are true, complete and
+content	others	correct to the best of my knowledge and belief.
+meta	experience	Place: Chennai
+meta	experience	Date: (MYTHILI V)
+meta	experience	DECLARATION
+header	experience	Resume
+header	others	OTHERS INFORMATIONS
+header	experience	WORK EXPERIENCE
+header	education	EDUCATION
+header	others	DECLARATION

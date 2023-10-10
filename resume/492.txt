@@ -1,0 +1,61 @@
+header	others	RESUME
+meta	others	M. BALAMBIGAI No:22A,Dasapuram, 2nd cross street,
+meta	others	E-mail:balambigai_here@yahoo.com Thiruninravur, Chennai-602024
+header	others	CAREER OBJECTIVES:
+meta	others	Seeking for a job to pursue a highly rewarding career and a healthy work
+meta	others	environment where I can utilize my skills and knowledge efficiently, intend to build a career
+content	others	as a dedicated person, develop my skill that dynamically aids the growth of the organization.
+header	education	ACADEMIC QUALIFICATION:
+content	education	Course Institution Board/University Percentage Passing
+content	education	B.Sc.
+content	education	Mathematics
+content	education	Bhaktavatsalam memorial
+content	education	college for women.
+content	education	Madras university
+content	education	(Non-autonomous)
+content	education	67%
+content	education	2019
+content	education	H.S.C
+content	education	Immaculate of heart of marys
+content	education	girl’s higher secondary
+content	education	school.
+content	education	State board
+content	education	77%
+content	education	2016
+content	education	S.S.L.C
+content	education	Immaculate heart of marys
+content	education	girl’s higher secondary
+content	education	school.
+content	education	State board
+content	education	91%
+content	education	2014
+header	knowledge	TECHNICAL SKILLS:
+content	knowledge	 Real analysis
+content	knowledge	 Algebra
+content	knowledge	 Tally ERP 9
+content	knowledge	 DCA(Diploma in computer application)
+content	knowledge	 C programming
+header	knowledge	PERSONAL SKILLS:
+content	knowledge	 Leadership
+content	knowledge	 Self-motivation
+content	knowledge	 Teamwork
+content	knowledge	 Time Management
+content	experience	 Ability to work under pressure
+header	others	HOBBIES:
+content	others	 Painting
+content	others	 Singing
+content	others	 Gaming
+header	others	PERSONAL DETAILS:
+meta	others	Father’s name : B.Murugadoss
+meta	others	Mother’s name : M.Vijayalakshmi
+meta	experience	Date of birth : 02-06-1999
+meta	others	Gender : Female
+meta	experience	Nationality : Indian
+meta	others	Religion : Hindu
+meta	others	Marital status : Unmarried
+meta	experience	Language Known : Tamil &English (Read, Write, Speak)
+header	others	DECLARATION:
+meta	others	I hereby assure you that the information furnished above is true to the best of my
+meta	others	knowledge.
+meta	others	Place: Chennai Yours truly
+meta	others	Date : (M.Balambigai)

@@ -1,0 +1,49 @@
+header	others	CURRICULUM VITAE
+header	others	Curriculum Vitae
+header	others	Objective
+meta	others	I would like to work with a reputed organization as a Banking Sector & do the challenging Job, using my knowledge therewith. Also wish to get good things from the organizations.
+meta	others	Ashish .b. jaiswal
+meta	others	ashishj610@gmail.com
+meta	others	samparkashish1@gmail.com
+meta	others	POSTAL ADDRESS
+meta	others	Koslawali Chawl, Jawahar Nagar,
+meta	others	Khar (E), Mumbai-400 055.
+content	others	Mobile No. : 9821963251/8691860007.
+header	others	Personal Detail :
+header	others	Date of Birth
+meta	others	:
+content	others	7th August, 1987.
+content	others	Gender
+meta	others	:
+content	others	Male.
+content	others	Nationality
+meta	others	:
+content	others	Indian.
+content	others	Marrital Status`
+meta	others	:
+content	others	Single.
+header	knowledge	Languages known
+meta	others	:
+content	knowledge	English, Hindi & Marathi.
+header	education	Educational QUALIFICATION:
+content	education	· Passed S.S.C from Mumbai board with second class in the year 2003.
+content	education	· Passed H.S.C. From Mumbai board with second class in the year 2005.
+content	education	· Passed T.Y. B. Com from Mumbai University with second class in March 2008.
+header	knowledge	Extra QUALIFICATION:
+content	knowledge	Basic knowledge in computer.
+header	experience	· Working EXPERIENCE:
+content	experience	1. Worked as a “M.R.E” in DNA for 6 Months.
+content	experience	2. Worked as a “Tele Marketing” in I.C.I.C.I Bank for 6 Months.
+content	experience	3. Worked as a “Interviewer” in Hansa Research Group for 8 Months.
+content	experience	4. Currently working in a “Sampark BPO Pvt LTD” as a ‘Team Leader’ more than 20 Months.
+header	others	Objectives:
+content	others	1. Handling a Team of 39 agents.
+content	others	2. Making reports of daily MIS, review monthly tracker and attendance file.
+content	others	3. Sending daily productivity SMS.
+content	others	4. Conversation with clients through phones calls.
+header	others	HOBBIES:
+content	others	· Playing Cricket, Listening Music, Surfing.
+meta	others	Place: Mumbai.
+header	others	Date:
+meta	others	Yours faithfully,
+meta	others	(Ashish .b. jaiswal)

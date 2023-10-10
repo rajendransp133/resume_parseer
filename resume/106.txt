@@ -1,0 +1,46 @@
+meta	others	Paramita Roy
+meta	others	21c/1k Padma Pukur Road,Kolkata-700047 ❚ 9748655807 ❚ paramitar1@gmail.com
+header	others	OBJECTIVE:
+content	others	· Get a better future and lead a good life by getting a good position in the industry.
+content	others	· Always stay on the top by constantly learning new techniques and technologies.
+content	others	· Be a part of an organization and team which would allow me to make innovative and flexible ideas allying with organizational principals and achieve organizational targets.
+header	education	EDUCATION:
+content	education	2012
+content	education	BScIT
+content	education	(Graduation)
+content	education	Kuvempu University
+content	education	Passed
+content	education	2010
+content	education	GNIIT
+content	education	(Diploma in Software engineering)
+content	education	NIIT
+content	education	Completed
+content	education	2008
+content	education	Higher Secondary
+content	education	W.B.B
+content	education	Passed
+content	education	2006
+content	education	Secondary
+content	education	W.B.B
+content	education	Passed
+header	knowledge	TECHNICAL SKILLS
+content	knowledge	· Basic Computer Operations, Microsoft Office Packages.
+content	knowledge	· Web Page Designing with HTML, CSS, Java Script, Photo Shop
+content	knowledge	· Programming in C# OOP Language
+content	knowledge	· Working with .Net Framework 2.0, 3.5/ Working with Visual Studios 2005 & 2008 ( ASP.NET, ADO.NET)
+content	knowledge	· Working with Microsoft SQL Server 2005 & 2008
+content	knowledge	· Basics of Oracle
+content	knowledge	· Php & MySql
+header	others	EXTRA CURRICULUM ACTIVITIES:
+content	others	· Painting, listening music
+header	others	PERSONAL DETAILS:
+meta	others	Name : Paramita Roy
+meta	others	Date of birth : 24th August, 1990
+meta	others	Daughter Of : Mr. Debasish Roy
+meta	others	Nationality : Indian
+meta	others	Religion : Hindu
+meta	knowledge	Language Known : Hindi, English & Bengali
+meta	others	Address : 21c/1k Padma Pukur Road, Kolkata-700047
+meta	others	Contact Details
+meta	others	: Cell No : 9748655807
+meta	others	E-Mail ID: paramitar1@gmail.com

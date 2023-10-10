@@ -1,0 +1,68 @@
+meta	others	http://bit.ly/infoworld
+meta	others	WASIM RAJA.M
+meta	others	wasimmubarak@gmail.com
+meta	others	+91 9597724966
+header	others	Career Objective:
+content	others	To seek a challenging career in an organization having the environment that encourages continuous learning and provides exposure of new technologies, so as to achieve professional and personal growth.
+header	experience	Professional Summary:
+content	experience	· A technical professional with 3+ years of total IT experience in Troubleshooting a wide range of technical support issues and connectivity problems such as authentication, connection speed, connection quality, throughput, e-mail configuration, Wireless configuration and loss of synchronization,
+content	experience	· Proficient in Antivirus, Network/Internet Security Configuration, Consulting and Troubleshooting of Virus Related Problems using Shareware & Licensed Antivirus Software Packages.
+content	experience	· Expertise in Installing and configuring operating system such as Windows 7, Windows 8 and Cent OS and Installation and configuration of mail Servers such as Outlook 2007, Windows live mail and Mac mail.
+content	experience	· Self-motivated, energetic and highly ethical in all work related assignments thus able to immediately contribute to corporate goals and objectives.
+content	experience	· Good written communication & interpersonal skills, proven team player with good analytical mind bend to problem solving and delivering solutions.
+content	experience	· Well Organized, ability to multi-task and prioritize them effectively and Manage escalations.Ability to manage small team of people and motivate them for successful completion of projects.
+content	experience	Academic Qualifications:
+content	experience	· B.E. in Computer Science & Engineering with 70% from OCET College, Theni in the year 2011.
+content	experience	· Diploma in Computer Science Engineering with 72.67% from R.V.S Polytechnic College, Dindigul in the year 2008.
+content	experience	· SSLC with 60% from KMS School, Dindigul in the year 2005.
+header	experience	Employment History:
+content	experience	· Sitel - 3.2 years -Customer Service Professional
+content	experience	· Veisa Technologies - 11Months-Linux and MySQL Admin
+header	knowledge	Technical Skill Set:
+content	knowledge	Operating system :Windows Family, Mac OS and Cent OS
+content	knowledge	Languages :C, C++
+content	knowledge	Application Software:Visual basic 6.0, MS Office.
+content	knowledge	Web Technology :HTML
+content	knowledge	Multimedia Packages:Adobe PhotoshopCS2, Movie Maker, Camtasia Studio
+header	project	Project details:
+content	experience	CSP (Customer Service Professional) - Technical Support
+content	experience	SITEL, CHENNAI
+content	experience	June 2013 – August 2016
+header	experience	Responsibilities:
+content	experience	· Troubleshooting a wide range of technical support issues and connectivity problems such as authentication, connection speed, connection quality, throughput, e-mail configuration, Wireless configuration and loss of synchronization.
+content	experience	· Performing troubleshooting techniques over the chat to identify and resolve issues.
+content	experience	· Troubleshooting of LAN Connectivity issues on site.
+content	experience	· Keeping abreast with the multiple sources of information and with the latest changes in product features and technological developments.
+content	experience	· Configuration & Installation of Server Client based software’s for different types of clients.
+content	experience	· Installation, Configuration, & Troubleshooting of Third Party Mail Servers.
+content	experience	· I have provided Remote support & Net meeting support using following software Rescue LogMeIn and Team Viewer, Remote Desktop.
+content	experience	· Antivirus, Network/Internet Security Configuration and Consulting.
+content	experience	· Troubleshooting of Virus Related Problems using Shareware & Licensed Antivirus Software Packages.
+content	experience	· Assisting team members and provide support and solutions to customer queries to meet company objectives.
+content	experience	· Continuous learning of company offered products and services to better serve customer support and service solutions.
+content	experience	· Contributed to technical documentation, and produced technical memos for released products.
+content	experience	Technical Support
+content	experience	Veisa Technologies, TRICHY
+content	experience	April 2012 – March 2013
+header	experience	Responsibilities:
+content	experience	· Installing and configuring operating system such as Windows 7, Windows 8 and Cent OS.
+content	experience	· Installation and configuration of mail Servers such as Outlook 2007, Windows live mail and Mac mail.
+content	experience	· Troubleshooting and configuring popular e-mail clients and web browsers.
+content	experience	· Converting tiff images to jpeg image file using converting software.
+content	experience	· Importing and exporting data on NIC server.
+content	experience	· Acted as team facilitator, to coordinate meetings with project team members. Provide technical project reports and briefings to key administrative personnel.
+header	others	Personal Details:
+meta	others	Name :M. Wasim Raja
+meta	others	Father’s Name :A. Mubarak Ali
+meta	others	Date of Birth :02.12.1989
+meta	others	Gender :Male
+meta	others	Marital Status :Married
+header	knowledge	Languages
+meta	knowledge	Known :English& Tamil (Speak, Read & Write)
+meta	others	Hobbies : Playing Cricket, Chess and Surfing on Net
+meta	others	Present Address :No:15/96, Poochinayakenpatti,
+meta	others	Middle Street, Begumbur(PO), Dindigul-624002, Tamil nadu.
+meta	others	Declaration:
+meta	others	I hereby declare that the above mentioned information is true to the best of my knowledge and belief andI bear the responsibility for the correctness of the above mentioned particulars.
+meta	others	Place: Dindigul.
+meta	others	Date: (WASIM RAJA.M)

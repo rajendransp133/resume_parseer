@@ -1,0 +1,74 @@
+meta	others	CURRICULUM VITAE
+meta	others	RESUME — Sales executive
+meta	others	UMESH SURESH GAWAI
+meta	others	B.M.S Marketing
+meta	others	Phone: +9820796586
+meta	others	E-mail: umeshgawai899@gmail.com
+header	others	CAREER OBJECTIVE
+content	others	To utilize my skill set in this ever-growing interactive virtual world to make it more secure and usable to provide a commercial outlook to corporate world and eventually people at large.
+content	others	STRENGTHS
+content	others	· Quick learner.
+content	others	· Good team player who likes to take up and fulfill challenging responsibilities.
+content	others	· Analyzer Good Problem Analyzing Skills.
+content	others	· Possess excellent verbal and written communication skills.
+header	education	ACADEMIC DETAILS
+content	education	EXAMINATION
+content	education	BOARD\UNIVERSITY
+content	education	YEAR
+content	education	PERCENTAGE %
+content	education	PGDM ( Marketing)
+content	education	PURSUING
+content	education	2018
+content	education	BMS (Marketing)
+content	education	MUMBAI UNIVERSITY
+content	education	2015
+content	education	51
+content	education	HSC
+content	education	MAHARASHTRA BOARD
+content	education	2012
+content	education	48
+content	education	SSC
+content	education	MAHARASHTRA BOARD
+content	education	2010
+content	education	50
+header	experience	INTERNSHIP DETAILS
+content	experience	JNPT 1 Month for Marketing
+header	project	PROJECTS
+content	project	T.Y B.M.S Industrial Relationship in ultratech cement
+content	project	JNPT - Project Completed for Container Liquid Break Bulk Traffic Projection
+header	experience	WORK EXPRERIENCE :-
+content	experience	WORKED - I worked with Pradeep Roadways Co. ,Uran,Navi Mumbai,as a ( Dispatch supervisor) since 14 June 2016 to 30 December 2017.
+content	experience	Now I am currently working in OSOURCE INDIA PVT LTD.( ULTRATECH CEMENT LTD.) As a Sales and Marketing assistant At Belapur,Navi Mumbai since 3 Feb 2017 to still.
+content	experience	· Responsible for the business development
+content	experience	· To handle to the all yard orders pass on maintain the stock .
+content	experience	· Responsible to tie up with distributor channel for business.
+content	experience	· To taking from the distributor channel.
+content	experience	· Arrangement of cement bulker’s to customer’s
+header	knowledge	COMPUTER SKILLS
+content	knowledge	Basic OS Knowledge
+content	knowledge	Basic Computer Operations
+content	knowledge	MS Office
+content	knowledge	SAP ( PM)
+content	knowledge	Tally ERP 9
+header	others	ACTIVITIES:
+content	others	1.I do the follow up pertaining of material bulker’s with vendors/customers.
+content	others	2.Booking customers orders.
+content	others	3.Contact with the customers regarding requirement of material and any issue about goods.
+content	others	4. have good knowledge about the material.
+content	others	5.I have knowledge about sales & marketing.
+content	others	6.I Daily communication with customers regarding cements orders.
+header	others	HOBBIES
+content	others	· Drawing.
+content	others	· Surfing Internet.
+content	others	· Exploring new places.
+header	others	PERSONAL DETAILS
+meta	others	Name: Umesh Suresh Gawai
+meta	others	Father’s Name: Suresh Baliram Gawai
+meta	others	Gender: Male
+meta	others	Date of Birth : 18 November 1993
+meta	others	Address: At.post. jasai, Tel. Uran, Dist. Raigad.
+meta	others	Pin code. 410206
+meta	knowledge	Language Known : English, Hindi, Marathi
+meta	others	I hereby declare that all the information provided above is true to the best of my knowledge.
+meta	others	Sign. GAWAI UMESH SURESH.
+meta	others	Date: 20 09 2018

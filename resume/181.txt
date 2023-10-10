@@ -1,0 +1,101 @@
+meta	others	Phone No:
+meta	others	+91-9790051411
+meta	others	Address:
+meta	others	s/o:
+meta	others	KP Krishnan
+meta	others	156,RVN Layout,
+meta	others	New siddhapudur,
+meta	others	Coimbatore,
+meta	others	Tamilnadu
+meta	others	Pin Code: 641044.
+meta	others	Ajith kumar.k
+meta	others	E-mail: ajith.farry@gmail.com
+header	others	OBJECTIVE
+content	others	To work with an organization that provides a stimulating work environment where my skills of working towards challenging projects will contribute to the benefit of the organization
+header	education	EDUCATION
+content	education	· PG Diploma (Master Training in Java Technology) in Apollo Institute of Computer Technology with 85% (conceptual grade) during the period 2009-2010.
+content	education	· B.SC(COMP.SCI) in Rathinam College, Bharathiyar University with aggregate of 67% during the period 2006-2009
+content	education	· HSC in YWCA Matriculation (Coimbatore) with 70% during the period 2005-2006.
+content	education	· S.S.L.C in Angappa CBSE School (Coimbatore) with 65% in the year 2003-2004.
+header	knowledge	TECHNICAL AND COMPUTER SKILLS
+content	knowledge	· Operating systems: : MsDos,Windows7,XP,98,2000
+content	knowledge	· Webtools:Html,Javascript
+content	knowledge	· Databases:Access,Sql,Oracle
+content	knowledge	· Programming Languages: C,C++,Java,J2EE
+content	knowledge	· Packages: MS Office
+header	knowledge	SPECIAL ATTRIBUTES
+content	knowledge	· Attended one day Workshop about ORACLE at Sankara InfoTech (CBE)
+content	knowledge	· Completed Course in Microsoft Office tools at Manipal University Centre.(CBE)
+content	knowledge	· Completed one week intermediate training on “KEY STRUCTURE IN MULTIMEDIA” at MICE (Manipal Institute of Computer Education).
+content	knowledge	· Wrote Various Articles and Poems for college Magazines.
+header	experience	WORK EXPERIENCE
+content	experience	· Worked as Process Associate for Global Business Services in HP, Chennai.
+content	experience	· Customer Solutions(enterprise)Dec2011 – till date
+content	experience	· Engaged in Renewal process of enterprise customers for the renewal access through Sap.
+content	experience	· Worked as Process Associate in KGISL Coimbatore in Chat support process (sale access).
+content	experience	· Customer Support-Nov2010 to October2011
+content	experience	· Interacting with US customers through chat for the sale of certain service provider Bundles (sales access mode).
+content	experience	· Worked as Quality Analyst in Vibrant Screens Pvt Ltd (VBR) Bangalore.
+content	experience	(during on-going project)
+content	experience	· Verification access-Sep2010 to October2010
+content	experience	· Engaged in Verification process for the Education and Employment classifications in various company subsidiaries.
+content	experience	· Worked as Process Associate in ANZ (Australian & Newzealand Banking unit-de.duping project) Bangalore.
+content	experience	(during on-going project)
+content	experience	· De-Duping Process-July2010 to August2010
+content	experience	· For the facilitation of banking customers (Australian and Newzealand customers) in dual mode software access.
+header	knowledge	STRENGTHS
+content	knowledge	· Passionate proceed.
+content	knowledge	· Positive thinking.
+content	knowledge	· Great zeal in learning new things.
+content	knowledge	· Adaptable to any Atmosphere.
+content	knowledge	· Creative and Technical Writing.
+content	knowledge	· I believe in maintaining high standard of work.
+header	project	PROJECT DESCRIPTION
+header	project	Project Title
+content	experience	: Club Management
+content	experience	Platform
+content	experience	: Asp.net, Sql server
+content	experience	Team size
+content	experience	: 3
+content	experience	Description
+meta	others	:
+content	experience	· Activities like money transferring, social contacts, camps conducting etc are
+content	experience	Implemented with its sub-functions.
+content	experience	· The project accepts the input from the user in the prescribed format and gives a generic view.SQL server in certain phase’s structures the user accepted or initiated interfaces.
+content	experience	· The primary factor is the member joining sequence with classifications of student, elder person and rather key features with management process of certain progressive manner.
+content	experience	· Facilitates a notable and an understandable source and destination view.
+content	experience	· Different modes of events are compressed in a certain .net platform which in turn implements a generic and defining management view on returns of every routine type functions too.
+header	others	PERSONAL PROFILE
+header	others	Name
+meta	others	:
+meta	others	Ajith Kumar.K
+meta	others	Father’s Name
+meta	others	:
+meta	others	Krishnan.KP
+meta	others	Father’s Occupation:
+meta	others	Business
+header	others	Date of Birth
+meta	others	:
+meta	others	11-02-1989
+header	others	Sex
+meta	others	:
+meta	others	Male
+header	others	Nationality
+meta	others	:
+meta	others	Indian
+meta	others	Marital Status
+meta	others	:
+meta	others	Single
+header	knowledge	Languages Known
+meta	others	:
+meta	knowledge	English, Tamil, Malayalam, and Hindi
+header	others	Hobbies
+meta	others	:
+meta	others	Listening to Music,Playing Snookers, Research on updations.
+meta	others	DECLARATION
+meta	others	I here by declare that all the information mentioned above is true to the best of my knowledge and belief.
+header	others	Place
+meta	others	:
+header	others	Date
+meta	others	:
+meta	others	(Ajith kumar.K)

@@ -1,0 +1,64 @@
+header	others	Curriculum Vitae
+meta	others	Ms Hetal Jayesh Patel 103, Sundra Apartment,
+meta	others	[BAF.M.Com] B.P Road, Bhayander East
+meta	others	Mumbai-401105. hetal.j26@gmail.com
+meta	others	(M) + 91_9820432169.
+header	others	Objective:
+content	others	Seeking a position where I can learn the most challenging career situation & experience so to serve the organization with my best efforts & strategies.
+header	education	Academic/Professional Qualification:
+content	education	YEAR
+content	education	DEGREE
+content	education	INSTITUTE/UNIVERSITY
+content	education	PERCENTAGE
+content	education	2013
+content	education	M.Com 9part I & II)
+content	education	Mumbai University
+content	education	50.00%
+content	education	2011
+content	education	T.Y.B.com(Accounting & Finance)
+content	education	Mumbai University
+content	education	72.00%
+content	education	2008
+content	education	H.S.C.
+content	education	Maharashtra State Board
+content	education	67.33%
+content	education	2006
+content	education	S.S.C.
+content	education	Maharashtra State Board
+content	education	75.06%
+header	experience	Work Experience:
+content	experience	Company Name
+content	experience	Designation
+content	experience	Location
+content	experience	Period
+content	experience	Bakertilly DHC Pvt.Ltd.
+content	experience	Associate
+content	experience	Andheri
+content	experience	Currently working
+content	experience	From 30-05-2011
+content	experience	Technical competency:
+header	experience	· Tally Packages and Tally 7.2 and ERP 9.
+content	experience	· Operating Knowledge of income tax return software.
+content	experience	Major Works handled during my Experience and Exposure gained.
+content	experience	· Recording day to day transactions including Purchase, Sales ,Receipt, Payment, cash and Journal Vouchers.
+content	experience	· Recording of Employees Expense reimbursement claim, checking supporting of claim submitted and payment of claims to Employees.
+content	experience	· Payment to vendors after TDS calculation.
+content	experience	· Maintaining Payroll of Employees.
+content	experience	· Scrutiny of Debtors,Creditors & Expense Ledger.
+content	experience	· Bank reconciliation, ledgers reconciliation.
+content	experience	· Monthly closing including Expense & Income Accrual, Depreciation, Prepaid Insurance.
+content	experience	· Quarterly E-TDS return filing.
+content	experience	· Preparation of MIS.
+content	experience	· Coordinating with Internal & Statutory auditors.
+content	experience	· Preparation of financial statement as per schedule VI
+content	experience	· Monthly closing including Expense & Income Accrual, Depreciation, PrepaidInsurance.
+content	experience	· Reporting to Senior and working in a team.
+header	knowledge	Strength:
+content	knowledge	· Honesty
+content	knowledge	· Dedication
+content	knowledge	· Flexible and adaptive towards smart working.
+header	others	Personal Information:
+meta	others	· Date of Birth : 26thFebruary 1991
+meta	others	· Gender : Female
+meta	others	· Nationality : Indian
+meta	knowledge	· Language : English, Hindi, Gujarati, Marathi.

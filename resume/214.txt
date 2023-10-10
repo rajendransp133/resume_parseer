@@ -1,0 +1,58 @@
+header	others	Carriclum vitae
+meta	others	________________________________________________________________
+meta	others	YOGI KANTILAL MARU “shri ram nivas”,
+meta	others	14-b Gopal Nagar,
+meta	others	Opp “sharda high school”,
+meta	others	Dhebar Road, Rajkot.
+meta	others	Mo. 9067011988
+meta	others	E-mail: yogimaru18@gmail.com
+meta	others	________________________________________________________________
+header	others	CARRER OBJECTIVE:
+content	others	To work in a challenging, highly professional and conducive environment in the
+content	others	computer filed.
+header	education	EDUCATIONAL QUALIFICATION:
+content	education	S R. NO . PARTICULARS
+content	education	YEAR OF
+content	education	PASSING
+content	education	UNIVERSITY /BOARD %
+content	education	1 B. Com 2014
+content	education	Saurastra University,
+content	education	Rajkot
+content	education	65.96
+content	education	2 H.S.C. 2011
+content	education	Gujarat Secondary
+content	education	Education Board,
+content	education	Gandhinagar
+content	education	57.89
+content	education	3
+content	education	S.S.C. 2009
+content	education	Gujarat Secondary
+content	education	Education Board,
+content	education	Gandhinagar
+header	education	54.92
+header	knowledge	SKILL:
+content	knowledge	 MS Office, TDS Return, VAT , Service Tax.
+content	knowledge	 Tally ERP 9 , Miracle , Shrisawa , Kuber..
+header	experience	EXPERIENCE
+content	experience	1. ELITE AUTOLINK.
+content	experience	Distributor of TATA MOTORS
+content	experience	As a Cashier & Account Executive One year.
+content	experience	2. M WORLD
+content	experience	Distributor of Intex Technologies Ltd
+content	experience	As an Accountant
+content	experience	3. L&T IDPL
+content	experience	As an Sr. Executive Accounts & Admin
+content	experience	From February-2017 to onwards.
+header	others	PERSONAL DETAILS:
+meta	others	Name : Yogi Kantilal Maru
+meta	others	Date of Birth : 15th Nov 1993
+meta	others	Gender : Male
+meta	others	Marital Status : Unmarried
+meta	others	Nationality : Indian
+meta	others	Hobbies : Music, Travelling.
+meta	knowledge	Language Known : English, Gujarati, Hindi
+header	others	DECLARATION:
+meta	others	I do here by certify that the particulars furnished above are true and correct to the best
+meta	others	of my knowledge.
+header	others	Date:
+meta	others	Place: Rajkot YOGI MARU

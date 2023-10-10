@@ -1,0 +1,103 @@
+meta	others	Page | 1
+meta	others	UJJAL BHASKAR
+meta	others	Mobile no: +91 7864864885
+meta	others	E-mail: ujjal1991@gmail.com
+meta	others	Career
+meta	others	Objective
+content	others	Seeking assignments in Web Development to provide solutions for complex
+content	others	technical requirements along Project Planning & Execution with growth
+content	others	oriented IT organizations.
+header	experience	Professional
+header	experience	Experience
+content	experience	Company Designation Duration / Experience
+content	experience	Wipro Technologies Project Engineer August, 2013 to till date
+content	experience	(4 Years 3 Months)
+content	experience	Project Details
+header	project	Project 1
+content	experience	A leading US multinational enterprise information technology company
+content	experience	Project Location Wipro Technologies
+content	experience	Duration Ongoing since August 2017
+content	experience	Tools & Softwares NodeJS, Salesforce, Microsoft SQL Server, Hadoop,
+content	experience	Roles & Responsibility Development of Rest Api through NodeJS which is
+content	experience	consumed by Salesforce. Two way SSL implementation
+content	experience	for the API
+content	experience	Brief Overview: There are around 2 applications within this project, mostly used
+content	experience	by their internal purpose like Case creation in SFDC, tracking the current
+content	experience	features or state of their products, migrate data from one ecosystem (partner)
+content	experience	to other.
+header	project	Project 2
+content	experience	A leading US Based Printer Manufacturer Company
+content	experience	Project Location Wipro Technologies
+content	experience	Duration 4 Year
+content	experience	Tools Angular JS, HTML5, CSS3, JavaScript, Jquery, HTML5
+content	experience	SVG, Liferay Theme, Less CSS pre-processor,
+content	experience	Bootstrap, HTML Canvas
+content	experience	Roles & Responsibility Development of Single Page Application through
+content	experience	Angular JS. Prototype Development using HTML,
+content	experience	JavaScript, JQuery, CSS3. Development of Live Chart
+content	experience	using SVG on top of Angular JS.
+content	experience	Brief Overview: There is manages services for printing solutions through
+content	experience	Customer Portal, Partner Portal, and Location based Services which shows
+content	experience	assets on the map view.
+header	knowledge	Technical Skill • Angular JS, NodeJS, JavaScript, Jquery
+content	knowledge	• HTML5, CSS3, SVG, HTML Canvas, Bootstrap
+content	knowledge	• MongoDb, Github
+meta	others	Page | 2
+header	education	Educational
+header	education	Qualification
+content	education	Qualification Board Institute Year of Passing
+content	education	B.Tech
+content	education	(Electronics And
+content	education	Communication
+content	education	Engineering)
+content	education	West Bengal
+content	education	University of
+content	education	Technology
+content	education	Future Institute
+content	education	of Engineering &
+content	education	Management,
+content	education	Kolkata
+content	education	2013
+content	education	Higher
+content	education	Secondary
+content	education	West Bengal
+content	education	Council for Higher
+content	education	Secondary
+content	education	Education
+content	education	Margaret Sister
+content	education	Nivedita English
+content	education	High School,
+content	education	Siliguri
+content	education	2009
+content	education	Secondary
+content	education	West Bengal
+content	education	Board of
+content	education	Secondary
+content	education	Education
+content	education	Margaret Sister
+content	education	Nivedita English
+content	education	High School,
+content	education	Siliguri
+content	education	2007
+header	education	Technical
+content	education	Course
+header	others	• Successfully completed PROJECT BASED TRAINING ON PLC at
+content	others	EASTERN REGION TEST LABORATORY, Salt Lake, Kolkata from
+content	others	15th Jun 2012 to 16th Jul 2012.
+header	others	Personal
+header	others	Details
+meta	others	Father’s Name : Sri Mantu Charan Bhaskar
+meta	others	Mother’s Name : Smt. Usha Bhaskar
+content	others	Date of Birth : 05TH April, 1991
+meta	others	Permanent Address : Vill. - Gayeshpur, P.O.- Jhaljhalia,
+meta	others	P.S.- English Bazar,
+meta	others	Dist.- Malda, West Bengal, PIN-732102
+meta	others	Nationality : Indian
+meta	others	Marital Status : Single
+meta	others	Gender : Male
+meta	knowledge	Language known : English, Hindi, Bengali.
+header	others	Declaration
+meta	others	I hereby declare that the above-furnished details are true to the best of my belief and knowledge.
+meta	others	Date: 10-25-2017
+meta	others	Place: Kolkata __________________________
+meta	others	UJJAL BHASKAR

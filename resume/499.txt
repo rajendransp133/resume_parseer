@@ -1,0 +1,57 @@
+header	others	RESUME
+meta	others	CURRICULUM VITAE
+meta	others	Vanisha Mittal
+meta	others	Mobile: 91-9417051015 E Mail: vani.mittal21@gmail.com
+header	others	OBJECTIVE
+content	others	I intend to build a career in an organization with committed & dedicated people which will help me to explore my creative abilities fully and realize my potential. I am seeking a challenging position where I can contribute maximum to the organizational goals by utilizing best of my technical and communication skills.
+header	experience	EXPERIENCE:
+content	experience	· Accounts & Audit Assistant with Mukesh Uniyal & Associates from 11/01/2007 to 31/07/2007
+content	experience	· Article Assistant with Agarwal A Kumar & Associates from 01/08/2007 to 06/08/2008
+content	experience	· Article Assistant with M/s yougesh & Jain from 07/08/2008 to 31/07/2010
+content	experience	· Presently working with Balwinder Associates
+content	experience	Key Assignments
+content	experience	· Statutory, Concurrent & Tax audit of banks.
+content	experience	· Preparation of books of accounts of societies, maintenance of accounts of research projects of NIPER.
+content	experience	· Preparation, Bank Reconciliation Statements of public limited companies.
+content	experience	· Ensuring compliance to related applicable laws such as Income Tax, VAT, Service Tax etc.
+content	experience	COMPUTER LITERACY
+content	experience	· Certified course from Aptech as prescribed by ICAI
+content	experience	· Certified course from NIIT as prescribed by ICSI
+content	experience	· Proficient of 7.2 TALLY software
+content	experience	· MS Windows including Word, Excel, Internet
+header	education	EDUCATIONAL QUALIFICATIONS
+header	education	Name of Examination
+header	education	Board/University
+content	education	Year of Passing
+content	education	% Marks
+content	education	CA Inter/ PE-11
+content	education	ICAI
+content	education	2007
+content	education	52.83
+content	education	B.Com
+content	education	Panjab University
+content	education	2007
+content	education	66.61
+content	education	12th
+content	education	CBSE
+content	education	2004
+content	education	73.60
+content	education	10th
+content	education	CBSE
+content	education	2002
+content	education	57.80
+header	others	PERSONAL DETAILS
+meta	others	· Father Name : Nek Chand
+meta	others	· Mother Name : Prem lata
+header	others	· Date of Birth
+meta	others	:
+meta	others	21st october, 1986
+meta	others	· Nationality : Indian
+meta	others	· Marital Status
+meta	others	:
+meta	others	Single
+meta	others	· Permanent Add
+meta	others	:
+meta	others	238, sector 78, SAS Nagar Mohali, Punjab-140308
+meta	others	DATE:
+meta	others	PLACE: Vanisha Mittal

@@ -1,0 +1,124 @@
+header	others	Guardian:
+meta	others	Mr. Basil Baby P
+meta	others	Relation to Guardian:
+meta	others	Husband
+meta	others	Gender: Female
+meta	others	Nationality: Indian
+content	others	Status: Married
+header	others	Languages Known:
+content	others	• English
+meta	others	• Malayalam
+meta	others	Name:
+meta	others	CHINJU MATHEW
+meta	others	Address for
+meta	others	Correspondence:
+meta	others	Panakkattil(H),
+meta	others	Mekkadampu. po
+meta	others	Muvattupuzha
+meta	others	Pin-682316
+meta	others	Mob : +91-8547830199
+header	others	PERSONAL PROFILE
+header	others	Date of Birth:
+meta	others	12
+meta	others	th
+meta	others	April 1992
+header	experience	Total Experience: 3 years
+meta	experience	• Working as Java Developer at Indocosmo System Pvt. Ltd from 14/11/2018
+content	experience	• Worked as Software Engineer (in Java Web Applications) at Empress Infotech
+content	experience	from 27/12/2016 to 06/11/2018.
+content	experience	• 11 months experience as junior java developer at Globosoft Technology
+content	experience	Solutions Pvt.Ltd from 18/01/2016 to 16/12/2016.
+header	knowledge	SOFTWARE SKILLS
+header	knowledge	EXPERIENCE SUMMARY
+content	knowledge	Skills Year of Experience Tools Used
+content	knowledge	Core Java 1 year 7 months • Notepad
+content	knowledge	• Netbeans
+content	knowledge	• Eclipse
+content	knowledge	Spring 1 year 10 months • Eclipse
+content	knowledge	• IntelliJIDEA
+content	knowledge	MySQL 3 year 5 months • Cmd
+content	knowledge	• PhpMyAdmin
+content	knowledge	• MySQL Workbench
+content	knowledge	JavaScript, jsp
+content	knowledge	and servlet
+content	knowledge	8 months • Netbeans
+content	knowledge	• Eclipse
+content	knowledge	Jquery 2 year 9 months • Netbeans
+content	knowledge	• Eclipse
+content	knowledge	Ajax 2 year 9 months • Netbeans
+content	knowledge	• Eclipse
+content	knowledge	html 3 year 5 months • Notepad
+content	knowledge	• Netbeans
+content	knowledge	• Eclipse
+content	knowledge	• IntelliJIDEA
+content	knowledge	css 3 year 5 months • Notepad
+content	knowledge	• Netbeans
+content	knowledge	• Eclipse
+content	knowledge	• IntelliJIDEA
+header	project	1. Project Name: eVidhan
+content	experience	Location: Globosoft Technology Solutions, Cochin
+content	experience	Team Size: 5
+content	experience	Duration: 6 months
+content	experience	OS/Language: Java, MySql
+content	experience	Platform: Java
+content	experience	Tools: Eclipse, phpMyAdmin
+header	project	2. Project Name: Zybro Dental Solutions
+content	experience	Location: Globosoft Technology Solutions, Cochin
+content	experience	Team Size: 5
+content	experience	Duration: 6 months
+content	experience	OS/Language: Java, MySql
+content	experience	Platform: Java
+content	experience	Tools: Eclipse, phpMyAdmin
+header	project	3. Project Name: Online Insurance System
+content	experience	Location: Intelligent Virtual Solutions, Cochin
+content	experience	Team Size: 5
+content	experience	Duration: 3 months
+content	experience	OS/Language: jsp,html,servlet
+content	experience	Platform: Java
+content	experience	Tools: Netbeans, phpMyAdmin
+header	project	4. Project Name: Sennheiser
+content	experience	Location: Empress Infotech, Infopark Cochin
+content	experience	Team Size: 3
+content	experience	Duration: 5 months
+content	experience	OS/Language: java, MySQL
+content	experience	Platform: Java
+content	experience	Tools: Eclipse, MySQL Workbench
+content	experience	Framework spring
+header	project	5. Project Name: Alfresco Customization
+content	experience	Location: Empress Infotech, Infopark Cochin
+content	experience	Team Size: 3
+content	experience	Duration: Doing
+content	experience	OS/Language: java, MySQL
+content	experience	Platform: Java
+content	experience	Tools: Eclipse, MySQL Workbench
+content	experience	Framework: spring
+header	project	PROJECT SUMMARY
+header	education	ACADEMIC PROFILE
+content	education	❖ J2EEExpert :KeralaStateTechnicalInstitute,Kochi
+content	education	❖ B.Tech in Computer Science Engineering
+content	education	University :Mahatma Gandhi University, Kottayam
+content	education	College :Jai BharathCollege ofManagementand
+content	education	EngineeringTechnology, Perumbavoor
+content	education	➢ Year ofpassing: 2014
+content	education	➢ Aggregate :66.3%
+content	education	❖ Higher Secondary (XII)
+content	education	Board :KeralaStateHigherSecondary,Kottayam
+content	education	School :Fr.Joseph Memorial Higher Secondary
+content	education	School,Puthuppady,Muvattupuzha
+content	education	➢ Year ofpassing: 2010
+content	education	➢ Percentage :89%
+content	education	❖ Secondary(X)
+content	education	Board :KeralaState SecondaryBoard
+content	education	School :Vivekananda VidyalayamHighSchool,
+content	education	Muvatupuzha
+content	education	➢ Year ofpassing: 2008
+content	education	➢ Percentage: 90%
+header	others	DECLARATION
+content	others	I hereby declare that the information given above true to best of
+content	others	my knowledge and belief.
+content	others	References and any other information you require shall be promptly
+content	others	provided upon your request. Thank you for this initial consideration. I
+content	others	look forward to have interaction with you in the near future.
+content	others	Chinju Mathew
+content	others	Muvattupuzha Email: chinjujava@gmail.com
+meta	others	mailto:chinjujava@gmail.com

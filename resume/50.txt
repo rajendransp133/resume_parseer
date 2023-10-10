@@ -1,0 +1,121 @@
+meta	others	SURENDAR.B
+meta	others	No:110,I-Block,
+meta	others	MMDA ,Arumbakkam
+meta	others	PHONE NO: 9710894062
+meta	others	Chennai-600106 EMAIL:surensurendar18@gmail.com
+meta	others	______________________________________________________________________________
+header	others	OBJECTIVE:
+content	others	To be effective and efficient in the areas of work assigned to me and grow with the corporate to achieve challenging positions.
+header	experience	EXPERIENCESUMMARY
+content	experience	· 25 months experience in Secova
+content	experience	· 27 months experience in Aon Hewitt.
+content	experience	· 6 months experience in S4 Publishing Service.
+content	experience	· Trained in special software which is provided by the client to work with the documents
+content	experience	· Highly motivated with the ability to work effectively in team as well as independently.
+header	knowledge	TECHNICAL SKILLS:
+content	knowledge	· OFFICE AUTOMATION S/W
+content	knowledge	: MS Word, MS PowerPoint, MS Excel.
+content	knowledge	· TOOLS : Mainframe, Crystal report, SQL
+header	experience	WORK EXPERIENCE:
+content	experience	Sl. No.
+content	experience	Name Of The Organization
+content	experience	Designation
+content	experience	Joining Date
+content	experience	Relieving Date
+content	experience	1
+content	experience	Secova
+content	experience	Process Associate
+content	experience	14-Oct-2015
+content	experience	20-Nov-2017
+content	experience	2
+content	experience	Aon Hewitt
+content	experience	BOA
+content	experience	09-May-2013
+content	experience	25-Sep-2015
+content	experience	3
+content	experience	S4 publishing Service
+content	experience	Powerpoint
+content	experience	specialist
+content	experience	29-Nov-2012
+content	experience	26-April-2013
+content	experience	Designation: Process Associate
+header	project	PROJECT
+content	experience	Data processing
+content	experience	Function
+content	experience	Handling US-H&W Benefits and Enrolment process
+header	experience	Job Responsibilities
+content	experience	· Manage Client Interactions
+content	experience	· Verifying EE and dependant documents
+content	experience	· Processing Life events
+content	experience	· EFT setup
+content	experience	· Monitor payroll invoice
+content	experience	· EOI-Evidence of insurability
+content	experience	· HRP: High Risk Processing
+content	experience	· Court order processing
+content	experience	· Check posting-Validate and post the
+content	experience	check on the system
+content	experience	· Underwriter Request
+content	experience	· Crystal report –create RPT for the reports
+content	experience	· SQL-Create and set Automation reports
+content	experience	· Claims –Sending claim files to the carrier
+content	experience	Designation: Benefits Operations Administrator
+header	project	PROJECT
+content	experience	BOA
+content	experience	Function
+content	experience	Administrating US-Defined Benefits
+header	experience	Job Responsibilities
+content	experience	· Client –Dominion.
+content	experience	· Manage Client Interactions
+content	experience	· Huddle calls with team
+content	experience	· Keeping away from E&O (Errors & Omissions)
+content	experience	· Create Defects and assign Maestro Tasks to get reduced on verifying invalid reports
+content	experience	· HRP: High Risk Processing
+content	experience	· Payroll file, SOB Quires, EFT and payment setup(Trust-BNY Mellon) , Edits, PCS
+content	experience	· Manual calculation –for the estimate and retirement
+content	experience	· Keeping away from E&O (Errors & Omissions) from client end
+content	experience	· Create Defects and assign Maestro Tasks to get reduced on verifying invalid reports
+content	experience	· US retirement and payroll process
+header	education	EDUCATIONAL QUALIFICATION:
+content	education	COURSE
+content	education	INSTITUTION
+content	education	YEAR OF PASSING
+content	education	BOARD/
+content	education	UNIVERSITY
+content	education	BCA
+content	education	ST.Thomas ARTS&SCIENCE COLLEGE, CHENNAI
+content	education	2012
+content	education	Madras University
+content	education	BSC(Hotel Mgt)
+content	education	Apollo ARTS&SCIENCE COLLEGE, CHENNAI
+content	education	2009(Discontinued)
+content	education	Madras University
+content	education	HSC
+content	education	Infant Jesus.M.Hr.Sec.School
+content	education	Kanchipuram
+content	education	2007
+content	education	State Board
+content	education	SSLC
+content	education	SSKV .M.Hr.Sec.School
+content	education	Kanchipuram
+content	education	2005
+content	education	State Board
+header	others	PERSONAL DETAILS
+meta	others	Name
+meta	others	B. Surendar
+meta	others	Date of Birth
+meta	others	18.12.1988
+meta	others	Sex
+meta	others	Male
+meta	others	Marital Status
+meta	others	Single
+header	knowledge	Language Known
+content	knowledge	Tamil and English
+meta	experience	Religion
+meta	others	Hindu
+meta	others	Nationality
+meta	others	Indian
+meta	others	DECLARATION
+meta	others	I hereby declare that the above furnished information’s are true to the best of my knowledge and belief to survive and succeed they have a solitary option to prepare in advance.
+meta	others	Place :
+meta	others	Yours truly,
+meta	others	Date : (Surendar B)

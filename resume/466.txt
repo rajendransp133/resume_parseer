@@ -1,0 +1,53 @@
+meta	others	Sushmita Sarkar
+meta	others	Email: sushsarkar18@gmail.com
+content	others	Mobile: 8451063003
+header	others	Address:
+meta	others	Room 12, sector 1, plot no 34,
+meta	others	bhajanlal society,
+meta	others	Behind Terna Orchids International School
+meta	others	Koparkhairne - 400709
+header	others	Objective:
+content	others	Seeking an entry level position in an organisation,where there is an opportunity to exhibit strengths and enhance skills by untilizing myself as a resource for all kinds of challenging jobs and upgrading my knowledge and skills from time to time.While moving from growth and development of organisation
+content	others	Opportunity to collaborate with the best minds in Industry and make leadership, innovation and growth a way of my life.
+header	education	Academic/ Education Qualifications:
+content	education	Sr. No
+content	education	Exam
+content	education	University
+content	education	Institute
+content	education	Year of Passing
+content	education	1
+content	education	Bachelor of
+content	education	Information technology
+content	education	(BSc IT)
+content	education	Mumbai
+content	education	Tilak College of Arts and Commerce,
+content	education	Vashi
+content	education	2016
+content	education	2
+content	education	HSC(10+2)
+content	education	Maharashtra Board
+content	education	Swami Vivekanand Jr. College, Koparkhairne
+content	education	2013
+content	education	3
+content	education	SSC(10th)
+content	education	Maharashtra Board
+content	education	St. Mary’s Multipurpose High School, Vashi
+content	education	2011
+content	education	Certification: Certified in (Redhat Enterprise Linux) from SEED Infotech Ltd. Vashi.
+content	education	The performance-based Red Hat Certified System Administrator (RHCSA &
+content	education	Certified Engineer (RHCE) is a Red Hat Certified System Administrator (RHCSA)
+content	others	RHCSA+RHCE
+header	knowledge	Technical Skills
+header	knowledge	Primary skills:
+content	knowledge	Hold knowledge in computers, MSWindows, MSexcel, Mysql,MS Word,CRM,
+content	knowledge	Powerpoint, MSOutlook
+content	knowledge	Secondary skills: Red Hat linux,Oracle database.Waterfall model,Ajile model, software testing,shell scripting
+header	others	Interests and Hobbies:
+meta	others	Watching movies, playing badminton, drawing & painting, playing chess, cycling,reading blogs,exploring nature,reading about pscycology & mythology.
+meta	others	Personal Details:
+meta	others	Date of birth: 21/02/1995
+meta	others	Hometown: Kolkata
+meta	others	Languages known: English, Hindi, Marathi, Bengali
+meta	others	Blood group: O+
+header	experience	Experience: Fresher
+content	experience	I hereby declare that all the details furnished above are true to the best of my knowledge and belief.

@@ -1,0 +1,115 @@
+meta	others	Sabari Sanyal
+meta	others	SABARI SANYAL
+meta	others	Telephone
+meta	others	Email
+meta	others	Address
+meta	others	+91 9073129478
+meta	others	sabarisanyal@gmail.com
+meta	others	Kolkata, West Bengal, India
+meta	others	Marketing and Communications
+header	experience	Work Experience
+header	experience	Internship
+content	experience	Communications and Web Content
+content	experience	Developer - IIM Bangalore
+content	experience	Responsible for developing and creating content for the
+content	experience	monthly online release of IIMB Alumni Newsletter
+content	experience	To create and write content for the website of IIMB Alumni
+content	experience	Association, including Blogs and Social Media
+content	experience	Research and collect information for departmental and
+content	experience	institute’s communications
+content	experience	In charge of organizing and hosting monthly Webinar
+content	experience	Sessions and Panel Discussions
+content	experience	Corporate Development Assistant -
+content	experience	Luxembourg School of Business
+content	experience	Conducting research on local and international companies
+content	experience	and their respective industries
+content	experience	Managing enquiries and follow up on post-seminar
+content	experience	performance
+content	experience	Data analysis and creation, development and maintenance of
+content	experience	databases
+content	experience	Assisting in developing program calendar and academic
+content	experience	schedule
+content	experience	Receiving and managing applications for various programs
+content	experience	Connecting with our partners (in English), international
+content	experience	providers and customers
+content	experience	Managing communications for the organization for events
+content	experience	Coordinating between the representatives of Efma, partners
+content	experience	and suppliers
+content	experience	Observing other competing events
+content	experience	Brainstorming for meetings and ideas regarding planning the
+content	experience	events
+content	experience	Updating meetings and practical information in the
+content	experience	database-SIEBEL
+content	experience	Registration of participants in the database-SIEBEL
+content	experience	Coordinating with the speakers of the events
+content	experience	Managing the host files, invitation letters and certificates
+content	experience	Feb 2017 - Feb 2018
+content	experience	Jan - Feb , 2016
+header	knowledge	Skills
+content	knowledge	Organizational
+content	knowledge	& Management
+content	knowledge	Skills,
+content	experience	Technical Skills
+content	knowledge	(Microsoft Word,
+content	knowledge	Presentation
+content	knowledge	and Excel)
+content	knowledge	Interpersonal
+content	knowledge	Skills
+content	knowledge	Fluency in
+content	knowledge	English and
+content	knowledge	Bengali
+content	knowledge	Fluency in Hindi
+content	knowledge	An experienced web content
+content	knowledge	developer with a strong interest in
+content	knowledge	projects that require both
+content	knowledge	conceptual and analytical thinking.
+content	knowledge	Fully-committed to designing and
+content	knowledge	developing innovative web-based
+content	knowledge	materials that users will love. Always
+content	knowledge	eager to learn and utilize the
+content	knowledge	maximum potential.
+header	experience	Profile
+content	experience	Assistant Event Planner -
+content	experience	EFMA, Paris, France
+content	experience	Sep 2015 - Dec 2015
+header	education	Education
+content	education	BA in English Literature, Calcutta
+content	education	University
+content	education	Calcutta , West bengal , India
+content	education	MSc Marketing Management and
+content	education	Communication, ESC Toulouse Business
+content	education	School, (Triple Accredited - EQUIS, AMBA AND
+content	education	AACSB)
+content	education	2010 - 2013
+content	education	2014 - 2015
+content	education	Par is , France
+meta	others	SABARI SANYAL
+header	others	Telephone
+header	others	Email
+header	others	Address
+meta	others	+91 9073129478
+meta	others	sabarisanyal@gmail.com
+meta	others	Kolkata, West Bengal, India
+meta	others	Marketing and Communications
+meta	others	Interests
+content	others	Reading, dancing, singing, traveling, cooking, learning foreign
+content	knowledge	languages, web content developing, photography, videography,
+header	experience	Association & Voluntary Experience
+content	experience	2011 - 2012 - College Fest-In-charge of cultural events-Communication with the volunteers and keeping a check on
+content	experience	the management and planning
+header	knowledge	Skills acquired: Communication skills, Time management,
+header	knowledge	Management skills
+content	knowledge	2010 - 2011-Teaching- In charge of teaching Arts group-Providing assistance and supervising children, grading papers
+content	knowledge	and planning schedules
+content	knowledge	Skills acquired: Communication skills, Preparation & planning of
+content	knowledge	schedules
+content	knowledge	2002 - 2008-Singing- Participating in local & cultural festivals-Developing interpersonal skills, communication with the
+content	knowledge	audience and people
+content	knowledge	Skills acquired: Community performance, Dedication &
+content	knowledge	commitment
+meta	others	Date of Birth - 19 July 1991
+meta	others	Nationality - Indian
+header	knowledge	Certification
+content	knowledge	Regular Course in Elementary French from Alliance
+content	knowledge	Française
+content	knowledge	May - June , 2016

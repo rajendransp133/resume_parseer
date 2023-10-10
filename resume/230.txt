@@ -1,0 +1,21 @@
+header	others	Resume
+meta	others	PULKIT SHARMA
+meta	others	Jaipur, Rajasthan pulkitsharma171@gmail.com
+header	others	Summary
+content	others	I am a fresher for this job. Skills include creative problem solving and helps in to make business plans. Able to
+content	others	communicate effectively with a team and very keen to develop more professional skills, such as computer
+content	others	networking.
+header	education	Education
+content	education	Kendriya Vidyalaya Avikanagar, Jaipur, Rajasthan
+content	education	Bachelor’s Degree, Graduated August 1997
+content	education	I completed my secondary & senior secondary classes from KV Avikanagar.My score in 10th class is 7.8CGPA & in
+content	education	12th class 75%.
+content	education	Recently I have completed my BBA from Apex Institute of management & science Jaipur.
+content	education	I also won certificates of participation in some activities in school & also in college.
+header	others	Hobbies & Interests
+content	others	My hobbies are to read English newspapers,watching discovery, national geographic channel, etc.
+content	others	My favorite game is cricket.
+header	knowledge	Professional Skills
+content	knowledge	Problem solving Beginner
+header	knowledge	Languages
+content	knowledge	Hindi & english Beginner

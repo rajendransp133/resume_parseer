@@ -1,0 +1,70 @@
+header	others	Nishank Kumar
+meta	others	H.NO-430 Ph No. +91-9953516378
+meta	others	IP colony Faridabad mail.nishankmishra@gmail.com Haryana, 121001
+header	others	CAREER OBJECTIVE
+content	others	To acquire professional excellence and personal growth with positive frame of mind and being a part of learning process and increase my knowing of the field, thereby earning fame for my organization and myself.
+header	experience	WORK EXPERIENCE
+content	experience	· ServiceNow Developer | NTT DATA Services, Noida | June 2015 - Present
+header	knowledge	TECHNICAL SKILLS
+content	knowledge	· Tools : ServiceNow,
+content	knowledge	· Operating Systems : Windows
+content	knowledge	· Web tech./Technologies : HTML5, CSS, JavaScript
+header	education	HIGHEST QUALIFICATION
+content	education	· B.Tech in Computer Science Engineering (2010-2014) from IITT College of engineering, Pojewal affiliated to Punjab technical University, Jalandhar
+header	project	PROJECT(S) IN DELL
+content	experience	· Name : Services Operations Manager
+content	experience	· Duration : June 2015 – April 2017
+content	experience	· ITSM Tool : ServiceNow
+content	experience	· Role : Developer
+content	experience	Description: Dell Services Operations Manager (DSOM) is a customized ITSM platform which is built with ServiceNow. It is a domain separated instance which have around 22 customers on-boarded and few are in pipeline from different domains like HealthCare, Commercial and other domain.
+header	experience	RESPONSIBILITIES:
+content	experience	· Develop and manage application code
+content	experience	· To create Service Request, Order Guide and Record Producer and also can test these on test instance
+content	experience	· To create new workflow that uses a variety of activities
+content	experience	· Configure SLA’s and related notifications for the accounts
+content	experience	· To create custom tables, fields and configuring ACL’s over them
+content	experience	· Configuring Business Rule, Script Include, UI Action, Email Script, Client Script, UI Policy etc.
+content	experience	· Worked on FYI notification
+content	experience	· Performs migration activities from Dev to UA, UA to Prod
+content	experience	· To perform unit testing and peer code review.
+content	experience	· Worked on Script Action, Assignment rules, trigger rules.
+content	experience	· Worked on some of very complex request stories, containing more than 200 variable and 80+ tasks.
+content	experience	· Name : Hilton Worldwide
+content	experience	· Duration : April 2017-present
+content	experience	· ITSM Tool : ServiceNow
+content	experience	· Role : Developer
+content	experience	Description: Hilton is a dedicated ServiceNow instance and working currently with servicenow team to develop it. We have 4 member team from india who takes care of the project
+header	experience	RESPONSIBILITIES:
+content	experience	· Develop and manage application code
+content	experience	· To create Service Request, Order Guide and Record Producer and also can test these on test instance
+content	experience	· To create new workflow that uses a variety of activities
+content	experience	· Configure SLA’s and related notifications for the accounts
+content	experience	· To create custom tables, fields and configuring ACL’s over them
+content	experience	· Configuring Business Rule, Script Include, UI Action, Email Script, Client Script, UI Policy etc.
+content	experience	· Worked on FYI notification
+content	experience	· Performs migration activities from Dev to UA, UA to Prod
+content	experience	· To perform unit testing and peer code review.
+content	experience	· Worked on Installation exits for strengthening password validations for users.
+content	experience	· Worked on Script Action, Assignment rules, trigger rules.
+content	experience	· Worked on surveys and customizations.
+header	education	CERTIFICATIONS/AWARDS
+content	education	· ITIL V3 Foundation Certified
+content	education	· Bronze award for 1st (Q1)quarter of FY 17 in NTT data
+header	knowledge	PERSONAL SKILLS
+content	knowledge	· Always ready to learn and apply
+content	knowledge	· Good team player: Organized and coordinated with the team members in the assigned projects/tasks
+content	knowledge	· Comprehensive problem solving skills
+content	knowledge	· Excellent verbal and written communication skills.
+content	knowledge	· Poetry as a hobby
+header	others	PERSONAL DETAILS
+meta	others	· Name : Nishank Kumar
+meta	others	· Father Name : Satish Bihari Mishra
+meta	others	· Date of Birth : Dec 11, 1992
+meta	others	· Sex : Male
+meta	others	· Marital Status : Single
+meta	others	· Nationality : Indian
+meta	knowledge	· Languages Known : Hindi, English
+header	others	DECLARATION
+meta	others	I hereby declare that the information given above is true to the best of my knowledge, if you think that I am able to work within your organization that will be a great opportunity for me.
+meta	others	Date:
+meta	others	Place: Faridabad (Haryana) (Nishank kumar)

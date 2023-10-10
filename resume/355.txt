@@ -1,0 +1,95 @@
+meta	others	Name
+meta	others	ANIKET SANJAY PATIL
+meta	others	Phone No
+meta	others	+91-8459104128
+meta	others	Email-ID
+meta	others	aniketpatil3728@gmail.com
+header	experience	Experience summary
+content	experience	· Have 1 year of IT experience as a Jr. Software Engineer on Java technology in Creoinvent Technologies Private Limited.
+content	experience	· Have 1.5+ years of IT experience as a Software Engineer on Java technology in Yardi International Software Private Limited.
+content	experience	· Good Knowledge of Core Java, Struts2, Spring-Core, Hibernate4,MySQL
+content	experience	· Pursued BE(Bachelor of Engineering) from Sinhgad Institute of Technology, Lonavala.
+header	knowledge	Software/Languages/Databases
+content	knowledge	Web Skills
+content	knowledge	HTML, CSS, JSP, Bootstrap, JavaScript and Jquery
+content	knowledge	Programming languages
+content	knowledge	Java
+content	knowledge	Application/Web Servers
+content	knowledge	Apache Tomcat
+content	knowledge	Operating system
+content	knowledge	Window and Linux (Ubuntu)
+content	knowledge	Database
+content	knowledge	MySQL 5.0 and Oracle
+content	knowledge	Configuration Tools
+content	knowledge	Hibernate4, Spring-Core, Struts2 and JPA
+content	knowledge	Tools
+content	knowledge	Eclipse LUNA 4.4 and Eclipse Kepler.
+header	experience	Work History
+content	experience	Company:
+content	experience	Yardi International Software Pvt. Ltd.
+content	experience	Duration:
+content	experience	3rd July 2016 – 16th Jan 2018
+content	experience	Position:
+content	experience	Software Engineer
+content	experience	Company:
+content	experience	Creoinvent Technologies Pvt. Ltd.
+content	experience	Duration:
+content	experience	3rd June 2015 – 1st July 2016
+content	experience	Position:
+content	experience	Jr. Software Engineer.
+content	experience	Project
+content	experience	Payment Processor
+content	experience	Client
+content	experience	Yardi Software
+content	experience	Duration
+content	experience	1.5+ year
+content	experience	Technologies
+content	experience	Technology: Java 7, XML, Struts2, Bootstrap, JavaScript and JQuery.
+content	experience	Operating System: Windows 10.
+content	experience	Database: Oracle SQL Developer 4.1.1
+content	experience	Application/Web Server – Apache Tomcat 8
+content	experience	IDE: Eclipse Kepler Service Release 1
+header	project	Project Synopsis
+content	experience	Yardi Payment Processor automates the collection of fees and rents paid using credit cards and exchanges data with Yardi Voyager. The Yardi Finance Dept. (Finance) administers Payment Processor from the Yardi home office in Santa Barbara, California and clients do not access Payment Processor directly.
+content	experience	There are two typical implementations:
+content	experience	· The first associates one client merchant account with one or more of its properties and bank accounts. Each client can have multiple merchant accounts.
+content	experience	· The second associates, Subsidiary Merchant where Yardi master merchant account associates with a bank account and multiple clients, multiple properties and multiple bank accounts. The sub merchant account contains ACH instructions used to send credit card remittances from the master bank account to client bank accounts.
+content	experience	Yardi Payment Processor supports 3 types of transaction types Credit Card, Debit Card and Interac transactions
+content	experience	Responsibility
+content	experience	Core Development and Issue Fixing.
+content	experience	Project
+content	experience	Human Resource Management System
+content	experience	Client
+content	experience	Umed
+content	experience	Duration
+content	experience	1 Year
+content	experience	Technologies
+content	experience	Operating System: Window 7
+content	experience	Database: MySQL 5.1
+content	experience	Technology: Java 7, Struts 2.3, JQuery 1.9,Javascript
+content	experience	Apache Tomcat 7.0
+content	experience	IDE: Eclipse LUNA 4.4
+content	experience	Project Synopsis
+content	experience	A Human Resource Management System (HRMS) refers to the systems and processes at the intersection between Human Resource Management (HRM) and Information Technology.
+content	experience	HRMS developed in order to facilitate consistant and secure data flow improving performance nand maintainability. Various modules are created to reduce manual work
+header	experience	Responsibility
+content	experience	1. Developed various reports using BIRT.
+content	experience	2. Design of the solution,
+content	experience	3. Developed module like Payroll, Training, Attendance Management,Employee. Leave and Performance
+header	education	Education
+content	education	· Pursued BE(Bachelor of Engineering) from Sinhgad Institute of Technology, Lonavala with 65%
+content	education	· Pursued Diploma in IT from K. K. Wagh College, Nashik with 81%
+header	others	Personal Details
+meta	others	Name
+meta	others	Aniket Sanjay Patil
+meta	others	Date of Birth
+meta	others	19th/ June 1992
+meta	others	Address
+meta	others	Vishnu Niwas, Chaugaon Road,
+meta	others	Satana
+meta	others	Nashik-423301 (Maharashtra)
+meta	others	Phone No
+meta	others	+91-8459104128
+meta	others	Email-ID
+meta	others	aniketpatil3728@gmail.com
+meta	others	Page 4

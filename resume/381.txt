@@ -1,0 +1,64 @@
+meta	others	KALAISELVAN
+header	others	RESUME
+meta	others	No. 15, Sivan Koil St,
+meta	others	Chinnakkavanam Village,
+meta	others	Ponneri Post,
+meta	others	Ponneri Taluk,
+meta	others	Thiruvallur District – 601 204.
+meta	others	Contact No.: 7397050613
+meta	others	R.KATHIRAVAN
+meta	others	E-mail ID: kathir1997ra21@gmail.com
+header	others	Objectives
+content	others	Looking for an opportunity to work in a challenging and dynamic work environment, which would extract the full potential in me resulting excellent growth opportunities both for the concern that I work and myself.
+header	education	Educational Qualification:
+content	education	· B.A English Literature in
+content	education	Loganatha Narayanaswamy Govt.College, Ponneri (2018) 52%
+content	education	· HSC, Govt.Boys.Hr.Sec.School, Ponneri, (2015) 45%
+content	education	· SSLC Govt.Boys.Hr.Sec.School, Ponneri, (2013) 80.4%
+header	experience	Experience:
+content	experience	· Worked as a DTP and Xerox machine operator in Quality Xerox at Ponneri
+content	experience	past 3 Years
+content	experience	Nature of Job
+content	experience	· Files Mailing, download and printing.
+content	experience	· Photocopy making (Colour & B/W).
+content	experience	· Document, Photos Scanning and image size resizing.
+content	experience	· Photo copy machine troubleshooting.
+content	experience	· Photo to PDF converting and PDF to text converting, Word to PDF converting.
+content	experience	· ID card design and lamination with cutting.
+content	experience	· Spiral and soft binding.
+content	experience	· Duplicator machine operating and cartage and master role changing.
+content	experience	· A0 Scanning and Printing, Paper feeding.
+content	experience	· System Networking basic troubleshooting
+content	experience	· Photo Editing (Contract and Colour Balancing)
+header	knowledge	Technical Skills
+content	knowledge	· Typing English (Junior)
+content	knowledge	· Basic Computer Knowledge
+content	knowledge	· MS Word, Excel, Photoshop
+header	others	Extra Curricular Activities
+content	others	· Chess
+header	others	Personal profile
+meta	others	Father’s Name
+meta	others	:
+meta	others	G.Ravi
+meta	others	Date of Birth
+meta	others	:
+meta	others	21.09.1997
+meta	others	Marital Status
+meta	others	:
+meta	others	Single
+meta	others	Gender
+meta	others	:
+meta	others	Male
+meta	others	Nationality
+meta	others	:
+meta	others	Indian
+header	knowledge	Languages Known
+meta	others	:
+meta	knowledge	English, Tamil
+meta	others	`
+meta	others	DECLARATION
+meta	others	I hereby declare that the mentioned details are true to the best of my knowledge and belief.
+meta	others	Place:
+meta	others	Signature
+meta	others	Date:
+meta	others	(R.KATHIRAVAN)

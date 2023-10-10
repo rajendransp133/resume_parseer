@@ -1,0 +1,108 @@
+header	others	RESUME
+meta	others	SREENATH PC
+meta	others	Nandanam Neduvottumkunnu
+meta	others	(PO) Mattanur Contact No: 9497385757, 7907190034
+meta	others	Kannur , Kerala Email id:srinathpc47@gmail.com
+meta	others	CARRIER OBJECTIVE
+meta	others	To acquire a challenging and responsible position in a competitive IT field where my knowledge,
+meta	others	ability and personal skills will be effectively utilized.
+header	experience	SUMMARY
+content	experience	• Responsible for Monitoring of all Network Elements using I2000, NAGIOS, VAS
+content	experience	Cloud View,UAP9600 Tools
+content	experience	• Generating of Performance Reports(Daily,Weekly,Monthly), Mail Handling
+content	experience	❖ Daily Reports : SOP(Health Check Report) ,KPI (PLSQL)
+content	experience	❖ Weekly Reports : Incident Analysis , OPSCO Report, KPI (BICP Tool)
+content	experience	❖ Monthly Reports: Capacity Report ( Includes status of the Servers for the Month
+content	experience	,data extracted from the DB’s and will Prepare the Report),OPSCO.
+content	experience	• Checking Connectivity Issues and Reporting to onsite within SLA
+content	experience	• Monitoring ITSD Ticketing Tool
+content	experience	• Executing Health checks using Secure CRT.
+content	experience	• Sending the SMS of Critical issues through SDM Tool.
+content	experience	• Handling of Basic Tickets of Data & Balance Issues and Alarms Handling of
+content	experience	Disconnection, Link down issues.
+content	experience	• Actively involving in giving training to New Employees.
+header	education	EDUCATIONAL QUALIFICATION
+content	education	EXAMINATION
+content	education	BOARD/UNIVERSITY
+content	education	INSTITUTION
+content	education	YEAR
+content	education	AGGREGATE
+content	education	BTech
+content	education	Computer Science
+content	education	AMIE
+content	education	AMIE
+content	education	2017-2019
+content	education	PURSUING
+content	education	Diploma in
+content	education	Mechatronics
+content	education	Engineering
+content	education	NTTF Nettur Technical
+content	education	Training
+content	education	Foundation
+content	education	Bangalore
+content	education	2013-2016
+content	education	75%
+content	education	Board Of Higher
+content	education	Secondary
+content	education	CBSE
+content	education	SSVP Mattanur,
+content	education	Kerala
+content	education	2011-2013
+content	education	75%
+content	education	SSLC
+content	education	CBSE
+content	education	SSVP Mattanur,
+content	education	Kerala
+content	education	2011 88%
+header	knowledge	TECHNICAL SKILLS
+content	knowledge	• Programming Languages : Basics of C, C++
+content	knowledge	• Databases : Basics of DBMS & Oracle 10g and PL/SQL
+content	knowledge	• Tools Used : Turbo-C, Geany, Visual Studio 2008 & 2010,
+content	knowledge	SQL Server 2005, Oracle 10g and PL/SQL,
+content	knowledge	MS-office, QTP(Quick Test Proffessional), XAMPP
+content	knowledge	• Web Technologies : HTML
+content	knowledge	• Operating System : Windows XP 78/10, UBUNTU.
+content	knowledge	• Hardware/Networking : Experienced in Assembling & De-assembling Computer
+content	knowledge	System, Installing OS, Printer configuration and
+content	knowledge	Troubleshooting Systems.
+header	experience	WORK EXPERIENCE
+content	experience	• Working as Technical service Engineer (L1) in Huawei Technologies India Pvt.ltd from 16-08-2016.
+header	project	PROJECT UNDERTAKEN
+content	experience	Project Title : “DISPENSARY MANAGEMENT SYSTEM”
+content	experience	Project Description : This project reduces the complexity of old system. This is very
+content	experience	user-friendly. The features of this project, Online token booking,
+content	experience	Billing, can view the stock details. It will manage the medicines
+content	experience	expiry date. Easy to access the patient details by using unique
+content	experience	patient id allocated by them.
+content	experience	Role : Leader(coding and testing)
+content	experience	Responsibilities : Divide the responsibilities for all
+content	experience	members of the group based on project modules.
+content	experience	Implemented the code for database data accessing and retrieving.
+content	experience	Tested the application finally.
+header	knowledge	PERSONAL SKILLS
+content	knowledge	• Willingness to learn.
+content	knowledge	• Accuracy and attention to details.
+content	knowledge	• Good in grasping.
+content	knowledge	• Positive attitude.
+content	knowledge	• Good team player.
+header	others	HOBBIES
+content	others	• Reading
+content	others	• Travelling
+content	others	• Internet surfing.
+content	others	• Team Sports(Volleyball)
+header	others	PERSONAL DETAILS
+meta	others	Name : Sreenath PC
+meta	others	Date Of Birth : 31/07/1995
+meta	others	Passport : Yes
+meta	others	Father’s Name : Sethunath T
+meta	others	Mother’s Name : Sudhamani PC
+meta	others	Permanent Address : Nandanam, Neduvottumkunnu
+meta	others	(PO) Mattanur
+meta	others	Kannur 670702
+meta	others	Kerala
+meta	knowledge	Languages Known : English , Malayalam, Hindi,Tamil
+meta	others	Nationality : Indian
+meta	others	DECLARATION
+meta	others	I hereby declare that the above written particulars are true to the best of my knowledge.
+meta	others	Place: BANGALORE
+header	others	Date :

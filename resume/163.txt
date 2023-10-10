@@ -1,0 +1,103 @@
+meta	others	AVNEET TIWARI
+meta	others	ASHISH SHARMA
+meta	others	Mobile: +91-7011040408; E-Mail: aksharmaece07@gmail.com; aksharmaece07@yahoo.in
+meta	others	Seeking assignments (GSM/UMTS/LTE) ~ Telecom Networking with a reputed Organization in Telecom sector
+meta	others	M. Tech with 4 years of experience in Telecommunication sector; including:
+header	project	Project RollOuts
+content	experience	Change Management
+content	experience	Network Planning Implementation
+content	experience	Technical Support
+content	experience	Network Management
+header	experience	Configuration & Team Management
+content	experience	· Hands on experience in end to end Configuration Management activities for RAN (Radio Access Network).
+content	experience	· Deft in managing the RAN operations & configuration; for maximum service efficiency.
+content	experience	· Skilled in aligning and utilizing the team resources to get the maximum output under full SLA compliance.
+content	experience	· Configuring the networks as per organizational requirements and communication protocols.
+content	experience	· Possess excellent planning, management and leadership skills
+content	experience	· Has a multivendor experience with exposure to Ericsson and Samsung system.
+header	experience	CORE COMPETENCIES
+content	experience	· Mapping the requirements and providing the best solutions accordingly.
+content	experience	· Evaluation and definition of scope of the project, and finalization of the project requirements.
+content	experience	· Providing end to end management of multiple projects from conceptualization and visualization, & execution of the projects.
+content	experience	· Managing complete rollout, and execution of network planning implementation.
+content	experience	· Resolving performance issues; ensuring maximum network uptime.
+content	experience	· Handling Network Operations and Fault/Alarm Rectification for technical problems.
+content	experience	· Suggesting improvement in the operations and processes to make the system full proof.
+content	experience	· Creating and sustaining a dynamic environment that fosters development opportunities and motivates high performance amongst team members.
+header	experience	CAREER FOOTPRINTS
+content	experience	1. Experience in Telecom sector Technologies(2G/3G/LTE) of 4 years
+content	experience	2. Working in Samsung India Electronics Ltd.(Payroll of LinkQuest India Pvt Ltd) as Senior executive
+content	experience	3. Worked in Vodafone India Limited as an Senior Engineer-SNOC from Nov’13 to Feb’16
+content	experience	4. Worked in Ericsson Global India Ltd. as an Senior Engineer-SRF RAN SUPPORT from Nov ‘08 to Nov ‘13
+header	experience	PRESENT ORGANIZATIONAL EXPERIENCE
+content	experience	· COMPANY: Samsung India Electronics Ltd. (Payroll of LinkQuest India)
+content	experience	· FROM: 6-Nov-2015 to Till Date
+content	experience	· JOB PROFILE: LTE-RAN Sr. Executive Integration Team
+content	experience	· PROJECT: LTE Project of Reliance Jio
+content	experience	· Currently working for LTE project of Reliance Jio as an L2 support/Configuration management IntegrationTroubleshooting engineer for LTE technology on Samsung nodes like eNode-B.
+content	experience	· So includes integration, testing, troubleshooting, etc of Samsung Enode-B (macro & micro cells). Definition & implementation of new sites in 2.3 Ghz & 850 MHZ band.
+content	experience	· Troubleshooting of Service Affecting alarm related to eNode-B, MME and backhaul.
+content	experience	· Software and firmware upgrade of eNode-B
+content	experience	· Co-ordination with Cisco, IP backhaul, field guys, area managers for successful deployment of LTE network as per QoS.
+content	experience	· Migration of eNB from one Lsmr to another.
+content	experience	· Working on tools like LSMR, Secure-CRT,Siteforge, etc.
+header	experience	PAST ORGANIZATIONAL EXPERIENCE
+content	experience	· Organization: Ericsson Global India Ltd.( Payroll of Aerial Telecom Pvt. Ltd.)
+content	experience	· Project: Operation and Maintenance(RAN OPERATIONS) for Bharti(Airtel).Ltd(Haryana)
+content	experience	· Duration: July ’14 to April ‘15
+content	experience	· JOB PROFILE: BSS Engineer (OPERATIONS)
+content	experience	GSM
+header	experience	· E1 links management for independent & cascaded sites.
+content	experience	· Configuration Management on Solaris by Citrix tool and by CNA & CHA application Software. This includes new site integration, H/W Expansion (900 and 1800 both), Software updates and Site migration (GSM, GPRS, EDGE) Network optimization.
+content	experience	· EDGE & GPRS definition on sites (timeslot definition for data on media i.e. on A-Bis & cell level changes for optimum EDGE data rate utilization.
+content	experience	· Exposure to trouble shooting network issues related to BTS.
+content	experience	· TRA-Pool reconfiguration: Change of data rate from HR TO FR, AFR, AMRHR & EFR& WB or
+content	experience	vice versa.
+content	experience	· A-Bis optimization-conversion of sites from TDM mode to SCM mode or vice versa
+content	experience	· Schema changes -planning and implementation
+header	experience	WCDMA
+content	experience	· 3G Site creation and RF parameter changes for better optimization of network.
+content	experience	· License implementation for CE upgrade in bulk.
+content	experience	· Complete NodeB migration from creation to re-parenting in O.N.E tool.
+content	experience	· Complete AT (acceptance test) Pilot sites migration.
+content	experience	· Rectification of performance related issues on node like NodeSync , basic parameter settings .
+header	experience	CAREER CONTOUR
+content	experience	July’04 till April’15 with Ericsson Global India Ltd, Gurgaon / NOIDA
+content	experience	As Senior Engineer SRF-RAN OPERATIONS – BSS
+content	experience	Ericsson India is managing the countrywide network of Bharti (Airtel) Ltd., through its Global Network Operations Centre (L-NOC) from Mohali / Chandigarh.
+content	experience	Client: Airtel,
+content	experience	Applications: Minilink Craft, WinFIOL, OSS-RC, etc.
+content	experience	Nov’15 till date with Samsung India Electronics Ltd. (Payroll of LinkQuest India)
+content	experience	As Senior Executive LTE-RAN Integration Support Team
+content	experience	Applications: Samsung tools, LSMR, SITE FORGE,SECURE CRT etc.
+header	experience	KEY ACCOUNTABILITIES:
+header	experience	Configuration Management
+content	experience	· Configuring/integrating GSM RBSs, eNodeB LTE Nodes, NodeB (WCDMA), GPRS/EDGE Features, and Radio Network Optimization related changes.
+content	experience	· Responsible for troubleshooting of Radio Network KPI and GPRS/EDGE services related issues; handling change request as per SLA/WLA.
+content	experience	· This includes new site integration, H/W Expansion (900 and 1800 both), Software updates and Site migration (GSM, GPRS, EDGE) Network.
+content	experience	· Looking after wireless communication (GSM, GPRS, EDGE) 2G, 2.5G, 3G, LTE, Telecom Networks.
+content	experience	· Looking after change of cell level and BSC level parameters to improve network performance (Frequency Change, BSIC & BCCH Change).
+content	experience	· Optimizing radio network BSS parameter
+content	experience	· BSC/TRC MIGRATION
+content	experience	· Troubleshoots the Various alarms related to RBS
+content	experience	· Successfully completed the task of migrating more than 200 BTS sites in a week.
+content	experience	· Appreciated for conducting MSTOP (Managed Services Telecom Operation Procedure) session.
+header	education	CERTIFIED PROFESSIONAL TRAININGS
+content	education	· GSM BSC Operation
+content	education	· WCDMA Overview
+content	education	· WCDMA Air Interface
+content	education	· LTE Overview
+header	education	EDUCATION
+content	education	· B.Tech (Electronics & Communication) from A.C.M.E PALWAL (affiliated to Maharishi Dayanand University, Rohtak) 2008. (Secured 68.76%).
+content	education	· 10th from Green Fields School, New Delhi (Affiliated to H.B.S.E, HARYANA) with 84 % marks.
+content	education	· 12th from Central Academy School ,New Delhi (Affiliated to H.B.S.E, HARYANA) with 63.4 % marks.
+header	others	PERSONAL DETAILS
+header	others	Contact Address
+meta	others	: A-117, DHARAM PURA, NAJAFGARH, NEW DELHI
+header	others	Date of Birth
+meta	others	: 3 May 1990
+header	knowledge	Languages Known
+header	knowledge	: English, Hindi
+header	others	Declaration
+content	others	I hereby declare that the above written particulars are true to the best of my Knowledge.
+meta	others	ASHISH SHARMA

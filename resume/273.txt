@@ -1,0 +1,86 @@
+header	others	RESUME
+header	others	RESUME
+meta	others	Name: SUJAN MONDAL
+meta	others	Highest Qualification: B.TECH. (INFORMATION TECHNOLOGY)
+meta	others	Contact No: 9732207916 (M)
+meta	others	E-mail ID: sujan.it15@gmail.com
+meta	others	Date of Birth: 14 December 1994
+header	experience	Professional Profile:
+content	experience	Total IT Experience: 1 Year and 11 Month in Software Development and Maintenance
+header	experience	Relevent Experience:
+content	experience	1 Year 11 month experience in JAVA/J2EE (Core Java, Servlet, JSP and EJB – Session Bean), Hibernate, Spring ,Crystal Report, IBM DB2 8.2.7
+header	experience	Present Roles and Responsibilities:
+content	experience	· Client communication.
+content	experience	· Maintenance and Enhancement.
+content	experience	· Acting as a developer
+content	experience	· Requirement gathering and preparing the specification documents.
+content	experience	Present Organizations:
+content	experience	Silver Touch Technologies Ltd, Gujarat, INDIA (https://www.silvertouch.com/)
+content	experience	(Working in the Project of National Informatics Centre (NIC), WB State Centre, Kolkata)
+content	experience	Designation
+content	experience	: Database Administrator Level 1.
+content	experience	Duration
+content	experience	: From 1st March 2018 to till date.
+header	project	Project
+content	experience	: Computerization of Haldia Dock Complex.
+content	experience	Previously worked as a Software Developer at Silver Touch Technologies Ltd. engaged in POMS Project of National Informatics Centre (NIC) from 3th November 2016 to 28th February 2018.
+content	experience	Software Skills:
+content	experience	Programming Language : Java/J2EE (Core Java, Servlet, EJB-Session Bean, JSP),SQL
+content	experience	Development Tools (IDE) : Eclipse , IBM VisualAge, Netbeans
+content	experience	Operating Systems : Windows 2000/XP/7/8/10, Linux.
+content	experience	Database : IBM DB2, PostgreSQL
+content	experience	Application Server : IBM Web Sphere 4.0.7, Apache Tomcat
+content	experience	Reporting Tool : Seagate Crystal Report 7
+content	experience	Project Details: Computerization of Haldia Dock Complex
+content	experience	This project is done with National Informatics Centre. Haldia Dock Complex (HDC) is an organization of Kolkata Port Trust under Ministry of Surface Transport; Govt. of India deals with the Import, Export and related operations of Container and Cargo. This project is intended to help the client to perform the operations using the help of Computer System. The project provides efficient flow of information among the various divisions with integrated and centralized database. The system is being deployed over an OFC Intranet and being made on-line.
+content	experience	Software Used:
+content	experience	IBM Visual Age for Java 4.0 (for J2EE), Platinum ER Win 3.5.2, IBM Web Sphere 4.0.7, IBM DB2 8.2.7, Seagate Crystal Reports 7.0,
+header	experience	1. Module Name: Establishment Modules
+content	experience	Functionalities: The module consists of three sub modules Leave Management, Job Booking and Attendance. The objective of the Leave Management module basically keeps track of the leave -Casual Leave, Earned Leave and Medical Leave account of each employee. Booking module is developed for keeping track of the various types of booking information like overtime, Full Shift, Part Shift, roster off and holiday. Attendance module is intended to gather information regarding attendance for each employee on a day to day basis.
+content	experience	Responsibility: Responsible as one of the team member in Development, Enhancement, Maintenance, Requirement gathering and support to Client of Establishment Module as per requirement.
+header	experience	2. Module Name: Payroll Module
+content	experience	Functionalities The Payroll System aims to maintain all the pay related earnings and deductions (E/D) of employees calculate salaries and generate pay slips. Master/Fixed earnings are maintained and updated by P&IR and Finance divisions. Post related information of employees e.g. designation, class, pay scale etc. required for Payroll System is maintained and updated by PIS module. After capturing all the divisional data, variable data entered by them to payroll system, P&IR Division will have to calculate all to get amount against variable E/D code. After that P&IR division transfers all these data related information to finance division. Finance division finally calculates salary for generating pay slip.
+content	experience	Responsibility: Responsible as one of the team member in Development, Enhancement, Maintenance, Requirement gathering and support to Client of Payroll Module as per requirement.
+header	experience	3. Module Name: Personnel and Industrial Relationship
+content	experience	Functionalities: All details of an employee about personnel and industrial related is included. This module consists seven sub module. This are Personal Information System(PIS). Recruitment Plan Management System(RPMS), Legal Case Management System(LCMS), Industrial Relationship Management System (IRMS), Disciplinary Action Monitoring System (DAMS), Training Plan Management System(TPMS) and Settlement System.
+content	experience	Responsibility: Responsible as one of the team member in Development, Enhancement, Maintenance, Requirement gathering and support to Client of Personnel and Industrial Relationship Module as per requirement.
+header	experience	4. Module Name: Labour Booking Module
+content	experience	Functionalities: Labour Booking Module is under the Shipping & Cargo Handling Division, which is intended to book the Workers of various types. This module is essential for import-export operations of container and cargo in different shifts like Day, Afternoon & Night. Workers are reserved for emergency purpose using a reserved pool. This Module also makes integration with Payroll Module.
+content	experience	Job Scheduling and allocation for Mazdoors & Operators is primary objective of this module. This module is also used for Hook Booking, Detention Entry, Holiday Booking and other related jobs. Availability List, Pooling List, Booking sheet, Deployment Lists are main output of this module.
+content	experience	Calculation of Incentives and Dust allowances for Labours and Operators are also an important part of this module. Calculation depends on working cargo.
+content	experience	Responsibility: Responsible as one of the team member in Development, Enhancement, Maintenance, Requirement gathering and support to Client of Labour Booking Module as per requirement.
+header	project	Academic Project:
+content	experience	· Department ePortal from Hewlett-Packard India Sales Pvt. Ltd Using Advance java.
+content	experience	· Virtual Classroom from College of engineering and Management,Kolaghat using
+content	experience	Core java /Advance java.
+header	education	Additional Qualification / Achievements / Certifications:
+content	education	· Participating certification on android workshop held at CEMK.
+content	education	· Participation certification on Cloud Computing held at CEMK.
+content	education	· Participated in TCS codevita 2015.
+header	knowledge	Technical Qualification (B.Tech.):
+content	knowledge	· B.Tech. in Information Technology.
+content	knowledge	Year of Passing: 2016
+content	knowledge	Marks: 7.03(DGPA)
+content	experience	Institution: College of Engineering and Management, Kolaghat
+header	education	Board/University: West Bengal University of Technology (Kolkata).
+header	education	Educational Qualification (School Level):
+content	education	· Higher Secondary Examination (Class: XII)
+content	education	Year of Passing: 2012
+content	education	Marks: 71%
+content	education	Board: W.B.B.H.S.E. (West Bengal)
+content	education	· Secondary Examination (Class: X)
+content	education	Year of Passing: 2010
+content	education	Marks: 77%
+content	education	Board: W.B.B.S.E. (West Bengal)
+header	others	Personal Profile:
+meta	others	Father’s name Mr.Umakanta Mondal
+meta	others	Nationality Indian
+meta	others	Permanent Address Vill+P.O:- Srikantha, Dist:-Purba Medinipur Medinipur,
+meta	others	Pin:-721629
+meta	knowledge	Languages Known English, Hindi, and Bengali
+meta	others	Hobbies Listening Music, Playing Cricket
+meta	others	Declaration:
+meta	others	I consider myself familiar with Information Technology aspects. I am also confident of my ability to work in a team.
+meta	others	I hereby declare that the information furnished above is true to the best of my knowledge.
+meta	others	Sujan Mondal
+meta	others	Place: Kolkata

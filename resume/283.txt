@@ -1,0 +1,41 @@
+meta	others	AMOL KHODE
+meta	others	Phone (M): + 919975278851
+meta	others	E-Mail:- amolkhode115@gmail.com
+meta	others	____________________________________________________________________________________
+header	others	Career Objective:-
+meta	others	Accounting professional with 8 year experience, Knowledgeable in monthly financial reporting, tax statement, depreciation, Accounts payable & receivable, general ledger accounting, reconciliation and audit preparation.
+header	education	Education Qualification:-
+content	education	Graduation : - B. Com
+content	education	Extra Qualification:-
+content	education	Industrial Accounts & Taxation course from ASPECT Education Centre, Nagpur
+content	education	Computer Literacy:-
+content	knowledge	Microsoft office suite (Word, Excel, Access, Power point) Tally 7.2 Tally ERP 9 with Account package, Internet browsing and scanning can operate computer confidently.
+header	experience	WORK EXPERIENCE:-
+content	experience	Presently working with M/s CRYSTAL FURNITURE INDUSTRIES as an Accounts Executive since April 2009 to till Date it is an ISO 9001-2008 Co. The Company is Manufacturing of Modular Office Furniture, Home Furniture and Modular Kitchen Shutter.
+content	experience	Maintaining all Accounts Book
+content	experience	· Sales book, Purchase Book, Cash & Bank Book.
+content	experience	· Prepare sales bill.
+content	experience	· Passing all type accounts related entry.
+content	experience	· Rectification & adjustment Entries
+content	experience	· Reconciliation of debtors & creditor Accounts.
+meta	others	Page 1 of 2
+content	experience	E-Mail:- amolkhode115@gmail.com
+content	experience	· Reconciliation of bank accounts & customer.
+content	experience	· Making Payment to Creditor as on due date.
+content	experience	· Salary process received report and processing & distribution.
+content	experience	· Payment follow-up with clients.
+content	experience	· General ledger accounts.
+content	experience	· Stock Statement.
+content	experience	· Deduction, depositing of TDS, issuing TDS certificates & filing returns.
+content	experience	· Professional Tax deduction, calculation and return.
+content	experience	· Finalizing the Profit & Loss A/c and Balance Sheet.
+content	experience	2 Year work with G. M. Vazalwar & Co. (Charter Accountants) as an Audit
+content	experience	Assistant (Assist audit work private banking, society & companies)
+header	others	PERSONAL DETAILS:-
+meta	others	Father’s Name : - Chandrabhan Khode
+meta	others	Date of Birth : - 10 April 1986
+meta	others	Gender : - Male
+meta	others	Marital Status : - Single
+meta	others	Nationality : - Indian
+meta	others	Place : - Nagpur
+meta	knowledge	Languages Known: - Marathi, Hindi & English

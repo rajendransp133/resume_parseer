@@ -1,0 +1,106 @@
+header	others	CURRICULAM VIATE
+meta	others	Shiny Priyanka Sarella
+meta	others	12-4-57
+meta	others	Flat No 402 RV RD Homes
+meta	others	Moosapet
+meta	others	Hyderabad - 500018
+meta	others	Ph No.- 8297877021
+meta	others	Email: sarellashiny@gmail.com
+header	others	Career Objective:
+content	others	To join your esteemed organization engaged in specialize activities that yield out my learning paradigms and transforms me into a human capital with due course of time and enhances the qualities like creativity & innovation.
+header	experience	Working Experience
+header	experience	Total Experience:
+content	experience	Jun’2013 – Till date (3+ years)
+content	experience	Company:
+content	experience	Uber India Pvt. Ltd
+content	experience	Designation:
+content	experience	Community Operations Specialist
+content	experience	Location:
+content	experience	Hyderabad
+content	experience	Duration:
+content	experience	June’2018 – till date
+content	experience	Company:
+content	experience	Cognizant Technology Solutions
+content	experience	Designation:
+content	experience	Senior Process Executive
+content	experience	Location:
+content	experience	Hyderabad
+content	experience	Duration:
+content	experience	Mar’2017 – May’2018
+content	experience	Company:
+content	experience	Global Logic (Client – Google)
+content	experience	Designation:
+content	experience	Content Engineer
+content	experience	Location:
+content	experience	Hyderabad
+content	experience	Duration:
+content	experience	Jun’2015 – Apr’2016
+content	experience	Company:
+content	experience	Randstad (Client – Google)
+content	experience	Designation:
+content	experience	Process Analyst
+content	experience	Location:
+content	experience	Hyderabad
+content	experience	Duration:
+content	experience	Feb’2014 – Feb’2015
+header	experience	Roles and Responsibilities:
+content	experience	· Focuses primarily on fulfilling field and corporate-wide requests for mapping, data and cartographic products through the utilization of GIS software and other resources.
+content	experience	· To create, organize and analyze the data to be displayed on applicable maps and disseminate an accurate map or cartographic product to the field
+content	experience	· To support the management team and the GIS analysts in the Operations Support department in their efforts to increase routing efficiencies, revenue and profit opportunities as well as to report upon historical performance
+content	experience	· Performs desktop audits of existing contract work and provides data and mapping support for the Desktop Marketing Program.
+content	experience	· Uses Mapinfo, Google Earth, Microsoft MapPoint and other mapping software to create and print maps for use throughout the Company.
+content	experience	· Creates and maintains data files and maps used for market area development, service area boundaries and market analysis purposes.
+content	experience	· Supports routing efforts throughout the Company and the needs of corporate and field users of routing technology and data.
+content	experience	· Performs data cleansing and restructuring to manage the linkage of information and data portability
+content	experience	· Performs quality control checks of GIS data to ensure data integrity.
+header	others	Achievements:
+content	others	· Promoted as a quality check analyst within in 5 months of joining.
+content	others	· Recognized for the highest efficiency demonstrated for 3 consecutive cycles.
+content	others	· Currently Active Pod Lead for a quality checks team of 25 associates.
+header	experience	Internship
+content	experience	Worked as a Graduate Engineer Trainee for the duration of 6 months at Andhra Pradesh Gas Distribution Corporation
+content	experience	Company:
+content	experience	Andhra Pradesh Gas Distribution Corporation
+content	experience	Designation:
+content	experience	Graduate Engineer Trainee
+content	experience	Location:
+content	experience	Hyderabad
+content	experience	Duration:
+content	experience	6 Months
+content	experience	Roles and Responsibilities:
+content	experience	· Apply academic learning to the workplace environment
+content	experience	· Participate in project teams to achieve work outcomes.
+content	experience	· Provide reports, analysis and research on relevant issues as directed
+header	education	Academic Qualification
+content	education	· 2013
+content	education	B.Tech. (ICE) – G. Narayanamma Institute of Technology & Science, Hyderabad (J.N.T.U)
+content	education	· 2009
+content	education	Intermediate – Sri Chaitanya Junior College, Eluru
+content	education	· 2007
+content	education	Class X – Sri Krishnaveni High School, Vijayawada
+header	knowledge	Technical Qualifications
+content	knowledge	· Certified Professional in Project Planning and Management using PRIMAVERA P6
+content	knowledge	· Operating System:
+content	knowledge	Windows
+content	knowledge	· Programming Languages:
+content	knowledge	C, ASP.Net
+content	knowledge	· Scripting Languages:
+content	knowledge	HTML
+content	knowledge	· Others Tools & Packages:
+content	knowledge	MS Office package, Photoshop
+header	knowledge	Strengths
+content	knowledge	· Client focused and solutions driven
+content	knowledge	· Ability to work under stringent timelines
+content	knowledge	· Ability to handle multi projects
+content	knowledge	· Enhanced verbal communication skills
+content	knowledge	· Attention to detail
+header	others	Personal Dossier
+header	others	· Nationality:
+meta	others	Indian
+header	others	· Marital Status:
+meta	others	Married
+meta	others	· DOB:
+meta	others	February 13, 1992
+meta	others	· Interests:
+meta	others	Music, Travelling.
+meta	others	Shiny Priyanka Sarella

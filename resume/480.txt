@@ -1,0 +1,73 @@
+header	others	From:
+meta	others	Divya Kota Mail ID – divyasrima@gmail.com
+meta	others	Mobile +91-8015266273
+meta	others	8072870988
+meta	others	Prahalad Nagar 3rd Lane
+meta	education	Near old Berhampur school,
+content	education	Berhampur,Ganjam(Odisha)
+content	experience	Pin-760009
+header	others	CAREER OBJECTIVE
+content	others	To be a part of an organization where I can grow in terms of knowledge, skills and attitude and put to an effective use my analytical abilities and professional competence in the areas of accounting, auditing & strategic budgeting, so as to align self development with organizational development.
+header	experience	WORK EXPERIENCE
+content	experience	Organization: Accenture Services Pvt Ltd.(Chennai)
+content	experience	Duration: 25 Aug2014 – Till Now
+content	experience	Designation: Senior Financial Analyst
+content	experience	Job profile: General Ledger Accounting
+header	experience	Roles and responsibilities:
+content	experience	· Preparing weekly, monthly and Quarterly Bank Reconciliations.
+content	experience	· Pulling the reports from SAP corporate central ledger
+content	experience	· Monthly standard JE postings for various expenses & revenue related items accurately and within the agreed timelines.
+content	experience	· Uploading the reconciliations into Assurenet tool for Client final approval.
+content	experience	· Accrual bookings on various balance sheet items for the cost/income which isnot recognized during the accounting period
+content	experience	· Ensured proper accounting of general ledger transactions and prepared monthly general ledger reconciliations.
+content	experience	· Reviewing month-end close entries which includes reviewing and posting all automated journal entries
+content	experience	· Reconciling balance sheet accounts.
+content	experience	· Allocation of Cost center and internal order for various expenses.
+content	experience	· Reviewing & Reconciling the Intercompany reconciliation for the transactions within the subsidiaries.
+content	experience	· Identify the root cause of the open items and & fix a solution for recurring open items.
+content	experience	· Setup a call with the clients and the department responsible for coding the incorrect entries and provide the action plan to rectify the open items.
+content	experience	· Perform Ad-hoc client request.
+content	experience	· Provide financial analysis support to various region when needed
+content	experience	· Perform actual versus budget variances and generate variances report for management.
+header	experience	Qualifications:
+header	education	QUALIFICATION
+header	education	YEAR
+header	education	INSTITUTE/ UNIVERSITY/ BOARD
+content	education	MARKS (%)
+content	experience	ICWA(Inter)
+content	education	June 2012
+content	education	Institute of Cost Work Accountants of India
+content	education	51.67%
+content	education	B.Com(Hons Accounting)
+content	education	March 2012
+content	education	Berhmpur University , Odisha
+content	education	69%
+content	education	XII
+content	education	March 2009
+content	education	CHSE, Odisha
+content	education	69%
+content	education	X
+content	education	March 2007
+content	education	BSE, Odisha
+content	experience	61%
+header	knowledge	TECHNICAL SKILLS
+content	knowledge	· Working knowledge of MS Office.
+content	knowledge	· SAP
+content	knowledge	· Internet Proficiency
+header	experience	EXTRA CURRICULAR ACTIVITIES
+content	others	· Have participated in many college level Seminar and Quiz competitions.
+content	others	· Have participated fashion shows in office level.
+content	others	· Awarded for Numero One Award.
+content	others	· Got Award for the Best Team
+content	others	· Received appreciation emails from client on many occasions.
+content	others	· Performing Spoc Activities in office level.
+header	others	STRENGHTS
+content	others	· Determination, Hard-working, &Self Confidence.
+content	others	· Leadership abilities and team coordination.
+header	experience	Personal Profile:
+meta	experience	Name : Divya Kota
+meta	others	Fathers name : K.Govinda Rajulu
+meta	others	D.O.B : 20thApril 1992.
+meta	others	Nationality : Indian.
+meta	others	Languages known : English, Hindi,Odia, Telugu.
+meta	others	(Divya Kota)

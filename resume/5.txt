@@ -1,0 +1,92 @@
+meta	others	HRISHIKESH KATVI
+meta	others	KARANJEET SINGH
+meta	others	Sector 15, Gurgaon, Haryana
+meta	others	Contact No.: 9910189387 ~ E-Mail: karanjeet.saini@gmail.com
+meta	others	To groom into an Expert Network Professional by exploiting my Skills, Experience and Knowledge gained so
+meta	others	far and to contribute to the growth of the Organization associated with.
+header	experience	RESUME SNAPSHOT
+content	experience	 A result oriented professional with over 8.5 years of experience in networking domain.
+content	experience	 Working with British Telecomm, Gurgaon from Dec’16 till date.
+content	experience	 Worked with HCL Technologies, Noida since Aug’13 – Dec’16
+content	experience	 Worked with Orange Business Services, Gurgaon from Jan ’11 – Nov ’12.
+content	experience	 Worked with Bharti Airtel Ltd., Gurgaon from September ’07 - January ‘11.
+content	education	 Passed B.Tech in Electronics and Communication from Amritsar Engg. College, affiliated to Punjab Technical
+content	education	University in July ’2007.
+content	experience	 CCNA and CCNP (cleared 2 exams)
+header	experience	PROFICIENCE MATRIX
+content	experience	 NOC: Handful 1experience in Global Network operations centre where
+content	experience	troubleshooting and monitoring the network equipment’s. Monitoring
+content	experience	of backbone networks of Equant.
+content	experience	 Routing: Knowledge of Routing protocols like IGRP, EIGRP, OSPF,
+content	experience	RIPv1, RIPv2, BGP, Monitoring Equant of Internal Network(EIN
+content	experience	Routers), IP Routing, Static Routing, Dynamic Routing, Default Routing,
+content	experience	Distance Vectors Routing Protocols,
+content	experience	 WAN Protocols like HDLC Protocol, PPP Protocol, Frame Relay.
+content	experience	Handful experience on Routing configurations of protocols like OSPF,
+content	experience	BGP, RIP, IGRP, EIGRP.
+content	experience	 Switching: LAN Switching, Layer 2 Switching, Spanning Tree Protocol,
+content	experience	VLAN’S, Dynamic VLAN, Static VLAN, Virtual Trunking Protocol
+content	experience	(VTP), VTP Modes of operation, Inter-VLAN Routing.
+content	experience	 Troubleshooting: Troubleshooting on Internet leased lines, Point to point links, ATM Links.
+content	experience	 Networking Monitoring: Monitoring of Network Equipment’s in Equant Network, Backbone monitoring of
+content	experience	Network Equipment.
+content	experience	NOC
+content	experience	Routing
+content	experience	Switching
+content	experience	Trouble Shooting
+content	experience	Network Monitoring
+content	experience	NOC
+content	experience	Routing
+content	experience	Switching
+content	experience	Trouble Shooting
+content	experience	Network Monitoring
+content	experience	mailto:karanjeet.saini@gmail.com
+header	experience	CAREER CONTOUR
+content	experience	Dec ’16 to till date with British Telecomm, Gurgaon
+header	experience	Highlights:
+content	experience	 Worked with Nationwide Building Society in British Telecomm.
+content	experience	 Worked on Router 3900, switches 3750, switches 3850 and the configurations of these devices.
+content	experience	 Handled the queries of customer and providing the support relating to networks.
+content	experience	 Handle the tasks of providing support regarding the LAN and WAN issues related to networks.
+content	experience	Aug ’13 to Dec’16 with HCL Technologies, Noida
+header	experience	Highlights:
+content	experience	 Worked with GAP steady state Project in HCL Technologies.
+content	experience	 Handle the tasks of providing Level 2 technical support to resolve day-to-day network related
+content	experience	issues.
+content	experience	 Handle responsibilities of analyzing monitoring alarms of network equipment and troubleshooting
+content	experience	for network related issues.
+content	experience	 Worked with Johnson & Johnson Project in HCL Technologies.
+content	experience	 Handle the tasks of providing Level 2 technical support to resolve the LAN and WAN issues
+content	experience	relating to networks.
+content	experience	 Handle responsibilities of router configuration (2600 & 2800) series and switch 3750.
+content	experience	Jan ’11 to Nov ’12 with Orange Business Services, Gurgaon as Network Engineer (Global NOC))
+header	experience	Highlights:
+content	experience	 Backbone monitoring of various Network Equipments at Global Network Operations Centre.
+content	experience	 Handling and proactively monitoring alarms of network equipment like Nortel Passport.
+content	experience	 Handful experience on Routing configurations of protocols like IGRP, EIGRP, OSPF, RIP, BGP, IP Routing,
+content	experience	Static Routing, Dynamic Routing, Default Routing, Distance Vectors Routing Protocols, WAN Protocols like
+content	experience	HDLC Protocol, PPP Protocol, Frame Relay.
+content	experience	Sep ’07 to Jan ’11 with Bharti Airtel Ltd., Delhi as Network Engineer (Customer Support Group)
+header	experience	Highlights:
+content	experience	 Handling queries of the enterprise customers regarding their network problems related to Lease Lines,
+content	experience	Internet, FR, ATM, MPLS & IPLC circuits for various customers like-:Wipro, Reliance, CISCO, Nokia Siemens
+content	experience	Networks, Accenture, AT&T, Verizon, Singapore Telecommunications, Infosys, Ericsson, Fiserv and others to
+content	experience	name a few
+content	experience	 Visiting the sites for finding out and rectifying the problems in the leased circuit, checking the loops using
+content	experience	Bert-Meters, or E1 testers and also to check the Router configuration (configuration of various Routing
+content	experience	Protocols like RIP,OSPF, IS-IS, EIGRP& BGP.
+content	experience	 Co-ordinate with the different fixed service providers (FSP) like BSNL, BTNL, TTML, and MTNL to resolve
+content	experience	any issues at their end.
+content	experience	 Co-ordinate with SingTel for IPLC circuit failures over I2I cable & also with AT&T, Sprint and Telstra for the
+content	experience	IPLC circuit failures over SEA-ME-WE - 4 undersea cable.
+content	experience	 Interfacing with the Network Operating Center (NOC) to resolve the customer issues concerning latency,
+content	experience	websites, packet drops, CRC Errors on the link and also to rectify the issues concerning with configuration of
+content	experience	Routers and WAN Protocols like HDLC, PPP and Frame Relay.
+header	education	CERTIFICATIONS
+content	education	CCNA CCNP (Routing & Switching)
+header	others	PERSONAL DOSSIER
+content	others	Date of Birth: 23rd June, 1985
+content	others	Contact Address: H no. 198, sector 15, part I, 2nd Floor, Gurgaon
+content	knowledge	Languages Known: Hindi, Punjabi and English
+content	others	I hereby declare that all information provided above is true to the best of my knowledge.
+content	others	-Karanjeet Singh

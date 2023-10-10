@@ -1,0 +1,82 @@
+header	others	RESUME
+meta	others	AMAN KUMAR SINGH E-mail: amanssingh120@gmail.com
+meta	others	Mobile: +917506171806
+header	others	OBJECTIVE
+content	others	To work with maximum potential in a challenging and dynamic environment, with an opportunity of working with diverse group of people and enhancing my professional skills with learning and experience for career growth.
+header	experience	PROFESSIONAL SUMMERY
+content	experience	· 3+ Years of experience in IT which is More than 2.5 + Years of Experience in Tableau Developer (Tableau Desktop 9x,9.1) and 8 month of Experience in CMC Ltd (Support Engineer).
+content	experience	· Hands on Experience in development of Reports and Dashboard in Tableau.
+content	experience	· Experience in designing and deploying data visualizations using Tableau Desktop.
+content	experience	· Creating workbooks by importing the data, define relationship (Excel, SQL Server)
+content	experience	· Hands on knowledge of tableau advance chart like Donut Chart, Waterfall Chart, Lollypop chart etc.
+content	experience	· Worked on Filters, Context Filter, Quick Filter (Normal Filter, Date Filter, Cascading Filter).
+content	experience	· Worked on User security for confidential report.
+content	experience	· Worked on Hierarchy in which user see the data at their level only.
+content	experience	· Created parameters in reports to make it more user-friendly.
+content	experience	· Formatting the data by using Marks, Colors, Size, Text and Shapes.
+content	experience	· Experience in various reporting objects like Hierarchies, Sets, Groups and Calculation fields (Date Calculations, If and Else, IIF, case, LOD expression, Table Calculation etc.)
+content	experience	· Worked on development Actions with worksheet and dashboard reports.
+content	experience	· Worked on Tabcmd to add or remove Users from Groups through user CSV file.
+content	experience	· Worked on giving permission, creating subscription, schedule refresh and run on server.
+content	experience	· Created table charts, filled maps, pie charts, side-by-side bars, tree maps, circle views, circle-by-circle views, heat maps and lines.
+content	experience	· Worked with actions reporting Drill up and Drill down through reports.
+header	education	EDUCATIONAL PROFILE
+content	education	Graduated in Bachelor of Technology (B-Tech) from UPTU in the year 2014 with specialization in Computer Science Engineering.
+header	experience	PROFESSIONAL PROFILE
+content	experience	Working as a Tableau Developer in Marico Ltd, Mumbai on payroll of Lobo Staffing Solution, from Oct -17 to till date.
+header	knowledge	TECHNICAL SKILLS
+content	knowledge	BI Tools: Tableau Desktop (10x, 9.1, 9.2).
+content	knowledge	Server: Tableau Server.
+content	knowledge	Database: MS SQL Server 2008.
+content	knowledge	Applications: MS Office 2007, 2010, Theobald Extractor
+header	others	ACHIEVEMENTS
+content	knowledge	I have done certification course on Java Programming (Basic & Advance) from Seed InfoTech.
+header	project	PROJECT HANDLED
+content	project	Marico Ltd, Oct – 2017 to Till Date
+content	project	Project1: MOR Dashboard
+content	project	Role: Tableau Developer.
+content	project	Description: This report gives the information about Sales (Primary and Secondary) at all Level. So it helps to get decision for business growth.
+header	project	Job Responsibilities:
+content	experience	· Worked with Business users to understand the user requirements, layout, and Look and feel of the application to be deployed.
+content	experience	· Generated Dashboards with Parameters, Groups and sets to handle views more efficiently.
+content	experience	· Worked on Dashboard container like Vertical and horizontal for adjust multiple sheets.
+content	experience	· Worked on Action at multiple Data sources Level.
+content	experience	· Worked on color coding in multiple graph.
+content	project	Environments: Windows, Tableau Desktop 10.5, Tableau Server 10.5.
+header	project	Project1: Travel Dashboard.
+content	project	Role: Tableau Developer.
+content	project	Description: To analyze all expenses of Employees by Financial Team. Like Hotel Expense, Air Ticket Claim, Car Hire Claims etc.
+header	project	Job Responsibilities:
+content	experience	· Understand requirement, Analyzing System and source Databases.
+content	experience	· Worked with Business users to understand the user requirements, layout, and Look and feel of the application to be deployed.
+content	experience	· Generated Dashboards with filters, Parameters, Groups and sets to handle views more efficiently.
+content	experience	· Worked on Dashboard container like Vertical and horizontal for adjust multiple sheets.
+content	experience	· Worked on color coding in multiple graph.
+content	project	Environments: Windows, Tableau Desktop 10.2, Tableau Server 10.2.
+header	project	Project2: Sales Dashboard
+content	project	Role: Tableau Developer.
+content	project	Description: This Sales reports guide sales leaders’ for decision making, and analyzing their sales on different parameter like Achievement%, Growth% .Therefore this give a critical priority for all sales forces.
+header	project	Job Responsibilities:
+content	experience	· Understand requirement, Analyzing System and source Databases.
+content	experience	· Worked with Business users to understand the user requirements, layout, and Look and feel of the application to be deployed.
+content	experience	· Generated Dashboards with filters, Parameters, Groups and sets to handle views more efficiently.
+content	experience	· Worked on user filter.
+content	experience	· Worked on user hierarchy by which user can see their respective data.
+content	experience	· Generate the data in dashboard on multiple time variant level like MTD, LYMTD, YTD, LYTD, QTD etc.
+content	experience	Environments: Windows, Tableau Desktop 10.2, Tableau Server 10.2.
+content	others	Lodha Group, May – 2016 to Oct - 2017
+header	project	Project1#: Milestone Calendar.
+content	project	Role: Tableau Developer.
+content	project	Description: Milestone calendar report gives information to business user to get the status of all milestones for their projects.
+header	project	Job Responsibilities:
+content	experience	· Understand requirement, Analyzing System and source Databases.
+content	experience	· Worked with Business Analyst and the Business users to understand the user requirements, layout, and Look and feel of the application to be deployed.
+content	experience	· Extract all SAP tables using Theobald extractor and get tables in SQL.
+content	experience	· Implement the business logic in SQL.
+content	experience	· Generated Dashboards with filters, Parameters, Groups and sets to handle views more efficiently.
+content	experience	· Sophisticated stored procedures and triggers to provide complete technical solutions.
+content	experience	· Use multiple calculations of Date, Date and Time, LOD expression, Action for developing required dashboard.
+content	experience	· Worked with all levels of development from analysis through implementation and support.
+content	experience	· Build and publish Tableau reports utilizing complex calculated fields, table calculations, filters, parameters.
+content	experience	Environments: Windows, MS-SQL Server 2008, Tableau 9.1, Tableau Server.
+meta	others	(Aman Singh)

@@ -1,0 +1,62 @@
+meta	others	Jayesh Bhosale
+meta	others	Address : C-203, Sai Balaji Darshan Buldg., Opp. Balaji Mandir, Dombivli-East 421203
+meta	others	Mobile : +91 9702626975
+meta	others	Email : jaybhosale198@gmail.com
+header	others	CAREER OBJECTIVE
+content	others	Attain the position of “HR Generalist” in your company, where I can utilize my expertise in the employee management through my excellent communication and interpersonal skills, contributing towards the development of the organization. To enhance the performance of the company for better output through a disciplined, organized and progressive ways with my sincerity, creativity, hard work and utmost endeavors in the task entrusted to me.
+header	experience	WORK EXPERIENCE
+content	experience	Qualitykiosk Technologies PVT. LTD, Navi Mumbai.
+content	experience	December 2018 to Present date
+header	experience	Company Profile
+content	experience	Qualitykiosk Technologies Pvt Ltd. is an enterprise in India, with the main office in Navi Mumbai. It operates in the Custom Computer Programming Services industry. QualityKiosk Technologies is one of the world’s largest independent software Quality Assurance Providers and pioneers in performance testing in India. It was founded in the year 2000 by IIT-Kanpur graduates. QualityKiosk’s 1500+ quality assurance experts are spread across 20+ countries in APJ, EMEA, and India regions.
+content	experience	Designation-Consultant (HR Operation)
+content	experience	Reporting directly to Senior Manager of HR-Operation
+content	experience	As a Consultant of HR operation roles were,
+content	experience	1. Maintains the document of resources like NDA, BGV etc.
+content	experience	2. Keep the record in excel about the document kept in the storage.
+content	experience	3. Assist to company’s online platform (Workline) for day-to-day activities.
+content	experience	4. Maintains the HRIS database and generates scheduled or requested reports to assist management.
+content	experience	5. Keeps employee records up-to-date by processing employee status changes in a timely manner.
+content	experience	6. Preparing various letter like Reliving, Experience, Proximity etc.
+content	experience	7. Provides payroll processing backup support. Partners with accounting and payroll to maintain the payroll database.
+header	education	ACADEMIC QUALIFICATION
+content	education	· Graduation BMS: Bachelor of Management Studies.
+content	education	· ‘2017-2018’ – Passed from The SIA college of Higher Education, Dombivli. With 70% of “A” Grade.
+header	education	· Intermediate:
+content	education	· ‘2015’ - Passed from K.V. Pendharkar college, Dombivli, With 76%
+content	education	· Matriculation:
+content	education	· ‘2013’ - from M.S.M. Vidyalaya, Domvbivli, with 81%.
+header	others	EXTRA CURRICULAR ACTIVITIES:-
+content	others	· Hold the position of “Student Manager” for Department of Life Long Learning & Extension, Under Mumbai University. (Handle 25 Students)
+content	others	· Participated in State level Quiz Competition at Swayam Siddhi Collage, Bhwandi.
+content	others	· Participated in Inter-colligate paper presentation competition,
+content	others	Subject-Recruitment procedure of ICICI Bank.
+header	knowledge	KEY SKILLS AND ATTRIBUTES
+content	knowledge	· Technically proficient in MS Word, Excel, PowerPoint, Windows OS
+content	knowledge	· Good communication and interpersonal skills.
+content	knowledge	· Committed team player with flexible approach towards work.
+content	knowledge	· Aggressive target oriented personality and very committed towards the assignment given to me.
+content	knowledge	· Creative, innovative, hardworking, Enthusiastic, punctual and ‘Honest’.
+content	knowledge	· Matured enough to handle sensitive information in a professional way.
+content	knowledge	· Excellent organizational skills.
+content	knowledge	· Evidence of the practice of a high level of confidentiality.
+header	others	HOBBIES
+content	others	· Sketching, Drawing.
+content	others	· Listening to music.
+content	others	· Travelling.
+header	others	AREA OF INTEREST
+content	others	· HR-Operation
+content	others	· HR-Business Partner
+content	others	· Payroll & Compliances.
+header	others	PERSONAL DETAILS
+meta	others	Father’s Name : Mr. Nagesh Bhosale
+meta	others	Permanent Address : C-203, Sai Balaji Darshan Buldg., Opp. Balaji Mandir, Dombivli-East
+meta	others	PIN-421 203
+meta	others	Mailing Address : jaybhosale198@gmail.com
+meta	others	Date of Birth : 14th Nov, 1997.
+meta	others	Sex : Male.
+meta	others	Marital Status : Single.
+meta	others	Nationality : Indian.
+meta	knowledge	Languages Known : English, Hindi, Marathi.
+meta	others	Place: Dombivli (E) Jayesh bhosale
+header	others	Date:

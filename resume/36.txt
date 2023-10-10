@@ -1,0 +1,51 @@
+meta	others	JOHN HAVEN
+meta	others	madhu kumar m
+meta	others	|Mob: 7411527477 |E-mail: madhukumar13494@gmail.com johndoe@gmail.com
+meta	others	Career Objective
+content	others	Senior Process Analyst with 3.8 years of experience working for the Gallagher Service Center LLP (Arthur .J Gallagher a Fortune 500 company). Accounts Payable Possesses impeccable written and verbal communication skills and excellent interpersonal skills. Utilizing and enhancing my accounting skills and I’m looking for Long term stability and growth within your organization.
+header	others	Core Competencies
+content	others	· Reporting
+content	others	· Invoices/Expense Reports
+content	others	· Payments and Payments entries at Bank (Check, Wire, ACH)
+content	others	· Client Relationship
+header	experience	Professional Experience
+content	experience	Gallagher Service Center LLP. (Arthur j. Gallagher)
+content	experience	Senior Process Analyst | Brigade Magnum hebbal Bangalore| June 2014 – Present
+header	experience	KEY RESPONSIBILITIES
+content	experience	· Collect, compile, and review invoices from vendors for processing of Payments
+content	experience	· Conform with vendors the receipt of payments (Check, Wire, Ach)
+content	experience	· Handles all vendor correspondence via phone or e-mail
+content	experience	· Assists with monthly status reports, and month end closings
+content	experience	· Downloading of Invoices and Statements from the Vendor websites
+content	experience	· Handles Account Current Payments and branch transaction.
+content	experience	· Consistently maintained accuracy in calculating figures and amounts such as discounts, commissions, proportions and percentages.
+content	experience	· Escalation Handling and resolving without any delays
+content	experience	· Ensuring Zero error delivery to client within the TAT as per requirement
+content	experience	· Handling of Production & Quality reports and reporting to Internal & External Management Team on weekly and monthly basis.
+content	experience	· Resolving months of backlogged work, and solved billing problems and corrected invoicing and journal entry errors that had previously been missed.
+content	experience	· Creating Activities for unmatched lines and following the same regularly.
+header	education	Education
+content	education	bachelor of commerce(b.com)
+content	education	Bangalore university-bel first grade college
+content	education	· Aggregate-64%
+header	knowledge	Personal qualities:
+content	knowledge	· Worked effectively with team members to understand & co-ordinate their requirements to a feasible and a workable solution.
+content	knowledge	· Excellent communication skills in written and verbal both
+content	knowledge	· Passion for initiating and facilitating continuous growth
+header	knowledge	Additional Skills
+content	knowledge	· Well versed in use of MS office (MS word, MS Excel, MS Power point)
+header	others	Awards and Honors
+content	others	· Quality certified Member in the company (2015-2016)
+content	others	· Won spotlight and other Award for Best Performance in the Team.
+content	others	· Worked on Kaizen Projects to improve productivity and quality of the process
+header	others	Personal information
+meta	others	· Father name: Muniswamy C
+meta	knowledge	· Language known: English, Kannada, Hindi
+meta	others	· Date of Birth: 13th April 1994
+meta	others	· Marital status: Single
+meta	others	· Permanent Address: #1367, Ward no-3, Ganapathi nagara
+meta	others	Chikkabanvara, Bangalore-560090
+meta	others	Declaration: I hereby declare that the written particulars are true of my knowledge and belief.
+meta	others	Place: Bangalore Yours Sincerely
+header	others	Date:
+meta	others	(Madhu Kumar M)

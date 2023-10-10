@@ -1,0 +1,49 @@
+meta	others	MANIMARAN.M
+meta	others	132, MAINROAD,
+meta	others	JAYANKONDAN, GINGEE T.K,
+meta	others	VILLUPURAM DIST - 604202
+meta	others	MOBILE NO: +919600705604
+meta	others	E-MAIL ID: manisharma305@gmail.com
+header	others	OBJECTIVE:
+meta	others	Seeking an entry level in a reputed company, by utilizing my skills and proficiency
+content	others	to uplift the organization and self development.
+header	education	EDUCATIONAL QUALIFICATION:
+header	education	COURSE INSTITUTION PERCENTAGE YEAR
+content	education	BCA TMG College of Arts & Science 68% 2015
+content	education	H.S.C ST.Michel Higher Secondary School 60.5% 2012
+content	education	S.S.L.C ST.Michel Higher Secondary School 76.4% 2010
+header	experience	WORK EXPERIENCE:
+content	experience	 Company : Williams Lea India Pvt Ltd.
+content	experience	 Location : Tharamani, Chennai
+content	experience	 Designation : Document Specialist
+content	experience	 Experience : 2 Years (May-2016 to Till Now)
+header	experience	JOB DESCRIPTION:
+content	experience	 Extensively involved in various projects for one of the Leading Investment
+content	experience	Bank in UK, US and HK Creating, Editing, Formatting & Quality checking
+content	experience	as per the client style Sound Knowledge in – Charts, Maps etc.
+content	experience	 Adhering to estimates and deadlines for completion of jobs
+content	experience	 Continue to develop speed and accuracy for producing documents
+content	experience	mailto:manisharma305@gmail.com
+header	knowledge	TECHNICAL SKILLS
+content	knowledge	 Operating System : Windows 7, 8, 8.1
+content	knowledge	 Multimedia : Adobe Photoshop, Illustrator, InDesign CS5, CS6, CC
+content	knowledge	 Packages : Ms-Office Word, Excel, PowerPoint
+header	knowledge	STRENGTH:
+content	knowledge	 Positive Thinking
+content	knowledge	 Commitment to work. Time management
+content	knowledge	 Self-Confident
+content	knowledge	 Motivating Others
+header	others	PERSONAL DETAILS:
+meta	others	Name : MANIMARAN.M
+meta	others	Father Name : MAHADEVAN.K
+meta	others	Date of Birth : 12-Feb-1995
+meta	others	Gender : Male
+meta	others	Marital Status : Single
+meta	others	Nationality : Indian
+meta	others	Religion : Hindu
+meta	knowledge	Languages : Tamil & English
+meta	others	DECLARATION:
+meta	others	I hereby declare that all above information is true and correct to the best of my
+meta	others	knowledge.
+meta	others	Place: Chennai
+meta	others	Date : (Signature)

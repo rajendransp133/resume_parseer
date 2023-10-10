@@ -1,0 +1,69 @@
+meta	others	Prashant Rastogi
+meta	others	Kanchan R
+header	others	Career Objective:
+content	others	To join an organization of repute, where I can work towards the accomplishment of
+content	others	organizational &personal goals and objectives by utilizing my rich experience of Campus
+content	others	Recruitment & Corporate Networking.
+header	experience	Profile Summary:
+content	experience	A Literature Professional with 4 years of experience in Campus Recruitment & Corporate Relations.
+header	experience	Experience Summary:
+content	experience	Jaipuria Institute of Management, Noida (22 Sep-08 to date)
+content	experience	www.jimnoida.ac.in
+content	experience	About the Organization: Established in 2004 , Jaipuria Institute of Management, Noida, offers three AICTE approved two year full time Programme ( PGDM equivalent to MBA), PGDM – Services and PGDM – Marketing.
+content	experience	Designation: Sr. Executive-Corporate Resource Cell (April-10 to date)
+content	experience	Designation: Executive-Corporate Resource Cell (Sep-08 to March-10)
+header	experience	Roles & Responsibilities:
+content	experience	Placement assistance of around 240 students.
+content	experience	Assistance of summer internship of around 240 students.
+content	experience	Arranging for MDP, Seminars, Guest Lectures.
+content	experience	Arranging for industrial visits of students.
+content	experience	Visiting companies for placement talks.
+content	experience	Maintaining corporate database, Follow ups.
+content	experience	Act as Campus coordinator of various technical and management institutions, interested in conducting campus drive at their college.
+content	experience	Building relations with HR managers of the companies, on behalf of colleges and maintain and strengthening those relations.
+content	experience	Placing proposals of the colleges with them, furnishing them the required details like student’s data, last placement records, and salaries expected, etc.
+content	experience	Confirming their manpower requirements, their recruitment process, and any terms & conditions for the short listed students.
+content	experience	Coordinating with HR’s and the colleges, for the dates, etc. of the campus drive.
+content	experience	Taking care of complete logistic and administration activities.
+content	experience	Lining up the appropriate candidates for interviews, and taking the process to the end.
+content	experience	Interacting with students including direct and indirect interaction providing them full information about their queries and dealing with their problems and complaints.
+content	experience	Coordinating with staff, students and management.
+content	experience	Effectively handle responsibilities of team performance and escalations.
+content	experience	Establish processes to improve functional effectiveness and team motivation.
+content	experience	BLS Institute of Management, Ghaziabad (June-07 to July-08) (13 months)
+content	experience	www.blsim.org
+content	experience	About the Organization: BLS is a pioneer management school which set up in the year 1997. Since then the institute has been imparting quality education in the field of Management and Information Technology. BLS is approved by AICTE since 1997.
+content	experience	Designation: Executive-Corporate Relations
+header	experience	Roles & Responsibilities:
+content	experience	Placement assistance of around 240 students.
+content	experience	Assistance of summer internship of around 200 students.
+content	experience	Arranging for MDP, Seminars, Guest Lectures.
+content	experience	Arranging for industrial visits of students. Visiting companies for placement talks.
+content	experience	Maintaining corporate database.
+content	experience	Follow ups.
+header	education	Educational Qualification:
+content	education	M.A (English Literature) from Jai Narayan Vyas University, Jodhpur 2006.
+content	education	B.C.A from MCRP University Bhopal 2003.
+content	education	12th CBSE Board 2000.
+content	education	10th CBSE Board 1998.
+content	education	Team/People Management/Managerial Skills:
+header	knowledge	Good Communication skills.
+content	knowledge	Good Interpersonal skills and qualities of Head and Heart.
+content	knowledge	Good Analytical, Logical and Convincing abilities.
+content	knowledge	Good Organizing and Management Skills.
+content	knowledge	Understand the importance of Team work in achieving Team’s objectives.
+content	knowledge	Understand the importance of cooperation, coordination and equality among the team.
+content	knowledge	Understand that hierarchy in a team is to facilitate the smooth functioning of the team and should not become an impediment in the achievement of objectives of the team.
+content	knowledge	Ability to keep people together and motivated through Appreciation and Recognition.
+header	others	Personal Details:
+meta	others	Date of Birth: 10-April-1981
+meta	others	Marital Status: Married
+meta	knowledge	Languages Known: English and Hindi
+meta	others	Present Address: B-103, 2nd floor, Parsavnath Paradise, Mohan Nagar, Ghaziabad.
+meta	others	Email-ID: kanchu.1981@gmail.com
+meta	others	Contact Number: 9350564159
+meta	others	References available on request.
+meta	others	I hereby declare that the above mentioned information is true to the best of my knowledge and
+meta	others	belief.
+meta	others	Date:………………
+meta	others	Place:……………. (Kanchan R)

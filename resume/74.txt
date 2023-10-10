@@ -1,0 +1,54 @@
+header	others	CURRICULUM VITAE
+header	others	CURRICULUM VITAE
+meta	others	(Deepak Kumar Singhaniya)
+meta	others	E-mail:- deepaksinghania1994@gmail.com Mob. +917905618987
+header	others	Carrier Objective:
+meta	others	To work with an organization that provides me enough opportunity to learn face challenges so that I can enhance, sharpen and thus utilize my skill and knowledge in the best pursuit of the organization through sincerity and diligence.
+header	education	Academic Qualification:
+content	education	· B. com from M.G.K.V.P.University Varanasi in 2017.
+content	education	· Intermediate from U.P. Board in 2014.
+content	education	· High school from U.P. Board in 2010.
+header	knowledge	Key Skills:
+header	knowledge	Team work.
+content	knowledge	· Good customer service.
+content	knowledge	· Meeting deadlines and time management.
+content	knowledge	· Business awareness and enterprise skills.
+content	knowledge	· Accepting responsibility.
+content	knowledge	· Leadership.
+content	knowledge	· Communication and people skills.
+content	knowledge	· Using initiative.
+header	experience	Experience – Current Organization:
+content	experience	· Working with Reliance Jio Infocomm Ltd. as JC (FSS) from Dec. 2016 to till date. Location at Sonebhadra. U.P.
+header	experience	Narrative Job Profile:
+content	experience	· Handling entire banking
+content	experience	· Stock Audit in JIO store
+content	experience	· Handling payment of site Electricity & as well as for office.
+content	experience	· Cash Collection.
+content	experience	· Documents Verification of all Channel partners
+content	experience	· Day to day cash reconciliation for store
+content	experience	· Team handling
+content	experience	· Working in online software (SAP)
+header	experience	PRIVIOUS EXPERIENCE:
+content	experience	· Worked as a sale representative on M/S V G Enterprises,anpara handling FMCG products of ITC And Cadbury from 2015 March to Dec-2016
+content	experience	Behavioral outlook & Strengths:
+content	experience	· I am hardworking, quick learner, and always committed and sincere at work.
+content	experience	· I am confident that I will prove to be an asset to any organization that will invest in me.
+header	others	Personal Details:
+meta	others	Gender
+meta	others	: Male
+meta	others	Date of Birth : 14 Dec.1994
+header	others	Father name
+meta	others	: Mr. Mahaveer Singhaniya
+header	others	Nationality
+meta	others	: Indian
+header	others	Marital Status
+meta	others	: Single
+header	knowledge	Languages
+meta	knowledge	: Hindi, English
+meta	others	Permanent Add : Anpara Market Near Sonari Gali Anpara Sonbhadra 231225
+header	others	DECLARATION
+meta	others	I hereby declare that all the above-mentioned information is true to best of my knowledge.
+header	others	Date:
+header	others	Place:
+meta	others	Deepak Kumar Singhaniya
+meta	others	2/3

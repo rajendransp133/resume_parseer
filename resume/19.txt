@@ -1,0 +1,85 @@
+meta	others	Indeed Resume
+meta	others	Vijaykrishnan.G
+meta	others	Senior Accountant
+meta	others	vijay_liv4ever@yahoo.com
+meta	others	+91-97107-233-15
+meta	others	SUMMARY OF QUALIFICATIONS: Proven experience in a broad range of accounting/financial activities covering many financial areas such as Accounts Payable, US Payroll and Talent Acquisition. Performed all daily, monthly, and annual accounting functions while collaborating with colleagues, contractors, and vendors to guarantee the timely completion of various projects.
+header	experience	KEY STRENGTHS:
+content	experience	· Financial and Accounting Reports
+content	experience	· Bank Reconciliations
+content	experience	· Monthly/Quarterly Analysis
+content	experience	· Reporting Schedules
+content	experience	· Problem Resolution
+content	experience	· Automations
+header	experience	WORK EXPERIENCE
+content	experience	Senior Accountant (US Payroll)
+content	experience	BlueAlly Infotech India Pvt. Ltd. – Sept 2015 to Present
+content	experience	Tool Used – Quickbooks, Taleo, sPro
+content	experience	· Started with Invoicing the timesheet we receive from contractors (Weekly)
+content	experience	· Expenses Reimbursement (Biweekly)
+content	experience	· Commission Statement (Monthly)
+content	experience	· Cost side creation for the vendor (Weekly)
+content	experience	· Entering worked hours of contractors to QB (Weekly)
+content	experience	· Bank Reconciliation (2 Banks and 4 Accounts) (Monthly)
+content	experience	· Handling team across Talent Acquisition and Payroll
+content	experience	· Monthly reporting on Recruiting, Onboarding, WO consumption
+content	experience	· Weekly Reporting on Requisitions & Submittals
+content	experience	· Getting missed timesheets from the vendors
+content	experience	· Sending Payment remittances to Vendors (Automation)
+content	experience	· Reporting to the Finance Controller & TA Manager
+content	experience	· Document procedures
+content	experience	· Onboarding and training for new employees
+content	experience	Vijaykrishnan.G
+content	experience	vjiay_liv4ever@yahoo.com
+content	experience	+91-97107-233-15
+content	experience	Senior Process Associate (Accounts Payable)
+content	experience	Capgemini India Business Services - Jan 2015 to Aug 2015
+content	experience	Tool Used – SAP FICO (End User)
+content	experience	· Responsible in handling Electronic Data Interface (EDI) invoices.
+content	experience	· Idoc processing based on the segment code.
+content	experience	· ERS-Evaluated Receipt Statement for vendors.
+content	experience	· Creating scripts for daily activity with record & playback option in SAP.
+content	experience	· Worked on US and Canada regions.
+content	experience	· Learned Vendor Master data process for Creating and editing the details.
+content	experience	· Learned and worked to pull out entire PO data for making the process simple.
+content	experience	Process Associate (Accounts Payable)
+content	experience	Capgemini India Business Services - Jan 2013 to December 2014
+content	experience	Tool Used – SAP FICO and RSA (Read Soft Application)
+content	experience	· Receive Invoices through RSA, Process and move to SAP Process Document (PD)
+content	experience	· Worked both PO and NON-PO invoices.
+content	experience	· In PD, we must verify for duplicates and post for payment
+content	experience	· Parked and raised query for PO issues.
+content	experience	· Processed around 180+ documents in RSA every day
+content	experience	· Processed around 130+ documents in PD every day
+content	experience	· Worked based on the TAT and SLA
+content	experience	Trainee Associate (Accounts Payable)
+content	experience	Capgemini India Business Services - Jan 2012 to December 2012
+content	experience	Tool Used – SAP ERP
+content	experience	· Started career with invoice processing in SAP.
+content	experience	· Worked on PO and NON-PO invoices.
+content	experience	· Worked for Europe and US regions.
+content	experience	· Processed 120+ Invoices in SAP every day.
+content	experience	· In Early September started working on Queries.
+content	experience	· Conduct meetings and cascading the updates to team.
+header	others	ACHIEVEMENTS
+content	others	· Got hall of the Fame & Spot award for Invoice processing in 2012.
+content	others	· Team award for Yearend closure in 2012
+content	others	· Spot award for March month end closure in 2013
+content	others	· Team of the Year for 2013
+content	others	· Yellow belt for Kaizen projects 2013
+content	others	· Soaring Eagle for the month of Dec’14 with the Score of 4.1out of 5
+content	others	· Created Automation using AHK for sending out remittance to vendors
+content	others	Vijaykrishnan.G
+content	others	vjiay_liv4ever@yahoo.com
+content	others	+91-97107-233-15
+header	knowledge	SKILLS
+content	knowledge	SAP-ERP & FICO, SAP Record and Playback Script, QuickBooks,
+content	knowledge	MS Office (Excel - Intermediate Proficiency) (6+ years) & Auto Hot Key (AHK)
+header	education	EDUCATION
+content	education	· St. Thomas College of Arts and Science – 2008-2011 (B.com)
+content	education	· C.S.I. Ewarts Matriculation school – 2008 (12th Grade)
+content	education	· Velammal Matriculation School — 2006 (10th Grade)
+header	others	DECLARATION:
+meta	others	I hereby declare that all the information given above is true to my knowledge and belief.
+meta	others	Place: Chennai Signature
+header	others	Date:

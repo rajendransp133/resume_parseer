@@ -1,0 +1,80 @@
+meta	others	Sinhgad Technical Education Society’s
+meta	others	Vaibhav M. Suryavanshi
+meta	others	Address – D/3/11, Vrindavan Dham,
+meta	others	Neelam Nagar, Mulund East
+meta	others	Mumbai – 400081.
+meta	others	Contact - 9920178233.
+meta	others	E-mail - vaibhav.suryavanshi@gmail.com
+header	others	Career Objective:
+content	others	To work in an organization as a team which will be profitable for the organization and will enhance my knowledge and skills.Good teamwork and challenge accepting nature is my main way to achieve the success in life.
+header	education	Educational Qualification:
+content	education	Course
+content	education	Institute/College/School
+content	education	University/Board
+content	education	Percentage
+content	education	Year of Passing
+content	education	SAP SD Certification
+content	education	LITHAN GENOVATE SOLUTIONS LTD
+content	education	MUMBAI
+content	education	76%
+content	education	2014
+content	education	PGDBA
+content	education	WELINGKAR INSTITUTE OF RESEARCH & MGMT.
+content	education	MUMBAI
+content	education	60%
+content	education	2011
+content	education	B.COM
+content	education	MUMBAI UNIVERSITY
+content	education	MUMBAI
+content	education	39%
+content	education	2008
+content	education	12th
+content	education	N.G.ACHARYA COLLEGE (CHEMBUR)
+content	education	MUMBAI
+content	education	52%
+content	education	2002
+content	education	10th
+content	education	SHIVAJI VIDYALAYA
+content	education	MUMBAI
+content	education	59%
+content	education	2000
+header	experience	WORK EXPERIENCE
+content	experience	1. Currently working as Senior Executive in Costing and Order Processing Department in The Temple Packaging Pvt. Ltd.(Andheri) from September 2006 to till date
+content	experience	SAP Experience Summary
+content	experience	· Maintain the various master data such as Customer master, Material master, Customer material info records, Listing & Pricing conditions.
+content	experience	· Working with various sales document types, item categories & schedule line.
+content	experience	· Configuration of Item Proposal, Material Determination and Material Listing / Exclusion,
+content	experience	· Check the impact of Incompletion Log in Sales Documents.
+content	experience	· Customization of different Sales Documents in SD – Inquiry, Quotation, Sales Order, Billing and Document Flow in the Sales Process.
+content	experience	· Maintenance of Master Data, Partner Determination Procedure.
+header	experience	Job Profile:
+content	experience	· Handle Costing of Mono-Cartons as per given Artwork and Specification.
+content	experience	· Planning activity and Job order processing (Cartons).
+content	experience	· Make job layouts and Planning as per Inventory stocks.
+content	experience	· Process enquiries received from Customers and provide quotations on specifications given.
+content	experience	· Negotiate upon quotes given to the customer.
+content	experience	· Work as End user in Sales and Distribution (SD Module) of SAP-ERP System.
+content	experience	· Handle Pre-Dispatch activities and Follow-ups with Shop floor.
+content	experience	· Visit customers plant on monthly/ quarterly basis.
+content	experience	2. Worked in Paresh Vora & Associates (C.A.) for the period of April 2004 – September 2006.
+header	experience	JOB PROFILE:
+content	experience	· Handling Various Transaction like Bank Ledger Entries, Voucher entries etc.
+content	experience	· Prepare Bank Reconciliation Statement
+content	experience	· Internal Audit.
+header	knowledge	Other Qualification :
+content	knowledge	· NIIT-SWIFT (MS-OFFICE) Course.
+content	knowledge	· NIIT-CAREER EDGE (Programming C, C++, SQL Server) 6 months.
+content	knowledge	About Me:
+content	knowledge	· Believe in hard work.
+content	knowledge	· Committed to excellence.
+content	knowledge	· Confident.
+content	knowledge	· Disciplined.
+header	others	Personal Details :
+meta	others	Fathers Name MOHAN SURYAVANSHI.
+meta	others	Gender MALE
+meta	others	Marital Status MARRIED
+meta	others	D.O.B 01 March 1985.
+header	knowledge	Language Proficiency ENGLISH , HINDI , MARATHI
+meta	others	Nationality INDIAN.
+meta	others	Name – Vaibhav Suryavanshi.
+meta	others	Place - Mumbai.

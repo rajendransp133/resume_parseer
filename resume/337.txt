@@ -1,0 +1,69 @@
+meta	others	AKSHAY A.PATHROT
+meta	others	Email ID : akshaypathrot@gmail.com
+meta	others	Contact : +919844353940 , +918970220867
+header	others	CAREER OBJECTIVE
+content	others	To work for an organization which provides me the opportunity to improve my skills and knowledge to growth along with the organization objective.
+header	others	PROFILE SUMMARY
+content	others	· A motivated and leadership skills having Bachelors of COMMERCE Degree.
+content	others	· Eager to learn new methodologies and technologies.
+content	others	· Always willing to innovate new ways which will improve the existing working skills.
+header	knowledge	PERSONAL QUALITIES
+content	knowledge	· Highly motivated and eager to learn new things.
+content	knowledge	· Strong motivational and leadership skills.
+content	knowledge	· Ability to produce best result in pressure situation.
+content	knowledge	· Excellent communication skills in written and verbal both.
+content	knowledge	· Ability to work as individual as well as in group.
+content	knowledge	· Good problem solving ability.
+content	knowledge	· Quick learner.
+content	knowledge	· Ability to deal with people diplomatically.
+header	education	ACADEMIA
+content	education	COURSE
+content	education	INSTITUTE
+content	education	YEAR OF PASSING
+content	education	PERCENTAGE %
+content	education	SSLC
+content	education	ST. ANTHONY PUBLI SCHOOL , HUBLI
+content	education	APRIL 2010 - 2011
+content	education	69.12%
+content	education	PUC
+content	education	SHIV CHATRAPATHI COLLEGE , AURANGABAD
+content	education	FEBRUARY 2013 - 2014
+content	education	70.46%
+content	education	BCOM
+content	education	GLOBAL COLLEGE OF COMMERCE , HUBLI
+content	education	JUNE 2016 - 2017
+content	education	65.5% (aggrega
+header	knowledge	COMPUTER SKILLS
+content	knowledge	· Computer basics.
+content	knowledge	· MS Word.
+content	knowledge	· MS Excel.
+content	knowledge	· Tally ERP 9.
+content	knowledge	· Internet Knowledge.
+header	others	EVENTS
+content	others	· GEF JOB SPRINGS – 16
+content	others	We organised JOB SPRING where various companies visited our campus for recruitment / campus selection.
+header	others	ACHIEVEMENTS
+content	others	· Achieved certificate of TALLY ERP – 9 at Vision Computer in the year 2013 – 14.
+content	others	· Achieved runner up in Table Tennis in annual sports conducted at college for year 2015 – 16.
+header	others	EXTRA CURRICULAR ACTIVITIES
+content	others	· Reading books.
+content	others	· Workout at Gym.
+header	experience	WORK EXPERIENCE
+content	experience	· Working for HDFC sales since 6 months as Relationship Officer( joined on Sep 12th – 2017 )
+meta	others	________________________________________________________________________
+content	experience	INTRESTED FIELD OF WORKING
+content	experience	· Managements department where im good at.
+content	experience	· Accounts Department
+meta	others	________________________________________________________________________
+header	others	PERSONAL DETAILS
+meta	others	· FATHER NAME : Anand B.Pathrot
+meta	others	· MOTHER NAME : Vanishri A.Pathrot
+meta	others	· Date of Birth : 15/03/1995
+meta	knowledge	· LANGUAGE KNOW: English , Kannada , Hindi , Marathi
+meta	others	· PERMANENT ADDRESS : H.no 141 , Shivanand nagar , Navanagar , Gamanagatti road ,
+meta	others	Hubli , Dharwad - 580025
+meta	others	· AVALABLE GOVT. DOC: AADHAR – 8452 6655 8553
+meta	others	DRIVING LICENCE – KA25 20150012766
+meta	others	DECLARATION
+meta	others	I hereby declare that the above furnished details are true to the best of my knowledge
+meta	others	AKSHAY PATHROT

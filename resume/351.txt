@@ -1,0 +1,137 @@
+meta	others	Resume 2.docx.pages
+meta	others	Vashisth Seth
+meta	others	Senior Specialist(Network Security)
+meta	others	Email:-seth_2203@yahoo.com
+meta	others	Contact Nos:-(+91)-9559190641
+header	experience	EXPERIENCE SUMMARY
+content	experience	HCL Technologies Pvt Ltd
+content	experience	Role: Senior Specialist
+content	experience	6th Feb 2017 – Present
+header	experience	Responsibilities:
+content	experience	- Managing the network security devices of a reputed global client
+content	experience	- Managing Checkpoint Firewall
+content	experience	- Managing Cisco Iron Port and Cisco ScanSafe Proxy.
+content	experience	- Managing Cisco ACS
+content	experience	- Managing HP Arc sight SIEM tool
+content	experience	- Managing Skybox and Damballa
+content	experience	- Resolving P1 and daily incidents, service tasks which comes from client end
+content	experience	Wipro Infotech (Payroll Company - Thinkapps Solutions)
+content	experience	Role: Sr. Network & Security Administrator
+content	experience	1st Aug 2016 – 31st Jan 2017
+header	experience	Responsibilities:
+content	experience	- Managing the complete network infrastructure at client location.
+content	experience	- Managing Fortigate Firewall of 25 Locations Offices (60C, 60D, 100D and 600C series)
+content	experience	- Managing Forti-Analyzer (FAZVM64) for generating reports and presenting to the
+content	experience	management.
+content	experience	- Managing Fortigate Firewall Manager
+content	experience	- Managing Cisco WLC Controller (AIR-WLC4402-25-K9 model)
+content	experience	- Coordinating with multiple ISP’s on day-to-day basis for managing 55 MPLS links and 25
+content	experience	internet links of Head Office, Location Office, Ware House and Factory.
+content	experience	- Managing L2 & L3 Cisco Switches
+content	experience	- Managing Cisco Access Points (1700 series)
+header	others	PROFESSIONAL DETAILS
+content	experience	TOTAL EXPERIENCE 5.4 years
+content	experience	RELEVANT EXPERIENCE 5.4 years
+header	education	QUALIFICATIONS (Education
+content	education	Background)
+content	education	Bachelor of Technology (B.Tech).
+content	experience	NO. OF PROJECTS 2
+content	experience	- Monitoring of Network using Wireshark, SolarWind and Cisco Prime.
+content	experience	- Managing Checkpoint Firewall
+content	experience	Tata Consultancy Services (Payroll Company - Teamware Solutions)
+content	experience	Role: Network Security Administrator
+content	experience	24thNov 2015 – 31st July 2016
+header	experience	Responsibilities:
+content	experience	- Managing the complete network infrastructure at the manufacturing and production
+content	experience	plant at client location.
+content	experience	- Coordinating with multiple ISP’s on day to day basis.
+content	experience	- Resolving the network related issues of over client employees on daily basis.
+content	experience	- Managing routers, managed switches and Fortigate Firewall 100 d.
+content	experience	- Analyzing and maintaining admin and system events reports, application and risk
+content	experience	analysis report, attack report, bandwidth and applications report, email report,
+content	experience	internet usage report, security analysis, threat report, user report, user security
+content	experience	analysis using Fortigate analyzer.
+content	experience	- Assisting and troubleshooting network related issue of customers on daily basis.
+content	experience	- Managing D-link switches DGS-1210-28, DGS-3100-24TG, and DES-3226.
+content	experience	- Managing Cisco Switches 4500-E series, 3850, 2960.
+content	experience	- Managing Checkpoint Firewall.
+content	experience	- Managing all the access-points and performing mac-binding process on DHCP.
+content	experience	- Initiating video conferencing process on day-to-day basis for top managements,
+content	experience	managing video conferencing Polycom VSX 5000 and Tandberg complete infrastructure.
+content	experience	- Coordination with multiple ISP’s on regular basis.
+content	experience	- Managing Dlink, Cisco Aruba and Unifi access points.
+content	experience	- Network inventory management.
+content	experience	- Managing network infrastructure of 15 sub-sites inside client production plant.
+content	experience	- Monitoring of network switches using Cisco Prime.
+content	experience	- Following the ITIL Process.
+content	experience	Catalyst Business Solutions
+content	experience	Role: Network Analyst
+content	experience	5th Jan 2015 –20th Nov 2015
+header	experience	Responsibilities:
+content	experience	- Configuring and maintain Cisco switches/Routers/Cisco ASA firewalls/Sonic Wall
+content	experience	firewalls for Catalyst datacenter. Complete Datacenter management building
+content	experience	redundancies across the center to provide uptime of 99.999% to all respective clients.
+content	experience	- Working in the NOC environment. Monitoring and troubleshooting network related
+content	experience	activities on day to day basis.
+content	experience	- Configure & maintain all the L2/L3 switches and Cisco Routers (Cisco 3560g, 3750g,
+content	experience	4509), D Link switches (DGS 3426, DGS 3450, DGS 3627) Cisco Routers (1841, 3725,
+content	experience	3825) , Firewalls Cisco (5510,5520) Sonic wall (TZ 210,TZ200)and implementing
+content	experience	VLANS, creating redundancy across sites.
+content	experience	- Developed and Documented network diagrams and procedures.
+content	experience	- Protocols used: BGP, OSPF, EIGRP, RIP
+content	experience	- IOS upgrade and router hardening for 2600, 3600, 3800 routers and 2900, 3500 and
+content	experience	6500 series switches.
+content	experience	- Maintain all the logs of all devices across sites.
+content	experience	- Creating blue prints for networks across sites.
+content	experience	- Routers Switches Firewall maintenance, related to all the activities including taking
+content	experience	backup, and optimization of all devices.
+content	experience	- Vendor Management. Interaction with multiple ISP’s on regular basis.
+content	experience	- Following the ITIL Process.
+content	experience	- Network Monitoring using Zabbix.
+content	experience	Data Soft Technologies
+content	experience	Role: Network Engineer
+content	experience	June 2012-December 2014
+header	experience	Responsabilités:
+content	experience	- Install, configure, and maintain network services, equipment and devices.
+content	experience	- Supports administration of servers and server clusters.
+content	experience	- Plans and supports network and computing infrastructure.
+content	experience	- Documents network problems and resolution for future reference.
+content	experience	- Manage user accounts, permissions, passwords, email, anti-virus, anti-spam.
+content	experience	- Oversee software and network security.
+content	experience	- Monitoring network usage;
+content	experience	- Suggesting and providing IT solutions to business and management problems;
+content	experience	- Ensuring that all IT equipment complies with industry standards;
+content	experience	- Managing all network equipment’s such as router, switches and firewalls.
+header	project	PROJECTS SUMMARY
+content	experience	PROJECT – Catalyst Data Center
+content	experience	Client: Co cubes, Value first, Webaroo, HBG, Tri-Star, Min of Finance
+content	experience	Guinea
+content	experience	Company Profile: IT Network
+content	experience	Project Title: Catalyst Tier 3++ High Density, Energy Efficient, GREEN DataCenter
+content	experience	Scope of the Project: Network monitoring using Zabbix tool, documentation, hosting,
+content	experience	server monitoring, data management including backup.
+content	experience	Project Duration 10 months
+content	experience	PROJECT – Dcm Shriram Network Infrastructure Implementation
+header	education	EDUCATIONAL BACKGROUND
+content	education	• 2007 – 2011,B.Tech ,1ST DIV (64 %) from BBS College (UPTU Board)
+content	education	• 2005 – 2006,Intermediate in PCM,1st DIV(72.60%) from St. Joseph’s College(I.S.C
+content	education	Board)
+content	education	• 2003 – 2004,High School,1st DIV(63.50%) from St. Joseph’s College(I.C.S.C Board)
+content	education	PERSONAL DETAILS
+header	project	Project Led By Mr. Rohit Rajan
+content	experience	Team size: 10
+content	experience	Company Profile: Production and Manufacturing Plant spread in 6kms
+content	experience	Project Title: Network Infrastructure Implementation of entire production
+content	experience	plant
+content	experience	Scope of the Project: Implementing Cisco Switches 2900 series,4500 Series,3500 series
+content	experience	(Distribution and Access Switches), Laying of Optical Fibre
+content	experience	cables in entire plant spread in 6kms, Designing of network as
+content	experience	per client needs in redundant topology.
+content	experience	Project Duration 6 months
+content	experience	Project Led By Mr. Vashisth Seth
+content	experience	Team size: 8
+meta	others	Age 28 years
+meta	others	GENDER Male
+meta	others	NATIONALITY Indian
+content	knowledge	LANGUAGES English, Hindi
+meta	others	MARITAL STATUS Single

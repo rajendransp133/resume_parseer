@@ -1,0 +1,62 @@
+header	others	CURRICULUM VITAE
+meta	others	Azeem khan.M
+meta	others	No 116, Sampige Halli Village Ward No 5 ,
+meta	others	Yelahanka hobli Bangalore :560064
+meta	others	E-Mail: azeemkhn40@gmail.com Mobile No: +91 9663956046
+header	others	Vision
+content	others	Believe in individual performance & team work. Contributing to the growth of organization by being part of stimulating work environment which encourages learning and innovations.
+header	others	Career Objective
+content	others	To utilize my skills and abilities to the full extent in order to achieve desired goals.
+content	others	I aspire a position in an organization where my personal skills and abilities will be challenged to achieve results through leadership and team management.
+header	education	Education Qualification
+header	experience	Experience:
+content	experience	· Working with First Advantage as Operational Analyst from May 2015*
+header	experience	Roles and responsibilities:
+content	experience	· Helping candidates in scheduling Drug screens and fingerprints
+content	experience	· Scheduling Physicals and Immunization
+content	experience	· Making outbound calls to check if the candidates have completed their schedule drug screen/fingerprints
+content	experience	· Working on Collection verification and NMP/LLE reports
+content	experience	· Working with the collection sites and local law enforcements to endure smooth process of collection.
+content	experience	· Worked with Aegis as S.CSR for Time Magazine from October 2013 to March 2015
+content	experience	(One and Half year).
+header	experience	Roles and responsibilities:
+content	experience	· Functioned as the SPOC SME on floor.
+content	experience	· Conduct daily team meetings
+content	experience	· Train new team members.
+content	experience	· Manage and monitor staff attendance.
+content	experience	· Prepare monthly team schedules.
+content	experience	· Conduct team activities to increase team moral.
+content	experience	· Successfully managed couple of team during OJT.
+header	experience	Highlights:
+content	experience	· Named as Best Agent for the quarter.
+content	experience	· Identified as Quality CSR in the process.
+content	experience	· Awarded for excellence CSAT achieved.
+content	experience	· Worked with Amvensys Technologies as S.CSR for Energy & TELECOMMUNICATION Team from April 2009 to January 2011 (One year and 9 months).
+header	experience	Roles and responsibilities:
+content	experience	· Handled calls made by customer in the US regarding electricity services.
+content	experience	· Explaining their bills & benefits of different accounts e.g Normal meter & Digital meter.
+content	experience	· Facilitating high quality service to ensure optimum customer satisfaction.
+header	knowledge	Computer knowledge
+content	knowledge	· MS office
+content	knowledge	· Basic Excel
+content	knowledge	· Mail management tools like MS Outlook
+content	knowledge	· Basic Access data base
+header	others	Personal Information
+meta	others	Date of Birth : 16th November 1991
+meta	others	Nationality : Indian
+meta	others	Father name : Mahaboob Khan
+meta	others	Gender : Male
+meta	others	Marital Status : Single
+meta	others	Languages Known : English, Hindi, and Kannada
+meta	others	Hobbies : Swimming & MMA
+header	others	Declaration:
+meta	others	The aforementioned information is true and correct to the best of my knowledge.
+meta	others	Place: Bangalore
+meta	others	(Azeem Khan)
+meta	others	QUALIFICATIONINSTITUTION
+meta	others	B.com
+meta	others	KARNATAKA OPEN UNIVERSITY (Mysore University)
+meta	others	Secondary
+meta	others	NATIONAL BOARD OF OPEN SCHOOL
+meta	others	SSLC
+meta	others	BOARD OF SECONDARY SCHOOL EDUCATION KARNATAKA

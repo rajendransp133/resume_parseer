@@ -1,0 +1,88 @@
+meta	others	SUNIL GUPTA.A
+meta	others	Email: asunilgupta1@gmail.com
+meta	others	Mobile: +91 9912366548
+header	experience	SUMMARY:
+content	experience	A Financial services professional with 4+ year experience in Accounts. Exposed to various works. I have good knowledge in configuration, implementation, ASAP methodology and validation etc..,
+header	knowledge	SAP FI/CO SKILLS:
+content	knowledge	FI-GL: Configuring and Customizing of Enterprise structure, Financial Accounting global setting, General Ledger Accounting.
+content	knowledge	✓ Accounts Payable: Configuring and Customizing customer A/c group, vendor master data, Automatic Payment Program, house bank customization and check management.
+content	knowledge	✓ Accounts Receivable: Configuring and Customizing customer A/C group, Customer master data, Configuring Dunning areas and dunning procedure
+content	knowledge	.
+content	knowledge	✓ Assets Accounting: Configuring and Customizing of Assets, Maintaining of Asset master data, Acquisitions, Retirements, Transfers, Revaluation of Assets and Depreciation Run.
+content	knowledge	.
+content	knowledge	✓ Knowledge on new GL Account.
+header	education	CERTIFICATION:
+content	education	SAP (FICO) at Chennai
+header	knowledge	TECHNICAL SKILLS:
+content	knowledge	ERP Package : SAP R/3 – ECC6.0
+content	knowledge	Packages : MS Office, Tally ERP 9.0
+header	education	ACADEMIC QUALIFICATION:
+content	education	B.Com (C.S) from D.G.VAISHNAV COLLEGE, Chennai, Tamilnadu.
+header	experience	PROFESSIONAL EXPERIENCE:
+header	experience	Key Skill Summary
+content	experience	· Around 4+ years of good experience in the field of Accounts.
+content	experience	· Ledger maintaining and data entering in Tally ERP 9
+content	experience	· Maintaining Petty cash.
+content	knowledge	· Knowledge on Audit Reconciliation and filling audit report.
+content	experience	· Experience on preparing Trading A/c, Profit & Loss A/c, and Balance Sheet.
+content	experience	· Experience in rising invoices against sales.
+content	experience	· Maintain all Accounting voucher entry.
+content	experience	· Maintain day to day books of Accounts in Tally
+content	experience	Accountant Cum Admin In-charge
+content	experience	Company : Merrific Technologies Pvt Ltd
+content	experience	Position : Accountant Cum Admin In-Charge
+content	experience	Duration : from September.2017 to August.2019
+header	experience	Activities:
+content	experience	· Maintain day to day books of Accounts in Tally.
+content	experience	· Maintain all Accounting voucher entry.
+content	experience	· Maintain Journal Entry Sale, Purchase & Exp Invoice
+content	experience	· Tally data entry and ledger maintaining.
+content	experience	· Performed a wide range of data entry, including expenses and sale.
+content	experience	· Maintained accurate and complete documentation.
+content	experience	· Monitored the status of accounts receivable and payable to facilitate efficient processing.
+content	experience	· Collected and reported monthly expense variances and explanations.
+content	experience	· Followed up with customers to collect Information and verify details.
+content	experience	· Accessed credit records to evaluate customer histories.
+content	experience	· Preparing bills and Invoices for sales.
+content	experience	· Payment Follow ups with clients.
+content	experience	· Submitting reports to auditor office.
+content	experience	· Administration control.
+content	experience	· Maintaining Access control software.
+content	experience	· Maintaining Petty Cash.
+content	experience	QUALITY CHECK
+content	experience	COMPANY : COMPUTER AGE MANAGEMENT SERVICE PVT.LTD.
+content	experience	POSTION : PROCESSING OFFICER
+content	experience	DURATION : FROM OCTOBER 2016 TO AUGUST 2017
+header	experience	Activities:
+content	experience	DAILY, WEEKLY, MONTHLY ACTIVITIES OF COMPLIANCES
+content	experience	· EOD (3 PM & 06 PM) & related queries,
+content	experience	· TIME STAMP OF DOCUMENT,
+content	experience	· PURCHASE, SWITCH & REDEMPTION TRANSACTIONS
+content	experience	JUNIOR ACCOUNTANT
+content	experience	COMPANY : SP SOLAR
+content	experience	POSTION : JUNIOR ACCOUNTANT
+content	experience	DURATION : FROM JUNE 2014 TO MAY2016
+content	experience	· Preparing bills and Invoices for sales and Purchase
+content	experience	· Payment Follow ups with clients.
+content	experience	· Maintain Journal Entry Sale, Purchase & Exp Invoice
+content	experience	· Submitting reports to auditor office.
+content	experience	· Tally data entry
+header	knowledge	STRENGTH:
+content	knowledge	· High energy levels ‘with never say die’ attitude.
+content	knowledge	· Ability to work in group
+content	knowledge	· Strong interpersonal skills & good in public dealing.
+content	knowledge	· Target achievement.
+header	knowledge	LINGUISTIC PROFICIENCY: English, Tamil and Telugu
+header	others	PERSONAL PROFILE
+meta	others	Name : SUNIL GUPTA.A
+meta	others	Date of Birth : 24-12-1992
+meta	others	Nationality : Indian
+meta	others	Address : Vasishta Home Apartment,
+meta	others	Balaji Nagar,
+meta	others	Nellore - 524002
+meta	others	Andhra Pradesh, India
+header	others	Declaration:
+meta	others	I hereby declare that the information furnished above is true to the best of my knowledge
+meta	others	PLACE: Chennai
+header	others	DATE :
+meta	others	SUNIL GUPTA.A

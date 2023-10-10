@@ -1,0 +1,55 @@
+meta	others	CURRICULUM VITAE
+meta	others	CURRICULUM VITAE
+meta	others	SUDIPTA SARKAR
+meta	others	Phone : +91-9051951113
+meta	others	+91-9748133497
+header	others	CAREER OBJECTIVE :-
+content	others	I would be more than eager to shoulder responsibilities, which would broaden my knowledge and scope for future development. I am able to work on own initiative or as a part of a team and can deal with administrative duties competently. To take up any sort of challenging job commensurate with my ability and knowledge to perform it successfully.
+header	knowledge	PROFESSIONAL QUALFICATION :-
+header	knowledge	Microsoft Office2000, Ms-dos, Excel, Power-Point, Windows-98, Internet Usage.
+header	knowledge	LANGUAGE PROFIENCY :-
+content	knowledge	MOTHER LANGUAGE : BENGALI (READ,WRITE,SPEAK)
+content	knowledge	OTHER LANGUAGES : HINDI (READ,WRITE,SPEAK)
+content	knowledge	: ENGLISH (READ,WRITE,SPEAK)
+header	education	EDUCATIONAL QUALIFICATION :-
+content	education	NAME OF THE EXAMINATION PASSED
+content	education	YEAR OF THE PASSING
+content	education	BOARD / UNIRVERSITY
+content	education	% OF MARKS
+content	education	MADHYAMIK
+content	education	2003
+content	experience	W.B.B.S.E
+content	education	64.375
+content	education	HIGHER SECONDARY
+content	education	2005
+content	education	W.B.C.H.S.E.
+content	education	56
+content	education	B.COM.(H)
+content	education	2008
+content	education	CALCUTTA UNIRVERSITY
+content	education	50
+header	experience	EMPLOYMENT EXPECTATION :-
+content	experience	NATURE OF JOB : Permanent job under company’s direct payroll.
+content	experience	EXPECTED SALARY: As per industry standard.
+header	experience	JOB EXPERIENCE :-
+content	experience	Worked as a CSA (Customer Care Executive) at Firstsource Solutions Ltd.for Vodafone process
+content	experience	since 3rd July 2008 to 16th February 2011(31 month).
+header	others	PERSONAL DETAILS :-
+meta	others	NAME : Sudipta Sarkar
+meta	others	D.O.B : 18th March, 1988
+meta	others	PHYSICAL CONDITATION : Normal
+meta	others	MARITAL STATUS, SEX : Unmarried Male
+meta	others	RELIGION : Hindu
+meta	others	NATIONALITY : Indian
+content	others	FATHER’S NAME : Mr. Saibal Kumar Sarkar
+meta	others	RESIDENCE ADDRESS : E.S.I.C. Staff Quarter, Flat No.C-31, Block-AF,Baisakhi, Salt Lake,
+meta	others	Sec-I,Kolkata.pin-700 064.
+meta	others	E-MAIL : sarkarsudipta06@yahoo.com
+header	others	DECLARATION :-
+meta	others	I , SUDIPTA SARKAR , hereby declaring that-all the information furnished above are true, correct &
+meta	others	Complete to the best of my knowledge and belief. Photocopies and / or original mark-sheets / certificates.
+content	others	can be submitted on demand.
+meta	others	DATE :
+meta	others	PLACE : Kolkata
+meta	others	[ SIGNATURE ]
+meta	others	SUDIPTA SARKAR

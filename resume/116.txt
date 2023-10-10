@@ -1,0 +1,140 @@
+meta	others	G.VENKATESH Mobile: +91-9963631434
+meta	others	KPHB 3rd Phase, Hyderabad Email : venkateshgvk@yahoo.com
+header	others	Objective
+content	others	To contribute creative technical skills, experience and collaborate with a team that enhances me and the
+content	others	organization’s success
+header	experience	Summary
+content	experience	 2 years 9 months of experience as Software Developer in Design, Analysis, Cross Platform Application
+content	experience	Development, Testing and Deployment of web and client server applications using Microsoft Technologies.
+content	experience	 Excellent Hands-on experience in application development using with ASP.Net.MVC, Web API, Angular JS,
+content	experience	C# as the code-behind language with ADO.NET as the Database Data Consumer.
+content	experience	 Experienced in working with Angular 2, React Native, Redux and Microsoft Azure.
+content	experience	 Extensive experience in SQL Server Database design, Database maintenance, developing T-SQL queries,
+content	experience	stored procedures, and triggers using SQL Server.
+content	experience	 Experience in DOM manipulation and utilizing various plug-ins using jQuery and Java Script.
+content	experience	 Worked with with TFS, SVN, IIS, AJAX, XML and consuming Web Services.
+content	experience	 Good working experience in Ag-Grid, RDLC Reports, Entity Framework, LINQ and Bootstrap.
+content	experience	 Expertise in debugging an application using the debugging tools provided by the Visual Studio.Net IDE
+content	experience	 Exposure to software architecture, Requirements definition, client interface implementation and hosting in
+content	experience	Server.
+content	experience	 Effective in working independently and collaboratively in teams.
+content	experience	 Creative thinker and analytical problem-solver with demonstrated ability to solve project issues under the
+content	experience	pressure of fast-paced, time-sensitive environments.
+content	experience	Company Name Location Duration Role
+content	experience	XAMPR Hyderabad Feb’17 to till date Software Developer
+content	experience	SatNav Technologies Hyderabad Nov’15 to Jan’17 Software Engineer
+header	knowledge	Skill Set
+content	knowledge	Languages C#.Net, VB.net
+content	knowledge	Technologies ASP.Net, ADO.Net, MVC, Angular JS, JavaScript, jQuery, Web API, Web
+content	knowledge	services, Entity Framework, LINQ, React Native, Redux, Angular 2
+content	knowledge	Development/Productivity Tools Microsoft Visual Studio
+content	knowledge	Databases MS SQL Server , Microsoft Azure, Sqlite
+content	knowledge	Source Safe Tools TFS, Tortoise SVN
+content	knowledge	Application Server IIS
+header	education	Academic Profile
+content	education	 Master of Engineering M.E.(ECE) from MVSR Engineering College, Osmania University
+content	education	 B.Tech MallaReddy Engineering Colleg, JNTU Hyderabad.
+header	project	Projects Summary
+content	experience	1. XAMPR
+content	experience	Role Software Developer
+content	experience	Clients ITC
+content	experience	Duration February 2017 – till date
+content	experience	Environment
+content	experience	Software
+content	knowledge	Languages: C#.Net, LINQ
+content	experience	Web Application: MVC 4.0, Web API, Angular 2, JavaScript, jQuery, AJAX
+content	experience	Mobile Application: React Native, Redux
+content	experience	Database: Azure Cloud Storage, SQLite
+content	experience	Responsibilities  Served as Full Stack Developer for the XAMPR product development team.
+content	experience	 Involved in all phases of the project life cycle and Integration of the front-end and
+content	experience	backend aspects of the web and mobile application
+content	experience	 Analysis of requirements and converting raw problem statement into working
+content	experience	software on Mobile and Web in technology stack
+content	experience	BackEnd:
+content	experience	 Extensively used WebAPIs to power the application and building reusable code.
+content	experience	 Worked on TableQueries to query Azure Table Storage for data transaction
+content	experience	 Designed and implemented scenarios of customizable push notifications for Cross
+content	experience	Platform Applications
+content	experience	 Created WorkerRoles for background processing in Azure Cloud Service.
+content	experience	 Implementation of customized workflow requirements on daily basis
+content	experience	 Created system design/implementation and recommended improvements in areas such
+content	experience	as role based control over the UI components in mobile application
+content	experience	Front-End:
+content	experience	 Designed and developed web applications like Admin Portal and Web version of
+content	experience	XAMPR using C#, ASP.Net MVC 4, Angular2, AJAX, Bootstrap, html, CSS with Azure as
+content	experience	backend
+content	experience	 Extensively worked from the scratch on ReactNative for building XAMPR Cross
+content	experience	Platform Mobile App
+content	experience	 Implemented chat functionality for User level and Group Level
+content	experience	 Developed the interactive and reusable UI components for various modules which will
+content	experience	work on IOS and Android
+content	experience	 Consumed SQLite to perform data operations locally in mobile application
+content	experience	 Integrated Redux store with Native Application
+content	experience	 Worked on performing background tasks after receiving the notifications and the
+content	experience	synchronization with server
+content	experience	 Hands on experience with Expo SDK
+content	experience	 Involved in Unit Testing for the builds
+content	experience	 Handled many production issues in effective way
+header	experience	Description:
+content	experience	Xampr is a new age Technology first mobile enterprise platform designed to enable Enterprise
+content	experience	Collaboration on top of Business workflows. Xampr allows seamless integration of transactions by enabling micro
+content	experience	workflow templates and contextual collaboration. Xampr offers as powerful suite of collaboration tools like project
+content	experience	management, community creation, forums, questions, surveys, to-do list and chats built over each workflow and
+content	experience	hence becoming an integral part of the business process. Capturing data from last mile integration, corroborating
+content	experience	into backend, generating insights to make decisions allows for superior user experience helping build company brand
+content	experience	and market place agility.
+content	experience	2. QuickFMS
+content	experience	Role Software Engineer (a-mantra Product Team)
+content	experience	Clients Reliance Capital, Bin-Drai, Oliva Clinic, Capgemini and Yes Bank
+content	experience	Duration November 2015 – January 2017
+content	experience	Environment
+content	experience	Software
+content	knowledge	Languages: C#.Net, VB.net, LINQ
+content	experience	Web Technologies: Asp.net 4.0, JavaScript, jQuery, Angular JS
+content	experience	Database: MS SQL Server
+content	experience	Responsibilities  Involved in development of all modules in QuickFMS
+content	experience	 Developed and Provided support work for various prominent clients like RCAP, Bin-Drai,
+content	experience	and Capgemini.
+content	experience	 Written stored procedures, triggers, Cursors using SQL Server 2008.
+content	experience	 Worked on exporting RDLC Reports to Excel, PDF and Word from Ag-Grid using
+content	experience	Angular JS extensively for various modules
+content	experience	 Worked on customized workflow requirements for the client Yes Bank using Asp.Net
+content	experience	MVC 4.0 and Entity Framework.
+content	experience	 Handled many production issues and enhancement to the existing live portals.
+content	experience	 Developed Web Forms using C# and ASP.NET.
+content	experience	 Extensively used Grid Views sorting and paging and Used AJAX in some web forms.
+content	experience	 Wrote Mail Triggering procedures for sending Emails to clients after any kind of
+content	experience	transaction and Created SQL Server Agent Jobs
+content	experience	 Deployment of Application on Test and Production Server.
+content	experience	 Provided Production Support.
+header	experience	Description:
+content	experience	The scope of facility management software (QuickFMS) is in the range of modules Space, Asset,
+content	experience	Property, Help Desk, Conference Room booking and Employee Service Portal. Maintaining control within
+content	experience	organizational spaces and the employees and assets occupying those spaces can be stored & tracked down. The
+content	experience	team a-mantra also includes a customizable work flow for a new item to be added to the system.
+content	experience	3. Pre-School Admission Management System
+content	experience	Role Software Engineer
+content	experience	Client Sunshine Preschools & DayCare
+content	experience	Duration October 2016 – December 2016
+content	experience	Environment
+content	experience	Software
+content	experience	Languages: C#.Net, VB.Net,ASP.Net
+content	experience	Database: Microsoft SQL Server 2008
+content	experience	O/s: Windows 7
+content	experience	Platform: VS2012
+content	experience	Responsibilities  Worked intensely on the User Interface using ASP.Net, JAVASCRIPT, HTML, CSS
+content	experience	 Analysis of requirement, software design specifications.
+content	experience	 Database design and Stored Procedures using MS SQL Server 2008.
+content	experience	 Integrated SMS/Mail alerts as reminder to the Parents
+header	experience	Description:
+content	experience	Pre-School Admission Management system is the system for making life of Preschool’s office staff easier.
+content	experience	It can search students and staff according to the parameters like Name, Class, and Student Id. Admin can make
+content	experience	student enrollment and Proper fee updates when parent pay the term fee. It has the following in-built features:-
+content	experience	 Role based Authentication & Authorization
+content	experience	 Auto Computations of due amount, annual fee summary, Fee Not Paid, Drop Out Student lists etc are
+content	experience	generated in Reports and facility of Exporting to PDF & Excel.
+content	experience	Objective
+header	experience	Summary
+header	knowledge	Skill Set
+header	education	Academic Profile
+header	project	Projects Summary

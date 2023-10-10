@@ -1,0 +1,67 @@
+meta	others	Rama Anjali.P
+meta	others	Plot # 37, Princess Sarah Hostel,
+meta	others	Seshadhripuram 1st cross street, Baby Nagar, Velachery
+meta	others	Chennai – 600042
+meta	others	Cell # +91-9597210560
+meta	others	E-mail ID:anjalisiims@gmail.com
+header	others	CAREER OBJECTIVE:
+content	others	· To succeed in an environment of growth and excellence and earn a job which provides me job Satisfaction and self-development and help me achieve personal as well as organization goals.
+header	experience	WORK EXPERIENCE:
+content	experience	· Assistant Accountant - 1st October 2016 to till date
+content	experience	· Progressed to Job Level 2A as team member in RTR, Infosys BPO Limited, Chennai.
+content	experience	· Junior Accountant – 17th November 2014 to 30th September 2016
+content	experience	· Worked as Job Level 2B as team member in RTR, Infosys BPO Limited, Chennai.
+content	experience	· Accountant – 11th September 2013 to 10th November 2014 as Accountant in
+content	experience	DIVINE WIND TECHNIK, Udumalpet.
+content	experience	· Involved in Payroll related activities (PF, ESI calculations,
+content	experience	· Invoice preparation, Wind Mill Reading Calculations
+header	experience	ROLES AND RESPONSIBILITES:
+content	experience	· Working on month end activities, SAP Transaction code runs
+header	experience	PERFORMING MONTHLY ACTIVITES SUCH AS:
+content	experience	· Preparing journal entries and posting entries for Bank transactions
+content	experience	· Posting Journal entries from External
+content	experience	· Reconciliation preparation for Bank accounts and GL accounts in Black Line
+content	experience	· In-transit accounts clearing,
+content	experience	· Monthly Accrual Entries, Recurring Entries Setup and postings
+content	experience	· Forex Run
+header	experience	PREPARING REPORTS LIKE:
+content	experience	· ICS documentation, Intermediate accounts monthly repory
+content	experience	· Direct Debit Report, BCS vs SAP
+header	project	PROJECTS INVOLVED:
+content	experience	· DMB -Lean
+header	education	EDUCATIONAL QUALIFICATION:
+content	education	· MBA 2011-2013
+content	education	CGPA of 66
+content	education	Sakthi Institute of Information and Management Studies
+content	education	Anna University, Chennai
+content	education	· B.COM. 2008-2011
+content	education	CGPA of 66
+content	education	Vidyasagar college of Arts and Science
+content	education	Bharathiyar University, Coimbatore
+content	education	· H.S.C. 2007-2008
+content	education	Percentage of 79.4
+content	education	Sri Visalakshi Girls Hr. Sec. School, Udumalpet
+content	education	· S.S.L.C 2006 – 2007
+content	education	Percentage of 65.2
+content	education	Sri Visalakshi Girls Hr. Sec. School, Udumalpet
+header	knowledge	ACCOUNTING SOFTWARES:
+content	knowledge	· SAP R/3
+content	knowledge	· Tally (Basic)
+content	knowledge	· MS Excel,
+header	education	TRAINING @ INFOSYS:
+content	education	· T100 – Training related to Accounting fundamentals
+content	education	· Milestone 2.0
+content	education	· Lean Basic
+content	education	· Certified Transaction Monitoring
+header	others	ACHIEVEMENTS:
+content	others	· SPOT Award
+content	others	· Team Extra Miler award
+header	others	PERSONAL DETAILS:
+meta	others	Date : 11/05/1991
+meta	others	Gender : Male
+meta	others	Age : 25
+meta	others	Nationality : Indian
+meta	knowledge	Linguistic knowledge: English & Tamil (Read, write & speak)
+meta	others	Marital status : Single
+header	others	Date :
+meta	others	Place : RAMA ANJALI P

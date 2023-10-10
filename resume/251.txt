@@ -1,0 +1,70 @@
+header	others	CURRICULUM VITAE
+meta	others	SHUBHAM VASANT CHAVHAN
+meta	others	Address: OLD Ajni,Tah: Nagpur
+meta	others	Dist: Nagpur (Maharashtra)-440017
+meta	others	Mob. 7030383019
+meta	others	Email-ID :Rishabchavhan786@gmail.com
+header	others	CARRIER OBJECTIVE :-
+content	others	To work as a responsible member of team in a reputed Commerce organization,
+content	others	· With sufficient opportunity for application of knowledge gained through education and work experience.
+content	others	· To become a contributing member of a result oriented team and a challenging career by delivering excellent result to the organization.
+header	experience	EXPERIENCE:
+content	experience	Previous Year Working: ALCON ACADAMY ACCOUNT & TAXATION (Nagpur)(Part time) & NMC Project through Pvt. Agency (Cybertech) as Post (Surveyor) Period From January 2016 & Nov.2017 Current Working :Diagnosource Pvt.Ltd as a Accountant dtd.03/11/2017.
+content	experience	· I am working in accounts department as a accountant.
+content	experience	· I have reporting to accounts manager, related to accounts transaction.
+content	experience	· I am handling cash and bank reconciliation and vendor (Creditor) reconciliation.
+content	experience	· To ensure verification of stock & Assets with system and physical.
+content	experience	· Know about finance and audit working.
+content	experience	· GST Registration, working and return filed.
+header	education	SYNOPSIS :
+content	education	I am complete B.Com in Bachelor of Commerce from TMV Pune University .
+header	education	EDUCATIONAL QUALIFICATION:
+content	education	Sr No.
+content	education	Exam Name
+content	education	Board/University
+content	education	Year
+content	education	Percentage
+content	education	1
+content	education	CS Preparing
+content	education	Delhi
+content	education	2016
+content	education	Executive
+content	education	2
+content	education	B.COM
+content	education	Pune
+content	education	May 2017
+content	education	63.00%
+content	education	3
+content	education	HSSC
+content	education	Maharashtra
+content	education	2013
+content	education	39.67%
+content	education	4
+content	education	SSC
+content	education	Maharashtra
+content	education	2011
+content	education	61.64%
+header	knowledge	TECHNICAL KNOWLEDGE :.
+content	knowledge	· Documentation Skills MS-Office, Excel, Power Point ,Tally ERP
+header	others	HOBBIES & INTEREST:
+content	others	Playing Cricket, Volly Ball, Listening Music, Watching Movies
+header	knowledge	STRENGTHS AND ABILITY
+content	knowledge	· Determined to learn with practical approach.
+content	knowledge	· Leader ship quality
+content	knowledge	· Adaptive quality
+content	knowledge	· Positive attitude
+header	others	PERSONAL PROFILE:
+meta	others	Name : Shubham Vasant Chavhan
+meta	others	Father’s Name : Vasant V Chavhan
+meta	others	Date of Birth : 25/11/1995
+meta	others	Religion : Mahar (SC)
+meta	others	Nationality : Indian
+meta	knowledge	Languages Known : English, Hindi & Marathi
+meta	others	Sex : Male
+meta	others	Marital Status. : Unmarried
+header	others	DECLARATION:
+meta	others	I hereby declare that above information is true and correct to best of my knowledge and believe.
+meta	others	Thanking you.
+header	others	Date :
+meta	others	Place: NAGPUR Yours Faithfully
+meta	others	(Shubham V. Chavhan)

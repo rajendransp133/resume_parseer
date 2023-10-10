@@ -1,0 +1,67 @@
+header	others	RESUME
+meta	others	Shailaja Rajput
+meta	others	D/o. Ramsingh Rajput
+meta	others	Email: - shailajarajput121@gmail.com
+meta	others	Contact Number: +91-782-926-0211
+meta	others	_____________________________________________________________________________________
+header	others	CAREER OBJECTIVE:
+content	others	To work with an organization which provides me the opportunity to improve my skills and knowledge
+content	others	along with the growth of the organization.
+header	education	EDUCATION QUALIFICATION:
+content	education	SI.no. Course Specialization University Percentage Year of
+content	education	Passing
+content	education	1 Bachelor of
+content	education	Business
+content	education	Management
+content	education	Management Gulbarga
+content	education	University
+content	education	77% 2017
+content	education	2 Pre-university Commerce Pre-university
+content	education	Karnataka Board
+content	education	74% 2014
+content	education	3 S.S.L.C - Karnataka
+content	education	Secondary
+content	education	Education
+content	education	Examination Board
+content	education	55% 2012
+header	knowledge	TECHNICAL SKILLS:
+content	knowledge	• Technical knowhow: Ms Office.
+header	knowledge	SKILLS:
+content	knowledge	• Leadership.
+content	knowledge	• Quick learner.
+content	knowledge	• Dedication to committed work.
+content	knowledge	• Flexible to the environment.
+header	experience	WORK EXPERIENCE:
+content	experience	• 1 year of experience as Computer assistant at RCF Ltd. Raichur.
+header	others	ACHIEVEMENTS:
+meta	others	• Awarded for scoring First Class in Graduation.
+meta	others	• Learned Kannada in few days.
+meta	others	mailto:shailajarajput121@gmail.com
+header	others	PERSONAL MEMORANDA:
+meta	others	Name : Shailaja Rajput
+meta	others	Father Name : Ramsingh Rajput
+meta	others	Mother Name : Shantha Rajput
+meta	others	Date of Birth : 21st May 1996
+meta	others	Gender : Female
+meta	others	Marital Status : Single
+meta	others	Nationality : Indian
+meta	others	Hobbies : Listening to music, Dancing & Painting.
+header	knowledge	LANGUAGES KNOW:
+meta	knowledge	Languages Read Write Speak
+meta	knowledge	English Yes Yes Yes
+meta	knowledge	Hindi Yes Yes Yes
+meta	knowledge	Kannada Yes Yes Yes
+meta	knowledge	Marathi Yes Yes Yes
+meta	knowledge	Telugu Yes No Yes
+meta	others	ADDRESS
+meta	others	Permanent Address
+meta	others	H. No. 4-4-222/17,Ashok Nagar, Yaragera Road, Raichur-584101
+meta	others	REFERENCE CONTACTS:
+meta	others	Sl.no. Name Designation Contact Number
+meta	others	1 Rajesh Kumar Gupta Sr. Marketing Manager +919422440556
+meta	others	2 Mahantesh A. Lecturer +919945872425
+meta	others	DECLARATION:
+meta	others	I hereby declare that the information furnished above is true to the best of my knowledge and
+meta	others	belief.
+meta	others	Place : Raichur
+meta	others	Date : (Shailaja Rajput)

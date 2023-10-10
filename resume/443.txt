@@ -1,0 +1,132 @@
+meta	others	RATNESH SINGH
+meta	others	RATNESH KUMAR
+meta	others	Tel: +91 9953615566
+meta	others	Email: ratneshraj_2003@yahoo.com
+header	others	Career Objective
+content	others	To learn more with hard work and determination Contributing with improved productivity and effective Group working towards attainment of organizational objective with all round knowledge of various web-technologies used in the market, looking for a Project in the fields of Web/UI Designing and Development to accrue the productivity of the technology used.
+header	experience	Profile
+content	experience	Over 10 + years of experience in working with Photoshop, Axure RP, Illustrator, Dreamweaver, HTML4 & 5, CSS3, LESS, SAAS, JQuery, Bootstrap, JavaScript, SharePoint Designer 2010,2013 and MEAN with Angular2 building various projects and experimenting with the dynamic nature of the client side programming to output better performance. Skilled in UI Designing and Development both also expertise in Share point designing, User Experience Research for Ecommerce, Banking, Networking, Media & Entertainment and Hotel portals . I have developed my vision and style in the creation of outstanding digital experiences, User experience and User Journey, frequently updating my design skills with the latest in design trends & Functions, online technologies and how this affects the business. I lead 3 Ecommerce International Brands in the last 3 years. I attend 2 Start Up for Ecommerce projects Which is give me the chance to Create 6 websites from Scratch for big Brands named as Marks & Spencer for 6 different country, Ace (UAE) and Plugins (UAE) and IKEA (UAE).
+header	education	Education
+content	education	3 years diploma in Multimedia
+content	education	Arena Multimedia, New Delhi (India) Diploma Completed July ’04
+content	education	Graduation B.A
+content	education	Baba Saheb Bhimrao Ambedkar University Completed July ’04
+header	knowledge	Skills
+content	knowledge	Operating Systems
+content	knowledge	Windows 2000 2003 Server, Windows NTXP/Me/2000/9x, MS-DOS.
+content	knowledge	Designing Tools
+content	knowledge	Adobe Illustrator, Adobe PhotoshopCS5, Adobe Premiere 6, Adobe After Effect, Macromedia Flash (Basic Scripting), Macromedia Dreamweaver CS5, Macromedia Fireworx MX, Sonic FoundrySound Forge 6.0
+content	knowledge	Web Programming
+content	knowledge	HTML 4 & 5, CSS 2 &3, JavaScript, Jquery, Bootstrap, Angular2+, Microsoft SharePoint Designer 2010, 2013.
+content	knowledge	Database
+content	knowledge	MongoDB.
+header	experience	Work Experience
+content	experience	SBSC (India) Aug 2016–Till June2018 .
+content	experience	Role: Project Lead (UI/UX)
+content	experience	As a Project Lead UI Developer/ Designer my role is to understand project requirement from onshore team, Create responsive web page using HTML, JS, CSS, JQuery & Angular. Also create the roadmap and strategy for UI development.
+content	experience	From overall company perspective:
+content	experience	Mentor junior interactive developers and manage growth of them
+content	knowledge	Knowledge sharing on new technologies
+content	experience	Create standard documents and enforce to implement it at organization level
+content	experience	Project worked on – FOX entertainment, Banking Portal for Africa - Jaiz Bank,
+content	experience	AgreeYa (India, UAE)
+content	experience	1) At ClientSite AlFuttaim Dubai Location Sept 2015– March 2016.
+content	experience	Role: UI/Web Consultant
+content	experience	As a UI Developer my role in this project was creating web pages, HTML conversion, Implementing CSS, JS, testing , bug fixing and working with developers for their UI related issues.
+content	experience	Project worked on – E commerce portal and Al Futtaim Portal.
+content	experience	http://www.marksandspencerme.com/
+content	experience	https://www.pluginsme.com/
+content	experience	http://www.alfuttaim.com/
+content	experience	2) At ClientSite DPWorld Dubai Location Jan2013– Till June 2015.
+content	experience	Role: UI/Web Consultant, Team Lead Web/UI Designer & UI Development
+content	experience	Worked as a Team Lead Web/UI Designer and Developer in DP World (Dubai). Since Joining DP World in January 2013, I had participated in the Team lead Job for Web/UI Designing as well as in UI development related projects. Mainly visualizing ideas and concepts, creating mockups by gathering project related requirements and information, creating web pages, HTML conversion, Implementing CSS, JS, testing , bug fixing and working with developers for their UI related issues.
+content	experience	Project worked on – DP World Portals and its internal Applications.
+content	experience	Nikulsan Technology (Mumbai) Nov 2011 – Till Dec2012.
+content	experience	Role: Sr. UI Developer
+content	experience	Worked as a Team Lead in Nikulsan Technology. Since Joining Nikulsan in November 2011, I had participated in the Team lead activities Flash Designing as well as in CSS and HTML Site development. Playing a role of team lead for a team of 4 Web designers and 2-Graphic designers.
+content	experience	Current Project – GM India, Parle, SRS group.
+content	experience	Sapient Technology (Noida, Gurgaon, Banglore) Nov 2007 –Till Nov 2010.
+content	experience	Role: Interactive Developer
+content	experience	Worked as a Interactive Developer in Sapient Delhi office. Since Joining Sapient in November 2007, Ratnesh has participated in Interactive Development as well as in HTML development. Extensively Worked on HTML development, participate in layouts creation, master pages, template designs, playing a role of individual as well as a team player.
+content	experience	Projects Worked on:
+content	experience	Burda digital - http://www.burdadigital.de/
+content	experience	News international -http://www.newsinternational.co.uk/
+content	experience	BSKYB - http://news.sky.com/skynews/
+content	experience	COLT (SOMS) -http://www.colt-telecom.be/UK-en/Products/WholesaleProducts/index.htm
+content	experience	Citigroup SLC - https://www.studentloan.com/loancalculator/index.htm
+content	experience	The Brick project-http://www1.thebrick.com/brickb2c/jsp/index.jsp
+content	experience	O2 home Phone - http://www.o2.co.uk/broadband/homephone/
+content	experience	Coke India sales -http://www.coca-colaindia.com/
+content	experience	Webster Bank - https://www.websteronline.com/personal/personal-homepage.html
+content	experience	Role Played in above mentioned project -HTML development with CSS, JavaScript and Jquery, Bug Fixing in QA Phase , Integration in development phase.
+content	experience	Net cradle India, Pvt. Ltd (New Delhi) Oct 2006 – Oct 2007
+content	experience	Role: Web Flash Graphic designer
+content	experience	Project: Safforn-multimedia (http://www.saffron-multimedia.com/)
+content	experience	Description: Worked on HTML and Photoshop to develop and maintain various aspects of the website.
+header	experience	Responsibilities:
+content	experience	Designing in Photoshop.
+content	experience	Slicing in Photoshop.
+content	experience	For HTML used Dreamweaver.
+content	experience	Flash Used for animation.
+content	experience	Environment: Photoshop, Dreamweaver ,HTML, Flash, CSS.
+content	experience	Project: Californiasuites (http://californiasuiteshotel.com/)
+content	experience	Description: Designed to portray the geographic diversity and activities of the surrounding area.
+header	experience	Responsibilities:
+content	experience	Designing in Photoshop.
+content	experience	Worked in DW for HTML Conversion
+content	experience	Implemented CSS styles for better look and feel.
+content	experience	Environment: Photoshop, CSS, HTML, Flash.
+content	experience	Project: Hainle.com (http://www.hainle.com/)
+content	experience	Description: Embedded in Outlook ,this was based on themes from the client’s hospitality website to reinforce branding.
+header	experience	Responsibilities:
+content	experience	Designing in Photoshop.
+content	experience	Worked in DW for HTML conversion.
+content	experience	Implemented CSS styles for better look and feel.
+content	experience	Environment: Photoshop, CSS, HTML
+content	experience	Project: Huberslodge (http://www.huberslodge.com/)
+content	experience	Description: This site was geared towards those with a thirst for outdoor living-hunting, fishing, bird –watching and boating. The hotel accommodation and restaurant was a key feature.
+header	experience	Responsibilities:
+content	experience	Layout Designing in Photoshop.
+content	experience	HTML Conversion in DW.
+content	experience	Javascript used for Fade animation.
+content	experience	Implemented CSS styles for better look and feel.
+content	experience	Environment: Photoshop, CSS, HTML.
+content	experience	Project: My mobile (http://www.mymobile.co.in/)
+content	experience	Description: This site was geared towards those who wants to do mobile shopping on one stop platform.
+header	experience	Responsibilities:
+content	experience	Designing in Photoshop.
+content	experience	Worked in DW for HTML conversion.
+content	experience	Implemented CSS styles for better look and feel.
+content	experience	Environment: Photoshop, CSS, HTML
+content	experience	Magic Software Pvt. Ltd. , Inc., (Noida) Dec 2005 – Oct 2006
+content	experience	Role: Flash Designer
+content	experience	Project: DR 4 to 8
+content	experience	Description: Responsible for design in flash environment, a project that helps school children to study by using CD’s.
+header	experience	Responsibilities:
+content	experience	Flash designing
+content	experience	Flash Timeline Animation
+content	experience	Design Interfaces and GUI for better user experience.
+content	experience	Working on Sound syncing .
+content	experience	Environment: Flash, Photoshop,Illustrator
+content	experience	EsolutionsIndia, G.k2 (New Delhi) 15 April 2005 – Dec 2005
+content	experience	Role: Web Flash Graphic Designer
+content	experience	Description: Worked on HTML and Photoshop to develop and maintain various aspects of the website.
+content	experience	Project: Crislu (http://www.crislu.com)
+content	experience	Description: An e-Commerce developed using Flash and PHP technology for a artificial Jewellery store, clients to display and manage products online.
+header	experience	Responsibilities:
+content	experience	Design and develop an e-commerce website using Flash and customized template design using Photoshop.
+content	experience	Team Lead for Crislu Website.
+content	experience	For changes and improvementInteract with client and the developers.
+content	experience	Environment: Flash, HTML, Adobe Photoshop.
+header	project	Other Projects
+content	experience	http://www.remielsoft.com/
+content	experience	http://www.sshrishti.org/
+content	experience	http://www.indraprasthatravels.com.
+content	experience	http://www.amxdetectives.com
+content	experience	http://www.rs-pharma.com/
+content	experience	http://www.replurbanplanners.com/
+header	experience	Responsibilities:
+content	experience	Design website in Photoshop.
+content	experience	Slicing in HTML.
+content	experience	Implement better CSS styles for better look and feel.
+content	experience	Environment: Photoshop, HTML, CSS, Dreamweaver MX.

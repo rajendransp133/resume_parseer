@@ -1,0 +1,120 @@
+header	others	RESUME
+header	others	RESUME
+meta	others	D. THIYAGARAJAN,
+meta	others	No.16, Gandhinagar,
+meta	others	E-mail: thiyaga_rajan12@yahoo.com
+meta	others	Thirumullaivoyal,
+meta	others	Mobile: 9840341909
+meta	others	Chennai – 600062,
+header	others	Objective:
+content	others	Translation of academic knowledge and experience gained over the years in my profession, through working in a competitive, professional and modern environment with full of challenges, opportunities for knowledge enrichment and growth.
+header	experience	Experience:
+content	experience	DESIGNATION:
+content	experience	ACCOUNTS ASSISTANTS
+content	experience	Aug 2006 – May 2010 M/s. Airmaster Flowtec (P) Ltd. Ambattur Chennai.
+content	experience	· HVAC Manufacturer Company (Grills, Diffusers & Damper)
+content	experience	DESIGNATION:
+content	experience	ACCOUNTS OFFICER
+content	experience	June 2010 – May2011. M/s. Hansazone (P) Ltd. Ashok nagar, Chennai.
+content	experience	· Pizza Hut.
+content	experience	DESIGNATION:
+content	experience	ACCOUNTS OFFICER
+content	experience	May 2011 – Till Date. M/s. NIIT Ltd. Anna Nagar, Chennai.
+content	experience	· Computer course.
+header	experience	RESPONSIBILITIES:
+content	experience	Registers Maintenances:
+content	experience	· Attendance
+content	experience	· Letters inward and Outward
+content	experience	· Sales Tax ‘C’ Forms ( Form 8 & 10)
+content	experience	· Purchase Register
+content	experience	· Sales Register
+header	experience	Files Maintenance:
+content	experience	· Client Records
+content	experience	· Staff Records
+content	experience	· Payment and Receipt Records ( Cash/Cheque)
+content	experience	· Bank Statement
+content	experience	· Invoices
+content	experience	· Vat Tax Monthly Returns
+content	experience	· Vat Tax Correspondence
+content	experience	· Agreement / Legal Copy
+content	experience	· General Files (ie office ecopy)
+content	experience	· Central Excise
+content	experience	· TDS
+header	experience	Regular day to day works:
+content	experience	· Daily follow up ( Whatever given by MD)
+content	experience	· Communicate with Clients/Customers through phone
+content	experience	· Writing petty cash and Bank Book
+content	experience	· Bank Works
+content	experience	· Letter Drafting
+content	experience	· Every month the following report are submitted to MD
+content	experience	a. Outstanding List (Debtors/Creditors)
+content	experience	b. Salary Statement
+content	experience	c. Staff leave Calculation
+content	experience	d. Accounts Status
+header	experience	MAINTENANCE OF ACCOUNTS:
+header	experience	· Preparation of Cash / Bank, Payment & Receipt Vouchers
+content	experience	· Central Excise
+content	experience	· Writing (Manual/Computer) Cash Book, Book from Vouchers and Ledger Posting
+content	experience	· Preparation and Checking of Bank Reconciliation
+content	experience	· Report on Outstanding Payable/ Receivable with the customers
+content	experience	· TDS
+header	experience	SALES TAX:
+content	experience	· Maintenance of Sales tax “C” Form register
+content	experience	· Preparation and filling of vat tax monthly returns
+content	experience	· To coordinate with sales tax officials for getting “C” Forms
+header	education	EDUCATION QUALIFICATION:
+content	education	QUALIFICATION
+content	education	INSTITUATION
+content	education	UNIVERSITY/BOARD
+content	education	YEAR
+content	education	B.COM.
+content	education	Jaya College of Art & Science Chennai
+content	education	University of madras
+content	education	2006
+content	education	HSC
+content	education	Singarampillai Hr,Sec School Chennai
+content	education	State board
+content	education	2003
+content	education	SSLC
+content	education	Nermal Hr.Sec. School Chennai
+content	education	State Board
+content	education	2001
+header	knowledge	TECHNICAL QUALIFICATION:
+content	knowledge	· Typing 25-30 W.P.M (English)
+header	knowledge	PROFICIENCY IN COMPUTER:
+header	knowledge	OPERATING SYSTEMS:
+content	knowledge	· MS-Word
+content	knowledge	· MS-Excel
+content	knowledge	· MS-Power Point
+content	knowledge	· Internet Applications
+header	knowledge	ACCOUNTING PACKAGES:
+content	experience	· Tally 5.4, 7.2 , 9 & ERP 9 Version
+header	others	PERSONAL PROFILE:
+header	others	· Father’s Name
+meta	others	: N. Devendran
+header	others	· Mother’s Name
+meta	others	: G.Jagadeeswari
+header	others	· Date of Birth
+meta	others	: 30.12.1983
+header	others	· Gender
+meta	others	: Male
+header	others	· Marital Status
+meta	others	: Unmarried
+header	others	· Nationality
+meta	others	: Indian
+header	others	· Religion
+meta	others	: Hindu
+meta	others	· Caste
+meta	others	: MBC
+meta	others	· Mother Tongue
+meta	others	: Telugu
+header	knowledge	· Languages Known
+meta	knowledge	: Telugu, Tamil and English
+header	others	DECLARATION:
+meta	others	I consider myself familiar with Commercial Aspects. I am also confident of my ability to work in a team.
+meta	others	I hereby declare that the information famished is true to the best of my knowledge.
+meta	others	Place: Chennai.
+meta	others	SIGNATURE
+header	others	Date:
+meta	others	Refer by : (EP2012IR926340) Shailaja Rs
+meta	others	(D.THIYAGARAJAN)

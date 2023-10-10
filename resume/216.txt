@@ -1,0 +1,59 @@
+meta	others	1
+meta	others	Resume 3.5 years Exp
+meta	others	Ekta Singh
+meta	others	Flat. No-B-15, Nirmal Town Ship, Sasane Nagar, Hadapsar, Pune -411028
+meta	others	M: +91-8698761456
+meta	others	E: singhekta506@gmail.com
+header	others	PERSONAL SUMMARY
+content	others	To realize myself in terms of satisfaction & prosperity, satisfaction that results from the sense of achievement. I am looking for an organization that will appreciate and draw, intelligence & hard work and will create avenues for personal and professional growth.
+content	others	Strong customer service experience and a background of achievement in supporting all levels of management & working to set schedules and deadlines.
+content	others	Looking for a company which will challenge my problem solving skills and allow me to continue to develop my knowledge and potential.
+header	experience	WORK EXPERIENCE
+content	experience	Tech Mahindra Business Services : 22 September 2016 till date
+content	experience	Present Salary : 4, 00, 000 p.a
+content	experience	Customer Relation Advisor (Retentions) : Reporting to Team Leader
+content	experience	Protocol Solutions Pvt Ltd : April 2016-21 September 2016
+content	experience	Customer Sales Executive (Sales) Airlines and Travel Domain
+header	experience	Snk Technologies
+content	experience	: 1.5 Years
+content	experience	Team Coach : Reporting to Manager
+content	experience	Team Size : 20 People
+header	knowledge	Skills
+content	knowledge	· Customer Service Attitude.
+content	knowledge	· Some Basic understanding of CEC Audit & Coaching Process.
+content	knowledge	· Technical Knowledge of English Communication – Intonation, Punctuation etc.
+content	knowledge	· Presentation, Feedback & Coaching Skills.
+content	knowledge	· Receptiveness to change .
+content	knowledge	· Interest in role / Motivation factors.
+header	experience	Roles and Responsibilities
+content	experience	· Monitor calls on Communication, Soft Skills, Process & Compliance Parameters.
+content	experience	· Provide Coaching and feedback to enhance agent performance.
+content	experience	· Analyze the Coaching/ training needs of the agent & support them in delivery.
+content	experience	· Participate in calibrations to ensure consistent scoring & Feedback delivery approach.
+content	experience	· Keep the reps updated on new process changes/updates, Improvement initiatives.
+content	experience	· Plan and run campaigns to drive Awareness/ Improvements on compliance,
+content	experience	Communication process.
+header	education	ACADEMICS
+content	education	· Pursuing BBA from Arihant Institute Of Business Management.
+content	education	· H.S.C. from Nios Board, Pune
+content	education	· S.S.C. from Nios Board, D.B.M.S School , Jamshedpur
+header	others	PERSONAL
+header	others	DOB
+meta	others	:
+meta	others	05/06/1997
+header	others	Passport
+meta	others	:
+meta	others	No
+header	others	Status
+meta	others	:
+meta	others	Single
+header	others	Nationality
+meta	others	:
+meta	others	Indian
+header	others	DECLARATION
+meta	others	I do hereby declare that all the information given above is true and correct to the best of my knowledge.
+header	others	Date
+meta	others	:
+header	others	Signature
+meta	others	:
+meta	others	Ekta Singh

@@ -1,0 +1,58 @@
+header	others	CURRICULUM VITAE
+meta	others	NAGARAJU .Y
+meta	others	(: +91 9980793944
+meta	others	(: yrnagraj@gmail.com
+header	others	Career Objective
+content	others	Seeking a position to utilize my analytical skills and technical skills in the Esteemed Organization that offers Professional growth while being resourceful, innovative and flexible.
+content	others	· Good team player
+content	others	· Able to work individually and able to work team
+content	others	· Positive attitude and Zeal to learn new things.
+content	education	Course
+content	education	Year of Passing
+content	education	University/Board
+content	education	Percentage
+content	education	B.Sc (MZC)
+content	education	2007-2010
+content	education	Sri Venkateswara University
+content	education	65.5%
+content	education	Intermediate
+content	education	2005-2007
+content	education	Board of Intermediate
+content	education	67.0%
+content	education	S.S.C
+content	education	2004-2005
+content	education	Board of Secondary Education
+content	education	68.1%
+content	knowledge	· Operating Systems : Windows xp/2000/vista.
+content	knowledge	· Packages : M.S.Office & photoshop.
+content	experience	· Working as Transaction Processing Officer[ INSURANCE] in MPHASIS for UK Process from Nov 2011 to till date.
+content	experience	· Worked as Computer Operator in HUL Redistribution Stockiest Point from jun 2010 to may 2011.
+meta	others	Name
+meta	others	: Nagaraju.y
+meta	others	Father’s name : Parandhamaiah.y
+meta	others	Date of Birth
+meta	others	: 21/04/1990
+meta	others	Gender
+meta	others	:
+meta	others	Male
+meta	others	Marital Status :
+meta	others	Single
+meta	others	Nationality
+meta	others	:
+meta	others	Indian
+header	knowledge	Languages Known :
+meta	knowledge	English ,Telugu and Hindi
+meta	others	Permanent Address : Veeragangannagari palli(v).
+meta	others	Pullikallu(p),
+meta	others	P.T.M(m),chittoor(dist),
+meta	others	Andhra Pradesh.
+content	others	I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above-mentioned particulars.
+meta	others	Place: Bangalore
+meta	others	Date:
+meta	others	NAGARAJU.Y
+meta	others	Declaration
+header	knowledge	Strengths:
+header	education	Academic profile
+header	knowledge	Technical profile
+header	experience	Experience
+header	others	Personal profile

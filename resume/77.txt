@@ -1,0 +1,81 @@
+header	others	RESUME
+header	others	RESUME
+meta	others	Mr. Kanhaiya M. Pawar,
+meta	others	Mobile No: 96898 37037
+meta	others	E-Mail: kanhaiayapawar985@gmail.com
+header	others	Permanent Address: Present Address:
+meta	others	Survey No, 28 ,High Way 20, Fule – Ambedkar Nagar,
+meta	others	East part NH-3 At. Hadakhed , Post Sule , Near Shingave Vilage area,
+content	others	Tal.Shirpur, Dist-Dhule (MH) - 425405 Shirpur, Dist.- Dhule (MH)- 425405
+header	others	Personal Statement : -
+content	others	I am hardworking and trust worthy individuals who enjoy working in a team as well as working alone
+content	others	an excellent communicator with colleagues and client like self-motivated and always eager tolearnat
+content	experience	new skills and gain the ability to teach others .
+header	others	Objectives :-
+content	others	To work in an Esteem organization where I can gain core competency in field of E governing
+meta	others	And Work Management & enhance my skill, Technology and use it as a Qualitative , Productive
+meta	others	Asset for Growth Of organization.
+header	education	Educational Information :-
+content	education	Course
+content	education	University/Board
+content	education	Year of Passing
+content	education	Academic Grade
+content	education	M.B.A
+content	education	Savitribai Fule University of Pune.
+content	education	2014
+content	education	(61.85 %)
+content	education	B.B.A.
+content	education	Noth MH.Univercity, Jalgaon.
+content	education	2011
+content	education	(65.80 %)
+content	education	H.S.C.
+content	education	Nasik Board
+content	education	2008
+content	education	(71.50 %)
+content	education	S. S. C.
+content	education	Nasik Board
+content	education	2006
+content	education	(74.80 %)
+header	knowledge	PERSONAL STRENGTHS AND ATTRIBUTES :-
+content	knowledge	· A good Target oriented Leader, Hard worker.
+content	knowledge	· Self-Confident, Flexible, and Adaptable to a changing Environment, Focused.
+content	knowledge	· Positive Attitude, Willingness To Shift, And Hard work.
+content	knowledge	· Have Good Interpersonal skills,Team Work And team Handling.
+content	knowledge	· Sound technical knowledge,ability to learn & grasp new things faster,
+header	experience	Work Experiance :-
+content	experience	1) Nasik industries Manufacturers Association (NIMA)
+content	experience	JOB DESIGNATION :-Trainee Executive.
+content	experience	JOB PERIOD :- May 2013 to July 2013 (3 Month)
+header	experience	JOB PROFILE :-
+content	experience	1. Direct visit to the company and collect the data then editing data in Directory format
+content	experience	2. Cold calling then arrange face to face meeting and Direct sales with company clients.
+content	experience	3. Solving customer problems and giving proper service to the customers.
+content	experience	4. NIMA directory project work in Nasik District MIDC..
+content	experience	2) BAYER CROP SCIENCE PVT. LTD . (BAYER)
+content	experience	JOB DESIGNATION :-SALES OFFICER
+content	experience	JOB PERIOD :-01/02/2014 To 30/02/2016 ( 2 Year 5 Month)
+header	experience	JOB PROFILE :-
+content	experience	1. Full time role overseeing the operation of the sales and marketing Department
+content	experience	2. To Handle & Reguler Meet of the Work Of Distributors & Dealers of the Org.
+content	experience	3. To Generate Lead & Improve Sales of The organization by Conduct Meetings of Farmers.
+content	experience	4. Visit To potential customers and Existing customers also and transfer lead into actual sales
+content	experience	5. Maintain monthly daily sales and recovery report.
+content	experience	3) CSC – E governance Services India Limited
+content	experience	JOB DESIGNATION :-Block Manager
+content	experience	JOB PERIOD :- 01/03/2016 To PRESENT ( 1 Year 7 Month)
+header	experience	JOB PROFILE :-
+content	experience	1. To Handle & Reguler Meeting of Aaple Sarkar Seva Kendrachalak Operator
+content	experience	2. Involving Government Officers Work and giving proper service to the Government customers.
+content	experience	3. Visit To Daily Operators For Evaluting Theire Work Into Services Provide In Vilage Area.
+content	experience	4. Maintain Monthly ,Weekly Work & Progresively Reports To Govenrment And Also Orgnisation.
+header	experience	OTHER PERSUITES:-
+content	education	· Participating National Level Seminar on “Dynanisms In Managements” @ S.N.J.B. College
+content	education	· Participating State Level Seminar on “Faculty Development Program” @ S.N.J.B. College
+content	education	· Participate in Group Discussion on “Current YUTH Culture in India” @ Dept. Of Eng. S.N.J.B. College.
+content	education	· Participating in Three Days Workshop On “Entrepreneurial Development Program”
+content	experience	· Organized by Dept .of chemical & Management Of N. M. Universalize , Jalgaon.
+content	experience	· Attended One days Workshop on “Personality Development & Communication Skills’’at R.C.P.I.M.R.D, Shirpur, Dist. Dhule.
+header	experience	DECLARATION :-
+meta	others	I hereby declare that the above information given by me is true As Per My knowledge .
+meta	others	Date : - 20 102016. Yours Sincerely /-
+meta	others	Place :- Nashik Kanhaiya Madan Pawar .

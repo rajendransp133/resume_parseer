@@ -1,0 +1,55 @@
+meta	others	SREEJA RAVI
+meta	others	sreejaravi101@gmail.com
+meta	others	73, Pattunoolkara Layout-3, Coimbatore 641001
+meta	others	9894026231
+header	others	Summary
+content	others	Skilled in building cross-functional teams, demonstrating exceptional communication skills, and making critical decisions during challenges. Adaptable and transformational leader with an ability to work independently, creating effective presentations, and developing opportunities that further establish organizational goals.
+header	experience	Work Experience
+content	experience	PATHFINDER BUSINESS ANALYSIS PVT LTD
+content	experience	Company name : PATHFINDER BUSINESS ANALYSIS PVT LTD
+content	experience	Designation : Process Executive
+content	experience	Duration : March 2018 TO TILL
+content	experience	Title : Mortgage Pre-Foreclosure
+content	experience	Environment : CAD, Court House Directory,MLS
+content	experience	Role
+content	experience	· Handling Mortgage Pre-Foreclosure.
+content	experience	· This is the process we working for US Texas Counties.
+content	experience	· To find the Eligible Records, using some filtering criteria.Like Equity, Varience
+content	experience	· Researching Part: Loan amortization, Comparable Research, Lien Research, CAD Research, Dept Research, and Preparing Mailing Labels.
+content	experience	· After completion of this process, Client will reach the grantor and get the property.
+content	experience	· After that we maintain proper assets Management log using the Auction Research.
+content	experience	· IU Research –Inventory Updation-Support
+content	experience	· CDR Research –Commercial DEED Research
+content	experience	· Contact Research
+content	experience	· Title Research
+content	experience	COGNIZANT TECHNOLOGY
+content	experience	Company name : COGNIZANT TECHNOLOGY
+content	experience	Designation : Process Executive – DATA Analyst
+content	experience	Duration : FEB 2016 – JUNE 2017 (1.4 years)
+content	experience	Title : Intuit-FICDS-Web Integration
+content	experience	Client : Intuit Inc.
+content	experience	Sreeja Ravi
+content	experience	Programming Languages/
+content	experience	Technology : Java, TekScrape
+content	experience	Database : SQL Server 2005
+content	experience	Tools : Eclipse SDE, Perforce, Right Now, Salesforce, JIRA
+content	experience	Product : Mint, Quicken Online, QuickBooks Online, Enterprise Edition Online , Quicken Desktop, Intuit Money Manager and TurboTax Software
+header	education	Education
+content	education	Qualification
+content	education	B.Sc. (Information Technology) - Sankara College of science and commerce, Saravanampatti, Coimbatore.
+content	education	Additional - Diploma in Mobile and Web 2.0 Application – CLUSTER’S Institution of
+content	education	Media and Technology Certified by BHARATHIYAR UNIVERSITY, Peelamedu,
+content	education	Coimbatore.
+content	education	Higher Secondary Certificate – Corporation S.R.P Ammani Ammal girl’s higher secondary school, R.S Puram, Coimbatore.
+header	others	Soft Skill
+content	others	· Quick Leaner
+content	others	· Enthusiastic
+content	others	· Self Confidence
+content	others	· Flexibility
+content	others	· Adaptability
+content	others	· Ability to Accept and Learn From Criticism
+content	knowledge	· Leadership
+header	others	Declaration
+content	others	I hereby declare that the above written particulars are true and correct to the best of knowledge and behalf.
+meta	others	Date:
+meta	others	Place: SREEJA RAVI

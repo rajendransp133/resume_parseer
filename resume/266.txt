@@ -1,0 +1,106 @@
+meta	others	AYUSHREE RAMDOHKAR
+meta	others	Contact No: +91 9455662452
+meta	others	Email id: ayushree.ramdohkar@gmail.com
+meta	others	(
+meta	others	CAREER
+header	others	OBJECTIVE:
+meta	others	)
+content	others	To work in an environment where sharing and learning knowledge on emerging innovation is a continuous process and help me to grow with company.
+meta	others	(
+header	education	ACADEMICS:
+meta	others	)
+content	education	Degree/ Certificate
+content	education	Institute/ University
+content	education	Year
+content	education	Marks
+content	education	B.Com (Hons.)
+content	education	Shri Mahatma Gandhi Kashi Vidyapeeth
+content	education	2015
+content	education	48%
+content	education	XII (U.P. Board)
+content	education	Vallabh Vidyapeeth, Balika Inter College
+content	education	2012
+content	education	57%
+content	education	X (U.P. Board)
+content	education	Shri Ganesh Shishu Sadan
+content	education	2010
+content	education	65%
+meta	others	(
+header	experience	WORK
+header	experience	EXPERIENCE:
+meta	others	)
+content	experience	Organization ( Previous)
+meta	others	:
+content	experience	SUSHIL KUMAR KANDOI & Co.
+content	experience	Chartered Accountant, Varanasi.
+content	experience	Organization(Current)
+meta	others	:
+content	experience	SRI.TIRUPATI LECTRICALS
+content	experience	Intended Specialization
+meta	others	:
+content	experience	Accounting
+content	experience	Computer Proficiency
+meta	others	:
+content	experience	Tally ERP -9.0,MS Office
+content	experience	Designation
+meta	others	:
+content	experience	Accountant
+content	experience	Worked as an Accountant in CA.SUSHIL KUMAR KANDOI & co. from 2013 to 2015. Wherein I have done accounting for different kinds of work like….
+content	experience	· Internal Audit
+content	experience	· Book Keeping
+content	experience	· Stock Audit
+content	experience	· Vat Return , Income Tax E-Return Filling & other government taxes calculation
+content	experience	· Maintain Balance sheet & profit & loss in M.S.Excel
+content	experience	And currently working as an Accountant in an electric firm SRI.TIRUPATI ELECTRICALS from jan 2016 to present. wherein I am doing accounting for different kinds of work like…
+content	experience	· Enter Posting of Purchase,Sales,Payments,Receipt & Journal Vouchers.
+content	experience	· Verification of bills & reconciliation of total turnover.
+content	experience	· Maintain cash transaction & petty cash book,preparing cash.
+content	experience	· Day to day cash & bank transactions.
+content	experience	· Maintain salary in tally.
+content	experience	· Bank Entries.
+content	experience	· Prepairing outstanding list of debtors & making payment follow-up.
+content	experience	· Bank, debtors & creditors reconcilations.
+content	experience	· Preparing of Tax Invoices,vouchers & payment.
+content	experience	· Sales & Purchase total reconciliation of accounts calculating VAT.
+content	experience	· Reconcilation of bank Statement at the end of month.
+meta	others	(
+header	others	PERSONAL QUALITIES :
+meta	others	)
+meta	others	· Self motivated
+meta	others	· Excellent Communication skill
+meta	others	· Ablity to work in group as well as in team
+meta	others	· Hardworking & good learner
+meta	others	· Positive attitude
+meta	others	(
+meta	others	LINGUISTIC
+meta	others	ABILITY:
+meta	others	)
+meta	others	· Hindi
+meta	others	· English
+meta	others	· Marathi
+meta	others	(
+header	others	PERSONAL
+header	others	INFORMATION:
+meta	others	)
+header	others	Date of Birth
+meta	others	:
+meta	others	27th September,1994
+header	others	Father’s Name
+meta	others	:
+meta	others	Shri. PRAKASH RAMDOHKAR
+header	others	Mother’s Name
+meta	others	:
+meta	others	Smt. PRERNA RAMDOHKAR
+header	others	Address
+meta	others	:
+meta	others	CK.1/25 Patni Tola,
+meta	others	Varanasi – 221001 (U.P.)
+meta	others	Tel: +91 (0) 9455662452
+header	others	Gender
+meta	others	:
+meta	others	Female
+header	others	Nationality
+meta	others	:
+meta	others	Indian
+meta	others	PLACE : VARANASI
+meta	others	AYUSHREE RAMDOHKAR

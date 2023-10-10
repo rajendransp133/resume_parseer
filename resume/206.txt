@@ -1,0 +1,54 @@
+meta	others	Sajid Ali Malik
+meta	others	123/3, Sector – K, Green Park Colony,
+meta	others	Dhar Road, Indore (M.P)
+meta	others	Contact: - +91-81098-08678 / +91-83599-17599
+meta	others	Mail – sajidali.rocky@gmail.com
+meta	others	Objective: To grow professionally while working in a team with a shared goal, effort and constant drive to excel.
+header	education	Education:
+content	education	NAME OF DEGREE
+content	education	Board/UNIVERSITY
+content	education	S.S.C.
+content	education	M.P. BOARD 2009
+content	education	H.S.S.
+content	education	M.P.BOARD 2011
+content	education	B.Com
+content	education	D.A.V.V 2015
+header	education	Additional Qualification:
+content	education	Diploma in computer application, Diploma in desktop publication, Tally ERP – 9.
+header	experience	Professional Experience:
+content	experience	Feb 2017 – Till Date.
+content	experience	R.K Trading Company (Authorized distributor – EPSOC, Schneider, Polycab, Gloster, 3M Electro, Socomec, Novateur, Crompton)
+content	experience	Designation – Accounts Manager.
+content	experience	Functions - Checking of all accounts.
+content	experience	Ledger preparation of Bank & Party Reconciliation.
+content	experience	Finalization of Accounts.
+content	experience	Reconciliation Debtors & Creditors.
+content	experience	Reconciliation Voucher & expense.
+content	experience	Impendent Handling of computerized accounts
+content	experience	Prepare of sales tax assessment & self-Vat Tax assessment.
+content	experience	Prepare of excises prepare Audit & Excises Work.
+content	experience	2015-2017
+content	experience	S.S Machine & Paints (Manf. Of Fly Ash Bricks Machine, Paver Block Machine, & Construction Equipments)
+content	experience	Designation – Accounts Manager
+content	experience	Functions - Checking of all accounts.
+content	experience	Ledger preparation of Bank & Party Reconciliation.
+content	experience	Finalization of Accounts.
+content	experience	Reconciliation Debtors & Creditors.
+content	experience	Reconciliation Voucher & expense.
+content	experience	Impendent Handling of computerized accounts
+content	experience	Prepare of sales tax assessment & self-Vat Tax assessment.
+content	experience	Prepare of excises prepare Audit & Excises Work.
+header	others	Personal Profile -
+meta	others	FATHER’S NAME : - Mr. Zaheer Ali Malik
+meta	others	DATE OF BIRTH : - 08 Feb 1993
+meta	others	GENDER : - Male
+meta	others	NATIONALITY : - Indian
+meta	others	RELIGION : - Muslim
+meta	others	MARITAL STATUS : - Single
+meta	knowledge	LANGUAGE KNOWN : - Hindi, English, Bangali, Urdu
+meta	others	HOBBY : - Playing Cricket & Music
+header	others	DECLARATION
+meta	others	I here declare that all detail given is true to the best of my Knowledge and belief.
+meta	others	Place: Indore
+header	others	Date:
+meta	others	Sajid Ali Malik.

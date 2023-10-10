@@ -1,0 +1,61 @@
+header	others	CURRICULUM VITAE
+meta	others	Work: In IBM As Linux System Administrator since 3 years.
+meta	others	SAMHITHA CHETTI
+meta	others	E-Mail: sony.samhitha@gmail.com
+meta	others	Mobile no: +91-9052766570
+header	others	CAREER OBJECTIVE
+content	others	· Seeking a Position in which I can apply my knowledge and skill to satisfy my inquisitive bend of mind where I can utilize my utmost potential and abilities that offers professional growth while being resourceful, innovative and inspiring.
+header	experience	EXPERIENCE SUMEERY
+content	experience	· 3 years of experience of administering & managing UNIX server environment(s) with the prowess of my expertise in Redhat enterprise Linux
+content	experience	· Excellence in business application development, problem solving skills with strong technical background
+content	experience	· Professionally expert in troubleshooting & fixing of operating related problem .
+content	experience	· Have a good expertise/experience on ITIL environment in managing and maintaining the SLAs.
+header	project	PROJECT EXPERIENCE
+content	experience	· PROJECT : CENTURYLINK (CTL)
+content	experience	· Title : Linux System Administrator
+content	experience	· Organization : IBM
+content	experience	· Client : CenturyLink
+content	experience	· Role : System Administrator (Linux)
+content	experience	· Team Size : 70
+content	experience	· Technology Used : AIX, SOLARIS, LINUX,HP-UX.
+content	experience	· The project aimed at managing the IT infrastructure of the CenturyLink. We are managing more than 4000 Linux servers. It focused on delivering 24X7 support to clients. Client’s domain is Telecom.
+header	knowledge	TECHNICAL SKILLS
+content	knowledge	· Good knowledge in Linux system administration.
+content	knowledge	· Server buildup-staging of new server
+content	knowledge	· User/Group management.
+content	knowledge	· Package/patch management.
+content	knowledge	· File system (LVM, storage and mounts) management.
+content	knowledge	· Good knowledge on networking and Bonding.
+content	knowledge	· Basic knowledge about cluster and managing cluster by LUCI.
+content	knowledge	· Managing virtual servers using V Sphere Client.
+content	knowledge	· Error logging, performance monitoring.
+content	knowledge	· Good hands on Experience on NFS, IP tables.
+content	knowledge	· Maintaining the HP-series, VMware server OS with Red hat Linux 5, 6 (L1/L2-Support).
+content	knowledge	· Package management with RPM and YUM. And Local repository creation.
+content	knowledge	· Good knowledge on Booting Process.
+content	knowledge	· Knowledge in ITIL process: Incident , Problem and change management processes.
+content	knowledge	· Troubleshooting the server booting issues by went through the Rescue Mode or Maintenance Mode.
+header	experience	ROLES AND RESPOSIBILITIES
+content	experience	· Providing good value services to the customer through L1 and L2 level 24x7 supports on shift rotation basis for Linux Servers.
+content	experience	· Administer & manage a large base of Linux servers (both development & production environment) that host several critical business applications, databases ethic for CTL.
+content	experience	· Troubleshooting server crash, file systems, booting problems and providing Root Cause Analysis to application end.
+content	experience	· Performing the heath check of the Servers on quarterly basis and suggesting the appropriate changes.
+content	experience	· Troubleshooting and fine tuning Servers performances, Such as Issues with Swap Space, CPU Utilization and Memory Utilization.
+content	experience	· Assuring system security with the utilities IP tables, TCP-Wrappers and SE Linux
+content	experience	· Coordinating with vendors like REDHAT, HP for resolving issues and hardware replacement.
+content	experience	· Handle the change management in accordance with ITIL standards for driving completion of all scheduled changes. This includes liaison related activities with various teams, onsite coordinators & the vendors especially in cases involving hardware related fixation / replacement of disk, memory & system board
+content	experience	· Resolution of tickets related to the monitoring infrastructure, deploying new servers, decommission of retired servers, monitoring (Disk Space Utilization Checking, Analyzing logs, rotating logs in case of space issues, CPU/Memory usage and performing health check using Team quest tool).
+content	experience	· Interfacing with developers to resolve bugs / apply patches etc.
+header	education	ACADAMIC QUALIFICATIONS
+content	education	· B.Tech in Electronics and Communication Engineering under JNTUH, Hyderabad, at JBIET with 70%
+content	education	· Intermediate in the year 2010 from Trinity Girls Junior College under State Board Of Andhra Pradesh in M.P.C stream with 91.5%.
+content	education	· SSC in the year 2008 from Vivekananda Vidhyanikethan High School under State Board Of Andhra Pradesh in with 92%.
+header	others	PERSONAL DETAILS
+meta	others	Date of Birth : 4th May 1993
+meta	knowledge	Languages Known : English, Hindi & Telugu.
+meta	others	Marital Status : Single
+meta	others	Nationality : Indian
+meta	others	Passport Status : Active
+header	others	DECLARATION
+meta	others	The information furnished above is true, complete and correct to best of my knowledge and belief.
+meta	others	(SAMHITHA CHETTI)

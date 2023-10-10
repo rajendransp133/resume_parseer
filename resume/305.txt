@@ -1,0 +1,84 @@
+meta	others	DINTO C D
+meta	others	NO87 Sreelakshmi,venkateshwara nilayam,3Rd street chikadugodi, Bangalore, Karnataka H: 91-7899295142 | C:
+meta	others	91-8921031070| dintdavi@gmail.com
+header	others	Summary
+content	others	To work in a competitive environment that helps me utilize my knowledge and skills to the fullest, thereby helping the
+content	others	organization to achieve its goals and to be part of a warm and friendly work culture that values quality, ethics and teamwork.
+header	others	Skill Summary
+content	others	I have 3.0 years of working experience in Associate / Technical Support Engineer.
+content	others	• Concentrix Services India Pvt Ltd for , Bengaluru, Karnataka, India from November 2015 to August 2017 as a
+content	others	Associate, Operations.
+content	others	• Worked as a Desktop Support Engineer Genisys Group Pvt Ltd, Bengaluru,Karnataka,from october 2014 to
+content	others	october 2015
+content	others	• Worked as a Operation representative ICICI Bank Pvt Ltd,Thrissur,Kerala from june 2013 to August 2014
+content	others	• Worked as a Executive HBL Global Pvt.Ltd Thrissur from December 2009 to june 2010
+header	knowledge	SKILLS:
+content	knowledge	• Active Directory, DHCP, DNS, & Group Policy.
+content	knowledge	• Knowledge in Documentation for Installation, Testing, deployment and troubleshooting Windows.
+content	knowledge	• Application installation, implementation and maintenance
+content	knowledge	• Knowledge in installation and configuration of OS
+content	knowledge	• Control and Provide internet through Clear Os
+content	knowledge	• Knowledge in Operating SystemsWindows7/98/2000/XP/Server2003/ 2008
+content	knowledge	• Operating System, Computer Networks, Computer Hardware, Fundamentals of Computer
+header	experience	Work Experience
+content	experience	1)Concentrix Services India Pvt Ltd for , Bengaluru, Karnataka, India from
+content	experience	November 2015 to August 2017 as a Associate, operations.
+content	experience	• Installing Configuring and Troubleshooting Operating Systems like Windows 7,XP,8
+content	experience	• Remote Client Support(Using Logmein,VNC and Windows Desktop Management)
+content	experience	• Troubleshooting application installation and VPN issues
+content	experience	• Installing, configuring and troubleshooting mails application like, Outlook
+content	experience	Express,MSoutlook,2003,2007, 2010, 2013
+content	experience	• Troubleshooting all types of hardware and software issues related Desktop, Laptop
+content	experience	and Printers
+content	experience	• Creating and managing user and computer accounts using Active Directory
+content	experience	• Troubleshooting application installation issues
+content	experience	2) Worked as a Desktop Support Engineer Genisys Group Pvt Ltd,
+content	experience	Bengaluru,Karnataka,from September 2014 to octaber 2015
+content	experience	Managing and maintaining windows XP Professional, Windows 7 and Windows 8
+content	experience	• Installing, managing and updating of Antivirus
+content	experience	Installation and Troubleshooting of peripherals like printers, scanners etc
+content	experience	• Providing support for the application software
+content	experience	3) Worked as a Operation representative ICICI Bank Pvt Ltd,Thrissur,Kerala from june
+content	experience	2013 to July 2014
+content	experience	• Installing, configuring and troubleshooting mails application like, Outlook
+content	experience	Express,MSoutlook,2003,2007, 2010, 2013
+content	experience	• Operating System, Computer Networks, Computer Hardware, Fundamentals of
+content	experience	Computer
+content	experience	• Troubleshooting all types of hardware and software issues related Desktop, Laptop
+content	experience	and Printers
+content	experience	• 4) Worked as a Executive HBL Global Pvt.Ltd Thrissur from December 2009 to
+content	experience	june 2010
+content	experience	• Installation and Troubleshooting of peripherals like printers, scanners etc
+content	experience	• Installing, configuring and troubleshooting mails application like, Outlook
+content	experience	Express,MSoutlook,2003,2007, 2010, 2013
+meta	others	•
+header	education	Education
+content	education	BTech-computer Engineering, computer Engineering 2013
+content	education	Vidya Academy Of Science &
+content	education	Technology － Thrissur, Kerala,
+content	education	India Calicut university-6.4(CGPA)
+content	education	Diploma-computer Engineering, computer Engineering
+content	education	Govt.polytechni college chelakkara － Thrissur, Kerala, India
+content	education	State Board of Technical Education-66%(percentage)
+content	education	Plus Two, Science
+content	education	Govt.Technial high school, Thrissur － Thrissur, Kerala, India
+content	education	Secondary Examination-74.50%
+content	education	Associate of Science, SSLC
+content	education	St.Aloysious School Elthuruth － Thrissur, Kerala, India
+content	education	score-67.12%
+header	others	Personal Information
+meta	others	Place of Birth: Thrissur,Kerala
+meta	others	Date of Birth: 8rd of March, 1988
+meta	others	Present Resident in Bangalore,India
+meta	others	Sex: Male
+meta	others	Status: Unmarried
+meta	others	Hobbies: Traveling, Playing cricket and football, Reading
+header	knowledge	Languages
+meta	knowledge	English, Malayalam, Hindi, Tamil
+meta	others	Additional Information
+meta	others	DECLARATION: I do here by confirm that the information
+meta	others	provided in this resume is true to the best of my knowledge
+meta	others	and belief.
+meta	others	Place:
+meta	others	Date:
+meta	others	Dinto C D

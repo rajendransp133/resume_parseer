@@ -1,0 +1,67 @@
+header	others	RESUME
+meta	others	SRINIDHI V.
+meta	others	# 129/B, (New No. 02),
+meta	others	24th Cross, 2nd Block,
+meta	others	Rajajinagar, Bangalore-560010.
+header	others	Career Objective :
+content	others	Seeking a challenging career to utilize my skills, knowledge and personnel capabilities. I will strive hard to achieve growth and proving my worth to the organization.
+header	knowledge	Strengths :
+content	knowledge	· Ability to build interpersonal relationships.
+content	knowledge	· Committed to knowledge sharing within the job.
+content	knowledge	· High degree of self-motivation.
+content	knowledge	· Team work spirit.
+content	knowledge	· Adaptable and inquisitive for understanding new technology and bring them into practice.
+content	knowledge	· Rapid Learning Capability.
+header	experience	Professional Summary :
+content	experience	· Working as FDA and looking over Admissions in BASE (B.R.Ambedkar School of Economics).
+content	experience	· Worked as Accounts assistant in Karnataka State Handicrafts Development Corporation Ltd.
+content	experience	· Worked as Marketing Executive in Saral Business Solutions.
+content	experience	· Worked as Senior Process Executive with Infosys pvt Ltd., Bangalore from Jan 2015 to Feb 2017.
+content	experience	· Having around 3 years of experience in Accenture as Project Management Officer(PMO) from 2011 to 2014.
+content	experience	· Handling of clients reports.
+content	experience	· Worked on tools like Global Business Intelligence, Quality Guard Tool (Cloud based Tool) for CISCO-SOC.
+content	experience	· Hands of experience on creating Databases, Tables, Views
+content	experience	· Worked for HR scheduling team for creating reports for the clients.
+header	experience	Work Experience :
+content	experience	· Worked as Accounts Assistant for Sudhakar Pai Associates for 2 years.
+content	experience	· Preparation of VAT audit reports.
+content	experience	· Deal with the stock audit of few Companies.
+content	experience	· Worked for IOC (Indian Oil Corporation) and Kissan Group of Companies for vouching.
+content	experience	· Prepare monthly account reconciliation analysis.
+content	experience	· Verification of Bills and all calculations GST rates profit markup.
+content	experience	· Ledger maintaining showroom wise and craftwise.
+content	experience	· Maintained statutory compliances for PF,ESI,PT and TDS.
+header	knowledge	Technical Skills :
+content	knowledge	Front End Application : Salesforce, CCW tool, CRM ,Pega tool,DART.
+content	knowledge	Wellversed with : TallyErp9,Saralpaybacktool,SaralTDS corporate tool,
+content	knowledge	MS-Office,M.S.Excel,ITSM,GBI,PPM,andPPT. Operating System : Windows XP/7, Windows Server 2008,
+content	knowledge	Windows-XP/10.
+header	education	Education :
+content	education	EXAM
+content	education	INSTITUTE
+content	education	BOARD / UNIVERSITY
+content	education	YEAR OF PASSING
+content	education	B.Com,
+content	education	Vivekananda Degree College, Bangalore
+content	education	Bangalore University
+content	education	2009
+content	education	P.U.C
+content	education	K.L.E. College, Bangalore
+content	education	Bangalore University
+content	education	2005
+content	education	SSLC
+content	education	Aravinda Vidya Mandir, Bangalore
+content	education	KSEB, Bangalore
+content	education	2003
+header	others	Personal Details :
+meta	others	Name : Srinidhi Vasan
+meta	others	Father Name : S.B.Vasan
+meta	others	Date of Birth : 31-12-1985
+meta	others	Marital Status : Married
+meta	knowledge	Languages Known : English, Kannada and Hindi.
+meta	others	Mobile Number : 9980834353
+meta	others	E-mail ID : srinidhiv85@gmail.com
+meta	others	Hobbies : Playing Cricket, Volley ball,
+meta	others	Carrom,Swimming and Listening Music.
+meta	others	Date :
+meta	others	Place : Bengaluru ( SRINIDHI. V )

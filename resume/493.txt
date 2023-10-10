@@ -1,0 +1,49 @@
+header	others	CURRICULUM VITAE
+meta	others	Gayathri
+meta	others	Dunnasandra village
+meta	others	Bangalore - 67
+meta	others	E-mail gayathrianand9371@gmail.com
+meta	others	Cell 7411499335/9611474534
+header	others	Objective: To work for a growing and challenging organization an having innovative environment that will best utilize my creativity and analytical skills and allow me to be part of a creative team.
+header	education	ACADEMIC QUALIFICATION
+content	education	Class
+content	education	Institute / University
+content	education	Year
+content	education	S S L C
+content	education	VDHL High school Bellary
+content	education	2005
+content	education	XII
+content	education	Govt, junior girls college Bellary
+content	education	2007
+content	education	B.A
+content	education	Govt, first grade college Bellary
+content	education	2011
+header	experience	Work Experience:
+content	experience	Employer
+content	experience	ACS India pvt ltd
+content	experience	Designation
+content	experience	Medical Transaction processor
+content	experience	Exp
+content	experience	1year 4 months
+content	experience	GOAL
+content	experience	1 Learn New Technologies
+content	experience	2 Become a good status
+header	knowledge	Computer Skill
+content	knowledge	Basic computer knowledge
+content	knowledge	MS office
+content	knowledge	Good Typing speed
+header	knowledge	Known Languages
+content	knowledge	Kannada English Hindi and Telugu
+header	others	PERSONAL INFORMATION
+meta	others	Date of Birth 01/06/1988
+meta	others	Age 24
+meta	others	Sex Female
+meta	others	Marital Status married
+meta	others	Husband Name Anandswamy.p
+meta	others	Permanent Address Gayathri,
+meta	others	Main Road Nirna, Humnabad [Tq],
+meta	others	Bidar Dist,Karnataka,
+meta	others	India. Pin 585227
+meta	others	I hereby declare that the above given information are true to the best of my knowledge and belief.
+header	others	Date:
+meta	others	Place: Bangalore [ Signature ]

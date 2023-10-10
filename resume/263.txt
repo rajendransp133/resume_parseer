@@ -1,0 +1,68 @@
+header	others	Resume
+header	others	CURRICULUM VITAE
+meta	others	Name: Sananda Biswas
+meta	others	D.O.B: 21st August ,1986
+meta	others	EMAIL: sananda.biswas@rediffmail.com
+meta	others	PH. NO. : 8971109080
+meta	others	MBA Specialization: HR & FINANCE
+header	others	Objective
+content	others	To work with a reputed and growth-oriented organization, where I can utilize and develop my potential to contribute to the organization’s growth and make my work attractive enabling continuous learning.
+header	education	Academic Qualification
+content	education	Qualification
+content	education	Degree
+content	education	Year
+content	education	Board/University
+content	education	Percentage
+content	education	PG
+content	education	PGDM(FINANCE)
+content	education	2011
+content	education	Sinhgad Institute Of Management &
+content	education	Computer Application
+content	education	56
+content	education	PG
+content	education	MPM
+content	education	2011
+content	education	University of Pune
+content	education	56
+content	education	Graduation
+content	education	B.COM
+content	education	2008
+content	education	University of Pune
+content	education	56.25
+content	education	XII
+content	education	HSC
+content	education	2005
+content	education	ICSE
+content	education	62.4
+content	education	X
+content	education	SSC
+content	education	2003
+content	education	ICSE
+content	education	56.3
+header	project	Summer Project
+content	experience	Organization:
+content	experience	Tata steel ltd. Jamshedpur
+header	project	Title:
+content	experience	To evaluate the skills and the knowledge level of the employees under critical positions.
+content	experience	Key Deliverables/ Learning:
+content	experience	· To identify the critical skills needed by an employee to carry out his job.
+content	experience	· To identify the required proficiency level needed by a group to perform the job efficiently and effectively.
+header	knowledge	Technical Proficiency
+content	knowledge	· MS-Office (DEFAULT)
+header	others	PERSONAL INFORMATION
+meta	others	Father’s Name : Mr. Shankar Nath Biswas
+meta	others	Date of birth : 21-08-1986
+meta	others	Marital Status : Single
+meta	others	CORRESPONDENCE ADDRESS PERMANENT ADDRESS
+meta	others	Satish,10. 48, New Baradwari.
+meta	others	Next to Sunrise School. Supervisors Flats,SF-3.
+meta	others	NTI Layout, RMV IInd stage, Sakchi,
+meta	others	Nagashetihalli, 94 Jamshedpur.
+meta	others	Karnataka Jharkhand-831001
+header	others	Hobbies / Interests
+meta	others	· Listening to music
+meta	others	· Cooking
+meta	others	· Travelling
+header	others	DECLARATION
+meta	others	I hereby declare that the above given information is true and to the best of my knowledge
+meta	others	DATE: (SANANDA BISWAS)

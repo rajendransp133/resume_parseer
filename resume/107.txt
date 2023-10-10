@@ -1,0 +1,233 @@
+meta	others	SAP ABAP Consultant
+meta	others	Karthikeyan R
+meta	others	SAP ABAP Consultant
+meta	others	E-mail : r.srikarthik@gmail.com
+meta	others	Cell: +91 9600063536
+header	experience	Professional Summary:
+content	experience	· Current project with S4/HANA version 1511.
+content	experience	· Having 4 years of extensive working experience in SAP ABAP on HANA.
+content	experience	· Having good working experience in SAP WORKFLOW.
+content	experience	· Worked in SAP ABAP Web Dynpro.
+content	experience	· Having knowledge on OOPS, FIORI Standard Applications.
+content	experience	· Good Experience in working under tight deadlines and client handling skills.
+content	experience	· Highly motivated self-starter with ability to handle multiple projects, excellent team player with solid communications skills.
+content	experience	· Good experience in SAP R/3 involved in development of ABAP/4 programs for SD, MM, PP, PM, FI, HR Modules.
+header	others	Achievements:
+content	others	· Bagged second price in demo jam on SMAC Technologies.
+header	experience	Expertise:
+content	experience	· Worked in Reports, Interfaces, Conversions, Enhancements and Forms (RICEF).
+header	education	Academic Qualification:
+content	education	B.E (2011) in CSE from Er.Perumal Manimekalai Engineering College, Hosur.
+header	experience	Professional Experience:
+content	experience	Company Name
+content	experience	Designation
+content	experience	Duration
+content	experience	KAAR Technologies
+content	experience	Consultant
+content	experience	Nov 2013 - Till Date
+header	project	Project Summary:
+header	project	Project #7: Implementation
+content	experience	Client
+meta	others	:
+content	experience	AL-Mansoori
+content	experience	Project Type
+meta	others	:
+content	experience	Implementation
+content	experience	Role
+content	experience	: Consultant
+content	experience	Location : Chennai
+content	experience	Duration : March 2107 to Till Date
+content	experience	· Developed Reports using HANA STUDIO with AMDB method.
+content	experience	· Developed CDS View using HANA STUDIO.
+content	experience	· Developed Master data upload program using BAPI’s for Material Master.
+content	experience	· Developed BDC Program for XK15 Transaction code in multiple conditions.
+content	experience	· Developed Customizing Reports as per the client’s requirements.
+content	experience	· Designed Adobe Forms for PO.
+content	experience	· Enhancements for multiple Standard transactions.
+content	experience	· Create custom function modules.
+content	experience	· Create Automatic Mail sending and Fax sending program for Dunning process.
+content	experience	· Create Automatic Mail sending with Account statement pdf attachment to particular customer.
+content	experience	· SAP NOTE implemented for ME21N (PO creation).
+content	experience	· Create Implicit Enhancement for Dunning and Sale Order standard program. As per customer requirement.
+content	experience	Project #6: Implementation
+content	experience	Client
+meta	others	:
+content	experience	Saudi Aramco
+header	project	Project Type
+meta	others	:
+content	experience	Implementation
+content	experience	Role
+content	experience	: Consultant
+content	experience	Location : Onsite (Saudi Arabia)
+content	experience	Duration : Aug 2106 to March 207
+header	experience	Roles and Responsibilities:
+content	experience	· SAP Webdynpro ABAP technical consulting.
+header	experience	· Analysis requirements in order to develop new developments.
+header	experience	Key Deliverables:
+content	experience	· Developed webdynpro application for Non Compliance Request. This application is used to
+content	experience	create non compliance request for pipe materials and get approval from purchase order byer.
+content	experience	this request raised from SNC system to ECC system.
+content	experience	· Developed webdynpro application for Delivery Schedule. This application is used to
+content	experience	create Delivery Schedule request and get approval from pipe yard planner.
+content	experience	this request raised from SNC system to ECC system.
+content	experience	· Developed webdynpro application for Document Attachment. This application is used to attach
+content	experience	Relevant document for any process. This one is reusable component.
+content	experience	· Developed webdynpro application for Remarks Update. This application is used to write
+content	experience	Relevant remarks for any process. This one is reusable component.
+content	experience	· Developed webdynpro application for Pipe Profile Creation. This application is used to
+content	experience	create profile for pipe materials this profile has unique ID’s, materials characteristic and
+content	experience	RFID signals. using this profile able to track the pipe materials.
+content	experience	· Developed smartforms for Non Compliance Request details.
+content	experience	· Developed BAPI program for physical inventory creation.
+content	experience	· Developed report for delivery schedule calendar plan.
+content	experience	· Developed RFC function module for get PO details from ECC system for create
+content	experience	Non Compliance Request in SNC system.
+content	experience	· Developed RFC function module for get Delivery Schedule details from SNC system to
+content	experience	Update ECC system.
+header	project	Project #5: Implementation
+content	experience	Client
+meta	others	:
+content	experience	Alkifah
+content	experience	Project Type
+meta	others	:
+content	experience	Implementation
+content	experience	Role
+meta	others	:
+content	experience	Associate Consultant
+content	experience	Location : Onsite (Saudi Arabia)
+content	experience	Duration : Aug 2105 to Aug 2016
+header	experience	Roles and Responsibilities
+content	experience	· SAP ABAP Technical Lead.
+content	experience	· Owner of custom development and control strategy.
+content	experience	· Made developments as per the user requirements.
+header	experience	Key Deliverables:
+content	experience	· Developed enhancement for DMS document attachment to transaction PA30, MIGO, MIRO, FB03.
+content	experience	· Created BAPI upload program for DMS document bulk upload.
+content	experience	· Developed SAP FI interface between third party system(ORACLE DB) and SAP system.
+content	experience	In this interface get JV data and customer data from third party system, post financial JV to
+content	experience	SAP system also create customer to SAP system.
+content	experience	· Created BDC program for PM task list upload.
+content	experience	· Created maintenance check list form using ADOBE.
+content	experience	· Created quality notification mail trigger program.
+content	experience	· Created INVOICE, JOB ORDER, DELIVERY NOTE forms using ADOBE.
+content	experience	· Created workflow for transaction VK11, condition record approval process.
+content	experience	· Implicit Enhancement for customer master creation.
+content	experience	· Implicit Enhancement for automatic invoice from delivery.
+content	experience	· Report developed for employee end of service.
+content	experience	· Report developed for employee loan details and summary.
+content	experience	· Created BAPI upload program for employee communication details upload.
+content	experience	· Create custom function for payroll process, it is updated the IT and RT table.
+content	experience	· FIORI transactional application activated for release production order.
+content	experience	· FIORI transactional application activated for confirm production operations.
+content	experience	· FIORI factsheet application activated for maintenance notification.
+content	experience	Project #4: Implementation
+content	experience	Client
+meta	others	:
+content	experience	Gulf Ocean Trading Company
+content	experience	Project Type
+meta	others	:
+content	experience	Implementation
+content	experience	Role
+meta	others	:
+content	experience	Associate Consultant
+content	experience	Duration : Jun 2015 to Aug2015
+header	experience	Roles and Responsibilities
+content	experience	· SAP ABAP Technical consulting.
+content	experience	· Analysis requirements in order to overcome the problems in the older system.
+header	experience	Key Deliverables:
+content	experience	· Developed Reports using HANA STUDIO with AMDB method.
+content	experience	· Developed CDS View using HANA STUDIO.
+content	experience	· Developed Master data upload program using BAPI’s for Material Master.
+content	experience	· Developed BDC Program for XK15 Transaction code in multiple conditions.
+content	experience	· Developed Customizing Reports as per the client’s requirements.
+content	experience	· Designed Adobe Forms for PO.
+content	experience	· Enhancements for multiple Standard transactions.
+content	experience	· Create custom function modules.
+content	experience	· Create Automatic Mail sending and Fax sending program for Dunning process.
+content	experience	· Create Automatic Mail sending with Account statement pdf attachment to particular customer.
+content	experience	· SAP NOTE implemented for ME21N(PO creation) .
+content	experience	· Create Implicit Enhancement for Dunning and Sale Order standard program. As per customer requirement.
+content	experience	· Done the Workflow development for PR approve process.
+content	experience	· Done the Workflow development for PO approve process.
+header	project	Project #3: Implementation
+content	experience	Client
+meta	others	:
+content	experience	STOMO
+content	experience	Project Type
+meta	others	:
+content	experience	Implementation
+content	experience	Role
+meta	others	:
+content	experience	Associate Consultant
+content	experience	Duration : Apr 2015 to Jun2015
+header	experience	Roles and Responsibilities
+content	experience	· SAP ABAP Technical consulting.
+content	experience	· Analysis requirements in order to overcome the problems in the older system.
+header	experience	Key Deliverables:
+content	experience	· Done the Enhancements in MM01 screen for long text, In that long text is added in ME21n, ME22n, and ME23n screen material field search help.
+content	experience	· Customizing report for PO release status comparing release code and release group.
+content	experience	· Create Enhancements for PO line item restriction.
+content	experience	· Developed dynamic ALV MM report for PO against PR details.
+content	experience	· Developed screen programs for Cash Journal and that document is parked in standard transaction using BAPI.
+content	experience	· Developed report for bank reconciliation.
+content	experience	· Created Data Dictionary Object like Tables, Views, and Structures.
+content	experience	· Developed inventory aging report.
+header	project	Project #2: Upgrade
+content	experience	Client
+meta	experience	:
+content	experience	Mowasalat
+content	experience	Project Type
+meta	experience	:
+content	experience	Upgrade
+content	experience	Role
+meta	experience	:
+content	experience	Associate Consultant
+content	experience	Duration : Mar 2015 to Apr 2015
+header	experience	Key Deliverables:
+content	experience	· Activity in SPAU, During SPAU done the note correction’s, adjusted the FRICE object’s reset the object’s as per requirements.
+content	experience	· Activity in SPDD, During SPDD done the adjustment for DDIC (Data Dictionary) objects.
+content	experience	· Activity in SPAU_ENH, During SPAU_ENH done the adjustment for Implicit Enhancement, BADI and Enhancement Implementation also.
+content	experience	· Post upgrade activity like SAP NOTE implementation, Activate some STANDRAD OBJECT, Adopted the customer enhancement object to SAP STANDRAD.
+content	experience	· SAP Query generation for all the Query based reports.
+header	project	Project #1: Support
+content	experience	Client
+meta	others	:
+content	experience	AL MULLA Group
+content	experience	Project Type
+meta	others	:
+content	experience	Support
+content	experience	Role
+meta	experience	:
+content	experience	Associate Consultant
+content	experience	Duration : Nov 2013 to Feb 2015
+header	experience	Key Deliverables:
+content	experience	· Created reports for customer aging, vendor aging and enhanced for standard report.
+content	experience	· Created interface between ORACLE to SAP system for employee creation, employee timesheet(CATSDB), employee change details and salary JV. This interface get data automatically from ORACLE and also done the SAP transactions. (Got appreciation for this process go-live).
+content	experience	· During Upgrade, Done the SPAU and SPDD activity and support the post upgrade process also.
+content	experience	· Post upgrade activity like SAP NOTE implementation, Activate some STANDRAD OBJECT, Adopted the customer enhancement object to SAP STANDRAD
+content	experience	· Created Automatic Mail sending program for Employee details.
+content	experience	· Resolve the Report and Smart form issues.
+content	experience	· Created Data Dictionary Object like Tables, Views, and Structures.
+content	experience	· Created report for asset balances in FI module.
+content	experience	· Created tables to store the data provided by the employees.
+content	experience	· Developed BADI Implementation for customer screen group check.
+content	experience	· Solved issues for PO approval workflow.
+content	experience	· Created BDC for employee timesheet upload.
+content	experience	· Created BAPI for employee creation and employee change details.
+content	experience	· Created BAPI for upload employee leave infotype.
+header	others	Personal Details:
+meta	others	· Name
+meta	others	: Karthikeyan R
+header	others	· Father’s Name
+meta	others	: Rajendran
+header	others	· Date of Birth.
+meta	others	: 03.05.1990
+header	others	· Sex
+meta	others	: Male
+header	others	· Address
+meta	others	: 141-B, Diamond Nagar,
+meta	others	Pudukkottai – 622001,
+meta	others	Tamil Nadu.
+meta	others	Place:
+meta	others	Date:
+meta	others	1

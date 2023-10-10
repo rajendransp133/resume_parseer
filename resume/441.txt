@@ -1,0 +1,109 @@
+meta	others	SREEJESH M M
+meta	others	Mobile No: +91 9645054405
+meta	others	E _Mail : sreejeshmm.111@gmail.com
+header	others	O B J E C T I V E
+content	experience	 4 year Application Developer experience in Java Spring MVC and Hibernate.
+content	experience	 Experienced in Development and Unit testing.
+content	experience	 Experienced in Understanding Client’s Requirements, Performing Requirement Analysis and Writing of
+content	experience	Comprehensive Code, Execute Test Cases and Preparing Deliverable.
+content	experience	 Information Compilation, Extrapolation and Interpretation on different change requests.
+content	experience	 Good Analytical, Designing, Programming and debugging skills.
+content	experience	 Good Interpersonal skills, Communication, Leadership qualities and demonstration skills.
+content	experience	 Engaged in team management activities like mentoring new members, organizing knowledge transfer
+content	experience	sessions, process understanding and improvement sessions and defect prevention analysis.
+header	knowledge	T E C H N I C A L P R O F I L E
+content	knowledge	 Platforms : Windows, Linux
+content	knowledge	 Databases : MySQL, DynamoDB, Oracle, PostgreSQL
+content	knowledge	 Java Framework : SpringMVC, Hibernate, WebService, SpringBoot
+content	knowledge	 SDLC process : Agile, Waterfall model
+content	knowledge	 Development Tools : NetBeans, Eclipse, IntelliJ
+content	knowledge	 Web Technology : jQuery, Bootstrap, Ajax, HTML
+content	knowledge	 Technologies : Gradle, Ant, Jenkins, Swagger
+header	experience	O R G A N I Z A T I O N A L E X P E R I E N C E
+content	experience	Company Profile Duration
+content	experience	EngineF India Technologies Pvt Ltd Senior Software Engineer 09 April 2018 – Till Date
+content	experience	SafeCare Technology,
+content	experience	Ernakulam, Kerala.
+content	experience	Software Programmer 01 Dec 2014-05 April 2018
+content	experience	P E R S O N A L A T T R I B U T E S
+content	experience	 Operate independently or within a team. Open to new ideas.
+content	experience	 Able to perform in emergency situations and can adapt to any environment
+content	experience	 Capable of working efficiently and a quick learner.
+content	experience	 Achieved ‘C’ certificate in NCC
+content	experience	 District champion in badminton
+header	project	P R O J E C T S I N F O R M A T I O N
+content	experience	Project : Cortex Hospital Management Application (Product)
+content	experience	Language : JAVA EE
+content	experience	Frame work : Spring MVC,Hibernate
+content	experience	Description : Cortex Hospital Management Application is a web application fully designed and being
+content	experience	developed for the rising needs in the health management sector to handle in-patient details, Insurance,
+content	experience	Medical Claims etc. Cortex Hospital Management Application is fully developed with the state of art
+content	experience	Technology using JSP with one of the most secure and stable Frameworks Spring MVC and hibernate.
+header	experience	Roles and Responsibilities:
+content	experience	 Played a key role in gathering Hospital requirements to design an efficient application to satisfy
+content	experience	the hospital needs.
+content	experience	 Developing the application using JAVA Spring MVC framework.
+content	experience	 Developed Test Data for the module and designed Unit Test Cases and Unit Test Specifications.
+content	experience	 Have a strong belief of establishing the product in renowned hospitals in Middle East countries
+content	experience	Project : Pharmacy Application (Product)
+content	experience	Language : JAVA EE
+content	experience	Frame work : Spring MVC, Hibernate
+content	experience	Description : Cortex Pharmacy management Software provides the complete pharmacy software
+content	experience	solution to fulfill all of your pharmacy’s requirements today and beyond. It is developed to manage the
+content	experience	entire transactions done in a pharmacy Sector. It is a web based system to replace all the existing desk
+content	experience	top systems for reasons of portability and better functions from usability point of view. Cortex is the
+content	experience	Customizable and user friendly Pharmacy Software available in the market.
+content	experience	Project : 10x Banking
+content	experience	Language : JAVA EE
+content	experience	Frame work : Spring Boot, Java 8, DynamoDB
+content	experience	Description : The 10x Banking Platform is a transformative ecosystem which facilitates the
+content	experience	interoperability of all financial services. Essentially, platform will enable all the players in the financial
+content	experience	market to exchange information and trade with each other, and aims to be the mobilizing technology
+content	experience	that transforms customer engagement with financial services. The technology will compete with
+content	experience	traditional core banking platforms utilizing simplified data architecture and new technical components.
+content	experience	The 10x platform will be open, enabling and encouraging organizations to distribute their financial
+content	experience	services and products by matching their brand advocates to connected product providers and credit
+content	experience	providers.
+header	experience	Roles and Responsibilities:
+content	experience	 Developing the application using JAVA Spring MVC framework.
+content	experience	 Four members in Our Project.
+content	experience	 Develop User and Admin Module.
+header	education	A C A D E M I C D E T A I L S
+content	education	Qualification Institution
+content	education	University/
+content	education	Board
+content	education	Year Of
+content	education	passing
+content	education	Aggregate
+content	education	Master Of Computer
+content	education	Applications
+content	education	KMCT College OF engineering,
+content	education	Calicut.
+content	education	Calicut
+content	education	University
+content	education	2013 66%
+content	education	BSc
+content	education	(Mathametics)
+content	education	Sree Narayana Guru College
+content	education	Calicut
+content	education	Calicut University 2009 58%
+content	education	Plus Two
+content	education	Markaz Higher Secondary School
+content	education	Calicut
+content	education	Kerala Board 2006 58%
+content	education	Class X
+content	education	Medical College Campus
+content	education	Calicut
+content	education	Kerala Board 2004 51%
+header	others	P E R S O N A L D E T A I L S
+meta	others	ADDRESS PERSONAL PROFILE
+meta	others	Passport Number : N1436660 Date of birth : 16/10/1987
+meta	others	PAN Card No : CEMPS6700R Gender : Male
+meta	others	Address : Muthettu Mannil (HO) Marital status : Married
+meta	others	Karanthur (PO) Nationality : Indian
+meta	others	Calicut – 673571 Kerela Languages Known: English, Malayalam and Tamil
+header	others	D E C L A R A T I O N
+meta	others	I hereby declare that the information given above is correct and complete to the best of my
+meta	others	knowledge and belief.
+meta	others	Place: Calicut SREEJESH M M
+meta	others	Date: 10/11/2018

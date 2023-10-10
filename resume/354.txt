@@ -1,0 +1,48 @@
+meta	others	HARSHADA MHATRE
+meta	others	407/2 Dosti building,manpada,Thane(w)
+meta	others	Mobile:9702903008. Email:
+content	others	harshadamhatre33@gmail.com.
+header	others	Objective:
+content	others	To seek a position in Organisation which provide me amble opportunities to exibit my skills and competencies in th chosen field.
+header	education	Qualification :
+content	education	Examination
+content	education	College
+content	education	Name
+content	education	Board/
+content	education	University
+content	education	Passing year
+content	education	Grade / percentage
+content	education	B.com (BAF)
+content	education	Adarsh college
+content	education	Mumbai
+content	education	March 2018
+content	education	B grade
+content	education	HSC
+content	education	Bedekar
+content	education	Maharashtra
+content	education	Febeuary 2015
+content	education	77.54%
+content	education	SSC
+content	education	Shishu Dnyan Mandir school
+content	education	Maharashtra
+content	education	March 2013
+content	education	78.73%
+header	others	Profile statement:
+meta	others	Date of Birth. : 04/05/1998
+meta	others	Gender : Female
+meta	others	Nationality : Indian
+meta	knowledge	Languages known : English,Hindi, Marathi
+meta	others	Computer proficiency:
+meta	others	MS-CIT with 88%
+meta	others	TALLY ERP.9 Expert
+header	knowledge	Personal Skills:
+meta	knowledge	• Quick Learner
+meta	knowledge	• Flexible & Adaptable to changes
+content	knowledge	• Ability to work with group
+meta	knowledge	• Ability to learn new things
+meta	others	Hobbies :
+meta	others	In my free time, i like to focus on my drawing hobby
+meta	others	Declaration :
+meta	others	I hereby declare that all the statements made above are true. Complete ad correct to the best of my knowledge and belief.
+meta	others	Date :
+meta	others	Place : Thane

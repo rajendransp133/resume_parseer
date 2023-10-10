@@ -1,0 +1,86 @@
+header	others	RESUME
+meta	others	PATEL VIVEK NARSINHBHAI ADDRESS: Akhil Anjana Samaj,
+meta	others	Nikunj Niwas,
+meta	others	Madalpur Gam
+meta	others	Ellise Bridge
+meta	others	Ahmedabad
+meta	others	PIN NO: 380006
+meta	others	PH.NO: (M) 09624234734
+meta	others	EMAIL ID : viveknp010@gmail.com
+header	others	CAREER OBJECTIVE
+content	others	To obtain a challenging environment where I can impart my knowledge, skills and competencies
+content	others	for the growth of an organization.
+header	knowledge	SKILL SETS
+content	knowledge	Technical Skill: MS Office, Internet.
+content	knowledge	Interpersonal Skill: Proactive, Positive attitude, Problem solving, Confident.
+header	education	EDUCATIONAL BACKGROUND
+content	education	QUALIFICATION SCHOOL/COLLEGE UNI/BOARD YEAR PERCENTAGE
+content	education	M.B.A(International
+content	education	Business)
+content	education	Center For
+content	education	Management Studies,
+content	education	Ahmedabad
+content	education	Ganpat
+content	education	University
+content	education	2013 5.94 %
+content	education	(CGPA)
+content	education	M.A(English) H.K.M Arts & P.N
+content	education	Patel Commerce
+content	education	Collage,Idar(S K)
+content	education	North Gujarat
+content	education	University,
+content	education	Patan
+content	education	2011 48.49%
+content	education	B. A (English) H.K.M Arts & P.N
+content	education	Patel Commerce
+content	education	Collage,Idar(S K)
+content	education	North Gujarat
+content	education	University,
+content	education	Patan
+content	education	2008 43.66%
+content	education	H.S.C Sheth N.L Highshool,
+content	education	Laxmipura.
+content	education	GSEB 2003 52.67%
+content	education	S.S.C Sheth N.L Highshool, GSEB 2001 78.43%
+header	experience	TRAINING/PROJECT
+content	experience	(A.
+content	experience	ORGANIZATION City Tiles Ltd.
+content	experience	DURATION 57 days.
+content	experience	PROJECT TITLE Summer Internship Project on“A Case Study: Measuring Customers
+content	experience	Satisfaction At City Tiles Ltd.”
+header	experience	TRAINING
+header	experience	OBJECTIVE
+content	experience	The objective of this training was to measure customer satisfaction
+content	experience	toward City Tiles. Problems reorganization and Solution Which were
+content	experience	Company facing.
+content	experience	(B.
+content	experience	ORGANIZATION Duke Plasto International.
+content	experience	DURATION 30 days.
+content	experience	PROJECT TITLE “A Project on: Duke Plasto facing problems in international market”
+content	experience	TRAINING
+content	experience	OBJECTIVE
+content	experience	Company was facing problems in international market & how those
+content	experience	could be solved.
+header	experience	WORK EXPERIENCE
+content	experience	 I have been appointed as Sales Executive in Ocean Healthcare, from 23rd August 2013 to
+content	experience	10th July 2018.
+content	experience	 I have been appointed as Sales Executive in Reliance Home Finance LTD, from 23rd July
+content	experience	2018 to till date.
+content	experience	EXTRACURRICULAM ACTIVITIES
+content	experience	 I have done industrial visit to “COCA COLA COMPANY”, “KING FISHER LIQUORE
+content	experience	COMPANY” at BADDI in (HP) in 2012.
+content	experience	 I have attended the 7nt National-Level Symposium on “Entrepreneurship and Business
+content	experience	Innovation” held on March 16, 2012.
+header	others	PERSONAL DETAILS
+content	others	NAME: Vivek Narsinhbhai Patel
+content	others	DATE OF BIRTH: 26th August, 1985
+content	others	GENDER: Male
+content	others	NATIONALITY: Indian.
+meta	knowledge	LANGUAGES KNOWN: English, Hindi, Guajarati
+content	others	I hereby declare that all the information provided by me in this application is factual and correct
+content	others	to the best of my knowledge and belief.
+meta	others	_________________
+content	others	[Vivek Patel]
+content	others	 I have done industrial visit to “COCA COLA COMPANY”, “KING FISHER LIQUORE COMPANY” at BADDI in (HP) in 2012.
+content	others	 I have attended the 7nt National-Level Symposium on “Entrepreneurship and Business Innovation” held on March 16, 2012.
+header	others	PERSONAL DETAILS

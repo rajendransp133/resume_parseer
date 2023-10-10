@@ -1,0 +1,46 @@
+meta	others	AYUSHI JAISWAL
+meta	others	Dr. A. P. J. Abdul Kalam Technical University
+meta	others	MASTERS IN BUSINESS ADMINISTRATION - Human Resource and Information Technology
+meta	others	Mail To: iamayushijaiswal@gmail.com
+meta	others	T : +91-8417026693,7275983379
+header	education	ACADEMIC QUALIFICATIONS
+content	education	Year Qualification Institute %/C.G.P.A
+content	education	2018 MBA (Human Resource) Dr. A. P. J. Abdul Kalam Technical University(AKTU) 7.60/10
+content	education	2017 B. Com Chhatrapati Sahu Ji Maharaj University(CSJMU) 52.30%
+content	education	2014 Class XII (ISC) U.P. Kirana Seva Samiti Vidyalaya,Kanpur 73.00 %
+content	education	2012 Class X (CISCE) U.P. Kirana Seva Samiti Vidyalaya,Kanpur 82.57 %
+header	project	LIVE PROJECTS & ACADEMIC PROJECTS
+content	experience	Internship - INJECTOPLAST PVT. LTD.
+header	project	Project Title: Human Resource Trainee
+content	experience	▪ Sourcing resumes from different job portals, initial phone screening, short listing candidates, regular follow ups with
+content	experience	selected candidates.
+content	experience	▪ Maintaining and updating database of potential, prospective and rejected candidates and handling end to end recruitments.
+content	experience	Dr. A. P. J. Abdul Kalam Technical University
+header	project	Project Title: Human Resource Management
+content	experience	▪ Provided extensive knowledge of training development and recruitment and planning for the organization.
+content	experience	▪ Process was done through interacting with the executives, attending seminars and training process.
+header	knowledge	PERSONAL SKILLS, COMPENTENCIES AND COMPUTER SKILLS
+content	knowledge	Personal Skills and Language skills
+content	knowledge	▪ Good team working, either in the academic context (research projects, writing team papers) or in sports activities with strong
+content	knowledge	capability of adaption in different context and relationship with new people.
+content	knowledge	▪ Careful observer with critical thinking skills with strong sense of responsibility.
+content	knowledge	▪ Mother Language - Hindi (can read, write and speak)
+content	knowledge	▪ Other Language - English (can read, write and speak)
+header	knowledge	Computer Skills
+content	knowledge	▪ Diploma in CCC by NIELIT
+content	knowledge	▪ Advanced knowledge of Microsoft Word, Power Point and Excel
+header	others	ACHIEVEMENTS & EXTRA-CURRICULARS
+content	others	Academics ▪ Secured 1st Rank in college (MBA) in 1st and 2nd semester
+content	others	2017 and 2018
+meta	others	.
+header	education	Certifications
+content	education	▪ Certificate of Commitment Organized by Central Vigilance Commission
+content	education	▪ Certificate in CCC by NIELIT
+content	education	▪ Certificate of Accomplishment in Wiz National Spell Bee
+content	education	▪ Certificate of Excellent Creativity in Arts and Science by CISCE
+content	education	▪ Certificate for Appreciation in Infrared Object Counter
+content	education	2018
+content	education	2016
+content	education	2013
+content	education	2011
+content	education	2011

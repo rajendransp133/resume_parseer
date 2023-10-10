@@ -1,0 +1,57 @@
+header	others	CAREER OBJECTIVE
+content	others	Looking for a challenging career which demands the best of my professional ability in terms
+content	others	of technical and analytical skills, and help me in enhancing my current skill and knowledge.
+header	education	BASIC ACADEMIC CREDENTIALS
+content	education	Qualification Board/University Year Percentage Class
+content	education	B.E(Computer
+content	education	Engineering)
+content	education	VIIT (SavitribaiPhule Pune
+content	education	University)
+content	education	2015-2018 64.95% First Class
+content	education	Diploma(Computer
+content	education	Engineering)
+content	education	Smt.S.S.P.Polytechnic,Chopda
+content	education	(MSBTE)
+content	education	2012-2015 84.44% Distinction
+content	education	SSC Smt. D.R.Kanya High
+content	education	School,Amalner
+content	education	2011-2012 78.83% Distinction
+header	knowledge	TECHNICAL SKILL
+content	knowledge	Programming Languages : C, C++, Core Java, SQL.
+content	knowledge	Web Tool : HTML.
+content	knowledge	Database Tool : SQL.
+content	knowledge	Operating System : Windows,Linux.
+meta	others	Yashaswini Yashwant Suryawanshi
+meta	others	Contact No. : - 7776878099
+meta	others	E-mail:-suryawanshi.yashaswini@gmail.com
+header	project	ACADEMIC PROJECTS
+header	project	Sr.No. Project Title About The Project
+content	experience	1. Twitter Trend Analysis(FinalYear Project-BE)
+content	experience	It basically works on online tweet
+content	experience	extraction and Sentiment analysis.
+header	project	2. Seminar Hall Booking(Mini Project-BE)
+content	experience	This Project gives idea about
+content	experience	booking seminar hall online.
+header	project	3. Online Voting System using
+content	experience	HomomorphicEncryption(Diploma)
+content	experience	This idea helps in voting online.
+header	experience	CO-CURRICULAR ACTIVITIES
+content	experience	o Participated in Sci-Tech competition at VIIT Pune.
+content	experience	o Participated in Vishwakon2k18 Project Competition.
+content	experience	o Completed Selenium Workshop.
+header	experience	EXTRA-CURRICULAR ACTIVITIES
+content	experience	o Part Of Gandharva2016(Decoration).
+content	experience	o Part Of NSS Family(Volunteer) and Got Active Volunteer Award.
+content	experience	o Completed Elementary and Intermediate Grade Examinations.
+header	others	PERSONAL DETAILS
+meta	others	● Father’s Name : Yashwant Gangaram Suryawanshi.
+meta	others	● Permanent Address : “Yash-Vijay”,3511/2/8,Hanuman Nagar,Amalner
+meta	others	425401. Dist:Jalgaon.
+meta	others	● Date of Birth : 06-01-1997
+meta	knowledge	● Language Known : Marathi, English, Hindi.
+meta	others	● Marital Status : Single
+meta	others	● Nationality/Religion : Indian
+header	others	DECLARATION
+meta	others	I confirm that the information provided by me is true to the best of my knowledge and belief.
+meta	others	Place: Yashaswini Suryawanshi
+meta	others	Date: (Signature)

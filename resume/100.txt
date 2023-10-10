@@ -1,0 +1,58 @@
+meta	others	PEDDI SRIKIRAN REDDY
+meta	others	Email: srikiran507@gmail.com Tel: 7661976639
+meta	others	Career Objective
+meta	others	To be associated with a reputed and progressive organization where I can apply and enhance my skills in a challenging and growth oriented environment.
+header	experience	Experience
+content	experience	Worked as Graduate Engineer Apprentice in ECIL on mobile applications from jan 2017 to jan 2018 ,working as Sr.Consultant in java and Testing from past 6 months
+header	education	Academic Credentials
+content	education	Course
+content	education	Board\University
+content	education	Year
+content	education	Percentage
+content	education	B.TECH (CSE)
+content	education	JNTU-Hyderabad
+content	education	2016
+content	education	59.72%
+content	education	DIPLOMA(ECE)
+content	education	State Board of Technical Education and Training
+content	education	2013
+content	education	79%
+content	education	S.S.C
+content	education	Telangana Board of Secondary Education
+content	education	2010
+content	education	83%
+header	education	Certificates
+content	education	Industrial Training in espark technologies
+content	education	Multisim lab
+content	education	Soldering
+content	education	Participated in Cyber Forensics workshop
+content	education	Participated in Marathon
+header	knowledge	Technical Skills
+content	knowledge	Programming Languages : C, Java,Html
+content	knowledge	Technology : Android using eclipse, Internet of Things
+header	project	Project Work
+content	experience	· Major Project :
+content	experience	Privacy Preserving Public Auditing System
+content	experience	Description : For Data storage Security in Cloud Computing
+content	experience	· Mini Project :
+content	experience	Water Level Automatic controller
+content	experience	Description : When Water in tank fills it automatically switch off Motor
+header	knowledge	Personal Skills
+content	knowledge	· Good communication skills and verbal skills
+content	knowledge	· Problem solving abilities
+content	knowledge	· Interested to learn new technologies
+content	knowledge	· Ability to work both in team and individually
+content	knowledge	· Organizational skills
+content	knowledge	· Adaptability to changing environment and flexible
+header	others	Personal Profile
+meta	others	Name : P.SRIKIRAN REDDY
+meta	others	Fathers name : P.BAL REDDY
+meta	others	Date of birth : 15-07-1995
+meta	others	Nationality : Indian
+meta	others	Address : H-NO-1-10-28/232/1A ,Nagarjuna Nagar Colony,Road no-1,Shiva Sai Nagar Colony,lane-6,Kushaiguda,Medchal District
+meta	others	Hyderabad 500062 .
+meta	knowledge	Languages Known : English, Telugu, and Hindi
+meta	others	Hobbies : Internet browsing, Watching movies, Listening to music
+header	others	Declaration
+meta	others	I hereby declare that all the information furnished above is true to the best of my knowledge.
+meta	others	Date: P.SRIKIRAN REDDY

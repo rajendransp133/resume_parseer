@@ -1,0 +1,34 @@
+meta	others	HARDIK BHARATBHAI BUDH
+meta	others	Junagadh, Gujarat 362001
+meta	others	Mobile: 9033307697 Email: hb_kansara@ymail.com
+header	others	CAREER OBJECTIVES
+content	others	Seeking for a suitable position with a progressive organization where my abilities and skills can be best practised.
+content	others	My competence includes maintaining the Branch efficiently, Granting retail gold loans, Manpower management And Sales & marketing of products or services.
+header	experience	PROFILE SNAPSHOT
+meta	experience	· A dynamic professional with almost 5 years of rich experience in NBFC.
+meta	experience	· An effective communicator with good problem solving skills.
+header	education	EDUCATIONAL BACKGROUND
+content	education	· Completed my Graduation in B.com from Saurashtra University in 2013
+content	education	· Completed my Post-Graduation in M.com from Saurashtra University in 2016
+header	education	CERTIFICATION
+content	education	· Holding MS OFFICE Certificate issued by Gujarat Municipal Finance Board
+header	experience	WORK EXPERIENCE
+content	experience	· Worked with Muthoot Finance Ltd from July 2013 to April 2018 in as
+content	experience	a Senior Relationship Executive
+header	experience	ROLES AND DUTIES PERFORMED
+content	experience	· Ensure optimal levels of customer service at all times
+content	experience	· Evaluate, authorize or recommend approval of Retail gold loans
+content	experience	· Approve loans within specified limits and refer loan applications outside those limits to the manager for approval
+content	experience	· Handle customer complaints and take appropriate action to resolve them
+content	experience	· Provide special services such as investment banking for clients with more specialized needs
+content	experience	· handling NPA recovery by conducting NPA recovery drives and ensure minimum auction in each quarter
+content	experience	· Taking care of Audit in terms of various parameter such as Cash, Gold, KYC, Transaction processing and Compliance
+content	experience	· Daily verification and reconciliation of reports like cash, inventory, gold, pending office accounts, bank reconciliation statement etc
+content	experience	· Achieving business targets through conducting campaigns and outdoor marketing activities for Sales Assistants
+header	others	PERSONAL DETAILS
+meta	others	Contact Address Gitanjali
+meta	others	Postal Society
+meta	others	Near New Best School
+meta	others	Joshipura, Junagadh 362001
+meta	others	Bate of Birth 20th Oct 1992
+meta	others	Marital Status Married

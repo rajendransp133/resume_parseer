@@ -1,0 +1,87 @@
+header	others	RESUME
+meta	others	Page 1 of 2
+meta	others	VIDHYA MOHAN DAS
+meta	others	Mobile : 9605097431/8921930263
+meta	others	E-mail : vidhya96md@gmail.com
+meta	others	VIDHYA MOHAN DAS
+meta	others	ADDRESS
+meta	others	PLOT NO:676
+meta	others	VITTAI NIVAS
+meta	others	ROOM NO:301
+meta	others	SHIRVANE
+meta	others	SECTOR 1,NERUL
+meta	others	NAVI MUMBAI
+meta	others	PIN CODE:400706
+meta	others	PERSONAL DATA
+meta	others	Father’s name: MOHAN DAS
+header	others	CAREER OBJECTIVE
+content	others	Seeking a challenging position that gives me an opportunity to prove
+content	others	my creativity and combine my skills and talents with my immense
+content	others	desire for knowledge and experience, and thereby to equip myself as
+content	others	good competitor by utilizing the resource to the full extend and
+content	others	become an asset to the organization.
+header	others	EDUCATIONAL QUALIFICATION
+meta	others	Date of birth :16/03/1996
+meta	others	Sex :FEMALE
+meta	others	Nationality :INDIAN
+meta	knowledge	Language :ENGLISH
+meta	others	MALAYALAM
+meta	others	HINDI
+header	education	Qualification Board/University Year Percentage
+content	education	B.TECH IN
+content	education	CALICUT UNIVERSITY
+content	education	2013-17
+content	education	7.18/10
+content	education	ELECRONICS&COMMU
+content	education	NICATION
+content	education	ENGINEERING
+content	education	(MEA Eng COLLEGE
+content	education	PERINTHALMANNA)
+content	education	PLUS TWO
+content	education	BOARD OFGOVERNMENT
+content	education	2013
+content	education	90%
+content	education	(ST.MARY’S
+content	education	HIGHER SECONDARY
+content	education	HSS,SULTHAN
+content	education	EDUCATION
+content	education	BATHERY)
+content	education	SSLC
+content	education	2010
+content	education	9.6/10
+content	education	(WMO ENGLISH
+content	education	MEDIUM CENTRAL BOARD OF
+content	education	SCHOOL,SULTHAN SECONDARY EDUCATION
+content	education	BATHERY)
+header	others	RESUME
+meta	others	DECLARATION
+meta	others	Page 2 of 2
+header	knowledge	SKILLS
+meta	others	
+content	knowledge	Good commercial awareness.
+meta	others	
+content	knowledge	Effective communication skills.
+meta	others	
+content	knowledge	Good organizational skills.
+meta	others	
+content	knowledge	Sincere approach in duties and responsibilities.
+meta	others	
+content	knowledge	Possess excellent motivation and leadership skills.
+meta	others	
+content	knowledge	Willingness to use new technologies to the desired standard.
+header	project	PROJECT WORK
+meta	others	
+content	experience	Mini project: HIDDEN ACTIVE MOBILE PHONE DETECTOR
+content	experience	 Main project: SMART RESTAURANT WITH ROBOTIC WAITER
+header	others	ACHIEVEMENTS
+content	others	 Industrial visit in DOORDARSHAN.
+header	knowledge	COMPUTER SKILSS
+content	knowledge	 MS OFFICE
+content	knowledge	 MYSQL,HTML,CSS
+meta	others	REFERENCE: Bell Technolabs ,Palarivatom,Ernakulam
+meta	others	Phone No:04844000627,9539000827
+meta	others	HOBBIES
+meta	others	 SINGING
+meta	others	I hereby declare that the above information are true to the best of my knowledge.
+meta	others	Yours Sincerely,
+meta	others	VIDHYA MOHAN DAS

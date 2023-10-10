@@ -1,0 +1,44 @@
+header	others	RESUME
+meta	others	T.D.V.L.DURGA Email : thotadeepthi3@gmail.com
+meta	others	Mobile : +91-8185937388
+header	experience	Experience Summary:
+content	experience	· Around 2 years of experience in development of the web applications using JAVA/JEE AND MYSQL as Database.
+content	experience	· Good working knowledge on middleware language like Objects Oriented Programming concepts.
+content	experience	· Expertise in working with Developer IDEs like NetBeans, Eclipse.
+content	knowledge	· Sound knowledge on databases like MySQL, ORACLE and MongoDB.
+content	knowledge	· Known knowledge on Third Party APIs.
+content	experience	· Working experience on Graphical Databases like Neo4J.
+content	experience	· An excellent problem-solver, able to quickly grasp complexities and identify opportunities for improvements and resolution of critical issues.
+content	experience	· Expertise in developing applications using technologies like MySQL5+, Apache Web Server, JavaScript, JSON,HTML5 and XML.
+header	experience	Professional Experience:
+content	experience	· Working as a Software Engineer at Meridiansoft Info Systems Pvt. Ltd. from February 2016 to till date.
+header	education	Academic Profile:
+content	education	· B.Tech (Information Technology) from JNTU Kakinada in 2015 with 75.2%
+header	knowledge	Technical Profile:
+content	knowledge	· Programming Languages : JAVA
+content	knowledge	· Operating Systems : Windows XP/10
+content	knowledge	· Scripting Languages : JavaScript and JQuery
+content	knowledge	· Servers : Tomcat
+content	knowledge	· Database Management Systems : MySQL, Oracle and MongoDB
+content	knowledge	· Graphical Database : Neo4J
+content	knowledge	· Markup Languages : HTML5 and XML
+content	knowledge	· Stylesheet Languages : CSS3
+content	knowledge	· IDE : NetBeans and Eclipse
+content	knowledge	· Web Services : SOAP and REST
+header	project	Project Profile:
+content	project	Project#1
+content	experience	Title : FitShuffle(USA)
+content	experience	Technologies : Angular JS, Bootstrap, MySQL, JavaScript, HTML5 and CSS3
+content	experience	Team Size : 6
+content	experience	Role : Team Member
+content	experience	Duration : April 2016 to Till Date
+content	experience	Description: It is a pocket gym (Mobile based Application). It is having different types of Exercise Pac’s categorized into several categories. User can perform daily workouts with this application. Also can earn points for their each video exercise they complete it. The total exercises would be available on the basis of paid and free subscriptions.
+content	experience	Roles & Responsibilities:
+content	experience	· Gathering and analyzing the project requirements.
+content	experience	· Designing and developing the code to meet the specified requirements.
+content	experience	· Maintain the database design and connection and querying the data as per requirements.
+content	experience	· Unit and Integration testing.
+header	others	Declaration:
+content	others	I hereby declare that all the information mentioned above is true to the best of my knowledge.
+meta	others	Date:
+meta	others	Place: (T.D.V.L.Durga)

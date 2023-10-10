@@ -1,0 +1,124 @@
+meta	others	Vishal Raghav
+meta	others	Vishal Raghav
+meta	others	B-78, Sector-53
+meta	others	Noida – 201301, U.P.
+meta	others	Mobile: +91 971 610 4226
+meta	others	E-Mail: vishal.raghav@ienergizer.com
+meta	others	vishal.raghav@yahoo.com
+header	others	Objective:
+content	others	A challenging pursuit in a reputed organization where I can utilize my skills and strengths to achieve the organization’s goal and objectives and get an opportunity to expand them.
+header	experience	Profile:
+content	experience	· Currently working as an Assistant Manager – Training
+content	experience	· Handling the team of trainers
+content	experience	· Preparing training contents likes training presentation/module, handouts, training assessment, lesson plan etc
+content	experience	· Facilitate training to new hire/employees
+content	experience	· Active participation in team calls, client calls, conferences and reviews
+content	experience	· Ability to manage, recruit, train, motivates, and supervises team members.
+header	experience	Work Experience:
+content	experience	Currently working with iEnergizer IT Services Pvt. Ltd. since July’09
+content	experience	Designation:
+content	experience	Assistant Manager - Training
+header	experience	Work Profile: -
+content	experience	· Handling the team of trainers
+content	experience	· Managing & leading teams for running successful process operations & implementing procedures, service standards for business excellence
+content	experience	· Responsible for the designing, developing, implementing, delivery and evaluation of client specific training to meet project goals.
+content	experience	· Preparing training contents likes training presentation/module, handouts, training assessment, lesson plan etc
+content	experience	· Delivering training time to time (NHIT, Soft skills, system etc)
+content	experience	· Active participation in team calls, client calls, conferences and reviews
+content	experience	· Adherence to training plan and monitor timely and accurate report outs
+content	experience	· Drive new training initiatives
+content	experience	· Monitor audit compliance/SOP adherence
+content	experience	· Identifying improvement areas & implementing measures to maximize customer satisfaction levels.
+content	experience	· Ensuring timely TTT of trainers.
+content	experience	· Managing Team functions viz. batch planning, recruitment, performance appraisal, etc
+header	others	Achievements: -
+content	others	· Awarded as “ Performer of the year’10” in Oct’10
+content	others	· Awarded as “Ace Trainer” May’10 (2nd RnR of the process)
+content	others	· Awarded as “Ace Trainer” in Mar’10 (1st RnR of the process)
+content	others	· Top Scorer in Aircel TTT certification.
+content	experience	Worked with Aegis Limited (A venture of an Essar Enterprise) from June’08 to May 09
+content	experience	Designation:
+content	experience	Team Leader
+header	experience	Work Profile: -
+content	experience	· Responsible for meeting SLAs as per the clients’ requirements.
+content	experience	· Weekly review with Team members to discuss their achievements & mutually drawing plan to improve the weakness.
+content	experience	· Analyzing daily performance reports of executives and giving them feedback.
+content	experience	· Giving briefing and training to executives.
+content	experience	· Weekly review meeting with Process Manager in operations parameters & planning to achieve targets for next week.
+header	experience	Achievements:-
+content	experience	· Awarded as “ Bond TL” for Attrition less than 5% in the month April’09
+content	experience	· Awarded as “C-SAT champ” in the month of Nov’08
+content	experience	Worked with SPICE BPO Services (formally known as Omnia BPO services) from
+content	experience	October’07 to June ‘08
+content	experience	Designation:
+content	experience	Team Leader
+content	experience	Work Profile: -
+content	experience	· Assisting process manager in compiling the weekly, fortnightly and monthly presentations.
+content	experience	· Preparing roster on weekly basis.
+content	experience	· Making daily MIS and releasing to external & internal clients.
+content	experience	· Providing assistance to Process Manager in meeting the process & internal SLA on daily & monthly basis.
+content	experience	· Weekly meeting with Team members to discuss their achievements & mutually drawing plan to improve the weakness.
+content	experience	· Weekly review meeting with Process Manager in operations parameters & planning to achieve targets for next week.
+content	experience	· Analyzing the new requirements in training & quality & forwarding it to Process Manager for approval & implementation.
+header	experience	Achievements: -
+content	experience	· Scored highest points in Stack ranking in Jan’08
+content	experience	· Scored highest marks in Team leader monthly certification in April’08
+content	experience	Worked with Bharti Airtel Limited from March’06 to October’07
+content	experience	Designation:
+content	experience	Floor Support – Officer (SME)
+header	experience	Work Profile: -
+content	experience	Joined as Customer Care Officer in March 2006
+content	experience	· Resolving customer’s issue and answering their queries
+content	experience	· Meeting daily targets and KPI
+content	experience	After 9 months
+content	experience	· Rated as ‘Significant Contributor’ at the time of the appraisal
+content	experience	· Promoted as the Team Mentor
+content	experience	· Taking escalation calls and follow ups of escalated calls
+content	experience	· Handling CCR and Service Level
+content	experience	· Giving training, briefings and feedback to the agents
+content	experience	· Looking after On Job Training (OJT) batches
+content	experience	After 5 Months
+content	experience	· Moved to Corporate Billing Query Resolution Cell
+content	experience	· Resolving the billing issues for the AES, Corporate, SME and Commercial customers within the SLA
+content	experience	· PRI and BRI troubleshooting & VAS activation/deactivation.
+content	experience	· Handling the team of 20 customer care executives
+content	experience	· Supervising the floor and responsible of CCR and Service level
+content	experience	· Taking escalations and giving briefings and feedback to agents
+header	experience	`Achievements:
+content	experience	· Awarded as ‘Extra Miler’ in May 2007
+content	experience	· Awarded as ‘Most Regular’ in March 2007
+content	experience	· Awarded as ’Consistent Performer’ in February 2007
+content	experience	· Awarded for giving the ‘Highest Login Hours’ in August 2006
+header	experience	Trainings attended:
+content	experience	· Manager as Coach & Trainer
+content	experience	· Motivation & Leadership Trait
+content	experience	· The Basic Management Skills
+content	experience	· Importance of Rapport Building in customer service
+header	experience	Professional
+content	experience	DOEACC ‘A’ Level course (equivalent to PGDCA)
+header	education	Qualifications:
+content	education	DOEACC ‘O’ Level course (equivalent to Diploma in Computer Application)
+header	education	Academic
+content	education	Pursuing M.B.A (2nd Semester) from Sikkim Manipal University
+header	education	Qualifications:
+content	education	Graduation in B.COM (Pass) from Delhi University
+content	education	Class 12th from C.B.S.E. board in 2002
+content	education	Class 10th from C.B.S.E. board in 2000
+header	knowledge	Technical Profile:
+content	knowledge	Understanding of Linux, Microsoft Windows (All versions) & Microsoft Office (All versions).
+content	knowledge	Troubleshooting of Computer Hardware & Software.
+content	knowledge	Familiar with the Programming Languages like C, C++, FoxPro, Visual Basic, etc.
+content	knowledge	Knowledge of Router, WAN and LAN
+header	others	Personal Profile:
+header	others	Father’s Name
+meta	others	:
+meta	others	Mr. R.K. Raghav
+header	others	Date of Birth
+meta	others	:
+meta	others	09 December 1984
+meta	others	Extra curricular: Participated in Debates, Presentations, Painting Competitions and Dramatics.
+header	others	Declaration:
+meta	others	I hereby take the responsibility of the authenticity of the above mentioned information and data and the concerned authority may take any decision in case of any discrepancy, if found.
+meta	others	Date:
+meta	others	Place: Noida
+meta	others	(VISHAL RAGHAV)

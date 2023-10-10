@@ -1,0 +1,103 @@
+meta	others	RAMACHANDRA.MS
+header	others	Curriculum Vitae
+header	education	Qualification
+content	others	CV Objectives
+content	others	To seek challenging career where my knowledge can be shared, enriched and synchronized with the organizational requirements, and to reach the pinnacle in the concerned field of work with pure determination and dedication
+header	others	Work Achievements
+header	knowledge	Computer Skills
+content	knowledge	· Successfully completed Africa transition, Process migration, De Merger, process liquidation and business sale operation work.
+content	knowledge	· Efficiently managing Statutory Audits, Working Capital Audit, Tax Audit and Process Audit.
+content	knowledge	· Worked as Team member, Individual contributed, Expertise, Team lead and vertical head of AP, AR GL and Tax in shared service operation.
+content	knowledge	· Got an award for efficient team and work management.
+content	knowledge	· Worked as an expertise for “Africa Towers Service Limited” shared service in Nairobi, Kenya (duration 10 Months) and successfully migrated 18 entities (16 African countries) financial reporting works to India.
+content	knowledge	· Joined Airtel in Aug’18l as per Mutual agreement between Infosys and Airtel.
+content	knowledge	· MS Office
+content	knowledge	· SAP ECC 6.0
+content	knowledge	· TLM
+content	knowledge	· Oracle R12
+content	knowledge	· Tally
+content	knowledge	· DTP
+header	knowledge	Skills and Competency
+header	experience	Certifications from Infosys
+content	experience	· Good understanding on financial management particularly in the area of AP, AR, GL & TAX.
+content	experience	· M commerce-E money creation.
+content	experience	· Mapping client’s requirements and coordination in developing, implementing and transitioning processes in line with the guidelines specified by the client.
+content	experience	· Mentoring associates in process improvement strategy & methodology and ensuring maximum efficiency with in the process.
+content	experience	· Resourcefully managed BCP’s situations and jobs demanding productivity, quality and met strict deadlines.
+content	experience	· Working for Telecommunication client on Airtel Africa Tower Shared Service operation.
+content	experience	T-100(Fundamentals of Accounting)
+content	experience	T-200(AP, AR & GL)
+content	experience	Process Improvement projects
+content	experience	· Invoice reconciliation.
+content	experience	· Late payment fee (T&E).
+content	experience	· AR open item calculation sheet.
+header	experience	Work Summary and Functional responsibilities
+content	experience	· As a part of shared service center, preparation of financial statements including P&L, Balance sheet & cash flow statement for all the entities of the client (Africa Towers Services Ltd, Airtel).
+content	experience	· Review, investigate, and correct error and inconsistencies in financial entries before monthly books closure.
+content	experience	· Customer service agreement review and Escalation class.
+content	experience	· Credit management, credit application process and customer creation.
+content	experience	· Revenue recognition (O2C).
+content	experience	· Ensuring timely billing as per the MSA rates and accounting for AR transactions.
+content	experience	· Dispatching the invoice to sales and distribution team.
+content	experience	· Cash application and remittance advise for cash application.
+content	experience	· Investigate and resolve billing discrepancies or misapplied cash transactions
+content	experience	· Clearing of on account balance and write off and write back.
+content	experience	· Write offs for Bad debt, Bank Fee and adjustments.
+content	experience	· Intercompany receivable set off against IC payable.
+content	experience	· Support month close accounting activities-track accounted actual, make journal entries, reconcile accounts, BRS, sub ledger recons etc.
+content	experience	· Input & Output VAT reconciliation and TAX return filing.
+content	experience	· AR vs GL reconciliation and month end schedules and deferred revenue details.
+content	experience	· Consolidate and validate inputs from other functions to support accurate financial statements.
+content	experience	· Handle statutory audits & respond to queries raised by auditors. Pass audit adjustment entries where necessary.
+content	experience	· Perform intercompany reconciliation & share SOA with the counterparts to ensure nil difference.
+content	experience	· Intercompany netting off against Payable and Receivable.
+content	experience	· Supporting for Demerger, liquidation, acquisition and sale of business.
+content	experience	· Preparation daily reports like Dash Board report, Unapplied Cash report, Consolidate Productivity report, etc.
+content	experience	· Ensure that all Reports are sent on priority as per the client instructions on daily basis.
+content	experience	· Represent in all financial matters with banks, auditors and other relevant parties.
+content	experience	· Monthly financial review with FC.
+content	experience	1. Company name : Bharti Airtel Service Limited.( Africa Towers and Airtel Money)Professional Experience: Overall Experience of 8.7Years
+content	experience	Designation : Assistance Manager
+content	experience	Domain : Financial Reporting
+content	experience	Duration : Since Aug 2017-Present (1 year)
+content	experience	2. Company name : Infosys BPO Ltd.
+content	experience	Designation : Team Lead
+content	experience	Domain : Financial Reporting
+content	experience	Duration : Since Jun 2013-Aug 2017 (4.2 years-BASL- Africa Towers)
+content	experience	3. Company name : Capgemini Business Services
+content	experience	Designation : Senior Process Associate
+content	experience	Domain : Accounts receivable & Credit Analysis
+content	experience	Duration : From March 2012 – Jun 2013 (1.3 Years)
+content	experience	4. Company name : Infosys BPO Ltd.
+content	experience	Designation : Senior process Executive
+content	experience	Domain : Accounts Payable and Accounts Receivable
+content	experience	Duration : From Dec2009 – March 2012 (2.3 Years)
+header	others	Personal Details
+meta	others	Name : Ramachandra.MS
+meta	others	Father Name : Subbakrishna
+meta	others	DOB : 14-March-1987
+meta	others	SEX : Male
+meta	others	Marital Status : Single
+meta	others	Nationality : Indian
+meta	knowledge	Languages Known : English, Kannada, Hindi, and Telugu
+meta	others	Present Address :
+meta	others	# 70/1, 10th main, 9th cross
+meta	others	Shamanna Road,Shakambari Nagara.
+meta	others	J P Nagara 1st Phase, Bangalore-560078
+meta	others	Karnataka, India.
+meta	others	Permanent Address : #244 KUT GM Street
+meta	others	Malavalli (T) Mandya (D)
+meta	others	Karnataka (state), India
+meta	others	Email ID : 08raaam@gmail.com
+meta	others	Contact Details : Mob: +91 9632995260
+header	others	PASSPORT DETAILS
+meta	others	Passport No : J1392060
+meta	others	Date of Issue : 2nd August 2010
+meta	others	Expiry Date : 1st August 2020
+meta	others	Visa : Kenya (Work Permit).
+meta	others	Declaration
+meta	others	I hear by declare that all the above provided information is true, complete and correct to the best of my
+header	knowledge	Knowledge
+meta	others	Sincere
+meta	others	[RAMACHANDRA.M.S]
+meta	others	3 | Page

@@ -1,0 +1,152 @@
+meta	others	Mohammed Asif
+meta	others	Mobile No.: +91 98844 08565
+meta	others	E-Mail: mohammedasif2280@gmail.com
+header	knowledge	Key Skils /Competencies:
+meta	knowledge	1. Process Excellence, Continues Improvement.
+meta	knowledge	2. Field Operations & Customer Delight
+meta	knowledge	Management.
+content	knowledge	3. Digital Transformation and Automation thru
+content	knowledge	Self Help Channels for B2B / B2C
+content	knowledge	4. Contact Center Operations/ 24/7 Ops, Back
+content	knowledge	Office Ops.
+content	knowledge	5. Business analytics and Reporting
+content	knowledge	6. Project Management, Transition Management
+content	knowledge	of Call Centre Operations
+content	knowledge	7. Service Partner Management – Contact
+content	knowledge	Centre, Service Quality Management
+content	knowledge	8. Back Office & Online Chat Operations and
+content	knowledge	Automation
+content	knowledge	9. Cost Control & Budget Planning and
+content	knowledge	forecasting.
+content	knowledge	10. Compliance and process control management
+header	knowledge	IT Skills
+content	knowledge	 Excel Advance level
+content	knowledge	 MS Access.
+content	knowledge	 PowerPoint Presentation
+content	knowledge	 WINDOWS SQL
+content	knowledge	 R (Intermediate)
+content	knowledge	 Internet Applications
+header	education	Certifications
+content	education	 SIXSIGMA Black Belt – Projects Management
+header	others	Institute
+content	others	 Lean Continues Improvement - Projects
+header	others	Management Institute
+content	others	 ITIL Foundations - AXCELOS
+content	others	 MasterMind Leadership Certification -
+content	others	Vodafone
+header	education	Academic Details
+content	education	 BA Economics, from Bharathiya Shiksha
+content	education	Parishad, in 2005
+content	education	 Higher Secondar : Donbosco Higher
+content	education	Secondary School. 1999
+content	education	 Metric : Princess matriculation Higher
+content	education	secondary School.
+header	experience	Senior Professional
+content	experience	Process Excellence and Process Improvement Specialist with hands on experience of
+content	experience	over 16 years in Service industry.
+content	experience	Targeting Mid senior-level position within an organization of repute in Telecom,
+content	experience	IT/ ITES and Ecommerce
+content	experience	Location Preference: Chennai, Hyderabad, Bangalore.
+header	others	P R O F I L E S U M M A R Y
+meta	others	
+meta	experience	 Process Excellence Professional with over 16 years of rich & versatile
+meta	experience	experience in Service excellence, Field operations, Service Partner
+meta	experience	Management, Contact Centre Operations, Back Office Ops, Voice &
+meta	experience	Non Voice Ops in Telecom Industry. Trained and certified Six Sigma
+content	experience	Black Belt professional, proficient to drive Process Excellence. Hands-on executive with proven track record of driving process excellence
+content	experience	and optimize the Customer Experience. Was associated with
+content	experience	Vodafone Mobile Services, Chennai as Manager Customer Operations
+content	experience	for Tamil Nadu
+meta	others	
+content	experience	 Result oriented professional with strong planning, communication,
+content	experience	interpersonal & Business analytical skills, with proven track record of
+content	experience	achievement in Service Excellence. Successfully led key Service
+content	experience	initiatives & strategies to meet Business and Customer expectations,
+content	experience	thereby resulting in high level of customer satisfaction and loyalty
+content	experience	leading to increase in TNPS and CSAT. Proficient in transforming
+content	experience	processes and enabling innovations in service delivery for enhanced
+content	experience	customer experience and NPS.
+meta	others	
+content	experience	 Hands-on experience in charting out Customer Service Strategies,
+content	experience	process excellence and digital adoption strategies to enhance
+content	experience	customer experience and achieve cost optimization in line with the
+content	experience	budgeted projections. Accorded with “Best Operations Support
+content	experience	Manager” Vodafone Business Services 2018. ‘Best Performer’ 2016-17. ‘Megastar Award’, Vodafone Start and many other awards for
+content	experience	outstanding performance.
+meta	others	
+header	experience	O R G A N I Z A T I O N A L E X P E R I E N C E
+content	experience	Mar 2004 to May 2018 with Vodafone Mobile Services, Chennai.
+content	experience	Growth Path:
+content	experience	 Jul’15 –May 2018 Manager Customer Operations-Continues
+content	experience	Improvement, Process Excellence.
+content	experience	 Jul’13 – Jun’ 15-Deputy Manager – Service Operations, Backoffice
+content	experience	Operations and Process Improvement.
+content	experience	 Jan’11 – Jun’ 13-Deputy Manager – Projects Manager, Transition
+content	experience	Management.
+content	experience	 Mar’08-Dec’10 - Assistant Manager – Documents Management,
+content	experience	Document Audits, Compliance Management, Project Management.
+content	experience	 June’ 06 –Mar’08 - Team Leader – Contact Centre Operations–
+content	experience	Service & Project Management, Tamil Nadu.
+content	experience	 Mar’ 04– June’06 - Contact Centre Executive, (Voice)
+meta	others	-
+meta	others	
+content	experience	Key Highlights: Manager – Customer Operations:
+content	experience	 Championed Process Improvement in Enterprise Service Delivery Resulting in Rs. 5 Million savings in FY 2017-18
+content	experience	 Saved the Company Rs2.4 Million annually by eliminating waste and implementing automation at Customer touch
+content	experience	points.
+content	experience	 Administered the overall functioning of processes, identified improvement areas and implemented adequate
+content	experience	measures using Lean SIXSIGMA methodology
+content	experience	mailto:mohammedasif2280@gmail.com
+content	experience	 Demonstrated the ability to provide viable solutions to operational challenges by conducting root cause analysis
+content	experience	and integrating improvement throughout all the necessary processes.
+content	experience	 Completed Lean projects to increase overall efficiency by upto 30% by implementing automation and
+content	experience	empowerment at customer touch point.
+content	experience	 Initiated regional Service projects and National Projects for the Circle successfully. Championing Process
+content	experience	Improvement and Customer Experience Projects.
+content	experience	 Championed Customer experience campaigns for circle, provided analytical support and track customer
+content	experience	experience journey.
+content	experience	 Cross functional coordination across verticals such as sales, support, business operations, product marketing
+content	experience	during various phases of service lifecycle.
+content	experience	 Facilitated group meetings with project stakeholders across multiple sites for Centre of Excellence; recommended
+content	experience	training programs for new joiners’; ensured that trainings delivered to the team were put into effect and feedback
+content	experience	was given on the program success thereby ensuring a transparent review of acquired talent
+header	others	Awards and recognition :
+meta	others	 Recognised as ‘Best Operations Support Manager for 2017-18 nationally.
+content	others	 Awarded with ‘Best Performer Award’ 2016-17 for the contribution in achieving Circle Target by 150%.
+content	others	 Bagged an award at the National Level for ‘Best Operations Support Manager‘ 2012-13
+content	others	 Accorded with ‘Megastar Award’ for best practice of project management that got adopted at National Level.
+content	others	 Awarded ‘Vodafone Start’ 12 times (A monthly R&R program) for successful project handling.
+content	others	 Played a significant role in successfully organising CXX Reviews at Vodafone Global Accounts involving C Level
+content	others	Executives-
+content	others	 Appreciated for delivering quality projects on improvising call centre matrix and performance, service desk at
+content	others	Vodafone Global and National accounts
+content	others	Projects handled.
+content	experience	 Circle Project Lead and Core team member - CRM Transformation Project (SIEBEL CRM), BRD, feasibility, UAT.
+content	experience	(2016 to till 2018)
+content	experience	 Circle Project Owner for GST Documentations, implementation and Execution, E2E.
+content	experience	 Circle Project lead Enterprise BackOffice – BackOffice transition from Circle to a centralized unit.
+content	experience	 Core Team member for new billing system project for post-paid (AMDOCS) and NMNP.
+content	experience	 Core Team member ‘Project Unify”-A program to consolidate all standalone systems/applications for process
+content	experience	efficiency - Genisys
+content	experience	 Core Team member for “CPOS” – Was part of the core team from BRD, testing, UAT and Go Live for centralized POS.
+content	experience	 Circle Project lead “Project Rectify”- A National Project to collect, consolidate, document and update Account level
+content	experience	information PAN India.
+content	experience	 Project Owner “Document Warehousing” – Lead manged the project to re-verify CAFs and supporting docs to
+content	experience	comply with the telecom regulation norms.
+content	experience	 Enterprise SPOC of all Backoffice operation, Virtual service relationship management and SLA management
+content	experience	P R E V I O U S E X P E R I E N C E
+content	experience	May’03 – Feb ’04 with Ma Foi management Consultant Limited (Deputed at Venture Infotek Pvt Ltd.)
+content	experience	Designation:
+content	experience	 May’ 03 – Feb 04 Call Centre Executive
+meta	experience	Responsibilities-
+content	experience	 Handling Inbound calls
+content	experience	 Responsible for delivering quality standards as per the company norms.
+content	experience	 Insuring Sales targets are met as per the targets assigned.
+content	experience	 Handle escalations, record VOC /Customer Complaints and update the management team.
+content	experience	 Train and Coach new team members.
+header	others	P E R S O N A L D E T A I L S
+meta	others	Date of Birth: 22nd Dec 1980
+meta	others	Marital Status Married
+meta	education	Language Known: English, Hindi, Urdu & Tamil
+meta	others	Address: Flat no S2, 23/53, Sabapathy Street,
+meta	others	Sembiam, Perambur, Chennai 600011

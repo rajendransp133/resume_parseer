@@ -1,0 +1,64 @@
+meta	others	JYOTI KUMARI
+meta	others	Khandeswar ,Navi-Mumabi Conatct:9930561022
+meta	others	Maharashtra - 410209 Email: jyotikmr45@gmail.com
+meta	others	Contact No: +91-9930561022 Email: jyotikmr45@gmail.com
+header	others	Career Objective:
+content	others	Seeking position to utilize my skills and abilities in the industry that offers my professional growth while being resourceful, innovative and flexible.
+header	education	Educational Qualification:
+content	education	Degree
+content	education	Institute
+content	education	University / Board
+content	education	Year of passing
+content	education	Percentage
+content	education	B.E
+content	education	Mandar Education Society Rajaram Shide College of Engineering, Pedhambe, Chiplun
+content	education	Mumbai
+content	education	2016
+content	education	B.E=68.98%
+content	education	Aggregate =6.81(C.G.P.A)
+content	education	HSC
+content	education	Kendriya Vidyalaya No.1 Colaba Mumbai
+content	education	C.B.S. E
+content	education	2012
+content	education	58.6%
+content	education	SSC
+content	education	Kendriya Vidyalaya No.1 Colaba Mumbai
+content	education	C.B.S.E
+content	education	2010
+content	education	65%
+header	experience	Work Experience:
+content	experience	Company : Accenture
+content	experience	Project Name. :NBNCO
+content	experience	Designation : GIS Analyst
+content	experience	Experience : 3 Months(Currently working )
+content	experience	Review network design and update it in geospatial system SpatialNet .
+content	experience	* Upload the design in system
+content	experience	* Apply strong logic to identify the correct path and update the network .
+content	experience	* Update Physical network attributes .
+content	experience	* Document as-build updates for project reconciliation.
+content	experience	Project Name : Tikona Infinet Limited ,Mumbai
+content	experience	Payroll Company : IT Source Technologies Pvt Ltd. Rabal , Navi - Mumbai
+content	experience	Designation : Network Support Engineer
+content	experience	Experience : 11 months 15 days
+content	experience	Job Role:
+content	experience	· Remote monitoring of Network and Client End Connectivity via various NMS tools such as Flex master ,Zone director, Telnet etc.
+content	experience	· Taking necessary action on complaints received from clients based on technical data available from various NMS tools and resolving the same with support of NNOC Team in case of network issue or field team in case of issue observed with client end connectivity by raising ticket in Siebel application.
+content	experience	· Co-ordination with Team leaders and other team members.
+header	knowledge	Technical Skills :
+content	knowledge	· Familiar with OSI model
+content	knowledge	· Troubleshoot network related problems
+content	knowledge	· Spaital Net,GIS, AutoCAD
+header	project	Project Profile:
+content	experience	BE Project: “An event driven campus navigation system”
+content	experience	Platform used: Android Duration: 12 Months
+content	experience	There are many application and commercial device that provide driving directions and navigation. This navigation became easier with the help of google maps on GPS enabled android devices. We have designed our system such a way that user can get event information from any distance, any place. All the existing system follows complex mechanism for storing and updating of location data but we have implemented a very simple mechanism for the same. There will be an administrator who will update event information on server. This will also help new comers to get exact location and route of event location. Help event organizers to get proper audience.
+header	others	Personal Details:
+meta	others	Date of Birth : 30-10-1994
+meta	others	Father Name : Sudhish Kumar
+meta	others	Mother Name : Veena Devi
+content	knowledge	Languages Known : English, Hindi
+header	others	Declaration:
+meta	others	I hereby declare that all the above details are true to the best of my knowledge and belief.
+header	others	Date:
+meta	others	Place: ……………………………….
+meta	others	JYOTI KUMARI

@@ -1,0 +1,23 @@
+header	others	CURRICULUM VIATE
+meta	others	SAIBAL BANERJEE
+meta	others	19 NO. D.N.C ROAD
+meta	others	KOLKATA – 700035
+meta	others	Contact: 9830930636
+meta	others	Email: saibalbanerjee1995@gmail.com
+meta	others	DOB: 01-09-1995
+header	others	Career Objective
+content	others	To work on a challenging job profile which provides an opportunity to enhance my technical, Skills and knowledge, this could provide me an insight into new aspects so what it would be helpful for my career.
+header	education	Education
+content	education	· Completed 10th (HSC) with 58% in 2009 - 2010 from Sri Ramakrishna VidyaPith, Baranagar.
+content	education	· Completed 12th Commerce with 60% in 2011 – 2012 from Baranagar Narendra Nath Vidya Mandir.
+content	education	· Completed B.COM in 2016 – 2017 from Calcutta University.
+header	knowledge	Computer Skills
+content	knowledge	Well versed with Tally ERP9 version 6.1.1, MS Word, MS Power Point, MS Excel.
+header	experience	Work Experience - Junior Accountant [Trainee] 01 FEB 2016 – till date.
+content	experience	· Working at Tally ERP 9. Version 6.1.1
+content	experience	· Preparing accounting GST vouchers and passing entries in Tally.
+content	experience	· Maintain Bank reconciliation, accounts payables and accounts receivables.
+content	experience	· Maintaining Inventory books.
+content	experience	· Prepare daily and monthly cash and fund flow statements.
+content	experience	· Handling monthly TDS and P.TAX payment.
+content	others	Hobbies - Playing cricket and listening song.

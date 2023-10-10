@@ -1,0 +1,107 @@
+header	others	CURRICULUM VITTAE
+meta	others	Zubair Ahmed Chopdar
+meta	others	Mobile: +91 9916628911,9731332838
+meta	others	Email: zubair5040@gmail.com
+content	others	Looking for challenging duties in an expert environment that makes use of my analytical, problem-solving abilities, expertise and specialized information, for the mutual development of my career.
+header	experience	Skills and Attributes
+header	experience	· Bachelor of Engineering in Electronics and Communication Engineering .
+content	experience	· Proficient Network Engineer with total experience of 4 years
+content	knowledge	· Strong knowledge of internet connectivity and protocols such as TCP/IP protocol suite, OSI model.
+content	knowledge	· Good understanding of TCP ,UDP,IP,ARP,SNMP, NETFLOW,,DHCP.
+content	experience	· Working experience on Cisco L2/L3 Switches like: 2950, 2960, 3550, 3560 ,6500 Series.
+content	experience	· Working experience on Cisco Routers like 1841, 1905, 1921, 841ISR,819, 7206VXR, 3845, 3945, 4321,4500 Series.
+content	experience	· Configuring and Troubleshooting on Switching: VLAN, VTP, STP\RSTP, VRRP, HSRP, GLBP, LACP, PAGP
+content	experience	· Configuring & troubleshooting of Routing Protocols like EIGRP, OSPF, BGP and static routing.
+content	experience	· Configuring ACL, NAT/PAT, IPsec VPN.
+header	knowledge	· Knowledge on ASA firewall.
+content	experience	· Working experience on Monitoring Tools like Spectrum CA, ITSM and BMC Remedy ticketing tool.
+content	experience	· Deep understanding of troubleshooting in LAN and WAN setup.
+content	experience	· Troubleshooting on WAN technologies like, ISDN, VSAT, LTE, point to point, MPLS, T1/E1, T3/E3, and STM 1 Circuits,OUT OF BAND, POTS LINE.
+content	experience	· Upgrading IOS/License on Cisco Routers and Switches.
+content	experience	· Excellent in customer interactions with good interpersonal skills.
+content	knowledge	· Knowledge on ITIL Frame-work.
+header	experience	Profile Summary
+content	experience	· Currently working as a Network Operation Engineer in Accenture Solutions Pvt Ltd from August,2017 to till date.
+content	experience	· Worked as a Network Engineer in Dimension Data India Ltd, Bangalore from July, 2015 to August 2017.
+content	experience	· Worked as a Network Engineer with Wipro InfoTech, Bangalore from Sep, 2014 to July,2015.
+content	experience	· Worked as a Intern with Dimension Data India Ltd, Bangalore from May, 2014 to July 2014.
+content	experience	· CCNA/CCNP certified (Routing and Switching).
+content	experience	· CCNP-Routing completed-CISCO ID NO:CSCO12754134
+header	experience	Work Experience Details
+content	experience	Accenture solutions pvt ltd.
+content	experience	Location: Bangalore.
+content	experience	Designation: Network Operation Engineer
+content	experience	Reporting: Operation Manager
+content	experience	Tenure: August 2017 to till date.
+content	experience	I have selected as a Network Engineer for Implementation Engineering team to provide Tier-2 support to their major client VERIZON Communication.
+content	experience	My main responsibilities in this job role are:
+content	experience	· Involved in implementation of client network as per the network design.
+content	experience	· Implement of WAN and LAN of the customer network.
+content	experience	· Working on activities like,WAN Activation, LAN Activation,LTE Cellular, Failover Testing..
+content	experience	· Identification, troubleshooting and resolving LAN and WAN issues .
+content	experience	· Configuring and troubleshooting BGP,OSPF,EIGRP, BFD,QOS , VRF, and Static routes.
+content	experience	· Configuring and troubleshooting DMVPN,Ipsec and GRE tunnel.
+content	experience	· Configuring and troubleshooting VLAN, STP,VTP, HSRP, VRRP.Portchannel.
+content	experience	· Configuring SNMP , NETFLOW ,TACACS, upgradation of IOS.
+content	experience	· Troubleshooting on various WAN technologies like Frame-relay, Point to Point protocol, MPLS.
+content	experience	· Coordinating with Field Technicians on site for assisting physical/hardware issues.
+content	experience	Dimension data India ltd.
+content	experience	Location: Bangalore.
+content	experience	Designation: Associate Network Engineer
+content	experience	Reporting: Operation Manager
+content	experience	Tenure: July2015 to till date.
+content	experience	I have selected as a Network Engineer for Incident Management team of Global Network Operation Center Team to provide L2 Network support to their major State Bank Group clients.
+content	experience	My main responsibilities in this job role are:
+content	experience	· Involved in troubleshooting and resolution of all network-related issues from production environment.
+content	experience	· Working on Incidents/Tickets to resolve network connectivity issues based on SLA.
+content	experience	· Identification, troubleshooting and resolving LAN and WAN issues .
+content	experience	· Configuring and troubleshooting BGP,OSPF and Static routes.
+content	experience	· Configuring and troubleshooting VLAN, STP,VTP, HSRP and VRRP.
+content	experience	· Configuring and troubleshooting Access Lists, IPSec site to site VPN, routing and switching related issues.
+content	experience	· Troubleshooting on various WAN technologies like ISDN, VSAT, Point to Point protocol, MPLS.
+content	experience	· Monitoring data center devices, links and client site network.
+content	experience	· Coordinating with Service providers BSNL, TCL.RAILTEL, VODAFONE, and AIRTEL in order to maintain the Network stability and uptime.
+content	experience	· Performing head to head testing with Telco’s to isolate trouble circuits
+content	experience	· Performing the Network Heath Check, Reporting and Documentation.
+content	experience	· Involved in day to day operations with Change & Problem management by adopting ITIL industry-leading standards.
+content	experience	WIPRO INFOTECH (TeCPOOL Solutions)
+content	experience	Location: Bangalore, India
+content	experience	Designation: Network Engineer
+content	experience	Reporting: Operation Manager
+content	experience	Tenure: Sep 2014 to July 2015
+content	experience	· I was selected as a Network Engineer of NOC support team with objective to give primarily L1 supports to their CANARA BANK RRB client. My main responsibilities in this job role were:
+content	experience	My main responsibilities in this job role are:
+content	experience	· Proactively Monitoring Clients Wide Area Networks using Monitoring tools .
+content	experience	· Creating Incident Tickets on Network Alerts, timely updating of restoration activities, with respect to vendors and internal teams.
+content	experience	· Troubleshooting all LAN and WAN issues.
+content	experience	· Configuring and Troubleshooting on P2P links, VSAT, MPLS. T1/E1, T3/E3 Circuits.
+content	experience	· Configuration and troubleshooting OSPF, BGP and Static routes.
+content	experience	· Configuration and troubleshooting VLAN, STP, VTP, HSRP.
+content	experience	· Configuration of IPSEC VPN, ACL’s, Port Security.
+content	experience	· Remotely handling the client Network Devices-Routers, Switches.
+content	experience	· Configuration and troubleshooting of Switching and Routing protocols.
+content	experience	· Cisco IOS and bandwidth up gradation,ISP Changes, replacement of devices by co-ordination with Network Tier 2 team and with service providers.
+content	experience	· Managing Datacenters and enterprise network Infrastructure of client.
+header	education	EDUCATION
+content	experience	· Bachelor of Engineering in Electronics and Communication Engineering.
+content	education	VTU University,Shirdi Sai Engineering College,Bangalore
+content	education	2013
+header	others	PERSONAL INFORMATION
+meta	others	Name :Zubair Ahmed Chopdar
+meta	others	Date of Birth :26thMay 1989
+meta	others	Sex :Male
+meta	others	Nationality :Indian
+meta	others	Marital status :Single
+meta	others	Present Address :No:123,3rd floor,4th A cross,
+meta	others	Near Poornima Hospital,
+meta	others	RT NAGAR
+meta	others	Bangalore-560032
+meta	others	State-Karanataka.
+meta	others	Permanent Address :Shivabasava Nagar 1st Cross,
+meta	others	Near Ganesh Temple,
+meta	others	HAVERI-581110-KARNATAKA
+meta	others	Hobbies: Reading, Surfing, listening Music and making new friends.
+meta	others	Reference : Are available on request.
+meta	others	I hereby declare that the above information are true to best of my Knowledge & Belief.
+meta	others	Place: Bangalore
+meta	others	Date: Signature

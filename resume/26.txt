@@ -1,0 +1,213 @@
+header	others	RESUME
+meta	others	NANDAKUMAR GOVINDAN
+meta	others	Mail Id: nandha_sastra@yahoo.com
+meta	others	Mobile: +91-9600985215
+header	others	Career Objective
+content	others	To make a mark for myself in whichever field I set my foot on and to face the global IT challenges ahead with the best of my performance and confidence.
+header	experience	Summary
+content	experience	· ORACLE Developer - with 8.5 years’ experience in Banking Domain (Security Financing), Telecommunication Domain.
+content	experience	· 3 years of ONSITE work Experience as a Development Lead.
+content	experience	· Have 5 years of experience in accounting, Sub ledger & Report.
+content	experience	· Played Significant role in Requirement Analysis, Estimation for FP & TM Projects, Development, Deployment and Support activities.
+content	experience	· Hands on in Incident management, Problem management and change management.
+content	experience	· Have worked in Agile projects.
+content	experience	· Received Best performer award for 2014 ,2015 from Infosys & ABN.
+header	experience	Professional Experience
+header	experience	PRESENT EMPLOYER:
+header	experience	Duration
+content	experience	: Apr 2012 – Till date.
+header	experience	Employer
+content	experience	: Infosys Limited
+content	experience	Position
+content	experience	: Technology Analyst
+content	experience	PREVIOUS EMPLOYERS:
+header	experience	Duration
+content	experience	: May 2011 – Apr 2012.
+header	experience	Employer
+content	experience	: UST GLOBAL.
+header	experience	Position
+content	experience	: Senior Software Engineer.
+content	experience	Duration
+content	experience	: Mar 2009 – May 2011.
+content	experience	Employer
+content	experience	: Ellaar Infotek Solutions Pvt Ltd, Chennai(www.EllaarInfotek.com).
+content	experience	Position
+content	experience	: Junior Associate-Projects.
+header	education	Academic Profile
+content	education	· B. Tech in Computer science from Shanmugha Arts, Science, Technology and Research Academy (SASTRA UNIVERSITY), Thanjavur with 6.25 CGPA aggregate in 2008.
+header	knowledge	Technical Skills
+content	knowledge	Methodology
+content	knowledge	Agile , Waterfall
+header	knowledge	Languages
+content	knowledge	Oracle PL/SQL, SQL Tuning, Unix Shell script
+content	knowledge	,Velocity
+content	knowledge	Database
+content	knowledge	Oracle 9i/10g/11g ,MS SQL Server 2005/2008
+content	knowledge	Tools
+content	knowledge	PRISMA , HP-QC , JIRA
+content	knowledge	Reporting Tools
+content	knowledge	BOXI
+content	knowledge	Development Tools
+content	knowledge	TOAD, SQL – developer, IXP, PUTTY,
+content	knowledge	SQL server management studio
+content	knowledge	Operating Systems
+content	knowledge	UNIX, Windows
+content	knowledge	Scheduler
+content	knowledge	Autosys, CONTROL –M
+content	knowledge	Source Safe Tool
+content	knowledge	Tortoise SVN ,Bit bucket
+header	project	Accomplished Projects
+content	project	1. IRH - Data Migration –SQL Server to Oracle:
+content	project	Client
+content	project	Bank of America
+content	project	Duration
+content	project	4 Months
+content	project	Team Size
+content	project	5
+content	project	Skills
+content	knowledge	Oracle PL/SQL , UNIX , SQL Loader, SQL Tuning
+content	project	Role
+content	project	Development Lead
+content	project	Description:
+content	project	Perform data migration from SQL server to Oracle Database for the AR system for these location Hong Kong, Malaysia, Singapore, Taiwan, Thailand and Indonesia.
+content	project	Responsible for:
+content	project	· Created the Physical data model for the Target System.
+content	project	· Interacting with client & Functional team to derive the data mapping between source & Target.
+content	project	· Analysis of various tools to achieve the Data migration.
+content	project	· Developed the logic for the Data Migration.
+content	project	· Developed the Validation reports for the data migration.
+header	project	2. Agile Project:
+content	project	Client
+content	project	ABN AMRO
+content	project	Duration
+content	project	18 Months
+content	project	Team Size
+content	project	13
+header	knowledge	Skills
+content	knowledge	Development ,Testing ,BA
+content	project	Role
+content	project	Agile Developer (Onsite)
+content	project	Description:
+content	project	Have undergone an Agile training from ABN AMRO for 3 Months and Implemented the agile process of working with the help of scrum master and Product owner.
+header	project	Responsible for:
+content	project	· Worked in more 15+ sprints and delivered the committed story points.
+content	project	· Participated in the backlog refinement meeting, provided demos to client for the sign offs of the user stories
+content	project	· Involved in Functional testing.
+content	project	· Created CICD Pipeline using Jenkins.
+content	project	· Worked on the unit testing automation.
+content	project	3. 4sight Slice to FBS Interface:
+content	project	Client
+content	project	ABN AMRO
+content	project	Duration
+content	project	18 Months
+content	project	Team Size
+content	project	11
+header	knowledge	Skills
+content	knowledge	Oracle PL/SQL , UNIX , SQL Loader, SQL Tuning, Velocity, Autosys
+content	experience	Role
+content	experience	Onsite Development Lead
+content	project	Description:
+content	project	R3 program initiated a project to connect the Securities Financing product flow for NL Book to the Finance target environment of ABN AMRO Bank for monthly reporting. We did Phased approach for this project, Phase 1 we achieved Redesigning of the SLICE Data model, fix the Performance issues and Data Migration. Phase 2 we did Accounting Rule impact in Slice pertinent to 4sight changes. Phase 3 we created the reports to FBS & Implementation of Various Reconciliation files.
+content	project	Responsible for:
+content	project	· Created the Technical design (Including the Data Model design) and Provided the pseudocode.
+content	project	· Interacting with client for requirement gathering and for product demo.
+content	project	· Worked on the Fixed Pay Development Estimate for all the 3 Phases (WBS Template).
+content	project	· Code Quality reviews and code integration.
+content	project	· Took part in the Release management activities.
+content	project	· Developed the logic for the Data Migration using manual ETL logics.
+content	project	· Developed the Validation reports for the data migration.
+content	project	· Worked with Jenkins to build the code from the source safe for the deployment (CI/CD).
+content	project	· Responsible for building a strong technical team in offshore.
+content	project	4. Triparty Collateral allocation functionality:
+content	project	Client
+content	project	ABN AMRO
+content	project	Duration
+content	project	9 Months
+content	project	Team Size
+content	project	4
+header	project	Skills
+content	project	Oracle PL/SQL , UNIX , SQL Loader, SQL Tuning, Velocity, Autosys
+content	project	Role
+content	project	Onsite Development Lead
+header	experience	Description:
+header	experience	Responsible for:
+content	experience	· Created the Technical Design, Technical Estimation.
+content	experience	· Worked on the development to create the accounting rules for the Disclosure events.
+content	experience	· Created reconciliation Cash & Non cash extracts from SLICE to Intellimatch (Downstream system) and runtime Disclosure Reports for Product Control Team.
+content	experience	· Code Quality reviews and code integration.
+content	experience	· End to end release management activities
+content	experience	5. Partial Settlements:
+content	experience	Client
+content	experience	ABN AMRO
+content	experience	Duration
+content	experience	6 Months
+content	experience	Team Size
+content	experience	3
+header	knowledge	Skills
+content	knowledge	Java , BOXI , MQ Messages
+content	experience	Role
+content	experience	Onsite Development Lead
+header	experience	Description:
+content	experience	Settlement allocation module does not accept the partial settlements sent from BANCS,
+content	experience	Responsible for:
+content	experience	· Effort estimation and project plan creation which includes billing data.
+content	experience	· Coordinating the team on their individual task status for team and client meetings.
+content	experience	· Creation of Technical design and Bo reports using BOXI.
+content	experience	6. SSS-IMPLEMENTAION:
+content	experience	Client
+content	experience	GE
+content	experience	Duration
+content	experience	11 Months
+content	experience	Team Size
+content	experience	14
+content	experience	Skills
+content	experience	SQL, PL/SQL, Oracle apps.
+content	experience	Role
+content	experience	GE Corporate consultant.
+header	experience	Description:
+content	experience	SSS-IMPLEMENTAION deals with the indirect procurement of GE for their various businesses. The activities are Implementation of GE customized functionalities in oracle apps and supporting the standard and GE customized functions of oracle apps in development, stage and production instance. The major activity is resolving tickets for various modules of oracle apps and their functional changes.
+content	experience	Responsible for:
+content	experience	· Analyzing the PL/SQL scripts for issue related tickets.
+content	experience	· Reviewing the PL/SQL scripts while implementing new functions and operating unit in stage instance.
+content	experience	· Code Migration of new functions to Production instance.
+content	experience	· Resolving ticket related to AP and PO modules.
+content	experience	· System administration Responsibilities.
+content	experience	7. ABB:
+content	experience	Client
+content	experience	Atlantic Broad Band, US.
+content	experience	Duration
+content	experience	24 Months
+content	experience	Team Size
+content	experience	6
+header	knowledge	Skills
+content	knowledge	SQL, PL/SQL, ETL PROCESSING.
+content	experience	Role
+content	experience	Oracle PL/SQL Developer
+content	experience	Description:
+content	experience	Atlantic Broad Band (ABB) Services is the leading provider of Entertainment, Information and Communications services and also offers the highest level of customer support for the communities of services. Atlantic Broadband is ranked among the top 20 U.S. cable television operator, with over 400,000 customers. We generate various types of reports based on their Ad-hoc request through Oracle SQL and PL/SQL. We also provide support and maintenance.
+header	experience	Responsible for:
+content	experience	· Writing Queries by understanding Business Logic.
+content	experience	· Creating Procedures for updating Weekly Transactions in the table.
+content	experience	· Creating Functions and Triggers for efficient data processing & updating.
+content	experience	· Maintaining Daily and Weekly Transactions till now.
+content	experience	· Table Analysis for data pull from the Client Server.
+content	experience	· Doing ETL (Extraction and Transformation) Process Daily.
+content	experience	· Handling various changes in the ETL Process.
+content	experience	· Loading various data through SQL Loader.
+header	others	Personal Profile
+meta	others	· Father’s Name : Mr. K.Govindan.
+header	others	· Date of Birth
+meta	others	: 30-May-1987.
+header	others	· Age
+meta	others	: 30 Years.
+meta	knowledge	· Linguistic Proficiency : English, Tamil.
+meta	others	· Favorite Pursuits
+meta	others	: Listen Music, Reading Books.
+header	others	Declaration:
+meta	others	I hereby declare that all the details given above are true to the best of my knowledge and belief.
+meta	others	Yours truly,
+meta	others	Station
+meta	others	: Chennai
+meta	others	Date
+meta	others	:
+meta	others	G. NANDAKUMAR

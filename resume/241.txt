@@ -1,0 +1,60 @@
+meta	others	DEEPALI.D.SINGH
+meta	others	ContactNo:+918082193997,+919967968230
+meta	others	Mumbai-13 Email-deepalisingh899@gmail.com
+header	others	CAREEROBJECTIVE
+content	others	Togetelevatedwithinmychosenfieldthatwillchallengemeandallowmeto
+content	others	usemyeducation,skillsandpastexperiencesinawaythatismutuallybeneficialto
+content	others	both myselfand organization forfuturegrowth and advancement.To getthe
+content	others	opportunitytoworkasananalystandutilizingmyanalyticalandmethodicalskillsin
+content	others	accomplishingthecompany’sgoalsandvisions.
+header	education	ACADEMICQUALIFICATIONS
+content	education	DEGREE/
+content	education	COURSE
+content	education	INSTITUTION BOARD/UNIVERSITY YEAROF
+content	education	PASSING
+content	education	PERCENTAGE
+content	education	/CGPA
+content	education	B.E.(IT) PVPPCollege
+content	education	ofEngineering
+content	education	MumbaiUniversity August-2017
+content	education	5.89
+content	education	HSC
+content	education	(SCIENCE)
+content	education	M.D.Collegeof
+content	education	ArtsAnd
+content	education	Science
+content	education	MaharashtraState
+content	education	Board
+content	education	February—
+content	education	2013
+content	education	64.67%
+content	education	SSC SVMEnglish
+content	education	MediumHigh
+content	education	School
+content	education	MaharashtraState
+content	education	Board
+content	education	March—
+content	education	2011
+content	education	87.04
+header	project	PROJECTS
+content	experience	 FinalYear–ProjectDescription
+content	experience	AndroidDieticianApp-Theapplicationisaccessibleforpeopleofallagegroups.Itcalculatesan
+content	experience	individual’sBMI.Javaplatform issuedapplicationdevelopmentusingAndroid
+content	experience	Studio.WeusedFirebaseReal-timeDatabase,soaDatabaseServerwasnot
+content	experience	needed.Ittakesuser’sinputandgeneratestheirBMIanddietchart.
+header	knowledge	SKILLS
+header	knowledge	Softwareskills
+content	knowledge	 Java
+content	knowledge	 SQL
+content	knowledge	 Rprogramming
+content	knowledge	 Tableau
+content	knowledge	 Python
+header	knowledge	OtherSkills
+content	knowledge	 MS-Office
+content	knowledge	 MS-Excel
+content	knowledge	 MS-PowerPoint
+content	knowledge	 MS-Word
+header	education	CERTIFICATIONS
+content	education	 CertificateinMS-CITwith84%inJune-2011.
+content	education	 CertificateinBusinessAnalyticsinMarch-2018.
+content	education	 CertificateinDataVisualizationinMarch-2018.

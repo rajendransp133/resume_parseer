@@ -1,0 +1,116 @@
+header	others	RESUME
+header	others	RESUME
+meta	others	Mayur Madhukar Walzade
+meta	others	Email:-mayur858559@yahoo.co.in
+meta	others	Mobile No.: 09595405658
+meta	others	Home No.: 0253-2534500 --------------------------------------------------------------------------------------------
+header	others	· Objective
+content	others	To Specialize in Web and Multimedia to take a challenging career in it.
+header	education	· Academic Qualifications
+content	education	10th Standard, Modern High School (Nashik), Year=1999
+content	education	12th Standard, H.P.T College (Nashik), Year=2001
+content	education	Bachelor of Arts (Graduation), H.P.T.College Pune University (Nashik), Year=2006
+content	education	Diploma in Graphics & Web Designing, Arena Multimedia F.C.Road Pune, Year=2007
+header	education	· Professional Qualifications
+content	education	Diploma in Computer Application
+content	education	Unitech Computer Institute, Nasik Year=2002
+content	knowledge	(MS- Office, Ms- Excel, Ms- Power point, Tally, Fox-pro, Ms-Dos, Net Surfing.)
+header	knowledge	· Computer Skills
+content	knowledge	Vector Graphics Raster Graphics
+content	knowledge	Adobe Illustrator Adobe Photoshop Corel Draw Adobe Image Ready
+content	knowledge	Authoring (Multimedia/Web) Other Software
+content	knowledge	Macromedia Flash Joomla, CS-Cart
+content	knowledge	Macromedia Dreamweaver PHP, Flash Scripting,
+content	knowledge	HTML, DIV Based Layout with CSS Java Script & Action Script
+header	experience	· Work Experience
+content	experience	1) Company Name : eLuminoustechnologies Pvt. Ltd. Nasik.
+content	experience	Designation : Web Designer Duration : 01ST June 2008 to 30 March 2009.
+content	experience	· Done Project Link
+content	experience	http://www.gmcsouthernaz.com/
+content	experience	http://www.pontiacsouthernaz.com
+content	experience	http://www.darnerjeepchrysler.com/
+content	experience	http://www.eluminoustechnologies.com/
+content	experience	http://www.marsmanltd.net/index.htm
+header	experience	2) Company Name : TopRockIndia Web Solutions Pvt. Ltd. Nasik.
+content	experience	Designation : Web Designer Duration : 01ST April 2009 to 30th Jan 2010.
+content	experience	· Done Project Link
+content	experience	http://www.solarpanelsoutlet.com/
+content	experience	http://www.solarwaterheateroutlet.com/
+content	experience	http://www.relentlessfightgear.com/
+content	experience	http://www.selleygroup.com
+content	experience	http://heritagerelocation.com/
+content	experience	http://www.autopartsdiscounters.com/
+content	experience	http://www.clutchplace.com/
+content	experience	http://www.louisvillecoloradorealestate.com/ http://www.lafayettecoloradorealestate.com/
+content	experience	http://www.toprockindia.com
+content	experience	http://www.realestatearvada.com/
+content	experience	http://heritagerelocation.com/
+content	experience	http://www.realestatebroomfieldcolorado.com/
+content	experience	http://www.auctionbyseller.com/
+content	experience	http://www.coldwellbankerwestcliffe.com/
+content	experience	http://www.beevradenburgfoundation.org/
+header	experience	3) Company Name
+content	experience	: Infosys BPO Ltd.
+content	experience	Designation : Sr. Process Executive (UI Developer) Duration : 22nd Feb 2010 to till date
+header	project	· Project # 1
+content	experience	Title
+content	experience	: INPR-Infosys Website.
+content	experience	Software
+content	experience	: Photoshop, Flash, HTML and CSS, Flex
+content	experience	Role
+content	experience	: Designing and development
+content	experience	Team Size
+content	experience	: 10 to 12 People
+content	experience	Description: INPR (Infosys). Developed design concepts as per requirement, created web graphics and graphical UI, coded W3C compliant XHTML and CSS code, cross browser compatible for effective web design.
+header	project	· Project # 2
+content	experience	Title
+content	experience	: Adidas Group.
+content	experience	Software
+content	experience	: Photoshop, Dream Viewer, HTML and CSS,
+content	experience	Role
+content	experience	: Designing and development
+content	experience	Team Size
+content	experience	: 10 to 12 People
+content	experience	Description: Developed design concepts as per requirement, created web graphics and graphical UI, coded W3C compliant XHTML and CSS code & use java script, cross browser compatible for effective web design,
+header	project	· Project # 3
+content	experience	Title
+content	experience	: Bank of America.
+content	experience	Software
+content	experience	: Photoshop, Visio Studio, HTML & CSS
+content	experience	Role
+content	experience	: Designing and development
+content	experience	Team Size
+content	experience	: 10 to 20 People
+content	experience	Description: Developed and modified web-pages for Bank of America online Website. Create the page & did the changes as per client requirement & create a wire frame in Visio Studio & update the information in CAR Table, The web- page also included images. They were corrected if they were having any errors.
+header	knowledge	· Technical Competencies
+content	knowledge	HTML, DHTML, XML, JavaScript, CSS, Adobe Dream Weaver cs4, Photoshop cs5 , Adobe Flex3, Flash with Action Script, Flex, Visio Studio, Imagerady cs5, Illustrator, CorelDraw, Freehand, Firework, Sound Forge, Jquery, Silverlight effect, Cs-Cart, Joomla, Wordpress.
+content	knowledge	Dive base Website with W3C Standard and CSS code, cross browser compatible for effective web design.
+content	knowledge	PHP, Action & Java Script (Design Perspective).
+content	knowledge	· Areas of Specialization
+content	knowledge	· Familiar with designing layout for various Webpages.
+content	knowledge	· Involved in designing a web page & Development Of UI screens.
+content	knowledge	· Writing HTML Code & CSS for the pages.
+content	knowledge	· Writing JavaScript for the pages.
+content	knowledge	· Writing Test cases as per specification.
+content	knowledge	· Blogging Software, C.M.S., E-Commerce System like Joomla, Wordpress and
+content	knowledge	Forum software such as PhpBB.
+content	experience	· Possess 3 years and 6 months of experience in various streams of Web Designing & Development.
+meta	others	· Personal Details
+meta	others	Email ID : mayor.walzade@gmail.com
+meta	others	IT Pin : 851036560730 (NSR Registration)
+meta	others	Pan Number
+meta	others	: ABCPW8717F
+meta	others	Passport Number
+meta	others	: J4319606
+content	others	Mobile Number : +919822858559, +919595405658.
+meta	others	Home Number : 0253-2534500.
+meta	others	Marital Status : Single
+meta	others	Date of Birth : 26 June, 1982
+meta	knowledge	Language’s known : English, Hindi and Marathi.
+meta	others	Strengths : Optimistic, Hardworking, Goal Oriented.
+meta	others	Permanent Address : Sapatrang Society, Flat No.27, Shahu Nagar,
+meta	others	Near R.T.O., Meri, Peth Road, Pachavati, Nasik-422003. Maharashtra, India.
+meta	others	I hereby declare that, all the information given above is true to the best of my knowledge.
+meta	others	Thank You
+meta	others	You’re faithfully
+meta	others	Mayur M. Walzade

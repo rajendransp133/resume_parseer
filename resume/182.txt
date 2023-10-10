@@ -1,0 +1,63 @@
+meta	others	SOUNDARYAPRABHA. M (
+meta	others	Mob
+meta	others	ile
+meta	others	:
+meta	others	+91
+meta	others	-
+meta	others	8015437258
+meta	others	E-Mail:
+meta	others	sou
+meta	others	n
+meta	others	daryapra
+meta	others	b
+meta	others	ha93@gmail.com
+meta	others	)
+meta	others	S/o .A. Mohan
+meta	others	4/112A,Mullai Street,Swamysonaiyanagar,
+meta	others	Madurai(DT),
+meta	others	Pin-625009.
+header	others	OBJECTIVE :
+content	others	To work in a globally competitive environment on challenging assignments that seeks an ambitious and career conscious where acquired skills and education will be utilized towards continues growth of the esteemed organization.
+header	experience	WORKING EXPERIENCE:
+content	experience	· Apex Life Improvement Centre:
+content	experience	Computer operator from June’2016 to July’2017.
+content	experience	· Worked as a System operator in Development and cultural sector for Apex Life Improvement Centre which is a NGO.
+content	experience	· Intelenet Global Services:
+content	experience	Senior Customer Service Executive International Non-Voice Process from September’2017 to August’2018.
+content	experience	· Working as a Decision Maker in Mandate change process for Barclays Shared Services.
+header	knowledge	SKILLS:
+content	knowledge	· Banking applications
+content	knowledge	· Good Communication and Presentation Skills.
+meta	others	·
+header	experience	· KEY RESPONSIBILITIES HANDLED:
+content	experience	· Creating and Implementing Workflows (new process ideas) to Facilitate
+content	experience	Structured Support in all Areas and Issues.
+content	experience	· Customer Service and Relation.
+content	experience	· Process and Productivity Improvement.
+content	experience	· Checking Customer Corresponds and Internal Evidence.
+content	experience	· Root Cause Analysis.
+header	project	ACADAMIC PROJECT:
+content	experience	· A project presentation on “Website Creation for Apex life Improvement Centre”
+header	experience	Description:
+content	experience	Created a new website to enhance the growth of a NGO. That websit contains more number of modules like blood donation, organ donation, fund donation and their activities, awareness programs etc. Website developed with front end PHP, JAVA Script and back end SQL.
+content	experience	· A project presentation on “Online Pharmacy”
+header	experience	Description:
+content	experience	Created for a Hospital. It contains the patient’s details, pharmacy details and availability of the medicines. This application developed with front end ASP.net and back end SQL.
+header	education	ACADAMIC DETAILS:
+content	education	MCA 2013-2016 GRI Deemed University Dindigul
+content	education	Percentage: 66%
+content	education	B.Sc(IT) 2010-2013 PVP Arts&Science college Dindigul
+content	education	Percentage: 63%
+content	education	CLASS XII 2010 St.peter’sHr.Sec.School-G.Kallupatty
+content	education	Percentage: 56%
+content	education	CLASS X 2008 St. Peter’sHr.Sec.School-G.Kallupatty
+content	education	Percentage: 70%
+header	others	PERSONAL PROFILE:
+meta	others	Father : Mr. MOHAN.A
+meta	others	Date of Birth : 18/03/1993.
+content	knowledge	Languages known : English, Tamil.
+meta	others	Nationality : Indian.
+header	others	DECLARATION:
+content	others	I hereby declare that the information given above is true to my knowledge and subjected to verify.
+header	others	Place:
+meta	others	Date : SOUNDARYAPRABHA.M

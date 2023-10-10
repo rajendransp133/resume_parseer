@@ -1,0 +1,110 @@
+meta	others	Anju Chaurasiya
+meta	others	Email ID: - anju.chaurasiya20@gmail.com
+meta	others	Contact no. : - +91-9594170311/8355871154
+meta	others	LINUX ADMINISTRATOR
+header	experience	Career Profile
+content	experience	Experienced Linux administrator, with a strong performance background in wide variety of professional system support and solution-based IT services for Linux Systems (or administrations) including, monitoring, configuration, troubleshooting and maintenance of operating systems.
+content	experience	Objective – Obtain a Linux administrative position where I can maximize my technical experience in installation, configuration and maintenance of Linux server based system and network applications.
+content	experience	Technical Proficiency and Expertise
+content	knowledge	· Red Hat Linux and SLES
+content	knowledge	· User administration
+content	knowledge	· SSH server configuration and management
+content	experience	· Maintaining disk space, partitions and LVM
+content	experience	· NFS and SAMBA server configuration and management
+content	experience	· Patching Red Hat Linux /SLES servers through Red Hat Satellite
+content	experience	· Packages management through RPM, YUM and Zypper.
+content	experience	· Change and Incident management as per ITIL.
+content	experience	· Excellent communication, interpersonal and customer handling skills.
+content	experience	· Ability to document procedures and processes accurately.
+content	experience	· Resolving server vulnerabilities scanned by NESSUS.
+header	education	Certifications
+content	education	· RHCSA and RHCE (Certification ID: 180-147-506)
+content	education	· Lean six sigma yellow belt certified.
+content	education	· ITIL foundation certified.
+header	experience	Professional Experience
+content	experience	Capgemini India Pvt. Ltd. Mumbai, India [4 years 6 month]
+content	experience	Client: PDX Inc (US)
+content	experience	Designation: Linux System Administrator
+header	experience	Role and responsibilities:
+content	experience	· Handling problem management, Incident management, Service Management, Change Management and Vendor co-ordination within SLA/deadlines to meet customer satisfactions.
+content	experience	· Managing over 900+ Linux servers for monitoring, upgrade, user administration, disk management, Data management, resource utilization, memory usage, access management, performance/slowness issue and troubleshooting issue.
+content	experience	· Patching Redhat/SLES servers using ansible code through Jenkins pipeline.
+content	experience	· Resolving server vulnerabilities scanned by NESSUS.
+content	experience	· Monitoring and administrating Amazon Web Services (AWS) EC2 LINUX instances.
+content	experience	· Providing L1/L2 support for downtimes, troubleshooting and slowness issue working with in-house team in US.
+content	experience	· Configuring and maintaining LVM on linux servers with flexibility of data. Logical volume creating, size extending and reducing.
+content	experience	· Working with job schedule using crontab.
+content	experience	· User Administration, backup using rsync, cp, scp tar, zip ,bzip2 ,gzip.
+content	experience	· Process administration and management like monitoring, start/stop/kill various processes. Collecting thread dumps for particular process.
+content	experience	· First point of contact for issues related to weblogic, weblogic patching, deploying updates for weblogic servers.
+content	experience	· Monitor system performance parameters using iostat, vmstat, and fine-tuning.
+content	experience	· Systems administration, maintenance, and monitoring various day-to-day operations.
+content	experience	· Installation of packages and resolving dependencies through RPM / Source code.
+content	experience	· Transferring files from one system to other using FTP and SFTP.
+content	experience	· Managing Apache web servers.
+content	experience	· Management and configuration of VMWare virtual machine using Vmware Vsphere Web client 6.5, wrote PowerShell script to help in patch management for creating and deleting snapshots.
+content	experience	· Knowledge transfer and training new members with respect to technologies and grooming them to work independently.
+content	experience	· Ensure earlier resolution to the issues by meet SLA and working on different issues following ITIL.
+content	experience	· Interacting directly with the clients and resolving issues and proposing solutions to known and unknown issues, as part of the project.
+content	experience	· Documenting various procedures so that they can be further used for training as well as for further reference.
+header	education	Education
+content	education	Examinations
+content	education	Board/University
+content	education	Passing Year
+content	education	Percentage/Grade
+content	education	M.Sc. I.T.
+content	education	Sathaye College, Mumbai University
+content	education	2014
+content	education	59.91
+content	education	B.Sc. I.T.
+content	education	KES Shroff College, Mumbai University
+content	education	2012
+content	education	64.25
+content	education	H.S.C.
+content	education	Maharashtra Board
+content	education	2009
+content	education	57.00
+content	education	S.S.C.
+content	education	Maharashtra Board
+content	education	2007
+content	education	76.76
+content	education	Technical Skills
+header	knowledge	SKILLS
+content	knowledge	TOOLS/ TECHNOLOGIES
+content	knowledge	Redhat OS Administration
+content	knowledge	RHEL 6/7
+content	knowledge	AIX OS Administration
+content	knowledge	AIX 6/7
+content	knowledge	SLES OS Administration
+content	knowledge	SLES 11
+content	knowledge	Windows
+content	knowledge	Microsoft Windows (2008 Server, XP,7/ 8/10)
+content	knowledge	CI/CD Tool
+content	knowledge	Jenkins,Git
+content	knowledge	Virtualization platform
+content	knowledge	VMware vSphere Web Client 6.5
+content	knowledge	Ticketing Tools
+content	knowledge	ManageEngine Service Desk Plus 9.4, JIRA
+content	knowledge	Scripting
+content	knowledge	Shell Scripting, PowerShell Scripting
+content	knowledge	Cloud Service Platform
+content	knowledge	AWS
+content	knowledge	Middleware
+content	knowledge	Weblogic 10/12
+content	knowledge	Monitoring Tool
+content	knowledge	Nagios
+header	others	Personal Information
+meta	others	· Date of Birth
+meta	others	: 20th Dec 1991
+meta	others	· Marital Status
+meta	experience	: Single
+meta	others	· Nationality
+meta	others	: Indian
+meta	others	· Gender
+meta	others	: Female
+header	knowledge	· Languages Known
+meta	knowledge	: English, Hindi, and Marathi
+meta	others	· Permanent Address : C-6, Plot no. 227, Vijay CHS, Charkop, Sector-2, Kandivali (W),
+content	others	Mumbai 400067.
+content	others	I hereby declare that the details mentioned above are true to the best of my knowledge and belief.
+content	others	Anju Chaurasiya

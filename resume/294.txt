@@ -1,0 +1,46 @@
+meta	others	GOPAL KUMAR
+meta	others	B 33, Ram Nagar, Om vihar, 9560096966
+meta	others	Uttam Nagar West, gopalkumarsingh2050@gmail.com
+meta	others	New Delhi 110059
+header	others	OBJECTIVE
+content	others	To pursue a professional career in an Organization,which would provide impetus to further my career and expose me to a challenging environment.
+content	others	I have an overall Work Experience of 3 Years which I wish to utilize with my positive attitude, technical & leadership skills to make significant difference and contribute effectively to the objectives of the organization.
+header	experience	WORK EXPERIENCE :
+content	experience	Worked as a Senior Executive (FCU) with GE Capital Gurgaon From March 2016 to March 2017.
+header	experience	Roles and Responsibility:
+content	experience	• Responsible for reverting the Emails and Chats within the SLA time frame.
+content	experience	• Providing the Accurate and quick resolution to the End User for different queries.
+content	experience	• Responsible for Maintaining the Daily Tracker in MS-Excel for handled cases.
+content	experience	• Working on the Escalated cases and raising the Priority for the same with a Workaround.
+content	experience	• Assisting the Nodal Officer in managing the Shift Rosters.
+content	experience	• Active member of the Daily Team Huddles/Meets and bringing up the challenges.
+content	experience	• Sharing the Daily Handover report to the Nodal Officer at End of Business Hours.
+content	experience	• Achieving the daily target of 60 Emails regarding the End User escalations and providing a quick and prompt resolution, or a Workaround.
+content	experience	• Updating the team about the new Credit card rules and Guidelines.
+content	experience	• Coordinating with the Nodal Officer regarding the day to day business.
+content	experience	· (2) worked in Napino Auto & electronics LTd Manesar as a Production Engineer from November 2012 to January 2014.
+content	experience	· (3)worked As a Technical support executive in RFS Business solution from March 2014 to April 2015.
+content	experience	· (4)worked As a Business development executive in Global enterprises solution Gurgaon from oct 2015 to feb 2016.
+header	knowledge	PROFESSIONAL SKILLS
+content	knowledge	· Computer knowledge: MS Office (MS word, MS excel, MS PowerPoint, C++ Language.)
+header	knowledge	SOFT SKILLS
+content	knowledge	· Good analytical and problem-solving skills.
+content	knowledge	· Hard working and good team player.
+content	knowledge	· Finding new challenge to handle.
+content	knowledge	· Goal-oriented, highly motivated.
+content	knowledge	· Capable to accomplish the work in a timely manner and with good quality
+header	education	ACADEMIC CREDENTIALS
+content	education	· B.E : (Electronics & instrumentation engineering) (2008-2012 )
+content	education	· Institute : Annamalai university, Chidambaram, Tamilnadu.
+content	education	· University : Annamalai university, Chidambaram, Tamilnadu.
+content	education	· 12th : S.N.A Inter college ( B.I.E.C) Barh, (2007-2008)
+content	education	· 10th : High School Maranchi (B.S.E.B.) Patna 2003-2004
+header	others	PERSONAL DOSSIER
+meta	knowledge	Linguistic Abilities : English, Hindi
+meta	others	Father’s Name : Ram Snehi Singh
+meta	others	Gender : Male
+meta	others	Religion : Hindu
+meta	others	Marital Status : Married
+meta	others	Nationality : Indian
+meta	others	Hobbies : Listening Music, Travelling, Surfing etc.
+meta	others	Date of Birth : 12th Aug. 1988

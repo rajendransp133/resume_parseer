@@ -1,0 +1,33 @@
+header	others	RESUME
+meta	others	Sanket Mangal
+meta	others	159, Anand Nagar, Chitavad, Navlakha, Indore-452001
+meta	others	Email : sanketmangal1892@gmail.com
+meta	others	Contact No : +91-7828279902
+header	others	Career Objective:
+content	others	To get a better command on banking field by working on challenging and critical task of an organization, therefore by serving for growth of the organization and improve my knowledge
+header	knowledge	Key Skills:
+content	knowledge	· Having Team Leadership Quality
+content	knowledge	· Does right thing at right time
+content	knowledge	· Quick learner & smart worker
+content	knowledge	· Self motivated & focused
+header	experience	Work Experience:
+content	experience	1st Dec, 2016 - Present
+content	experience	Serving as an Officer in Bandhan Bank CPU Indore
+content	experience	Responsible for verify/authorise the documents to open an account with good accuracy and in good timing, and also do planning for improvising the team in good environment
+header	education	Academic Qualifications:
+content	education	· B.TECH (2010-14 Batch) From Poornima College of Engineering (Rajasthan Technical University, kota) with 62.46%.
+content	education	· 12th from Rajasthan Board, Ajmer with 80.00%.
+content	education	· 10th from Rajasthan Board, Ajmer with 75.50%.
+header	others	Aahievements:
+content	others	· Awarded for Best Team & Team Leader in Bandhan Bank CPU Indore
+content	others	· Event Manager(accomdation) in national-level technical festival of college(2012-13)
+content	others	· Appreciated for ‘Donating Blood’ in College which held by Jain Social Group, Jaipur.
+content	others	· Achieved competition (Sanskrit Gyan Pariksha) 4 Times and One Time 80% in state level.
+header	others	Personal Profile:
+meta	others	Brief profile: I am an optimistic person with strong character who loves to perform as a team player
+meta	others	Strengths: Optimism, Self Motivator, Analytical Skills
+meta	others	Hobbies & Interests: listening music, cooking, Outing with friends.
+meta	others	Date of Birth: 18th Jun, 1992
+meta	others	I hereby declare that the information given above is true to the best of my knowledge & belief.
+header	others	Date:
+meta	others	Place: Indore Sanket Mangal

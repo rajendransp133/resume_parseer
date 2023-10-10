@@ -1,0 +1,93 @@
+meta	others	AARTI SONI
+meta	others	House NO. C-74,
+meta	others	Sector 22 (Block-C),
+meta	others	Noida (UP)
+meta	others	Mobile: +91-9250876308
+content	others	aarti.mca.29@gmail.com
+header	others	OBJECTIVE
+content	others	“To excel in my profession and contribute towards the growth of a multifunctional organization resulting increase in profits of the stakeholders both as an organization and an individual.”
+header	experience	EMPLOYMENT
+content	experience	Organization
+content	experience	BII, Noida Sector - 62
+content	experience	Technology .NET, JAVA ,HTML, CSS, JavaScript, Adobe Photoshop, Dreamweaver
+content	experience	Designation Web Developer
+content	experience	Duration
+content	experience	Since May 2010 to till date
+header	experience	Responsibilities
+content	experience	· To Create Micro Websites.
+content	experience	· To Update the Websites regularly
+content	experience	· To Create HTML Mailers
+content	experience	· To Maintaining Records of Domain and Hosting.
+content	experience	· Internet Marketing-SMO,SEO
+content	experience	· To Prepare various report.etc
+content	experience	SEO Meta tags, Blogs writing, Yahoo pipes, Press Releases etc
+content	experience	INTERNSHIP or OTHER TRANING
+content	experience	Organization
+content	experience	HCL INFOSYSTEM NOIDA.
+content	experience	Designation Software Trainee.
+content	experience	Duration
+content	experience	Jan 2010 to May 2010
+content	experience	Responsibilities Designing the Web Forms
+content	experience	Database tables creating.
+content	experience	Working on projects like Payroll, Restaurant etc.
+content	experience	Helping Software Engineers and Team Leader etc
+header	education	EDUCATIONAL QUALIFICATIONS
+content	education	Academic year
+content	education	Course
+content	education	Major Subjects
+content	education	Name and address of the Institution you have studied in
+content	education	Board/University
+content	education	% of marks
+content	education	2010
+content	education	MCA
+content	education	Computer Science
+content	education	Lovely Professional University Phagwara
+content	education	( Punjab)
+content	education	Lovely Professional University
+content	education	78
+content	education	2007
+content	education	B.Sc
+content	education	Physics, Chemistry, Math, English, Computer
+content	education	S.V.D College Ghumarwin,
+content	education	Distt. Bilaspur (H.P)
+content	education	Himachal Pradesh University
+content	education	58
+content	education	2004
+content	education	+2
+content	education	Physics, Chemistry, Math, English, Computer
+content	education	Minerva Public School, Ghumarwin Distt. Bilaspur (H.P)
+content	education	H.P Board Dharmshala
+content	education	58
+content	education	2002
+content	education	10
+content	education	Science, Social Science, Math, English, Sanskrit
+content	education	S.V.M School, Ghumarwin, Distt. Bilaspur (H.P)
+content	education	H.P Board Dharmshala
+content	education	78
+header	experience	EXTRA CURRICULAR ACTIVITIES
+meta	others	●
+content	experience	Achieving Merit Certificate and Scholarship in Matriculation.
+meta	others	●
+content	experience	Participated in Cultural Activities and getting Awards.
+header	others	PERSONAL DETAILS
+content	others	Date of Birth
+meta	others	:
+meta	others	5 July, 1986
+header	others	Mother’s Name
+meta	others	:
+meta	others	Mrs. Raksha Soni
+header	others	Father’s Name
+meta	others	:
+meta	others	Mr. Sanattan Soni
+header	others	Permanent Address
+meta	others	:
+meta	others	Near Civil Hospital Ghumarwin, Distt. Bilaspur (H.P) 174021
+meta	others	Language : English and Hindi
+header	others	Hobbies
+meta	others	:
+meta	others	Net surfing
+meta	others	References: Available on Request
+meta	others	Preferred Location: Noida
+header	others	Date:
+meta	others	Place:
+meta	others	(Aarti Soni)

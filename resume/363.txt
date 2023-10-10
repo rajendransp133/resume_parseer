@@ -1,0 +1,36 @@
+header	others	CURRICUUM VIATE
+meta	others	PRAJAPATI DANKESH KANUBHAI
+meta	others	(M) +91 9558180811,9173107377
+header	others	CAREER OBJECTIVE:
+content	others	To work with such an organization that provide me an opportunity to fulfill its objectiveby me
+content	others	hard work sincerity, intelligence, knowledge in computer and skill in provide a platform for
+content	others	better chance and learning.
+header	education	ACADEMIC RECORD:
+content	education	. S.S.C passed with 51.54% from GSEB in 2007
+content	education	. H.S.C passed with 51.84 from GHSEB in 2009
+content	education	. B.B.A (management) passed with first class from HNGU in 2012
+content	education	. M.B.A (finanace) passed with second class from GTU in 2014
+header	knowledge	COMPUTER KNOWLADGE:
+content	knowledge	. Ms office, tally Erp 9, Gujarati and English typing
+header	experience	EXPERIENCE:
+content	experience	. I have worked as a Admin Executive and Accountant for 8 month
+content	experience	. I have working now as a P.F and ESIC department om enterprise company
+header	others	PERSONAL DETAILS:
+header	others	Address
+meta	others	: Prajapati vas,
+meta	others	Nr. Ambaji Temple,
+meta	others	Randheja,
+meta	others	Gandhinagar â€“ 382620
+header	others	Date of Birth
+meta	others	: 19nd
+meta	others	December 1991
+header	others	Gender
+meta	others	: Male
+meta	knowledge	Language Knowe : English, Hindi and Gujarati
+header	others	Marital Status
+meta	others	: Married
+header	others	Nationality
+meta	others	: Indian
+meta	others	I hereby declare that all the above information provide by me is correct to the best of my
+meta	others	knowledge and belief.
+meta	others	Date: Dankesh Prajapati

@@ -1,0 +1,76 @@
+meta	others	N Vinod Kumar
+meta	others	Jaishree Arunkumar
+meta	others	Jaishree Arunkumar
+meta	others	No: 2354, 2nd floor, 16th Main, 2nd ‘c’ cross, HAL 2nd stage, Indiranagar,
+meta	others	Bangalore-560038
+meta	others	Phone Number - +91 9740009384
+meta	others	jai.ak83@gmail.com
+header	others	OBJECTIVE
+content	others	To be a value based enterprising leader and attain a level of competency in a challenging milieu
+header	experience	WORK EXPERIENCE
+content	experience	Goldman Sachs Hong Kong.
+content	experience	21 April 2008 - 19 December 2008
+content	experience	Position – Settlement Analyst
+header	experience	Roles and Responsibilities –
+content	experience	· Liaising with Agent Bank to make sure all the trades are settled before the cut off time.
+content	experience	· Liaising with various offices across the globe to resolve booking or trade related issues.
+content	experience	· Resolving breaks on a daily basis to reflect correct positions internally.
+content	experience	· Handling Malaysian settlements.
+content	experience	· Running daily discrepancy reports and other reports for Asset Servicing Team.
+content	experience	· Worked with Global Control team. Sub-Ledger Vs General Ledger Reconciliation.
+content	experience	· Liaising with the IT department to resolve system related issues to fit the business.
+content	experience	· Doing the vault count on a monthly basis to make sure that the internal bookings are accurate.
+content	experience	· Projects as assigned by the team head.
+content	experience	· Communicating with sales, front office, back office, middle office to resolve any client related issue.
+header	experience	TATA Consultancy Services (Client – Deutsche Bank)
+content	experience	July 2005 – September 2007
+content	experience	Position – Senior Process Associate
+header	experience	Roles and Responsibilities -
+content	experience	· Working in the Investment management profile of Deutsche Bank at TCS.
+content	experience	· Familiar with STP for the settlement process.
+content	experience	· Managing day-to-day client mails and looking into failed trades for equities division.
+content	experience	· Reconciliation of Prime Brokerage Static Data.
+content	experience	· Communicating with the brokers of changes in Settlement Instructions or Legal trading names
+content	experience	and updating the systems to hold the most recent records on the system for better STP and efficient settlement processing
+content	experience	· Have done process training across the team.
+content	experience	· Worked with the transition team at DSL to learn and train across the Equities team.
+content	experience	· Worked on Alert system for retrieval of SSI data and updating the systems with the same.
+content	experience	· Projects as assigned by the team head.
+header	education	EDUCATION
+content	education	Bishop Cotton Women’s Christian College
+content	education	2004
+content	education	Bachelor of Commerce.
+content	education	K.V. ASC Center (S), Bangalore
+content	education	2001
+content	education	Standard XII
+content	education	K.V. ASC Center (S), Bangalore
+content	education	1999
+content	education	Standard X
+header	education	PROFESSIONAL QUALIFICATIONS / COURSES
+header	education	Aptech India Pvt. Limited, Bangalore
+content	education	Certificate of Proficiency - Information Systems Management (CPIS)
+content	education	High proficiency in MS Office products ( MS Word, MS Powerpoint and MS Excel)
+content	others	MULTILINGUSTIC CAPABILITIES
+content	experience	· English (Read and write fluently), Hindi, Tamil, Kannada.
+header	others	INTERESTS & HOBBIES
+content	others	Painting, Sketching, Music and Reading
+header	experience	STRENGTHS
+content	others	· Patient, hardworking & self-motivated
+content	others	· Good communication & interpersonal skills
+content	others	· Sincere & dedicated
+content	others	· Team player
+content	others	· Leadership qualities
+content	others	· Achievement oriented
+content	others	· Eager to learn and pick things up quickly.
+header	others	PERSONAL DETAILS
+header	others	Date of birth
+meta	others	:
+content	others	June 28, 1983
+content	others	Passport No : J0356001
+content	others	Marital status
+meta	others	:
+content	others	Married
+content	others	Nationality
+meta	others	:
+content	others	Indian
+content	others	Page 1 of 2

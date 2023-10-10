@@ -1,0 +1,99 @@
+meta	others	JOY GHOSHAL
+meta	others	Address: Amba Nagari, flat no 22, Bldg no-6, Vishrantwadi, Pune-411015
+meta	others	Phone: +91 9850496495/9762437969 Alternate Address: Pramukh Swami Nagar Vibhag-1 T.P 13, Channi Jakat Naka, Baroda. E-Mail: joy_2414@yahoo.com ,
+meta	others	Date of Birth: 14.08.1981
+header	experience	Professional Synopsis
+meta	others	
+header	experience	A qualified Graduate in Commerce with 8 years of qualitative experience in Customer Service Industry.
+meta	others	
+content	experience	An effective communicator with excellent relationship building and interpersonal skills.
+header	experience	Organisational Experience
+content	experience	American Home Mortgage Services
+content	experience	Senior Analyst Service Executive (collections)
+header	experience	Responsibilities
+content	experience	· Handled different braches for AHMSI.
+content	experience	· Meeting all the SLA and making representatives meet all targets.
+content	experience	· Handling all the queries from the brokers and representatives.
+content	experience	· Giving feedbacks and monitoring the representatives to achieve their targets.
+content	experience	· Responsibility includes acquiring details from customer and given the best options.
+content	experience	· Mentoring new joiners and helping them understand the process better.
+content	experience	· Floor walked for new joiner and taking Escalations calls.
+content	experience	· Ensure the adherence to SLAs.
+content	experience	· Handling Inbound and Outbound call for the Customer queries (Collections)
+content	experience	2.
+content	experience	WNS Global Services Pvt Ltd.
+content	experience	Senior Client Service Executive (Airline Process)
+content	experience	TRAVELOCITY
+header	experience	Responsibilities
+meta	others	
+content	experience	Solving Customer queries before they turn into a complaint.
+meta	others	
+content	experience	Monitored Calls and analysed the reason for queries of customer
+meta	others	
+content	experience	Escalations taken for Supervisory Calls.
+meta	others	
+header	experience	Mentoring new joiners and helping them understand the process better.
+meta	others	
+content	experience	Proven Experience in preparing various Reports.
+meta	experience	
+content	experience	Ensure the adherence to SLAs.
+content	experience	Key Accomplishments
+meta	others	
+content	experience	Honoured for Excellent Achievement - customer service by US based clients
+meta	others	
+content	experience	Received employee of the month award both the companies.
+meta	others	
+content	experience	Client appreciation for quality of information
+content	experience	Initiatives
+content	experience	Team Leader: Handling Inbound Team on behalf of my Team Leader
+meta	others	-
+content	experience	Take care of the Answer Rate.
+meta	others	-
+content	experience	Conducting Team Huddles.
+meta	others	-
+content	experience	Preparing Team Reports.
+meta	others	-
+content	experience	Maintain Leave Planner.
+meta	others	-
+content	experience	Providing quality updates.
+meta	others	-
+content	experience	Analyse day-to-day updates.
+meta	others	-
+content	experience	Identifying bottom performers and help them with their improvement.
+content	experience	Quality Floater: Mentoring new joiners to perform their daily task and maintain quality standards.
+meta	others	-
+content	experience	Monitoring Calls.
+meta	others	-
+content	experience	Providing Feedback.
+meta	others	-
+content	experience	Conducting Refresher Training.
+meta	others	-
+content	experience	Solving queries.
+content	experience	· Providing updates.
+content	experience	· Floor walking
+content	experience	A key player of the Trouble shooting (Telecom), Ticketing (Airline) and Collections & Origination (Mortgage)
+header	experience	Responsibilities
+meta	others	
+content	experience	Handled all types of queries regarding ticketing and reissuing
+meta	others	
+content	experience	A key member of the Customer Service Team providing regular updates to the Bank Account holders.
+meta	others	
+content	experience	Providing assistance to the Management in making various reports.
+meta	others	
+content	experience	Ensure the adherence to SLAs
+content	experience	Converges
+content	experience	AT & T Wireless (Telecom Process)
+content	experience	Senior Client Service Executive
+meta	others	
+content	experience	Acquisition of new clients.
+meta	others	
+content	experience	Providing service to the existing customers through troubleshooting.
+meta	others	
+content	experience	Offering solutions to the clients.
+header	education	EDUCATIONAL CREDENTIALS
+content	education	· Bachelor of Commerce
+content	education	Maharaja Sayajirao University of Commerce, Baroda
+header	others	Declaration: 
+content	others	The above statements are true to the best of my knowledge and belief.
+meta	others	Place: Pune
+meta	others	Joy Ghoshal

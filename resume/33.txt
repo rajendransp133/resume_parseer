@@ -1,0 +1,88 @@
+meta	others	PAREKH DEVANG D.
+meta	others	CONTACT: +91 9033380042 E-MAIL: parekhdevang14@gmail.com
+meta	others	To work for an organization which provides me the opportunity to improve my skills
+meta	others	and knowledge to growth along with the organization objective.
+header	knowledge	TECHNICAL SKILLS:
+meta	others	_________________________________________________________________________________
+header	knowledge	I have certified with a course of MS-office 2000, D.T.P
+header	education	EDUCATIONAL QUALIFICATION:
+meta	others	_________________________________________________________________________________
+content	education	DEGREE UNIVERSITY/BOARD YEAR OF
+content	education	PASSING
+content	education	PERCENTAGE
+meta	others	(%)
+content	education	S.S.C GUJARAT BOARD MAR-2007 62.12
+content	education	H.S.C G.H.S.E.B MAR-2009 72.29
+content	education	B.C.A BHAVNAGAR UNIVERSITY APR-2012 69.71
+content	education	M.C.A IGNOU JUN-2015 60.00
+header	project	ACADMIC PROJECTS:
+meta	others	_________________________________________________________________________________
+content	project	Account Management System In PHP
+header	others	KEY ACHIEVEMENT:
+meta	others	_________________________________________________________________________________
+content	others	(1) I have Got 2nd Rank In State Level Competition in C Language from NVPASS
+content	others	Vallabh Vidhyanagar in 2012
+header	knowledge	OTHER SKILLS:
+meta	others	_________________________________________________________________________________
+content	knowledge	(1) ‘Microsoft XP applications (Word, Excel, PowerPoint, Access).
+content	knowledge	(2)Very good in PHP, Advance PHP, C, C++, Java, Oracle, Tally.
+content	knowledge	(3) developing a Website or Software in PHP or Advance PHP
+header	others	AREA OF INTEREST:
+meta	others	_________________________________________________________________________________
+meta	others	(1) Travelling
+meta	others	(2) Activity Management
+header	others	PERSONAL QUALITIES:
+meta	others	_________________________________________________________________________________
+meta	others	(1) Always passionate to learn something new.
+meta	others	(2) Accept challenges which can encourage my skills and knowledge.
+meta	others	(3)Learning advance languages and know more new concepts about languages.
+meta	others	(4)I am also very good in to learn any advance languages or frame work in few
+meta	others	months.
+header	experience	EXPERIENCE:
+meta	others	_________________________________________________________________________________
+content	experience	1) Aug 2012 to
+content	experience	Dec-2016
+content	experience	Computer Teacher (Part Time Morning)
+content	experience	 Teaching all The Languages Like ( C, C++,
+content	experience	Java, Oracle, Tally, CCC etc.
+content	experience	Address :- Kushal Computer
+content	experience	10, MahalaxmiNagar,
+content	experience	Opp. LIC Nilambaug,
+content	experience	Bhavnagar 364001.
+content	experience	2) Oct 2012 To
+content	experience	Dec 2015
+content	experience	Web Developer (Par Time Evening Project Base)
+content	experience	 Developing a Website or Software in PHP
+content	experience	Language also manage the hosting panels
+content	experience	Address :- CANTECH INDIA
+content	experience	CM331, Pratima complex, KPES rd,
+content	experience	Kaliabid. Bhavnagar 364002
+content	experience	3) Jan 2016 To
+content	experience	Present
+content	experience	Web Developer
+content	experience	 Developing a Website or Software in PHP
+content	experience	Language
+content	experience	Address :- JOSHI BIZTECH SOLUTION LTD
+content	experience	306, Aristro Complex,
+content	experience	Opp. Madhav Darshan,
+content	experience	Waghavadi Road,
+content	experience	Bhavnagar 364001
+header	experience	REFERENCE:
+meta	others	_________________________________________________________________________________
+header	others	PERSONAL PROFILE:
+meta	others	_________________________________________________________________________________
+meta	others	Date of Birth 07th March 1992
+meta	knowledge	Known Languages English, Hindi, Gujarati
+meta	others	Marital Status Married
+meta	others	Address Flat no 2, Adinath Complex,
+meta	others	Opp. Jay shakti Gas Agency,
+meta	others	Muni deri Road, Subhashnagar ,
+meta	others	Bhavnagar -364001
+header	others	DECLARATION:
+meta	others	_________________________________________________________________________________
+meta	others	I hope if you select me as per job description I assure that I am work very honestly
+meta	others	and sincerely. I hope you will satisfy from my above details.
+meta	others	I hereby declare that the above written particulars are true to the best of my
+meta	others	knowledge and Brief.
+meta	others	Your’s Faithfully
+meta	others	( Devang D. Parekh )

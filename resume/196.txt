@@ -1,0 +1,58 @@
+meta	others	Dhurjati Chakraborty
+meta	others	IT Project Engineer
+meta	others	Mail: dhurjatichakraborty@gmail.com
+meta	others	Contact: 8296934362 / 9206252804
+meta	others	DOB: 1989-03-02
+header	experience	Career Summary
+content	experience	Having overall 2 years and 4 months of experience in Information security domain, Out of this around 1 year and 11 months of experience in Cyberark technology Privileged Account Management (version 8.6 and 9.8)
+header	knowledge	Skills
+content	knowledge	 Privileged Account Management v8.6 and 9.8
+content	knowledge	 Security Basics
+content	knowledge	 Auto It Script Dispatcher for Connection components
+header	experience	Professional Experience
+content	experience	Wipro Technologies, Bangalore
+header	project	Project: Privileged Account Management v 8.6 and 9.8
+content	experience	Role: Project Engineer
+content	experience	Duration: (Dec 2015 – Till Date)
+header	experience	Implementation Part:
+content	experience	· Worked as an Implementation team while migrating Vault from old Data Center to new Data Center.
+content	experience	· Developed AutoIT script which is used as a Dispatcher of PSM.
+content	experience	· Created several connection components for the environment such as some weburls, exe files etc.
+content	experience	· Safe Creation
+content	experience	· Platform Creation
+content	experience	· Accounts on-boarding
+content	experience	· Providing proper privileges to Safes
+content	experience	· Providing proper privileges to the Safe members
+content	experience	· Verifying, Changing and Reconciling the passwords of the users
+content	experience	· On-boarding the PSMConnect and PSMAdminConnect users to Cyberark.
+content	experience	· Provided the Dual-Control access to some specific users.
+content	experience	· Provided One-time Password for some specific users.
+header	experience	Production Support:
+content	experience	• Worked on multiple issues like Vault is down, PVWA URL is not opening, CPM is not changing the passwords, some users are not able to take RDP through PSM etc.
+content	experience	• Handled an issue like Live session monitoring was unable to view for the Auditor as the storage space of PSMRecordings safe was overloaded.
+content	experience	• Debugging and fixing several types of production issues (Vault, CPM, PVWA,PSM, DR)
+content	experience	• Worked on Severity (P1-P5) Incidents and Tasks
+header	experience	Tools Used:
+content	experience	• Privileged Account Management Version 8.6 and Version 9.8
+content	experience	• 2 Vaults in Windows clustering mode in an isolated domain
+content	experience	• 3 Central Policy Managers and 2 Password Vault Web Access
+content	experience	• 7 Privileged Session Managers of Windows 2008 R2
+header	education	Certification
+content	education	 CyberArk Certified Delivery Engineer (CCDE)
+content	education	 Privileged Account Security Fundamentals
+header	education	Academia
+content	education	 Completed M.C.A. from Academy of Technology, Adisaptagram, West Bengal (2015)
+content	education	 Completed B.C.A. from Seacom engineering College, Howrah, west Bengal (2012)
+content	education	 Completed 12th from Margaret S.N. English H.S. School, Siliguri, West Bengal (2007)
+content	education	 Completed 10th from Banimandir Railway H.S. School, Siliguri, West Bengal (2005)
+header	knowledge	Personal Strength & Assets
+content	knowledge	 Can easily adapt and adjust to new environments.
+content	knowledge	 High level of self-motivation and an ability to motivate others.
+content	knowledge	 Always a positive attitude with dedication to work with one goal i.e. Result.
+header	knowledge	Languages:
+content	knowledge	 English
+content	knowledge	 Bengali
+content	knowledge	 Hindi
+content	others	I have furnished here with my resume for your kind perusal. If appointed, I assure you that I will perform my duties to the fullest satisfaction of myself to the well-being of concern.
+meta	others	Date: 09-Nov-2017 Yours Sincerely,
+meta	others	Place: Bangalore Dhurjati Chakraborty

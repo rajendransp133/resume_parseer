@@ -1,0 +1,85 @@
+meta	others	Santosh Shivaji Rawas
+header	others	OBJECTIVE:
+content	others	“To work in an organization where ability and hard work would help to achieve a symbolic growth of the organization and self.”
+header	others	PERSONAL DETAILS
+meta	others	Date of Birth : 29-July-1983
+meta	others	Address : Flat no 36, 3rd floor, Patil Heritage society,
+meta	others	Dattanagar, Katraj,Pune 411046
+meta	others	Email Id : santoshrawas@gmail.com
+meta	others	Mobile No : +919623715484
+meta	others	Passport Details: Passport Number - L4658940, valid till 16-Oct-2023
+header	education	EDUCATION DETAILS
+content	education	Level
+content	education	Institution/University/Board
+content	education	Year
+content	education	%
+content	education	C.A. Final
+content	education	ICAI
+content	education	Nov-10
+content	education	54
+content	education	Professional Education II
+content	education	ICAI
+content	education	May-05
+content	education	53
+content	education	Post Graduation ( M .Com)
+content	education	Pune University (MMCC)
+content	education	2006
+content	education	47
+content	education	Graduation (B.Com)
+content	education	Pune University (MMCC)
+content	education	2004
+content	education	71
+content	education	XII
+content	education	Maharashtra State Board
+content	education	2001
+content	education	76.67
+content	education	X
+content	education	Maharashtra State Board
+content	education	1998
+content	education	75
+header	experience	WORK EXPERIENCE
+content	experience	1. Infosys BPM Ltd (Pune)
+content	experience	Department: Finance and Accounts – Controls and Compliance
+content	experience	Period : 16th Oct 2017 till date
+header	experience	Area of Responsibility –
+content	experience	· Assisting the Engagements in Internal, External audits.
+content	experience	· Review, testing of Business and SOX controls.
+content	experience	· Preparation of RCM and doing control walkthroughs.
+content	experience	2. UBS Business Solution [India] Private Ltd ( Pune)
+content	experience	Department : Independent Management Testing Team
+content	experience	Period : 27th Oct 2015 to 16th August 2017.
+header	experience	Areas of Responsibility –
+content	experience	· Perform Design Effectiveness and Operating Effectiveness testing of SOX as well as Non SOX controls.
+content	experience	· Address and clear any review points raised through QA review in timely manner.
+content	experience	· Escalate potential issues/exceptions to appropriate team.
+content	experience	· Inform confirmed exceptions or fails to the respective stakeholders.
+content	experience	· Maintain issue log.
+content	experience	· Ensure that final Test Scripts are sent to the External Auditors as they place reliance on testing done by IMT.
+content	experience	· Address EY review points, if any.
+content	experience	· Testing of remediated controls.
+content	experience	3. Infosys BPO Ltd.
+content	experience	a)Department - Finance and Accounts – Controls and Compliance
+content	experience	Period – 4th Sept 2012 to 23rd Oct 2015.
+content	experience	Area of Responsibility –
+content	experience	· Assisting the Engagements in Internal, External and SOX audits.
+content	experience	· Review, testing of Business and SOX controls.
+content	experience	· Tracking and assisting the Engagements in SLA compliance, KPI adherence.
+content	experience	· General assistance in various operational matters relating to F & A domain to ensure steady and smooth flow of work.
+content	experience	· Preparation of RCM and doing control walkthroughs.
+meta	others	–––––––––––––––––––––––––––––––––––––-
+content	experience	b) Worked as a Process Lead in a Telecom process for largest Telecom Operator in UK.
+content	experience	Period – 1st June 2011 to 3rd Sept 2012.
+header	experience	Area of Responsibility -
+content	experience	· Monthly Revenue Forecast (Post Pay and Prepay Stream).
+content	experience	· Variance Analysis of Forecasted Revenue with Actual Revenue.
+content	experience	· Monthly Balance Sheet Reconciliations.
+content	experience	· Month End books closing.
+content	experience	· SOX Audit, Risk assessment of SOX controls.
+meta	others	HOBBIES
+meta	others	Trekking, Reading Marathi literature, listening to music.
+header	others	PERSONAL ACHIEVEMENTS
+meta	others	· Won an ‘Extra Miler’ Award in Jan 12 for performing Dual responsibilities with 100% accuracy.
+content	others	· Stood first in Inter School Essay Competition held in 1993-94(6th Std)
+content	others	· Participated in drawing competition held by ‘Loksatta-Indian express’ in 1993.
+content	others	· Stood second in school in S.S.C. Exam in March 1998.
+content	others	Santosh S. Rawas

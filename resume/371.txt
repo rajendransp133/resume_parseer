@@ -1,0 +1,45 @@
+header	others	CURRICULAM VITAE
+meta	others	TRILOCHAN KUMAR MODI
+meta	others	Address: B/L No – 09, H/L No-43
+meta	others	PO+PS – Jagatdal, Dist: 24 Pgs. (N)
+meta	others	Pin-743125, West Bengal.
+meta	others	E-mail:aalokkumar217@gmail.com
+meta	others	Contact No-7003674123
+header	others	CAREER OBJECTIVE
+content	others	To work in an Organization where I am able to contribute the Organization growth and profitability
+content	others	with my skill and in turn get an opportunity to gain exposure and expertise that would help me to build
+content	others	a Promising and Successful Carrier.
+header	education	ACADEMIC QUALIFICATION
+content	education	Completed certificate course from Youth Computer Training Center (Naihati)
+content	knowledge	 Diploma in Financial Accounting System (Certificate in TALLY ERP.9.0)
+content	knowledge	 Certificate in Financial Accounting System
+content	knowledge	 Tools: MS Word, MS-Excel, MS-Power Point, Internet
+content	knowledge	 Platform: Windows XP, Windows7, ERP Software
+content	knowledge	Good inter Personal skill, Ability to handle multi-tasking and hard working.
+header	experience	WORK EXPERIENCE
+content	experience	 1.5 year work experience as an Accountant, as tally operator in M/s Sunil Kumar Bhartia
+content	experience	Firm. in Sahebganj (Jharkhand) Dealing in Cement Trade, Petrol pump, Stone Crusher, and
+content	experience	Contractor, with the monthly remuneration 12k.
+content	experience	 Currently working with Premium Chick Feeds Pvt. Ltd. As an Accounts Auditor in Burdhwan
+content	experience	since 10.10.2018 with monthly CTC 14k.
+content	experience	Sr.No. Examination Board/University Year Percentage
+content	experience	1 B.Com(Hons) W.B.S.U. 2015 47.25 %
+content	experience	2 Higher Secondary W.B.C.H.S.E. 2012 62 %
+content	experience	3 Matriculation W.B.B.S.E. 2010 54.6 %
+header	knowledge	TECHNICAL QUALIFACTION
+header	knowledge	STRENGHT
+header	others	PERSONAL PROFILE
+meta	others	Father’s Name : Mr. Mahendra Modi
+meta	others	Date of Birth : 10/01/1995
+meta	others	Gender : Male
+meta	others	Nationality : Indian
+meta	others	Religion : Hinduism
+meta	others	Material Status : Married
+meta	knowledge	Language : Hindi, English, Bengali
+meta	others	AREA OF INTEREST
+meta	others	 Listening Music, Playing Cricket, Reading books, Visiting Destination Places etc.
+meta	others	DECLARATION
+meta	others	I hereby affirm that the information in this document is accurate, correct and true to the best of
+meta	others	my knowledge and belief.
+meta	others	Place: Jagatdal
+meta	others	DATE : [Trilochan Kumar Modi]

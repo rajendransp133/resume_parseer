@@ -1,0 +1,45 @@
+header	others	CURRICULUM VITAE
+meta	others	NAME : ABHINAVA MUKHERJEE
+meta	others	FATHER’S NAME : ABHIJIT MUKHERJEE
+meta	others	ADDRESS : CG-13, SECTOR-2, SALTLAKE
+meta	others	CITY, KOLKATA-700091, WEST BENGAL.
+meta	others	DATE OF BIRTH : 04-01-1992
+meta	others	E-MAIL : abhinavamukherjee@yahoo.com
+meta	others	PHONE : +91 9051801966 / 8961399620
+header	experience	WORK EXPERIENCE:-
+content	experience	· Working with NARULA INFRASTRUCTURE PVT. LTD. (A WING OF JIS GROUP) from April’15 till date as an Accounts Assistant.
+content	experience	· Worked with WIPRO as an Associate Caller from January’15 to March’15.
+content	experience	· Worked with M/s. A. BHATTACHARYA & ASSOCIATES (COST ACCOUNTANTS) as an Accounts & Audit Clerk from January’14 to December’14.
+header	experience	JOB PROFILE:-
+content	experience	· Bank Receipts / Payment Processing.
+content	experience	· Bank Reconciliation Statements.
+content	experience	· Accounts Receivable and Payable Control Management.
+content	experience	· Monitoring the monthly sales against Collections.
+content	experience	· B/R & B/P Reports.
+content	experience	· Dealers Vendors Parties Ledger Reconciliation.
+content	experience	· Verification of Stock as per Company Norms.
+content	experience	· Verification of Cash.
+content	experience	· Accounting Entries in Tally, ERP.
+content	experience	· End user of ORACLE.
+content	experience	· Bank Stock Audit.
+content	experience	· VAT Audit.
+content	experience	· Statutory Requirements viz. GST, VAT, TDS, Service Tax.
+content	experience	MIS REPORTING / FINANCIAL REPORTING:-
+content	experience	· Statement of Bills Receivables.
+content	experience	· Statement of Bills Payable.
+content	experience	· Ageing Report.
+content	experience	· Cost Centre wise Report.
+content	experience	· Sales, Purchase and Journal Registers.
+content	experience	· Cash Flow and Fund Flow.
+header	experience	CAREER OBJECTIVE:-
+content	experience	Seeking assignments in Commercial Operations / Accounts & Finance with an organization of Repute where I can learn, grow and contribute to the growth of the organization.
+header	education	ACADEMIC QUALIFICATIONS:-
+content	education	· Passed C.B.S.E. Class XII in 2010 with 85% marks from Bharatiya Vidya Bhavan, Kolkata.
+content	education	· B.Com (H) Graduate with 51.5% marks from Calcutta University in 2013.
+header	education	IT QUALIFICATION:-
+content	education	· Having well versed knowledge in ORACLE as an End User and TALLY ERP 9.
+content	education	· Microsoft Word, Excel (VLOOKUP, PIVOT Table), Power Point.
+meta	others	INTERESTS:-
+meta	others	Playing Football, Table Tennis and Listening music.
+meta	others	DATE:
+meta	others	PLACE: (Abhinava Mukherjee)

@@ -1,0 +1,68 @@
+meta	others	ANJU G
+meta	others	E-mail: achattilanju28@gmail.com
+meta	others	Mobile: +919686279518
+meta	others	Bachelor of Computer Application
+header	others	Career Objective:
+content	others	Seeking a job in software development with the aim of enhancing technical and professional
+content	others	skills and contributing value to the organization by sharing my skills and ability and prove my best and
+content	others	upgrade my skills for the healthy growth of the organization.
+header	education	Educational Qualification:
+content	education	Education Level: Degree
+content	education	Course Name of Institution Year of Passing University Aggregate
+content	education	B.C.A SBRR MAHAJANA FIRST GRADE
+content	education	COLLEGE, MYSORE
+content	education	2018 Mysore
+content	education	University
+content	education	89.24%
+content	education	Education Level: Pre-University
+content	education	Combination Name of Institution Year of Passing Affiliated to Percentage
+content	education	PCMB MARIMALLAPA PRE—
+content	education	UNIVERSITY COLLEGE, MYSORE
+content	education	2015 Karnataka
+content	education	Pre-University
+content	education	Board
+content	education	85.00%
+content	education	Education Level: Secondary Education
+content	education	Class Name of the Institution Year of Passing Affiliated to Percentage
+content	education	X STD NIRMALA HIGH SCHOOL,
+content	education	MYSORE
+content	education	2013 Karnataka
+content	education	Secondary
+content	education	Education
+content	education	Board
+content	education	94.08%
+header	knowledge	Technical Skills:
+content	knowledge	Ø Operating systems : Windows 7, UBUNTU(basics).
+content	knowledge	Ø Languages familiar with: Basics of C, C++, C# and Java.
+content	knowledge	Ø Database: MS SQL Server.
+header	others	Personal Information:
+meta	others	Nationality: INDIAN
+meta	others	Date of Birth: 18th November,1997
+meta	others	Sex: Female
+meta	others	Father’s Name: V.GIRIPRASAD
+meta	knowledge	Languages known: ENGLISH, KANNADA, MALAYALAM, TAMIL.
+meta	others	Residential Address: #250, 6th cross, 3rd stage,
+meta	others	NandhaGokulam, Mysore-570002
+meta	others	Mobile: +919686279518, +918553246731
+header	project	Project: 6th Semester
+header	project	Project Name : Confidential Management System
+meta	experience	Platform: Dot Net
+meta	experience	Database: Microsoft SQL Server
+meta	experience	Language: C#
+content	experience	Application Developed: Windows/Desktop Application
+content	experience	The main objective of the project is to achieve file management confidentiality and to maintain
+content	experience	the security of the data in the database (Ex : Police Database). The security of the data is established
+content	experience	using the techniques of Encryption and Decryption using RSA Algorithm. This is a Windows
+content	experience	Application that is developed using .NET language with the help of C# codes and the back end used is
+content	experience	Microsoft SQL Server.
+header	experience	Experience:
+content	experience	Company: Hinduja Global Solutions,
+content	experience	Saraswathipuram, Mysore.
+content	experience	Designation: Customer Representative Officer (CRO)
+content	experience	Duration: 6 Months – January 20th, 2018 to July 31st, 2018
+content	experience	Process: Non Voice process for Amazon India Client.
+content	experience	Co-Curricular Activities:
+content	experience	1. Participated in the Tech Fest conducted by Pooja Bhagavath Memorial Mahajana Post Graduation
+content	experience	Center Mysore.
+content	experience	2. Co-organized the Kabaddi Tournament conducted in Mahajana First Grade College during
+content	experience	September 2017, Mysore.

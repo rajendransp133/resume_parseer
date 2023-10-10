@@ -1,0 +1,82 @@
+meta	others	K.M.Mohaneeshwaran B.E.ECE
+meta	others	FlatNo22/3,anugraha apartments ,
+meta	others	Zackria colony main rd,
+meta	others	kodambakkam,
+meta	others	Chennai-600024
+meta	others	Email : mhn_eshwar@yahoo.com
+meta	others	Mobile No: 9840977592
+header	others	Objective:
+content	others	To enhance the growth of the industry relevant using engineering as a tool for the development and would like to learn and contribute in a dynamic environment applying my knowledge with smart work.
+header	education	Academic Qualifications:
+content	education	Qualifications
+content	education	Institution
+content	education	Year of Passing
+content	education	Percentage of Marks
+content	education	B.E ECE
+content	education	Madha Engineering college
+content	education	Kundrathur
+content	education	chennai
+content	education	2010
+content	education	70%
+content	education	12th Std Board
+content	education	Kumaran Asan Memorial Higher Secondary School
+content	education	2006
+content	education	73.16%
+content	education	10th Std Board
+content	education	Asan Memorial Senior Secondary School
+content	education	2004
+content	education	67.2%
+header	experience	Professional experience:
+content	experience	Company : HOV Services
+content	experience	Duration : June 2010 to Nov 2010
+content	experience	Designation : Product support Agent
+header	experience	Roles and Responsibilities
+content	experience	· Email and chat Support for the Pearson Product across the globe
+content	experience	· Solving queries regarding the online account creation of the students who wants to enroll for a course
+content	experience	· Ordering books and helping the students to find the books where to buy
+content	experience	· Troubleshooting for all the students who have inconvenience related to the enrollment
+content	experience	· Checking the order status of the book
+content	experience	Company : HCL Technologies BPO Services
+content	experience	Duration : Feb 2011 to till date
+content	experience	Designation : Technical support Officer
+header	experience	Roles & Responsibilities:
+content	experience	· Troubleshooting all networking issues
+content	experience	· Management of router belkin, dlink and netgear
+content	experience	· Troubleshooting of all desktop problem
+content	experience	· Troubleshooting hardware related issues.
+content	experience	· Configure and Manage Email clients Microsoft Outlook & Outlook Express and windows mail
+content	experience	· Installing appropriate software’s when necessary
+header	knowledge	Skill Set:
+content	knowledge	· Troubleshooting PC and Assembling Hardware
+content	knowledge	· Formatting OS
+content	knowledge	· Windows
+content	knowledge	· Networking
+header	knowledge	Languages Known:
+header	knowledge	· To read
+content	knowledge	: English, Tamil,French
+header	knowledge	· To write
+meta	knowledge	: English, Tamil
+header	knowledge	· To speak
+content	knowledge	: English, Tamil,French
+header	others	Personal Details:
+header	others	Date of Birth
+meta	others	:
+meta	others	14-08-1988
+header	others	Father’s Name
+meta	others	:
+meta	others	M.K.Manoharan
+header	others	Nationality
+meta	others	:
+meta	others	Indian
+header	others	Mother Tongue
+meta	others	:
+meta	others	Tamil
+header	others	Hobbies
+meta	others	:
+meta	others	Playing carrom and chess ; listening to music,
+header	others	Declaration:
+meta	others	I hereby assure you that the information furnished above is true to the best of my knowledge.
+meta	others	Date: 01/03/2012
+meta	others	K.M.Mohaneeshwaran
+meta	others	Place: Chennai
+meta	others	Signature

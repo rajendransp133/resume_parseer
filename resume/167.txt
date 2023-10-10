@@ -1,0 +1,75 @@
+meta	others	ANIT NANDI C.V. 15.04.18
+header	others	CURRICULUM VITAE
+meta	others	Name: ANIT KUMAR NANDI.
+meta	others	Father’s Name: Asit Baran Nandi.
+meta	others	Address: 10/12A, S.N. Chatterjee Road, Behala Manton. Kolkata-700034.
+meta	others	Phone: (M) 9433059173/ (033) 2399-1183
+meta	others	E-mail: anitknandi@gmail.com
+meta	others	Date Of Birth: 27th January, 1990
+meta	others	Sex: Male.
+meta	others	Nationality: Indian (Hindu).
+meta	knowledge	Language(s) Known: English, Bengali and Hindi.
+meta	experience	Hobbies: Cricket, listening to Music, Craftwork and Drawing.
+header	others	Career Objectives:
+content	others	• Looking forward for exciting career opportunities in reputed organization, to be the part of the
+content	others	growth story of the organization.
+header	education	Educational Qualification:
+content	education	• B.com (Hons) in Accountancy and Finance from Vivekananda College, Calcutta University in
+content	education	the year 2011 with 52.38% marks.
+content	education	• Passed Higher Secondary Examination (12Th) from Julien Day School (Elgin Road), I.S.C.
+content	education	Board in the year 2008 with 81.75% marks.
+content	education	• Passed Secondary Examination (10Th) from Julien Day School (Elgin Road), I.C.S.E. Board in
+content	education	the year 2006 with 56.8% marks.
+content	education	Other Qualification:
+content	education	• D.I.T.A. (Data of Information Technology & Application)
+content	education	• C.P.T. (Common Proficiency Test) Entrance exam for Institute of Chartered Accountants of
+content	education	India.
+content	education	• I.T.T.P. (Information Technology Training Programme) from I.C.A.I.
+header	others	Other Activities:
+content	others	• Assembling Computer Hardware.
+content	others	• Played Cricket at Behala Cricket Coaching Centre (B.C.C.C.)
+content	others	• Interior designing, décor rooms, Craftworks and painting.
+content	others	• Analysing trend in Equity, Commodity and Currency Derivatives.
+header	experience	Working Experience:
+content	experience	GENPACT INDIA PVT. LTD.-
+content	experience	• Currently working with GENPACT INDIA PVT. LTD. under Accounts payable domain as a
+content	experience	PROCESS DEVELOPER at Unitech C1 Building, Kolkata from 21-12-2015 onwards.
+content	experience	• Actively participated and successfully completed the transition period and started working from the
+content	experience	pilot phase after taking proper download of respective domain. Helped the team in SOP preparation.
+content	experience	• To manage the team, work efficiently and to impart knowledge or provide training to the sub-ordinates.
+content	experience	• Apart from processing of PO and Non-PO invoices in SAP application, the other activities are Month-End activities of Inter-company/Accounts Receivable/vendor reconciliations and netting activities.
+content	experience	• Looking after Helpdesk queues and taking calls with clients to present or resolve any client queries.
+content	experience	• Publishing Daily Reports, minutes of the meeting and trackers to clients and supervisors.
+content	experience	• Quality control and Auditing of processed invoices, as per SOX compliance.
+content	experience	• Coordinating between AR and R2R team, during month-end reviews and reconciliations.
+content	experience	• Collating exceptions as and when found within the process and providing Lean Ideas.
+content	experience	• Processing T&E claims of various employees and critical invoices like e-upload of flat files, inter-company invoices, pro-forma invoices, etc including petty cash vouchers and journal vouchers.
+content	experience	RANGAM INFOTECH PVT. LTD. (BANK OF AMERICA N.A.)-
+content	experience	• Worked in BANK OF AMERICA N.A. (RIPL) under Global Wholesale Banking & Operations as
+content	experience	TRADE OPERATIONS REPRESENTATIVE at Kolkata Branch, JK Millennium Centre, Jawaharlal
+content	experience	Nehru Road, Kolkata – 700071 from 01-09-2014 to 30-07-2015.
+content	experience	• Being a part of the Global Wholesale Banking Business the role being into Trade Finance.
+content	experience	• Reviewing, Auditing, Tracing and Researching Trade Finance documents, outstanding payments,
+content	experience	amount discrepancies, returned/ unpaid items and Letters of Credit renewal/ maturity files.
+content	experience	• Investigating and resolving customer inquiries.
+content	experience	• Preparing and recording issuances, amendments, stand-by letters of credit, negotiations and related
+content	experience	trade finance correspondence.
+content	experience	• Also a back up cashier handling cash transactions for the branch.
+content	experience	AXIS BANK LIMITED.-
+content	experience	• Worked in AXIS BANK LTD. as a FRONT DESK OFFICER at Mahestala Branch, Budge Budge
+content	experience	Trunk Road, Municipality Building, Kolkata - 700141 from 15-07-2013 to 30-08-2014.
+content	experience	• Understanding and resolving customer quires quickly and effectively.
+content	experience	• Handling Cash Transactions, Remittances, Cheques, RTGS, NEFT, Demand Drafts, Pay Order
+header	experience	Preparations, Stop Payment, Locker Access, Passbook Updating, etc.
+content	experience	• Maintaining Cheque Return Register, Inward Register, Welcome kit Register, etc.
+content	experience	• Providing Retail Banking services such as Term Deposits, Online Trading, Credit Cards, Gold Loan,
+header	experience	Home Loan, Car Loan, Personal Loan, Education Loan, etc.
+content	experience	• Handling Customer Requests regarding banking products and service new accounts for CASA creation.
+content	experience	• Checking proper KYC documentation of the customers for the various request received.
+content	experience	• Cross-selling banking products and acquiring fresh leads by interacting with customers.
+content	experience	• Pitching existing customer for Third-party products like Life / General Insurance, Mutual Funds, etc.
+content	experience	• Assuring Incremental Portfolio Growth by account Deepening every Month and Quarter end.
+header	others	Declaration:
+content	others	I, hereby declare that the above-furnished details are true & correct to the best of my belief.
+content	others	Date: 15th, April, 2018
+content	others	Place: Kolkata Signature:…………………………………….

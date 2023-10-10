@@ -1,0 +1,128 @@
+meta	others	Harinadh.Kamma
+meta	others	Current Working Location: Hyderabad Mobile: 9603467713
+meta	others	Email:harinadhkamma@gmail.com
+header	experience	PROFESSIONAL SYNOPSIS
+content	experience	· Having 4.2 years of experience in software development and maintenance of web based client/server applications.
+content	experience	· Hands on experience in developing the multi-tier web applications using Java/J2EE, spring framework.
+content	experience	· Good knowledge in Java/J2EE and related technologies and have hands on experience in application development.
+content	experience	· Experience in working on windows, mac & various flavor of Linux.
+content	experience	· Expertise in using tools such as Eclipse with Maven, Jenkin, SVN, GIT.
+content	experience	· Good experience in performance testing (JMeter).
+content	experience	· Having Knowledge on Web Services, and Spring Framework.
+content	experience	· Experience in working with Big data technologies Cassandra, Aerospike, Elastic Search.
+header	experience	WORK EXPERIENCE
+content	experience	Organization
+content	experience	Designation
+content	experience	From
+content	experience	To
+content	experience	OSI Technologies
+content	experience	Hyderabad
+content	experience	Software Engineer
+content	experience	7th july 2014
+content	experience	Till Date
+header	project	PROJECTS DETAILS
+content	experience	Project Name
+content	experience	Macys – HUB
+content	experience	Team size
+content	experience	10
+content	experience	Technologies used
+content	knowledge	Java script , Java 1.6, Spring , JQuery, Web Services, Maven, JDBC Module
+content	experience	Tools used
+content	knowledge	TOAD, Eclipse , JBoss, ANT, SVN, Splunk, Dyna Trace, Akamai, Heroku
+content	experience	Description
+content	experience	Macy’s, Inc. is one of the Nation’s premier Omni channel retailers, company operating stores and Internet websites under two brands, Macy’s and Bloomingdale’s. The Company sells a range of merchandise, including apparel and accessories for men, women and children, cosmetics, home furnishings and other consumer goods. We Develop and Support Website applications of Macy’s (www.macys.com) and Bloomingdales (www.bloomingdales.com)
+header	experience	Role/Contribution
+content	experience	· We as a part of SST (Site Support team) are involved in the enhancementand changing activities of Macy’s and Bloomingdale’s application
+content	experience	· Being part of L2, We are much involved in problem solving where rapid response matters first.
+content	experience	· Requirement Analysis and preparing documentation.
+content	experience	· Worked on enhancements in site using Java.
+content	experience	· Worked on testing of SOAP and REST web services.
+content	experience	· Effectively participated in bug fixing to deliver bug free Application.
+content	experience	· Coordinated with QA teams.
+content	experience	· Reviewing and analyzing the issues based on Severity (P-1, P-II, P-III), SLAs and providing fixes whenever required.
+content	experience	· Supporting Releases and Critical Launches by doing Log Monitoring from Application layer Using Splunk and Dynatrace
+header	project	Project Name
+content	experience	Enterprise Gift Registry (SM Retail Inc.)
+content	experience	Team size
+content	experience	8
+content	experience	Technologies used
+content	experience	Spring Boot, Spring Rest, Java 8,Angular 5
+content	experience	Description
+content	experience	SM Retail is a Retailing domain with around 6 companies under its umbrella. Enterprise Gift Registry is an application which primarily focuses on user events such as Birthday, marriage etc., Where celebrant can create event and add items to wish list and Guest can view and buy the wish listed products.
+header	experience	Role/Contribution
+content	experience	· Involved in Requirements discussion with Client.
+content	experience	· Involved in coding from the scratch.
+content	experience	· Developed applications to individual client standards.
+content	experience	· Involved in Documenting TDS documentation, Sequence diagrams.
+header	project	Project Name
+content	experience	SST PAC (Production Application Checker)
+content	experience	Technologies used
+content	experience	Java 1.6, Spring 3.0, Rest Web Services, Maven, JSP
+header	experience	Description
+content	experience	SST PAC is an application tool to verify the site day to day activities like Server status, checking for Stale content, checking the custom date for applications etc. This tool is useful during daily site recycle. This is an Automation tool to avoid the manual work.
+content	experience	Role/Contribution
+content	experience	· Interacted with the business users, collecting the requirements, analyzing the requirements, design and recommending solutions.
+content	experience	· Making use of REST services to get the data while verifying the stale content and custom dates of few applications.
+content	experience	· Coordinating with QA and other team Members.
+content	experience	· Debugging the application features and functionalities.
+content	experience	· Unit testing the functionalities.
+content	experience	· Involved in both testing and development of tool and developed from scratch.
+content	experience	· Maintaining the application and to resolve any issues in Production.
+content	experience	· Enhancements and deployments of the application.
+header	project	Project Name
+content	experience	Migrating Shopping Cart RDBMS to NOSQL (Macys Inc.)
+content	experience	Team size
+content	experience	3
+content	experience	Technologies used
+content	experience	Jersey 2.0, Spring framework, Cassandra, Aerospike
+content	experience	Tools used
+content	experience	Eclipse, Maven, Chrome rest client,Jmeter
+header	experience	Description
+content	experience	Macys is Online retail domain which is divided into different components. BagApp is an application which deals with different operations on shopping bag (or cart).Basic Idea of project is to migrate bag calls which were interacting with DB2 to NoSql and see the performance to state which NoSQL database performs well. We
+content	experience	We have opted two NoSQL technologies namely Aerospike and Cassandra.
+header	experience	Role/Contribution
+content	experience	· Seperated BagApplication from ShopApp and Browse(Navapp) application.
+content	experience	· Implemented Webservices for various bag calls.
+content	experience	· Worked on various NoSQL database designs to see which performs better.
+content	experience	· Wrote DAO layer for Aerospike and Cassandra for different designs.
+content	experience	· Performed load testing and performance testing and captured results to showcase which NoSQL database excels to the usecase.
+header	project	Project Name
+content	experience	Clear Point
+content	experience	Team size
+content	experience	2
+content	experience	Technologies used
+content	experience	Spring MVC, Spring JDBC, Jquery, JSP
+content	experience	Tools used
+content	experience	Eclipse, Maven
+content	experience	Description
+content	experience	Clear Point is a tool which was designed to Conduct the online exam for the PAT resources in our Organization. It is mainly intended to categorize the level of skills.
+header	experience	Role/Contribution
+content	experience	 Involved in Enhancing the tool by adding suggested features.  Involved in performance tuning of the tool.
+header	project	Project Name
+content	experience	Ess Portal
+content	experience	Team size
+content	experience	4
+content	experience	Technologies used
+content	experience	Spring MVC, Spring JDBC, Jquery, JSP
+content	experience	Tools used
+content	experience	Eclipse, Maven
+header	experience	Description
+content	experience	Ess portal is a leave management tool which was designed as product and used internally in our Organization. It is mainly intended to automate the leave management in the organization.
+header	experience	Role/Contribution
+content	experience	 Involved in Enhancing the tool by adding suggested features.  Involved in performance tuning of the tool.
+header	education	Education
+content	education	· Master of computer application in 2013 with GPA of 78%
+header	others	PERSONAL PROFILE
+header	others	Name
+meta	others	Harinadh Kamma
+header	others	Nationality
+meta	others	Indian
+meta	others	DOB
+meta	others	08 – 05 – 1990
+header	others	Address
+meta	others	Hyderabad
+header	knowledge	Language Known
+meta	knowledge	English, Telugu
+header	others	Declaration
+meta	others	I do hereby declare that the above given statements are true and correct to the best of my knowledge
+meta	others	(Harinadh Kamma)

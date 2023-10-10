@@ -1,0 +1,121 @@
+meta	others	PRIYANKA PAUL
+meta	others	SAMPATH KUMAR KOTIGARI
+meta	others	Phone: +91-8110997765
+meta	others	Email: sampath.kotigari@gmail.com
+header	others	Career Objective :
+content	others	Enthusiastic to work in the field of Embedded Systems and Automotive domain, where I will have scope to explore, work on analytical issues and develop new ways for achieving effective strength in the project field.
+header	experience	Professional Summary :
+content	experience	· 6.1 years of experience in the field of embedded systems and automotive domain, currently working as a Senior Software Engineer in Robert Bosch Engineering and Business solutions Ltd.
+content	experience	· Experienced in handling overall project operations starting from requirement phase, Impact analysis, coding, Integration, testing and Software delivery on MEDC17 and MDG AUTOSAR platforms.
+content	experience	· Onsite experience for 3 months for coordinating Series software and Vehicle testing’s for SOP.
+content	experience	· Good Hands on experience on functional development implementations for Vehicle communication-CAN, Diagnostics Communication Manager-AUTOSAR and Exhaust Management for Daimler Diesel Vehicles.
+content	experience	· Good knowledge on AUTOSAR architecture and hands on experience in DCM-Service layer.
+content	experience	· Expertise in manual and automation coding and testing using ASCET, CANdb++, BCT and ECU-Test tool.
+content	experience	· Scripting Implementations using Perl and CAPL for CAN applications.
+content	experience	· Good at solving software build Issue, interface handling, Scheduling concepts, MISRA and Bug analysis.
+content	experience	· Working knowledge on Linux platform, IPC, Low level drivers and multi threaded applications.
+content	experience	· Achieved 3 Technical awards and 6 awards in Corporate Social Responsibility.
+content	experience	· Technical awards for Developing ‘Automation scripting Delivery Tool’ which effectively reduced
+content	experience	8hrs of manual effort, Software build Issue solver and Software Quality maintenance award.
+content	experience	· Active participant and Department SPOC for Corporate social Responsibility, working to ensure basic essential needs and moving towards permanent solutions for benefiting needy Society.
+header	knowledge	Technical skills :
+content	knowledge	· Programming Languages: C, Embedded C, Linux System Programming.
+content	knowledge	· Scripting languages: Perl and CAPL
+content	knowledge	· Development platforms: MEDC17, MDG AUTOSAR.
+content	knowledge	· Development tools: RQONE, SDOM, ECUworx, CANdb++, BCT, ASCET, Make files.
+content	knowledge	· Testing Tools: INCA, Labcar, CANalyzer, SVN, ECU-Test , UDE, LCA.
+content	knowledge	· Protocols: CAN, UDS, XCP, XETK, TCP/IP, I2C, UART
+content	knowledge	· Debuggers: UDE, GDB
+content	knowledge	· Microcontrollers: 8/16/32 bit microcontrollers [Infineon Tricore 1793, 1797, Atmel and ARM]
+content	knowledge	· Linux Internals:
+content	knowledge	Fork, Exec, Pipe, FIFO, Signals, Semaphores, Mutex and Message Queues.
+content	knowledge	· Operating system: Windows and Linux
+header	experience	Professional Experience :
+content	experience	Robert Bosch Engineering and Business Solutions Ltd
+content	experience	Senior Software Engineer
+content	experience	March 2014 - Present
+header	experience	Responsibilities:
+content	experience	· Responsible for implementations related to Vehicle Communication-CAN, Diagnostics [DCM-AUTOSAR],
+content	experience	Exhaust Management and Software module Integrations for Daimler Diesel vehicles.
+content	experience	· Understanding system level requirements and writing Software for specific requirement.
+content	experience	· Conducting discussion of understanding to check for any open Issues and improvement points.
+content	experience	· Configuration and Implementation/coding as per project specific customer requirement.
+content	experience	· Perform Verification for functional implementation and Validation for the specific projects.
+content	experience	· Integration of software modules, solving interface Issues, Scheduling, warnings and buggy conditions.
+content	experience	· Performing Reviews, Functionality Test, System level Testing both manual and automation.
+content	experience	· Documentation for all new delta changes and Software release with all deliverables.
+content	experience	Emblogic Embedded Technologies Pvt Ltd
+content	experience	Embedded Engineer
+content	experience	Aug 2012 - March 2014
+header	experience	Responsibilities:
+content	experience	· Responsible for Inter process communication topics and Low level Drivers in Linux platform.
+content	experience	· Establishing Serial port, Parallel Port, socket, multithread applications and Board bring up.
+content	experience	· Ensuring Quality evaluation, Verification and Validation and Deliverables.
+content	experience	Krest Technologies
+content	experience	June 2011 – July 2012
+content	experience	Embedded Developer
+header	experience	Responsibilities:
+content	experience	· Responsible for programming and Testing for Atmel microcontroller 89S52.
+content	experience	· Interface handling for various applications using Sensors, RFID, GSM, GPS etc.
+content	experience	· Imparting training on new product/process to both in-house and supplier.
+header	education	Academic Profile :
+content	education	· Bachelor of Technology in the stream of Electronics and Communication Engineering from
+content	education	Auroras Technological and Research Institute under JNTU University, Hyderabad-(2007-2011) - 60.86%.
+content	education	· Intermediate in Mathematics, Physics and Chemistry from Narayana Junior College, Hyderabad,
+content	education	State Board - (2005-2007) - 91%.
+content	education	· SSC from St.Gabriel High School, Hyderabad, State Board - (2004-2005) - 84.5%.
+header	project	Projects during work :
+content	experience	Development of CAN protocol and DCM for Power train Engine ECU based on Infineon Tricore [TC1797]
+content	experience	Company:
+content	experience	Robert Bosch Engineering and Business Solutions Ltd
+content	experience	Client:
+content	experience	Daimler
+content	experience	Tools used:
+content	experience	RQONE, SDOM, CANdb++, BCT, ECU.WorX, CANalyzer, CAPL, UDE, UDS, INCA, LCPT.
+header	experience	Description:
+content	experience	· Requirements include CAN configurations, Implementation of CAN transmit and receive frames.
+content	experience	· Handling signal faults, range checks, CAN frame manager and application software logic for Engine ECU.
+content	experience	· Configuring and implementation of Diagnostics Communication Manager [DCM-AUTOSAR].
+content	experience	· Handling DSP Software application logic in accordance with DSL and DSD in AUTOSAR service layer.
+content	experience	· Test spec preparation, testing in LABCAR, Documentation and delivery.
+content	experience	· Development of Exhaust mode regeneration for MDG Tricore Platform
+content	experience	Company:
+content	experience	Robert Bosch Engineering and Business Solutions Ltd
+content	experience	Client:
+content	experience	Daimler
+header	experience	Tools used:
+content	knowledge	RQONE, SDOM, ECUWorx, ASCET, Inkscape, INCA, LCPT, Ecout, ECU-Tool.
+header	experience	Description:
+content	experience	· Implementation of additional regeneration requirements based on Multiple factors.
+content	experience	· Configuring new calibration conditions for existing regeneration modes.
+content	experience	· Cold start corrections based on ambient pressure and temperature.
+content	experience	· Test spec preparation, testing in LABCAR, Documentation and delivery.
+content	experience	· Integration of Software modules and making final software for Power train Engine ECU
+content	experience	Company:
+content	experience	Robert Bosch Engineering and Business Solutions Ltd
+content	experience	Client:
+content	experience	Daimler
+header	knowledge	Tools used:
+content	knowledge	RQONE, SDOM, ECUWorX, BCT, AUTOSAR, MDGB, Perl, LABCAR.
+header	experience	Description:
+content	experience	· Integration of software components for MEDC17 and MDG Diesel variants.
+content	experience	· Handling interface issues, Message inconsistency, Memory Issues and build Issues.
+content	experience	· Solving Scheduling issues, Warnings, Buggy Locked software and tracking them to closure.
+content	experience	· Performing Injection testing and Functionality testing’s.
+content	experience	· Documentation for all changes, maintaining deliverables and provide final software to customers.
+header	others	Personal Profile :
+meta	others	Date of Birth
+meta	others	: 2nd -August-1989
+meta	others	Marital status
+meta	others	: single
+meta	others	Nationality : Indian
+meta	knowledge	Linguistic Proficiency : English, Hindi and Telugu
+meta	others	Hobbies : Playing Volleyball, Badminton, watching news and listening music.
+meta	others	Address
+meta	others	: 23-91/4, Madhuranagar, Shamshabad,
+meta	others	Hyderabad, Telangana -501218.
+meta	others	Declaration:
+meta	others	I hereby declare that the above mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of above mentioned particulars.
+meta	others	Date: 30.10.2017
+meta	others	Place: Coimbatore
+meta	others	Sampath Kumar Kotigari

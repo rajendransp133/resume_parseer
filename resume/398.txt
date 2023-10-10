@@ -1,0 +1,138 @@
+meta	others	siddharth garg
+meta	others	Siddharth Garg
+meta	others	Address: Plot No 23 Near Apollo Pharmacy Mobile: 8884635353
+meta	others	Near Velankani tech park electronic city phase1, Email: Siddharthgarg100@gmail.com
+meta	others	Bangalore 560037
+header	experience	Professional Summary:
+content	experience	SAP Operations Team Leader understands how to motivate members, plan, track and monitor achievement of operational goals. Possesses seasoned abilities with identification of operational issues and methods to address them. Brings a Bachelor’s degree in Computer Science along with equivalent of Four years of 24X7 Business operations experience.
+header	experience	Experience:
+content	experience	Associate Consultant
+content	experience	Organization Name: Infosys Ltd.
+content	experience	Client Name: Adient (obtained from JCI Inc. Spinoff)
+content	experience	Project Name: Operations and Release Management
+content	experience	Project type: 24X7 support
+content	experience	Shift EMEA
+content	experience	Duration: April 2016 to Present
+content	experience	Role/Title/Shift role: Team leader
+content	experience	Work Location: Bangalore
+content	experience	SAP Ver. & systems: ECC6.0, SRM7.0 EHP2, XI/PI 2004s, SOLMAN 7.1, SAP HANA SP04, SAP BI 7.0, SAP BO 4.0, SAP BODS
+header	experience	Job Description:
+content	experience	· Leading and managing a team of 9 Consultants in 24X7 SAP operations and release management, encompassing 2 Business units and 20 Production, non-production SAP servers.
+content	experience	· Resource planning and management for offshore support.
+content	experience	· Providing operations track updates regularly to Group project manager, Identifying operational issues and devised plans to address them.
+content	experience	· Deciding processes for daily reporting schedules, formats and ensuring that the issues captured are dealt within agreed SLA.
+content	experience	· Process definition and Auditing for critical ticket/incident handling to ensure that technical issues are resolved within agreed SLA.
+content	experience	· Performing Root cause analysis (8D) for critical issues and providing documentation.
+content	experience	· Liaising with functional tracks for monitoring of Scheduled jobs, RFC’s and system performance
+content	experience	· Perform team building activities, onboarding activities and KT to new joiners and ensuring availability of resources in 24x7 environment.
+content	experience	· Develop a rollout schemes for SAP kernel upgrade.
+content	experience	· EWA, Monthly and Weekly report assessment and improvement
+content	experience	· Decide Release management activities like monthly, Weekly and daily releases, reporting structures for release and handling critical technical issues affecting release activities.
+content	experience	· Handling team escalations and deciding the process for avoiding further escalations
+content	experience	· Handling ABAP dumps, client, lock, update maintenance, analyze OSS notes, apply fixes, certificates
+content	experience	· Monitoring and administering via SAP HANA Cockpit for services, Alerts, overall performance of the system, memory utilization, CPU Usage, Disk Usage etc.
+content	experience	· Stopping, starting HANA system via SAP HANA studio.
+content	experience	SAP Basis Administrator 1
+content	experience	Organization Name: Juniper Networks, Inc.
+content	experience	Client Name: Supporting Juniper’s own SAP landscape
+content	experience	Project Name: Ignition 14.7, 14.2
+content	experience	Project type: 24X7 Basis support
+content	experience	Shifts Rotational shifts
+content	experience	Duration: Nov 2015 To March 2016.
+content	experience	Role/Title/Shift role: SAP Basis Administrator 1
+content	experience	Work Location: Bangalore
+header	experience	Job Description:
+content	experience	Primary responsibility is on BW 7.4 SP5, BO and Data Services area but also supporting other SAP products as well. Working with the BW application team on a regular basis.
+content	experience	· Administration of BW stack on prod and non-prod and manage HANA DB as well
+content	experience	· Hands on experience on BO and DS preferably with BO version 4.1, SP2, Patch 2 and DS Version: 14.2.1.224
+content	experience	· Handle performance issues w.r.t BW Application and HANA DB layer.
+content	experience	· Engage with hosting provider for requirements to be accomplished
+content	experience	· Troubleshoot issues at application layer, identifies issues at OS and DB layer and works with hosting provider to resolve them. Good knowledge on performance tuning of BW systems, aware of extraction issues, etc.
+content	experience	· Prepare reports of system health checks on a daily basis, analyze them, take action on non-prod/prod with prior approvals, upload job logs as per schedule, perform refresh/post refresh steps etc.
+content	experience	· Handling ABAP dumps, client, lock, update maintenance, analyze OSS notes, apply fixes, certificates
+content	experience	· Ensure regular maintenance procedures such as clearing queues, verify housekeeping jobs, locks, identifying long running sessions, Handling memory management , Database related issues, DB stats check,
+content	experience	· Configure transports if needed when landscape changes, trouble shoot and resolve transport issues.
+content	experience	· Work with internal teams for closure to day today issues, provide root cause analysis,
+content	experience	· Be part of project/releases and provide BASIS related support.
+content	experience	· Installation and upgrade experience for the above will be a plus
+content	experience	· Follows Infosec guidelines and governance in BASIS area very stringently
+content	experience	· Participate in down time activities/manage downtime independently as per need.
+content	experience	Associate Software Engineer
+content	experience	Organization Name: CGI group
+content	experience	Client Name: Multiple UK Govt. & Pvt. clients (~20 Clients)
+content	experience	Project Name: UK shared services
+content	experience	Project type: 24X7 Basis support
+content	experience	Shifts Rotational shifts
+content	experience	Duration: Aug-2013 To Oct-2015 (2 years 1 month)
+content	experience	Role/Title/Shift role: SAP BASIS consultant/Associate software engineer/Shift lead
+content	experience	Work Location: Bangalore
+content	experience	SAP Ver. & systems: ECC6.0, SRM7.0 EHP2, XI/PI 2004s, SOLMAN 7.1, CRM 5.0, BI 2004s, SAP Portals, E-Rec, BO system, NWCE,
+content	experience	Job Description: My job mainly includes mainly Incident Resolution within agreed SLA, Alert monitoring, system checks, Transports, Note implementation, Profile Parameter change, Transport configuration, Client copy
+content	experience	Detailed description:
+content	experience	· Manual monitoring of application servers for Response times, SAP Buffers, CPU utilization, Table spaces, Update monitoring, backgrounds jobs, Work process monitoring, No of active users, application monitoring, ABAP Dumps, checking backup successful or not etc.
+content	experience	· Performing daily health checkup of all SAP servers on landscape & tuning
+content	experience	· Background job scheduling & monitoring
+content	experience	· Client administration – creating, copying, deleting, export/import
+content	experience	· Change & Transport administration
+content	experience	· Configuration of CTS, Creating change requests and performing export and import of transports for R/3 system, Checking, Analyzing and troubleshooting transport issues
+content	experience	· Analyzing system errors & ABAP dumps
+content	experience	· Monitoring the lock entries and Monitoring of exclusive locks and dead locks
+content	experience	· Monitoring of failed updates and informing the user
+content	experience	· Installed and configured SAP Library
+content	experience	· Familiar with System Refresh activities.
+content	experience	· Spool administration
+content	experience	· Providing developer key to ABAP developers
+content	experience	· Setting up & Monitoring of Daily, weekly and monthly batch jobs
+content	experience	· Opening OSS connections for SAP to trouble shoot Issues in our Systems
+content	experience	· Applying OSS notes using SNOTE
+content	experience	· Performed Kernel & Kernel Patch Upgrades
+content	experience	· Applying Support packages
+content	experience	· SAP License administration
+content	experience	· Familiar with Alert Monitors, setting & configuring SAP Alerts
+content	experience	· Creation and maintenance of RFC connections
+content	experience	· System Log monitoring
+content	experience	· Setting up Operation Modes
+content	experience	· Profile parameters change
+content	experience	· In Oracle part, the followings
+content	experience	· Performing daily health check for databases
+content	experience	· Table Space Administration, Table reorganization, Rebuilding Indexes using BR*TOOLS
+content	experience	· Regular monitoring of database and archive backups and troubleshooting backup issue
+content	experience	In SQL part,
+content	experience	· Performing Backups,
+content	experience	· Shrinking log Files
+content	experience	Well versed with remedy ITSM software.
+header	education	Academic Qualification:
+header	education	Academic Qualification
+content	education	Institute/ University
+content	education	Year of Passing
+content	education	Percentage
+content	education	Graduation(B.E),
+content	education	Computer science & engineering.
+content	education	TIT College(Bhopal)/R.G.P.V
+content	education	2009-2013
+content	education	78.6
+content	education	12th
+content	education	St. Joseph’s co-ed School(Bhopal)/C.B.S.E
+content	education	2009
+content	education	70.4
+content	education	10th
+content	education	St. Joseph’s co-ed School(Bhopal)/C.B.S.E
+content	education	2007
+content	education	63.8
+header	knowledge	Strengths:
+content	knowledge	· Fluent communication skills.
+content	knowledge	· Flexible to work in Rotational shifts.
+meta	others	.
+header	education	Trainings:
+content	education	· ERP software skills-: Attended CGI group Company training for SAP Basis fresher’s for 1.5 months named “metamorphosis”.
+header	others	Extracurricular activities:
+meta	others	· Part of editorial board in college magazine.
+content	others	· Attended “Manthan” an industry academia interface program in which top HR experts from various companies interacted from students having good academic background.
+content	others	· Was a class representative in my class for 4 semesters.
+content	others	· Attended Art of living workshop.
+header	others	Personal Information:
+meta	others	Father’s Name Sandeep garg
+meta	others	Date of Birth 07-08-1991
+meta	knowledge	Languages known English, Hindi
+meta	others	Permanent Address C-9 B.D.A colony shivaji nagar Bhopal(MP) -462016
+meta	others	Hobbies Listening to music, swimming, playing cricket & football, Learning

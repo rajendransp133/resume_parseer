@@ -1,0 +1,55 @@
+header	others	RESUME
+meta	others	Name : Shrutkirti Vasant Madav
+meta	others	Address : A-103, Sairaj CHS, Bhopar road, DesalePada, Dombivali (E)
+header	education	Educational Qualification :
+content	education	· S.S.C. passed from Maharashtra Board
+content	education	· H.S.C. passed from Maharashtra Board
+content	education	· T.Y.Bcom. passed from Maharashtra Board
+header	others	Personal Details :
+content	others	· Date Of Birth :8th April 1996
+content	others	· Gender :Female
+content	others	· Religion :Hindu
+content	others	· Nationality :Indian
+content	knowledge	· Language Known :Marathi, Hindi, English
+content	others	· Contact No. :9136265414
+content	others	· Hobbies :Travelling, Cooking
+content	others	· Email : shrutimadav117@gmail.com
+header	knowledge	Key Skill :
+content	knowledge	· MS – CIT
+content	knowledge	· English Typing
+content	knowledge	· Tally ERP 9
+header	experience	Work Experience :
+content	experience	Working As a Junior Accountant (Dhanlakshmi Fabrics Ltd.)
+content	experience	(From Sep 2016 to Nov 2017)
+header	experience	Job Profile :
+content	experience	· Preparing financial documents such as invoices, bills, and accounts payables and receivables
+content	experience	· Completing purchase orders
+content	experience	· Managing payroll
+content	experience	· Completing bank reconciliations
+content	experience	· Processing business expenses
+header	experience	Work Experience :
+content	experience	Working As a Assistant Accountant (Mehru Enterprises)
+content	experience	(From Dec 2017 to May 2018)
+content	experience	· Maintains financial records for subsidiary companies by analyzing balance sheets and general ledger accounts.
+content	experience	· Reconciles general and subsidiary bank accounts by gathering and balancing information.
+content	experience	· Provides financial status information by preparing special reports; completing special projects.
+content	experience	· Corrects errors by posting adjusting journal entries.
+content	experience	· Maintains general ledger accounts by reconciling accounts receivable detail and control accounts; adjusting entries for amortizations prepaids; analyzing and reconciling retainage and accounts payable ledgers; preparing fixed asset depreciation and accruals.
+content	experience	· Secures financial information by completing database backups; keeping information confidential.
+content	experience	· Maintains accounting controls by following policies and procedures; complying with federal, state, and local financial legal requirements.
+content	experience	· Updates job knowledge by participating in educational opportunities; reading professional publications.
+content	experience	· Accomplishes accounting and organization mission by completing related results as needed.
+header	experience	Job Profile :
+header	experience	Work Experience :
+content	experience	Working As a Administrative Assistant – Export logistics corp.proc, Exim Support & finance ( Godrej & Boyce Mfg.Co. ltd from June 2018 to Till the Date)
+content	experience	Job Profile : Export Documentation ( Post Shipment Activity)
+content	experience	· Liaising with consignee & bank providing them documents.
+content	experience	· Ensuring funds receivable from consignee, tracking and claiming inward remittance, accounting funds.
+content	experience	· Ensuring export Letter of Credit
+content	experience	· Processing payment of sales commission related to export consignment.
+content	experience	· Co-ordinating with all relevant departments & Bank on regular basis.
+content	experience	· Operating in ERP system (Enterprise Resource Planning).
+content	experience	· Generating management information system report.
+content	experience	· Preparing Bank Reconciliation Statements (BRC) & Forwarding to bank.
+meta	others	Place : Mumbai Signature
+meta	others	Date : (ShrutkirtiVasantMadav) )

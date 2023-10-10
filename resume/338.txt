@@ -1,0 +1,71 @@
+meta	others	1 | Page
+meta	others	2 | Page
+meta	others	SATHIYA RAJ G
+meta	others	Mob: +91 9176576700
+meta	others	Email ID: sathiyarajwood@gmail.com
+header	others	Career Objective
+content	others	Anticipating for the challenges in terms of technical and analytical skills in my profession, never lose my confidence and will power to enhance my ability towards success which contributes a lot in the growth of an organization as well as myself.
+header	experience	Work Experience
+content	experience	Currently working with DXC Technologies as a Software Engineer (Associate Professional Application Delivery). And I have 2.6 years of experience in MAINFRAMES domain since April 2015 to till date.
+header	experience	Career Summary/Highlights
+content	experience	· Working in a development team (LIFE Insurance LOBs) for the Client – Zurich Germany Insurance.
+content	experience	· Own key roles in developing and as a flexible resource in (Testing team, DFP Review Team and Gatekeeping Team).
+content	experience	· Good exposure in Project Development and Management activities.
+content	experience	Self Assessment-Positives
+content	experience	· Strong Technical and Communication Skills with a can-do and will-learn attitude.
+content	experience	· Ability to learn/understand new technologies, functionalities and tools quicker with minimal guidance.
+content	experience	· Builds effective working relationships with co-workers. Co-operative, shares information and supports others.
+header	education	Education and certification
+content	education	· Bachelor of Engineering (B.E) in Electronics and Communication Engineering from SRM Valliammai Engineering college, Chennai (2009 to 2013).
+content	education	· Training program in Mainframe Technologies from Gowdanar Technologies, Bangalore (2013).
+header	knowledge	Technical Skills
+content	knowledge	Operating System
+content	knowledge	Windows, Z/os
+content	knowledge	Programming Languages
+content	knowledge	COBOL, DB2, JCL, VSAM, C basics
+content	knowledge	Tools
+content	knowledge	Tableau (Data visualization tool), QlikView (Data visualization tool), IBM Debug Tool, ENDEVOR, RATIONAL SYNERGY (Version control tool), SPUFI, FM
+header	experience	Project Experience:
+content	experience	Client
+content	experience	Zurich Germany Insurance
+content	experience	Domain
+content	experience	Life Insurance
+content	experience	Team
+content	experience	ZDS
+content	experience	Tool
+content	experience	Mainframe
+content	experience	Development hierarchy
+content	experience	· Analyzing the requirements.
+content	experience	· Coordinate with external/Onsite/Vendor teams for DB (Database), DB Rules changes, real values.
+content	experience	· Development of code to implement the functionality.
+content	experience	· Develop and deliver Change Requests, Defects.
+content	experience	· Perform unit and Integration testing.
+content	experience	· Preparing result document and presentation.
+content	experience	Languages and Tools which used in the project
+content	experience	To convert business requirements into working code logics
+content	experience	- COBOL, DB2
+content	experience	For Post production support, Error log monitoring, reporting
+content	experience	- JCL
+content	experience	Decode bugs during development phase, defect analysis
+content	experience	- IBM Debug Tool
+content	experience	Data Visualization Tools - Tableau and Qlikview
+content	experience	Other tools
+content	experience	- SPUFI, FM
+header	others	Personal Information
+meta	others	Name
+meta	others	: Sathiyaraj.G
+meta	others	Father’s Name
+meta	others	: Mr. Gopal
+meta	others	Date of Birth
+meta	others	: 18.11.1991
+meta	others	Gender
+meta	others	: Male
+meta	knowledge	Languages Known : English, Tamil
+meta	others	Permanent Address : 3/108, kalanur,
+meta	others	Jagadevi (po),
+meta	others	Krishnagiri-635205.
+meta	others	Declaration
+meta	others	I, hereby declare that the above given information is correct up to my knowledge and I bear responsibilities for the correctness of the data.
+meta	others	Date:
+meta	others	Place:
+meta	others	(G Sathiya Raj)

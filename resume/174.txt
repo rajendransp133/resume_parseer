@@ -1,0 +1,39 @@
+meta	others	Johnson Karna Swamy
+header	others	PERSONAL PROFILE
+meta	others	GENDER : MALE
+meta	others	HEIGHT : 185 CM
+meta	others	WEIGHT : 71 KGS
+meta	others	NATIONALITY : INDIAN
+meta	others	DATE OF BIRTH : 04/04/1997
+meta	others	MOBILE : 8329837086
+meta	others	EMAIL : johnson.apr1997@gmail.com
+meta	others	ADDRESS : HOUSE NO.53, NEAR DATTA MANDIR, KASTURBA VASAHATI,
+meta	others	GANESHKHINDROAD, AUNDH, GANESHKHIND, PUNE, MAHARASHTRA, 411007.
+content	knowledge	LANGUAGES : ENGLISH, HINDI, MARATHI, TAMIL.
+header	others	OBJECTIVE
+content	others	To work in an informative environment where I can implement my talent, skills and knowledge to the nest of my ability. To pursue a career in an organization which allows me to utilize my creativity and communication skills and allows me to constantly hone these skills and develop a new persona.
+header	experience	PROFESSIONAL EXPERIENCE
+content	experience	Worked as a senior customer service executive with (WNS GLOBAL SERVICES INDIA) For 11 months where in my role included providing end to end customer service.
+content	experience	Worked as a CCE with Arihant Communications for 1 year where in my role included providing end to end customer service.
+header	education	EDUCATIONAL QUALIFICATION
+content	education	Examination passed
+content	education	Name of Institution/University
+content	education	Year of passing
+content	education	Percentage
+content	education	S.S.C
+content	education	MAHARASHTRA STATE BOARD
+content	education	2013-2014
+content	education	57%
+content	education	H.S.C
+content	education	MAHARASHTRA STATE BOARD
+content	education	2015-2016
+content	education	60%
+header	knowledge	SKILLS AND COMPETENCIES
+content	knowledge	*GOOD VERBAL AND COMMUNICATION SKILLS
+content	knowledge	*ABILITY TO TAKE INSTRUCTIONS, CO-ORDINATE WELL AND GET WORK DONE IN A TEAM ENVIRONMENT.
+content	knowledge	*HIGHLY ADAPTABLE.
+content	knowledge	*DIPLOMATIC, SOCIAL AND ASSERTIVE IN DEALING WITH PEOPLE.
+content	knowledge	*HIGHLY SELF-MOTIVATED, HIGHLY AMBITIOUS AND OUT –AND –OUT TO PROVIDING HIGH LEVEL OF SERVICES.
+content	knowledge	*CAPABILITY TO WORK ON DIFFERENT TASKS AND TAKE DECISIONS
+header	others	DATE:
+header	others	PLACE:

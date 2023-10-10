@@ -1,0 +1,72 @@
+meta	others	Jitesh Vishwakarma
+meta	others	E-mail-Id: - jvishwakarma123@gmail.com
+meta	others	Contact Number: - 9960902548
+header	experience	PROFESSIONAL SUMMARY:
+content	experience	· 4 years of technical experience in implementation, customization, integration and support of business application system.
+content	experience	· Having Domain Experience in PAYMENT, AUTOMOBILE and HEALTH-CARE.
+content	experience	· Experienced in developing Web based applications with J2EE, JSP, Servlets, JDBC, Spring, Hibernate.
+content	experience	· Experience in designing, developing and deploying J2EE application on IBM WebSphere/Web Logic Application Servers, Tomcat, etc.
+content	experience	· Exposure to AGILE methodologies.
+content	experience	· Hands on exposure to multiple Application Servers like GLASSFISH, and IBM Web Sphere Server.
+content	experience	· Expertise in back-end procedure development, for Database Applications using ORACLE and SQL Server.
+header	knowledge	TECHNICAL SKILLS:
+content	knowledge	· Software Products: Apache Tomcat Server, WebSphere Application Server, JBoss, GlassFish.
+content	knowledge	· Language: Java, J2EE, Spring, Hibernate, EJB, Webservice, XML, HTML, PL/SQL, Java Script
+content	knowledge	· Tools: Eclipse, Web Sphere MQ,SOAPUI,HP ALM
+content	knowledge	· Databases: Oracle ,SQL
+content	knowledge	· Version Control Tools: SVN,Git, Perforce.
+header	others	EMPLOYMENT HISTORY
+content	others	· Currently working with FundTech India Pvt Ltd, Pune from June 2017 to Till Date.
+content	others	· PVMSys InfraSolution Pvt Ltd,Pune from May 2015 to June 2017.
+content	others	· Rechnetic System, Pune from April 2014 to May 2015
+header	experience	WORK EXPERIENCE
+content	experience	Fundtech India Pvt Ltd,Pune (June-2017 to till date)
+content	experience	Product: GPP (Global PAYplus).
+header	experience	Product Summary:
+content	experience	Global PAY plus–Services Platform (GPP-SP) solution is a payments platform that is used by many of the world’s largest global and domestic banks. A centralized high-performance payment hub developed using service-oriented architecture (SOA) allows the bank to offer their customers new levels of business and functional payment service capabilities on an affordable processing platform.
+content	experience	GPP-SP combines the agility of SOA with the flexibility of a rules-based system.
+content	experience	The rules engine is designed to work in a global environment using the language of business users. Rules can be applied without the need for additional programming. By eliminating the need to re-code, users can save time and money while significantly improving their time-to-market for new products. In addition, GPP-SP offers customers the flexibility to adapt to change. GPP-SP users can add a new feature to a product simply by changing a rule. In the past, adding such an enhancement would have taken many months.
+content	experience	Technology: CoreJava, Spring, Hibernate, Oracle Sql Developer, Web Logic Server, IBM Web Sphere MQ, Agile Development,JMS, SoapUI, Perforce ,HP ALM(QC).
+header	experience	Responsibilities:
+content	experience	· Certify, develop and Implement new feature in product as per the business requirement for particular banks and clearing house by following standards.
+content	experience	· Involved in Product certification for Bank of Ireland for Mass Payments (MP).
+content	experience	· Involved In fixing defects in product, testing and automating the test cases.
+content	experience	· Involved In participation of regular sprint planning status meetings to discuss the risk arising in ongoing sprint with teammates and team lead.
+content	experience	· Have individual contribute to coordinate/communicate with onsite team and Product owner.
+content	experience	· Have worked on Java, Spring, Hibernate, Oracle Sql developer, IBM Websphere, SoapUI, JMS.
+meta	others	.
+content	experience	PVMSys InfraSolutions Pvt Ltd,Pune (May-2015 to June 2017)
+content	experience	Product: PVMSys Framework
+header	project	Project Summary:
+content	experience	PVMSys Framework is based in Test Data Management system, related to Engine part of vehicle. Facilitates workflow in automobile testing domain and manage all the test data generated at different test Cells in to central system where some decision making logic is there to decide that how many test needs to be conducted on a particular model before issuing a test report and also provides Report, Localization, Email Alerts and test data analysis.
+content	experience	Technology: CoreJava, J2EE, SpringMVC, Hibernate, XML, OSGI, ASM Commander,SVN
+header	experience	Responsibilities:
+content	experience	· Involved in Coding, Deployment.
+content	experience	· Develop new enhancement as per the requirement and Sending daily status report.
+content	experience	· Leading with 4 member team and allocating task.
+content	experience	· Work on core part of OSGI framework and Flex.
+content	experience	· Responsibility for debugging and maintaining the code.
+content	experience	Rechnetic System, Pune (April-2014 to May-2015)
+header	project	Project # 1: Gripic.in
+header	project	Project Summary:
+content	experience	To Search the Doctor and Hospital from the Particular Area, Location. In this application patient where he/she can do online appointment as per the doctor time slot. Doctor can update his time slot as per his availability .Patient can give rating and review to doctor or hospital. It’s a web based application worked on Communication and mailing functionality.
+content	experience	Technology: Core Java (OOPS and Collection), JSP, Spring, Hibernate, HTML, JavaScript.
+header	experience	Responsibilities:
+content	experience	· Work on application technology Java ,SpringMVC ,Hibernate .
+content	experience	· Develop Mailing Configuration as per appointment .
+content	experience	· Involved in understanding the functional and requirement.
+content	experience	· Involved in Coding from end-to-end application.
+header	education	EDUCATIONAL QUALIFICATION
+content	education	2014 M.C.A from ASM’s College of Commerce, Science and Information Technology, Pune University
+content	education	2011 B.C.A from ASM’s College of Commerce, Science and Information Technology, Pune University.
+content	education	2008 H.S.C from Shri Swami Samarth Junior College, Maharashtra Board.
+content	education	2006 S.S.C from Shri Swami Samarth English Medium School, Maharashtra Board.
+header	others	PERSONAL DETAILS
+meta	others	· Name : Jitesh Vishwakarma
+meta	others	· Date of Birth: 16th Feb, 1991.
+meta	others	· Address: Sr.no-23, Hanuman Nagar, Bhagat Wasti, Bhosari, Pune-411026.
+meta	knowledge	· Language knows: English and Hindi.
+meta	others	· Passport Number : E3566819
+header	others	Date :
+meta	others	Place: PUNE
+meta	others	Jitesh Vishwakarma.

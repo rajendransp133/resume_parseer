@@ -1,0 +1,120 @@
+meta	others	Promila Singh
+meta	others	C O N T A C T
+meta	others	P R O M I L A S I N G H
+meta	others	DATA SCIENT IST
+content	others	(+91) 965 430 8889
+meta	others	promila2809@gmail.com
+header	education	E D U C A T I O N
+header	knowledge	H A R D S K I L L S
+content	experience	M.Tech in Software Systems
+content	experience	2014-16 - Bits Pilani
+content	experience	Sapient Corporation
+content	experience	Analyst and Engineer
+content	education	Sep 2010 - Oct 2017
+content	education	MCA
+content	education	2004-07 - Punjab Technical
+content	education	University
+content	experience	SAS, SAS-Macro, SAS-SQL
+content	experience	Regression Model, PCA,
+content	experience	Classification, Association,
+content	experience	Clustering, Segmentation
+content	knowledge	Java , JSP, Servlet, Web
+content	experience	Services.
+content	knowledge	HDFS, Pig, Hive, HBase,
+content	experience	MapReduce
+content	knowledge	MySQL, Oracle, BigData,
+content	experience	Hadoop.
+content	experience	Tridion, Adobe Day CQ.
+content	experience	Hybris Ecommerce
+header	experience	P R O F I L E S U M M A R Y
+content	experience	Exploratory Data Analysis, Multivariate regression analysis, Predictive
+content	experience	Models, Linear Regression, Logistic Regression, Hypothesis, Principle
+content	experience	Component Analysis, Factor Analysis, Cluster Analysis, Segmentation,
+content	experience	Hadoop Architecture, Hive, SQL.
+content	education	Delhi University - Gargi College
+content	education	B.Commerce
+content	education	DOEACC ‘A’ Level
+content	experience	2002 - 2003
+header	knowledge	S O F T S K I L L
+header	knowledge	S K I L L S E T
+content	knowledge	Experienced professional Capable of developing insight into business
+content	experience	requirement and changing for analytic approaches.
+content	experience	Professional with Machine Learning Statistic Modeling, Predictive
+content	experience	Modeling, ROC Curve, Data Modeling, Data Analysis, Data Mining,
+content	knowledge	Analytics Models (Linear & Logistic Regression, Hadoop (Hive, PIG), R,
+content	knowledge	MS Excel, SQL.
+content	experience	Hands on experience in implementing Linear and Logistic Regression,
+content	experience	ROC, Clustering, Dimensionality Reduction, Principle Component
+content	experience	Analysis, data mining methods, forecasting, factor analysis.
+content	experience	Transform large sets of structured, semi-structured and unstructured
+content	experience	data.
+content	experience	Experienced in building data models using machine learning
+content	experience	techniques for Classification, Regression, Clustering and Associative
+content	experience	mining.
+content	experience	Analytical minded technologically native and excellent computer
+content	experience	science abilities and familiar with all standard data science software.
+content	experience	Statistical analysis, algorithms and calculation skills.
+content	experience	Excellent communication skills both interpersonal and professional,
+content	experience	collaborating with others.
+content	experience	Highly organized talented multitasker, familiar with administrative
+content	experience	responsibilities.
+content	experience	Apex T G India Pvt Ltd
+content	experience	Software Engineer
+content	experience	2007 - 2010
+content	experience	Gathered business requirements, functional specifications and added
+content	experience	answered queries in detailed design documents.
+content	experience	Designed and developed Web Application stories.
+content	experience	C E R T I F I C A T I O N
+content	experience	SAS Certified Statistical Business Analyst Using SAS 9: Regression and
+content	experience	Modeling
+content	experience	Wiley Big Data Specialist Certification
+content	experience	Oracle Certified Professional, Java EE 5 Web Component Developer
+content	experience	SCJP Certification-1.6
+content	others	Problem Solving
+content	others	Critical Thinking
+content	others	Creative Thinking
+content	knowledge	Interpersonal Skills
+content	others	Documentation
+content	others	C O N T A C T
+meta	others	~~~~~~
+meta	others	~~~~~
+meta	others	~~~~~
+meta	others	~~~~~
+meta	others	~~~~
+content	experience	P R O J E C T S
+content	experience	Insurance Bureau of Canada
+content	experience	Perform hands-on data manipulation, transformation, hypothesis testing and predictive modeling.
+content	experience	Implemented Classification using algorithms like Logistic Regression.
+content	experience	Data preparation then Data Exploration with Univariate Analysis, Bi-variate Analysis, Missing values
+content	experience	treatment and Outlier treatment.
+content	experience	Performed Liner and Logistic Regression, ROC curve , IV and WOE to generate insights of large datasets.
+content	experience	Barclays, Email Marketing Campaign, at Sapient
+content	experience	Boston Consulting Group (BCG), Project - Road mapping
+content	experience	Toronto-Dominion Bank Financial Group, Project -TD Maestro
+content	experience	Cigna A Global Health Service Company
+content	experience	Created Hive queries that helped analysts spot emerging trends by comparing fresh data with EDW
+content	experience	reference tables and historical metrics and processed the data using HQL (like SQL) on top of Map-reduce.
+content	experience	Optimized logistic regression and ensemble method classifiers to increase hit rate for the different
+content	experience	customer segment.
+content	experience	Developed visualizations and dashboards using Tableau to present analysis outcomes in terms of patterns,
+content	experience	anomalies, and predictions use of bar charts, Scatter Plots, 3D plots, and histograms.
+content	experience	Analyzed large data sets apply machine learning techniques and develop predictive models, statistical
+content	experience	models and developing and enhancing statistical models by leveraging best-in-class modeling
+content	experience	techniques.
+content	experience	Machine Learning and Statistics – EDA, hypothesis testing, feature selection, model validation and
+content	experience	optimization.
+content	experience	Expertise in data visualization, statistical modeling, data mining, or information retrieval data extraction
+content	experience	and processing.
+content	experience	Load and transform large sets of structured, semi-structured and unstructured big data.
+content	experience	Optimized logistic regression and classifiers to increase hit rate for the different customer segment.
+content	experience	Applied statistics skills, such as distributions, hypothesis, statistical testing, regression, etc.
+content	experience	Redesigned the Cigna corporate site to responsive site using bootstrap, it includes redesigns of all the
+content	experience	components & templates and a migration of 700 pages on site as well as microsites.
+content	experience	Design and coding of the Data capture templates, presentation & component templates.
+content	experience	Performed exploratory data analysis to develop new products for campaign promotions incl. churn
+content	experience	prediction.
+content	experience	Company - Sapient - Analyst
+meta	others	Company - Sapient - Analyst
+meta	others	Company - Sapient - Analyst
+meta	others	Company - Sapient - Analyst
+meta	others	Company - Sapient - Analyst

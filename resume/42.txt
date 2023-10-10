@@ -1,0 +1,99 @@
+meta	others	ABHIJIT DAS
+meta	others	Nand Kishore Sharma
+meta	others	Rishi Ghati, Ganj, Puskar Road, Ajmer, Raj.
+meta	others	Contact: 9875049949, 9672450888; Email: nikki1991sharma@gmail.com
+header	experience	Summary
+content	experience	Offering over 4 years of diverse experience in IT Services with demonstrated success implementing strategic IT initiatives that improved business functionality.
+content	experience	Skilled Desktop management L3 Engineer in providing comprehensive technical support to end-users in financial, customer service, and professional recruitment industries. Successful in installing, upgrading, and configuring innovative applications on Windows operating systems and providing technical support to optimize workflows and minimize business interruptions. Seeking to utilize expertise in information technology and desktop support to take next career step with a highly respected financial firm.
+header	experience	Job History
+content	experience	Wipro Infotech. (Client - Genpact) Since 16th Feb2015 – 1st June2016
+content	experience	IT Desktop Support Engineer
+header	experience	Technical Skill
+content	experience	· Installing and configuring Desktops and notebook with the business policy.
+content	experience	· Installing and configuring various application mainframe and client application.
+content	experience	· Operating systems 2000/XP/win 7/Win10.
+content	experience	· Managing Domain users roaming profile Password and login issues.
+content	experience	· Installing and Configuring Citrix Client.
+content	experience	· Mail Client MS Outlook Configuration and Troubleshoot.
+content	experience	· Symantec Client update.
+content	experience	· Managing Roaming Profile issues.
+content	experience	· Primary troubleshooting of the network Issues linked to the end users’ Desktop/laptop.
+content	experience	· Network Printer Issues.
+content	experience	· Patch Management for Windows and other applications.
+content	experience	· VPN installation &Configuration.
+content	experience	· Maintaining Windows Active Directory, DNS & DHCP environment
+content	experience	· Thin client configuration
+content	experience	· Handles business critical calls and issues
+content	experience	· Basic trouble shooting MAC book
+content	experience	3i InfoTech consultancy Services
+content	experience	(Client –Airtel) Since 25thAug2016– 7thNov2016
+header	experience	Associate engineer (G2)
+content	experience	· Oversee and update assigned support service requests.
+content	experience	· Handle daily technical support activities on desktop support, data network and server management.
+content	experience	· Grow clients and communicate to Account Manager by determining new opportunities.
+content	experience	· Setup desktop computers and peripherals and test network connections.
+content	experience	· Install and test desktop software applications and internet browsers.
+content	experience	· Test computers to ensure proper functioning of computer systems.
+content	experience	· Train end users on usage of computer hardware and software.
+content	experience	· Develop and manage effective professional working relationships with contractor personnel, co-workers and clients.
+content	experience	· Adhere to policies as per corporate manuals and directives.
+content	experience	· Extend computer support for systems’ software and hardware.
+content	experience	· Setup computers and install software for various applications and programs
+content	experience	· Interact with staff on desktop problems and their resolution.
+content	experience	· Network and connect computers within organization to better communication.
+content	experience	· Order or buy computer systems and liaise with purchase and supplies department.
+content	experience	· Maintain computer peripheral devices like printers and resolve associated problems.
+content	experience	Experis IT (Client-Airtel) Since 8thNov2016 – 8thAug 2017
+header	experience	System Administrator
+content	experience	· Address user tickets regarding hardware, software and networking
+content	experience	· Walk customers through installing applications and computer peripherals
+content	experience	· Ask targeted questions to diagnose problems
+content	experience	· Guide users with simple, step-by-step instructions
+content	experience	· Conduct remote troubleshooting
+content	experience	· Test alternative pathways until you resolve an issue
+content	experience	· Customize desktop applications to meet user needs
+content	experience	· Record technical issues and solutions in logs
+content	experience	· Direct unresolved issues to the next level of support personnel
+content	experience	· Follow up with clients to ensure their systems are functional
+content	experience	· Report customer feedback and potential product requests
+content	experience	· Help create technical documentation and manuals
+content	experience	Wipro Infotech (Client – MetLife UK) Since 9thAug2017 – Till Date
+header	experience	IT (Desktop Management)
+content	experience	· To providing the L2 remote support to the user.
+content	experience	· 1st level support for application, resolving technical problems related to – Business Applications, MS Office, Desktop Troubleshooting & MS Outlook. Installation of all applications and formatting the system.
+content	experience	· Responsible for assigning the fault tickets that are raised by the user in solution desk software to the available engineers in team.
+content	experience	· All escalations are to be monitored and chased. Follow – up on faults and requests raised either in solution desk or through emails.
+content	experience	· Replying on the emails coming to service desk. Providing Helpdesk support to in house & Other Clients
+content	experience	· Vendor Co-ordination, Report generation, Providing Helpdesk support to client
+content	experience	· Handle fist level escalation of the site and after that transfer it to the concern person on the senior level at the time of severity incidents, log Incident call.
+content	experience	· Prepare the consolidated MIS Report of the sites from the raw data. Maintain the attendance and another record of the team. Speaking to users and higher management on phone and providing them information or raising tickets for them
+content	experience	· Installing and configuring Desktops and notebook with the business policy.
+content	experience	· Installing and configuring various application mainframe and client application.
+content	experience	· Operating systems 2000/XP/win 7/Win10.
+content	experience	· Managing Domain users roaming profile Password and login issues.
+content	experience	· Installing and Configuring Citrix Client.
+content	experience	· Mail Client MS Outlook Configuration and Troubleshoot.
+content	experience	· Symantec Client update.
+content	experience	· Managing Roaming Profile issues.
+content	experience	· Primary troubleshooting of the network Issues linked to the end users’ Desktop/laptop.
+content	experience	· Network Printer Issues.
+content	experience	· Patch Management for Windows and other applications.
+content	experience	· VPN installation &Configuration.
+header	education	EDUCATIONAL CREDENTIALS
+header	education	Masters of Computer Application (MCA) 2016
+content	education	Amity University, Noida (Pursuing)
+content	education	Bachelors of Computer Application (BCA), 2014
+content	education	MDS University, 74.00%
+content	education	XII, 2011
+content	education	Lawrence & Mayo Public School, CBSE Delhi 58.00%
+content	education	X, 2007
+content	education	Lawrence & Mayo Public School, CBSE Delhi 52.00%
+meta	others	Date of Birth: 1993
+meta	others	Marital Status: Married
+meta	knowledge	Language known: Hindi, English
+meta	others	References: Available on Request
+meta	others	Passport: Yes
+meta	others	Nand Kishore Sharma
+meta	others	(Signature)
+meta	others	Date:-
+meta	others	Place:-

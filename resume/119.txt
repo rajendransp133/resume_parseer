@@ -1,0 +1,133 @@
+meta	others	VIVEK.V.PRABHU
+meta	others	# 57, Road No 2, KIADB Layout, Near
+meta	others	Tech Mahindra, E-City Phase 2, Bangalore-100
+meta	others	Email: prabhuvivek4@gmail.com
+meta	others	MOB: +91 9481858124
+header	others	CAREER OBJECTIVE:
+content	others	As a SAP Basis Consultant, seeking a challenging and value added position in IT solutions by providing support to clients and ready to update skill set quickly based on the requirements. Seeking full time employment with the growth oriented company that allows me to contribute my positive attitude and hardworking ability.
+header	experience	SUMMARY OF EXPERIENCE:
+content	experience	· Having 2 years & 2 months of experience as a Sap Basis/Solution Manager Consultant.
+content	experience	· Currently working as Sap Basis/Solution Manager consultant in Tech Mahindra, Bangalore from Aug 2015.
+header	knowledge	R3 Skills:
+content	knowledge	· Installations: performed pre-installation activities, Installation of ECC 6.0, net weaver 7.3 Performed Post Installation Activities.
+content	experience	· Background job management: Defined Background job, Check Background job status and restart the job, deleting old Background jobs
+content	experience	· Configured RFC connection using SM59, Logon Load Balancing.
+content	experience	· Client Maintenance and Administration: Created Client and Define Client settings, Performed Local Client Copy, Remote client copy, Client Import and Export.
+content	experience	· Change Request Management: Released Task and Change Request, Change the Owner of the Task and Change Request, Importing the Transport Request Using STMS, Manually Importing the Transport Request Using TP at OS level.
+content	experience	· Apply support Package & Notes Prepare Pre-request to Apply Support Package, Download Support Packages and Notes from Service Market Place and Apply Support Package through SPAM and TELNET from front end or application.
+content	experience	· Regular Monitoring of Central Log (SM21), Work process overview (SM50) and Background Jobs (SM37) etc.
+content	experience	· Applying SAPLICENSE for both (ABAP+JAVA) and (Standalone JAVA) systems.
+content	experience	· Kernel Patch Upgrade for both ABAP systems.
+content	experience	· Enhancement packages and Stack upgrade for ABAP system.
+content	experience	· Experience in System refresh for ABAP.
+content	experience	· Performed Stack and EHP upgrade through Software Update Manager (SUM).
+content	experience	· Starting and stopping of SAP.
+content	experience	· Worked on BSI TUBS update on BSI Tax factor and ECC system, Cyclic upgrades.
+content	experience	· Experience in SAP Router installation and configuration and worked on SAP Router certificate renewal.
+content	experience	· Worked on BSI Tax Factory 10 upgrade and maintenance.
+header	knowledge	Net Weaver Skills:
+content	knowledge	Application Server JAVA:
+content	knowledge	· Worked with Visual Admin tool & NWA to administrate various service and managers.
+content	knowledge	· Applied Support Packages by using SDM & JSPM & TELNET.
+content	knowledge	· Updated Maintenance certificate for JAVA system.
+content	knowledge	· Performed EHP upgrade and Stack upgrade on JAVA system.
+content	experience	Enterprise Portal:
+content	experience	· Worked on installation of Netweaver 7.30(Enterprise Portal).
+content	experience	· Configured Single Sign on b/w EP and ECC system.
+content	experience	· Worked on importing transport through Netweaver Portal system.
+content	experience	· Monitoring Portal and Knowledge Management in System Administration.
+header	experience	SOLUTION MANAGER:
+content	knowledge	· Knowledge on installation of Solution Manager 7.1
+content	experience	· Performed Stack upgrade on Solution Manager with Post Upgrade Activities.
+content	experience	· Worked on System preparation and Basic configuration in Solution Manager 7.1.
+content	experience	· Configured both ABAP and JAVA system for Managed System Configuration in Solution Manager 7.1 & 7.2
+content	experience	· Configured Early Watch Report for ABAP and JAVA system.
+content	experience	· Configured Technical Alert Monitoring for ABAP and JAVA system with Email Alerts.
+content	experience	· Experience in installation of Willy introscope in Solution Manager 7.1.
+content	experience	· Worked on Maintenance optimizer & Maintenance Planner to download Support Packages for systems.
+content	experience	· Maintained and Administrated systems data in SLD, LMDB.
+content	experience	· Created Product systems and Logical Component for ABAP and JAVA systems.
+content	experience	· Installed and Configured Diagnostic Agents for Managed systems.
+content	experience	· Job Scheduling Management.
+content	experience	· Upgrade of Host Agent, Diagnostic Agent & Willy Introscope.
+content	experience	· License distribution using SolMan 7.1.
+content	experience	· SLD Migration on SAP Netweaver 7.3
+content	experience	· Experience in Upgrade of Solution Manager System from 7.1 to 7.2
+content	experience	· Configured Change Request Management for Solution Manager System 7.2
+content	experience	· Performed System Copy/Move of Solution Manager System 7.2 to different hardware (higher versions of OS & DB)
+header	education	EDUCATIONAL QUALIFICATION:
+content	education	Examination
+content	education	School/college
+content	education	Board/University
+content	education	Year of Passing
+content	education	Percentage
+content	education	B.E(MECH)
+content	education	VDRIT Institute of Technology, Haliyal
+content	education	VTU, Belgaum
+content	education	2015
+content	education	73.61%
+content	education	P.U.C
+content	education	JSS PU College,
+content	education	Dharwad
+content	education	PUE
+content	education	2011
+content	education	76%
+content	education	S. S. L. C.
+content	education	ST JOSEPH HIGH SCHOOL, Dharwad
+content	education	KSEEB
+content	education	2009
+content	education	90.40%
+header	knowledge	TECHNICAL SKILLS:
+content	knowledge	· SAP Components : SAP ECC 6.0, SAP Netweaver 7.0,7.3 & 7.4.
+content	knowledge	Solution Manager 7.1 & 7.2
+content	knowledge	· Operating Systems : Windows 2003,XP, 7, 2008 ,2012 R2.
+content	knowledge	· Tool skills : Software Update Manager (SUM), SWPM, TELNET,SPAM
+content	knowledge	SQL Server Management Studio. BSI Tax Factory 10.
+content	knowledge	· Database : MS SQL Server 2012
+header	project	PROJECTS DETAILS:
+header	project	PROJECT # 1
+content	experience	Company : Tech Mahindra.
+content	experience	Client : Dermatology Client
+content	experience	Duration : Aug 2015 to till date.
+content	experience	Role : Software Engineer
+content	experience	Environment : ECC 6.0, EP 7.3, Ms. SQL Database, SolutionManager7.1 & 7.2
+content	experience	Description: Dermatology Client is a global company founded in 1981 committed to delivering innovative medical solutions to meet the dermatological needs of people throughout their lifetime while serving healthcare professionals around the world. The company has 33 wholly-owned affiliates with a worldwide network of distributors and approximately 5,500 employees. With approximately 19% of revenues invested each year to discover and develop new products and access innovative technologies, the company is one of the world’s leading investors in dermatology R&D. Five state-of-the-art R&D centers and five manufacturing sites are dedicated to providing a wide range of innovative medical solutions which meet the highest standards of safety and efficacy.
+header	experience	Roles & Responsibilities:
+content	experience	· Providing 16X5 supports.
+content	experience	· Daily monitoring which includes: Checking All application servers, Work process overview, Background jobs overview, Checking space statistics, and Backup logs etc.
+content	experience	· Creating and maintaining of RFC connections
+content	experience	· Performing Client copies like Local Client Copy, Remote Client Copy and Client Export
+content	experience	And Import.
+content	experience	· User Creation, Locking/Unlocking users, Deletion of users, checking the missing authorizations.
+content	experience	· Performing transports across Landscape and monitored transport logs.
+content	experience	· Monitoring the lock entries and removing the entries that are all running for long period.
+content	experience	· Monitoring Buffer hit ratio in all the partitions of Data Base, CPU and Memory utilization.
+content	experience	· Performed Kernel patch level upgrade for ECC & Portal systems.
+content	experience	· Applied Support Packages for ECC, Portal systems.
+content	experience	· Performed Stack and EHP upgrade for ECC, Portal & Solution Manager systems.
+content	experience	· Monitoring System Performance.
+content	experience	· Performing System Copy & DBREFRESH Activity from production to Development.
+content	experience	· Contributed to the documentation for the various tasks that were performed for daily monitoring and support activities.
+content	experience	· Configured and Administrated Solution Manager 7.1 & 7.2 for Early Watch Report and Technical Alert Monitoring.
+content	experience	· Background administration like Scheduling background jobs & analyzing long running jobs.
+content	experience	· Part of Configuring SAProuter and Renewal of SAProuter Certificate yearly.
+content	experience	· Setting up and maintaining the operation modes.
+content	experience	· Analyzing System Errors and ABAP Dump.
+content	experience	· Deploying Support Packages and patches through SUM & TELNET.
+header	others	PERSONAL INFORMATION:
+header	others	Name
+meta	others	:
+meta	others	Vivek Venkatesh Prabhu
+meta	others	Date of birth
+meta	others	:
+meta	others	15-07-1993
+meta	others	Father’s Name
+meta	others	:
+meta	others	Mr. Venkatesh.R.Prabhu.
+header	knowledge	Languages Known
+content	others	:
+meta	knowledge	English, Hindi, Kannada, Konkani.
+header	others	DECLARATION:
+meta	others	I hereby declare that all information said above is true to the best of my knowledge and belief.
+meta	others	Place: Bangalore
+meta	others	Date: (VIVEK.V.PRABHU)

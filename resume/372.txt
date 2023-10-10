@@ -1,0 +1,65 @@
+meta	others	Megha Garg
+meta	others	H No. 96, Pocket-5, Mayur Vihar Phase-1, Delhi-110091
+meta	others	meghagarg25@gmail.com, 09654624024
+header	others	Objective:
+content	others	I am motivated to be a part of competitive environment and achieving successful career, to have ever worked in a Company. I am determined to learn and develop my skills with every task assigned to me as a honest, trusted and responsible person
+header	education	Educational Qualification
+content	education	· Completed full-time PG Diploma Course in Personnel Management from YMCA, New Delhi (2015-16)
+content	education	· Completed graduation in B.A (Pass) from Gargi College, Delhi University (2009-12)
+content	education	· Completed 10th+12th (Humanities) from The Frank Anthony Public School, New Delhi (2008-09)
+header	experience	Work Experience:
+content	experience	Name of Organization
+content	experience	Designation
+content	experience	Date of Joining
+content	experience	Date of Resignation
+content	experience	Tech Mahindra
+content	experience	Talent Acquisition-Associate
+content	experience	2nd May, 2017
+content	experience	Till Date
+header	experience	Roles and Responsibilities:
+content	experience	· Handling end to end recruitment in International Lateral/Support hiring in BPO/ITES industry
+content	experience	· To do extensive search for IT & Non-IT Recruitment and identify high-quality profiles. Search is conducted both through web based resources (Naukri & LinkedIn) as well as internal Database of resumes
+content	experience	· Job Posting in different web sites and send an email blast to find out the right candidate.
+content	experience	· Responsible for Pre Screening and assessment of the candidate’s technical ability, willingness for a job change, Communication skill
+content	experience	· Contribute to create an organizational image, which would help in attracting and recruiting the best talent.
+content	experience	· Ensuring that documentation and salary fitment is as per agreed guidelines.
+content	experience	· Serve as the first point of contact for candidates at all levels follow up with the candidate till the Date of Joining
+content	experience	· Effective Coordination with the candidates
+content	experience	· Working on and closing the multiple positions simultaneously
+content	experience	· Handled stakeholder management efficiently
+content	experience	· Taking care of necessary Compliance part in recruitment process
+content	experience	Name of Organization
+content	experience	Designation
+content	experience	Date of Joining
+content	experience	Date of Resignation
+content	experience	Foresight Management Consultants
+content	experience	HR Executive
+content	experience	6th June, 2016
+content	experience	28th February, 2017
+header	experience	Roles and Responsibilities:
+content	experience	· Recruitments utilizing various sourcing methods like job portals or social media leads
+content	experience	· Evaluating & analyzing company & job profile, so as to provide complete & accurate information to candidates about the company and position
+content	experience	· Conducting telephonic interview before short listing candidates. Screening & short listing candidates profile as per the requirements of clients
+content	experience	· Understanding their competencies & skill sets
+content	experience	· Coordinating with candidates for interview & follow ups prior & post interview
+content	experience	· Maintain relationship & co-ordinate with existing client & candidates and take the feedback
+content	experience	· Update about candidates joining date & offer letter to our seniors
+content	experience	Extracurricular activity / Achievement:
+content	experience	· Volunteer in World Culture festival (2016) by Art Of Living
+content	experience	· Cleared Company Secretary – Intermediate 1st group (June, 2014)
+content	experience	· Banking and Finance short-term course (2010) from Gargi College
+content	experience	· Volunteer for the Common Wealth Games (2010) as a Protocol Assistant
+content	experience	· Actively involved in Cultural Activities/Extracurricular Activities, at the School and College level
+header	knowledge	Technical Skill:
+content	knowledge	Software used: Microsoft Word 2013, Microsoft Excel 2013, Microsoft Power point 2013
+content	knowledge	Operating Systems: Microsoft Windows 7
+header	others	Personal Profile:
+meta	others	Name : Megha Garg
+meta	others	Father’s Name : Ram Pravesh Garg
+meta	others	Gender : Female
+meta	others	Marital status : Unmarried
+meta	others	Date of Birth : 27th July, 1990
+meta	others	Hobbies : Reading, travelling, driving & playing badminton
+meta	others	Declaration: I, hereby, declare that the above-mentioned information is true to the best of my knowledge and belief
+meta	others	Date: / /
+meta	others	Place: Delhi MEGHA GARG

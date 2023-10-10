@@ -1,0 +1,62 @@
+meta	others	Forinternaluseonly
+meta	others	HarishKadam
+meta	others	Contact:+8796214462
+meta	others	E-Mail:Djharishkadam@gmail.com
+meta	others	TransactionProcessingOfficer,seekingBackOfficeoperationsspecificallyinUSMortgage,Knowledge
+meta	others	onLoanprocessinresidentialmortgage,audits&understandingofUSregulatory.
+header	experience	PROFILESUMMARY
+content	experience	M.Com (PuneUniversity)witharound2yearsofexperienceandexpertiseinUSMortgage.
+content	experience	 StrongworkingknowledgeofloanprocessinresidentialandcommercialmortgageSuchasMortgageloans
+content	experience	,Homeequitylineofcredit(ILloans).
+content	experience	 WellversedwithLoanProcessing.
+content	experience	 Resourcefulatmaintainingclientrelationshipsbyachievingqualitysupportandservices;resolvingtheircritical
+content	experience	issues,ensuringminimum TAT
+header	knowledge	CORECOMPETANCIES
+content	knowledge	 MortgageLendingServices.
+header	experience	PROFESSIONALEXPERIENCE
+content	experience	June’2016-TillDate: MPHASISCompany,asaTransactionProcessingOfficer
+content	experience	ROLE:
+content	experience	~CrosstrainedonmultiplelineofbussinesssuchasPayoffDemandsandVerificationofMortgages,PCTrailing
+content	experience	Docs,Reconciliation,AuditofClientCarebatchesandQCLoanboarding.
+content	experience	 Providingfirstlinecustomersupportbyansweringqueries&resolvingtheirissueswithinminimum TAT
+content	experience	 Aneffectiveteam player,highlyflexibleandapproachablepossessingexcellentrelationshipmanagementskills
+content	experience	withadefinitivepurposetowardssuccessfullydrivingteamstoaccomplishandexcelinachievingobjectives.
+content	experience	 Motivatedandgoaldrivenwithastrongworkethic,continuouslystrivingforimprovement.
+content	experience	 Exceptionalplanningandexecutionskillswithafocusonexceedingsettargetsinordertodeliverexceptional
+content	experience	quality.
+content	experience	 Fastercommunicationandteamwork
+content	experience	KEYPROCESSDELIVERABLES
+content	experience	 Reporting&Analysis
+content	experience	 WorkflowManagement
+content	experience	 Training&Accreditation
+content	experience	 ProcessImprovements
+content	experience	 TouchbasewiththeClients
+header	others	ACCOMPLISHMENTS
+content	others	 PromotedonLevel2,TransactionProcessingOfficerinJune2017
+content	others	ReceivedaR&RforexemplaryperformancedisplayedduringQuarter-12017&2018.
+content	others	Forinternaluseonly
+header	education	EDUCATION
+content	education	MasterofCommerce-2015–2017
+content	education	(Externalaffiliate,PuneUniversity)
+content	education	BachelorofCommerce–2012-2015
+content	education	(SinghadCollegeofCommerce,PuneUniversity)
+content	education	12
+content	education	th
+content	education	Std–2011-2012
+content	education	(CBSE,KendriyaVidyalayaSchool,Pune)
+content	education	S.S.C–2010
+content	education	(CBSE,KendriyaVidyalayaSchool,NewDelhi)
+header	knowledge	CERTIFICATION&ITSkills
+content	knowledge	 WellversedOperatingSystem (WindowsXP,Windowsserver2003Windows7and8)
+content	experience	 MSOffice-Word,PowerPoint,Excel.
+header	others	PERSONALDETAILS
+meta	others	DateofBirth: 6
+meta	others	th
+meta	others	Aug’1994
+meta	others	Sex: Male
+meta	knowledge	LanguagesKnown: English,HindiandMarathi.
+meta	others	MaritalStatus: Single
+meta	others	Nationality: Indian
+meta	others	References:Availableonrequest.
+meta	others	Place:Pune
+meta	others	(HarishKadam)

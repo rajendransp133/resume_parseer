@@ -1,0 +1,46 @@
+header	others	Resume
+meta	others	Name: Kudale Yogesh Hanumant
+meta	others	Email: kudale12yogesh@gmail.com.
+meta	others	Mobile No: 9011463591
+header	others	Career Objective:
+content	others	Utilize my skills & knowledge to fulfill requirement of the organization.
+header	education	Educational Qualification:
+content	education	Education
+content	education	Year of Passing
+content	education	University/Board
+content	education	Percentage
+content	education	M.com(E.Com)
+content	education	2018
+content	education	Savitribai Phule Pune University
+content	education	63.21%
+content	education	B.com
+content	education	2015
+content	education	Savitribai Phule Pune University
+content	education	48.97%
+content	education	HSC
+content	education	2011
+content	education	Maharashtra State Board
+content	education	53.67%
+content	education	SSC
+content	education	2008
+content	education	Maharashtra State Board
+content	education	68.15%
+header	knowledge	Additional Skills:
+content	knowledge	· Tally ERP 9
+content	knowledge	· MS Excel
+header	knowledge	Personal Strengths Competencies:
+content	knowledge	· Ability to work accurately and pay attention to details.
+content	knowledge	· Capable of grasping new concepts quickly.
+content	knowledge	· Accurate and Precise in Work.
+header	others	Extra-Curricular Activities:
+content	others	· Participation in Student development Activities.
+content	others	· Work as volunteers in college Activities.
+header	others	Personal Details:
+meta	others	Name: Kudale Yogesh Hanumant
+meta	others	DOB: 15/03/1993
+meta	others	Permanent Address: Suryoday Park A/3 Flat No.4 Pimpri Gaon Pune-411017
+meta	others	Marital Status: Single.
+meta	others	Nationality: Indian.
+meta	knowledge	Languages Known: Marathi, Hindi and English
+meta	others	I hereby declare that above information is correct to the best of my knowledge & belief.
+meta	others	Date: 10/09/2018 Kudale Yogesh Hanumant

@@ -1,0 +1,99 @@
+meta	others	Prateek Khard
+meta	others	Contact no. +91-7354312223
+meta	others	E-mail: prateekkhard@yahoo.com
+header	experience	PROFILE
+content	experience	· Having more than 2 Years of Experience as an Associate Consultant in Capgemini.
+content	experience	· Have experience in development of SSIS packages using BIDS 2008.
+content	experience	· Having experience in development of Reports and Dashboard in Tableau.
+content	experience	· Developing SQL queries, procedures and functions etc. using SQL Server Management studio 2008.
+content	experience	· Monitoring and managing of various SQL, SAS, QlikView, KOS jobs.
+content	experience	· Creating interactive workbooks, reports, Dashboard using various functions of Tableau 10.2
+content	experience	· Undergone trainings in Concepts of DBMS, SQL, PLSQL, SAP BODS, Teradata, QlikView, SAP BO.
+header	knowledge	KEY SKILLS
+content	knowledge	ETL Tool
+content	knowledge	SSIS
+content	knowledge	Reporting Tool
+content	knowledge	Tableau, SAP BO
+content	knowledge	Database
+content	knowledge	SQL Server 2008, SQL Server 2012
+content	knowledge	Operating System
+content	knowledge	Linux, Windows XP, Windows 7
+header	experience	DOMAIN EXPERIENCE
+content	experience	· 2 years of experience in SSIS, Tableau, SQL technologies.
+content	experience	· Currently working as an Associate Consultant at Capgemini India Pvt. Ltd. Mumbai (September 2015 to till Date).
+header	project	PROJECT DETAILS
+header	project	PROJECT 1
+header	project	Project Name
+content	experience	Posten-Bring
+content	experience	Client
+content	experience	Posten, Norway
+content	experience	Role
+content	experience	Software Engineer
+content	experience	Roles Performed
+content	experience	· Involved from the core part of domain.
+content	experience	· Part of AO and AM in Bring DW and QlikView.
+content	experience	· Part of AO in KOS and SAS.
+content	experience	· Ticketing and Monitoring
+header	experience	Description
+content	experience	Posten Norge or Norway Post is the name of the Norwegian postal service. The word posten means the post or the mail in Norwegian. The company, owned by the Norwegian Ministry of Transport and Communications has a monopoly on distribution of letters weighing less than 50g throughout the country. There are 30 post offices in Norway, in addition to outlets in retail stores.
+content	experience	The postal service is divided into four divisions: Post, Logistics, Distribution Network and Ergo Group AS. The latter specialized in electronic services and outsourcing. ErgoGroup merged with EDB to form Evry, which Posten now jointly owns with Telenor.
+content	experience	DFSI is data warehousing project for Posten which uses Posten business user in the form of QlikView reports.
+content	experience	Organization
+content	experience	Capgemini India Pvt. Ltd. Mumbai
+content	experience	Duration
+content	experience	1 Year
+header	project	PROJECT 2
+header	project	Project Name
+content	experience	Farmers PLA
+content	experience	Client
+content	experience	USA
+content	experience	Role
+content	experience	SSIS Packages and Tableau Report Developer
+content	experience	Roles Performed
+content	experience	· Understanding the functional and technical specification.
+content	experience	· Creation of SSIS packages using BIDS 2008.
+content	experience	· Creation of interactive workbooks, reports, Dashboard using various functions of Tableau 10.2
+content	experience	· Creation of staging file from various sources e.g. Outlook, Excel, Oracle and DB2.
+content	experience	· Developing SQL queries using SQL Server Management studio 2008.
+content	experience	· Monitoring SQL jobs
+content	experience	· Analyzing thresholds of reports.
+content	experience	· Testing Tableau reports and validating the data.
+content	experience	· Publishing reports on server.
+header	experience	Description
+content	experience	Project involves development of Dashboard reports for the Insurance Firm. In this Project, the data is received from different data sources e.g. Outlook, Excel, DB2 and Oracle and extracted, transformed and loaded into SQL server using SSIS packages. Then the processed data is fetched from MS SQL Server and data visualization is shown using Tableau dashboards to the Leadership Management purposes.
+content	experience	Technologies used in Project
+content	experience	· SQL Server Management studio 2008.
+content	experience	· Visual Studio 2008.
+content	experience	· Tableau 10.2
+content	experience	· Microsoft Office Excel 2013
+content	experience	Organization
+content	experience	Capgemini India Pvt. Ltd. Mumbai
+content	experience	Duration
+content	experience	1 Year
+header	education	EDUCATIONAL QUALIFICATIONS
+content	education	Examination
+content	education	Institute
+content	education	Year of Passing
+content	education	Percentage/CGPA
+content	education	Bachelor of Engineering
+content	education	LNCT&S
+content	education	2015
+content	education	7.22
+content	education	12th
+content	education	M.P. Board
+content	education	2011
+content	education	83.4%
+content	education	10th
+content	education	M.P. Board
+content	education	2009
+content	education	81%
+header	others	PERSONAL DETAILS
+meta	others	Date of Birth
+meta	others	15 December 1994
+meta	others	Permanent Address
+meta	others	Khard Medical Stores, Main Market, Niwari, Dist. Tikamgarh,
+meta	others	Madhya Pradesh, 472442
+meta	knowledge	Language Known
+meta	others	Hindi, English
+meta	others	Passport Details
+meta	others	M0586902 Valid till 07-Aug-2024

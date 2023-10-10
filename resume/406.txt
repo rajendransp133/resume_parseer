@@ -1,0 +1,42 @@
+meta	experience	K. LALAIAH
+meta	experience	Contact: + 91 9885265458
+meta	experience	Email: lalukatam@gmail.com, lalaiahkatam@yahoo.com
+header	experience	CAREER OBJECTIVE
+content	experience	To pursue my career in a Progressive Organization Where I can utilize my Knowledge and skills to the Organization’s Growth.
+header	education	EDUCATION
+content	education	MBA(finance) from Vardhaman college of Engg, JNTU -2010. B.Com from Vivek Vardhani college , Osmania University-2008. Inter MPC from Govt.Jr college, inter board, -2005.SSC from ZPP high school-2003.
+header	experience	EXPERIENCE
+meta	others	_____________________________________________________________________________
+content	experience	Company
+meta	others	:
+content	experience	Genpact Ltd.
+header	experience	Experience
+meta	others	:
+content	experience	1 year and 3 months of experience in Accounts Payable process.
+content	experience	Designation
+meta	others	:
+content	experience	Process Associate
+header	experience	Responsibilities:
+content	experience	· My responsibilities are we receiving the invoices daily basis so I have to allocate to the team members and I am also take the allocation for do the process of invoices.
+content	experience	· I am handling the BPCS (Sensitive) invoices and also resolve the business and suppliers queries through the mail. Handling the different activities in my team which is relating to the process and I have to monitor the weekly and monthly data which is received from the business.
+content	experience	PROJECT EXPERIENCE
+content	experience	Completed my academic project at INDIABULLS SECURITIES Ltd., Hyderabad. My project title is MUTUAL FUNDS It is professionally managed type of collective investments, Where it is the trading in stock market and to study how the public & private sector mutual funds of the companies trade, and analyzed NAV’s. How the investor getting profits through mutual funds.
+content	experience	Areas of Specialization: Finance
+header	others	ACHIEVEMENTS
+content	others	I have one year and 3 months of experience at Genpact ltd company so in that one year span period of time i got two awards and so many appreciation from my manager and team leader.
+header	knowledge	ADDITIONAL QUALIFICATION
+content	knowledge	Basic Knowledge of Computers like
+content	knowledge	MS Office,
+content	others	Tally.
+header	knowledge	Accounting skills
+header	others	STRENGTHS
+meta	others	Strong communication, interpersonal, listening skills matched with ability to manage stress and people effectively. Love to work in a team and shoot for challenging targets in phase of organizational requirements & adaptable to any new environment.
+meta	others	AREA OF INTEREST
+meta	others	Listening music.
+meta	others	Computers
+header	others	PERSONAL PARTICULARS
+meta	others	Date of birth: 04th Aprl 1988..
+meta	others	Languages Known: English, Hindi & Telugu.
+meta	others	Address: H No. 17-1-383/42/A, Vinay Nagar Colony, Saidabad, Hyderabad-500059.
+meta	others	I do hereby declare that the above written particulars are true to the best of my knowledge and belief.
+meta	others	K. LALAIAH

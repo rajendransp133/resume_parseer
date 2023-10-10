@@ -1,0 +1,57 @@
+meta	others	NAME: H.KARTHIKEYAN.
+meta	others	Address: No.22/21 Srinivasa Raghavan
+meta	others	Perambur, Chennai-11.
+meta	others	Mobile No: 9566252967
+meta	others	Email: karthikachariya14@gmail.com
+header	others	CAREER OBJECTIVE
+meta	others	Enthusiastically work for an organization for its development and enhance my own skills and knowledge.
+header	education	EDUCATIONAL QUALIFICATION
+content	education	Degree/Certificate
+content	education	Institute
+content	education	University/Board
+content	education	Year
+content	education	Marks
+content	education	B.COM(C.S)
+content	education	D.G.Vaishnav College
+content	education	Arumbakkam, Chennai-106
+content	education	Autonomous
+content	education	2014
+content	education	61%
+content	education	Higher Secondary
+content	education	K.R.Monford Matric Hr, Sec
+content	education	School, Chennai-11
+content	education	State Board
+content	education	2011
+content	education	81%
+content	education	SSLC
+content	education	K.R.Monford Matric Hr, Sec
+content	education	School, Chennai-11
+content	education	Matriculation
+content	education	2009
+content	education	59.4%
+header	knowledge	Computer Skills
+content	knowledge	· Microsoft Office Pack
+content	knowledge	· Hardware & Networking
+header	knowledge	Technical Skills
+content	knowledge	· Typewriting(English)
+header	knowledge	Extra Curricular Activity
+content	knowledge	· Playing Chess
+content	knowledge	· Reading books & Net Surfing
+header	experience	Experience
+content	experience	· Worked as a Process Associates in Accenture Service PVT as contractor (Ecentric Solution PVT)
+content	experience	· Now currently working as a Transaction Process Associate in Accenture Solutions PVT.
+header	others	PERSONAL DETAILS
+meta	others	Name : - H.Karthikeyan
+meta	others	Father’s Name : - K.Harikrishnan.
+meta	others	Date of Birth : - 16-04-1994
+meta	others	Gender : - Male.
+meta	others	Marital state : - Single
+meta	others	Nationality : - Indian
+meta	knowledge	Language Known : - Tamil, English.
+meta	others	Permanent Address : - NO.22/21 Srinivasa Raghavan street,
+meta	others	Chennai-11.
+meta	others	Phone No. : - 9566252967
+header	others	Declaration
+meta	others	I do hereby declare that the particulars of information and facts stated herein above are true, correct and complete to the best of my knowledge and belief.
+meta	others	Place: Chennai
+meta	others	Date: (H.KARTHIKEYAN)

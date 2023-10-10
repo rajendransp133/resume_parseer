@@ -1,0 +1,108 @@
+meta	others	Consultant name
+meta	others	Hitesh Patil
+meta	others	SAP ABAP Consultant (Technical)
+meta	others	hiteshp87@gmail.com
+meta	others	9969967213
+header	experience	Profile:
+content	experience	· Associate SAP ABAP Consultant since December 2014 in KloudData Labs Pvt Ltd Pune.
+content	experience	· Working as Syclo Consultant at RIL Navi Mumbai (Client Location) from March 2017 till date.
+content	experience	· Certified SAP ABAP Consultant for SAP 6.0 with experience of 2 years 11 months in SAP.
+content	experience	· Having good interpersonal skills being excellent communicator and good listener.
+header	knowledge	Skill Set:
+content	knowledge	· Data Dictionary
+content	knowledge	· OData
+content	knowledge	· Function Module
+content	knowledge	· RFC
+content	knowledge	· BAPI
+content	knowledge	· Enhancement
+content	knowledge	· BADI
+content	knowledge	· Reports (Classical , interactive, ALV)
+content	knowledge	· Syclo(Mobility)
+content	knowledge	· Background Job processing
+content	knowledge	· Smartforms
+content	knowledge	· Module Pool Programming
+header	education	Trainings and Certifications:
+content	education	· SAP ABAP global certification with 72%.
+header	experience	Experience/Project Work
+header	project	Project 1:-
+content	experience	Industry: Utilities (GAS) industry (Gujrat, India)
+content	experience	Project Description/Scope: SAP ISU-MCF Implementation-Mobile App development
+content	experience	Role: SAP Technical Consultant
+header	experience	Responsibilities/Deliverables:
+content	experience	· Understand the business functionality.
+content	experience	· Developed custom tables and DDIC objects.
+content	experience	· Developed RFCs and corresponding ODATA for IS Module which were utilized in consuming on websites and Mobile application.
+content	experience	· Worked on Enhancements to implement Standard process of POST and PUT method into Single POST method.
+content	experience	· Enhancement in standard OData service MPC class to add parameters.
+content	experience	· Debugging of standard process and create the ODATA URL of the same for implementing the standard process.
+content	experience	· Create OData service for downloading PDF and sending email.
+content	experience	· Finalizing the transport request and did extended check of transport request.
+content	experience	· Implementation of SNOTE to correct the functionality of standard function module.
+content	experience	· Worked on RFC trace and user authorization.
+content	experience	· Testing of ODATA on Gateway Client.
+content	experience	· Created the documentation of the ODATA service for better understanding of the process for the client.
+content	experience	· Developed ALV report which displays SMS outage.
+content	experience	· Modification in client’s module pool program according to their requirement.
+content	experience	· Migration of master data from Development to Testing clients.
+header	project	Project 2:-
+content	experience	Industry: Engineering and logistics (Mumbai, India)
+content	experience	Project Description/Scope: SAP CRM implementation-Mobile App development
+content	experience	Role: SAP Technical Consultant
+content	experience	Responsibilities/Deliverables:
+content	experience	· Developed custom DDIC objects.
+content	experience	· Developed RFCs and corresponding ODATA (Deep entity set) for CRM Module which were utilized in developing Mobile application.
+content	experience	· Creation and Testing of ODATA Services for required.
+header	project	Project 3:-
+content	experience	Industry: WorkManager (TATA Steel Syclo)
+content	experience	Project Description/Scope: Syclo Implementation
+content	experience	Role: SAP Technical Consultant
+header	experience	Responsibilities/Deliverables:
+content	experience	· Implementation and development of BAPI and Handlers
+content	experience	· Development and linking of data from Java
+content	experience	· Worked on development of Data Tables, complex tables ,standard data object tables
+content	experience	· Linking of Bapi’s and mdo’s in Configuration Panel
+content	experience	· Addition of input filters which are not present in standard functionality of Handlers.
+content	experience	· Set Background Jobs for Purging programs to maintain records in standard Syclo table for smoothening of an Application.
+header	project	Project 4:-
+content	experience	Industry: Work Manager (Reliance – Navi Mumbai, client location)
+content	experience	Project Description/Scope: Syclo Implementation (Reliance - Jio mField)
+content	experience	Role: SAP Syclo Consultant
+header	experience	Responsibilities/Deliverables:
+content	experience	· mField application is customized Work Manager application for Towers.
+content	experience	· Implementation and Development of Syclo BAPI
+content	experience	· Worked with Functional team to implement the app User Interface and adding various functionalities and enhancements
+content	experience	· Worked on development of Data Tables, complex tables ,standard data object tables
+content	experience	· Linking of Bapi’s and mdo’s in Configuration Panel
+content	experience	· Addition of input filters which are not present in standard functionality of Handlers.
+content	experience	· Set Background Jobs for Purging programs to maintain records in standard Syclo table for smoothening of an Application
+header	project	Project 5:-
+content	experience	Industry: Service Manager (Reliance – Navi Mumbai, client location)
+content	experience	Project Description/Scope: Syclo Implementation (Reliance - Jio mTech)
+content	experience	Role: SAP Syclo Consultant
+header	experience	Responsibilities/Deliverables:
+content	experience	· mTech is customized Service Manager application for Service technicians of Jio FTTx installations
+content	experience	· Implementation and Development of Syclo BAPI
+content	experience	· Addition of input filters which are not present in standard functionality of Handlers.
+content	experience	· Set Background Jobs for Purging programs to maintain records in standard Syclo table for smoothening of an Application
+content	experience	· Worked with Functional team to implement the app User Interface and adding various functionalities and enhancements
+content	experience	· Worked on development of Data Tables, complex tables ,standard data object tables
+content	experience	· Linking of Bapi’s and mdo’s in Configuration Panel.
+header	project	Project 6:-
+content	experience	Industry: Service Manager (Reliance – Navi Mumbai, client location)
+content	experience	Project Description/Scope: Syclo Implementation (Reliance –ResQ Services)
+content	experience	Role: SAP Syclo Consultant
+header	experience	Responsibilities/Deliverables:
+content	experience	· ResQ Services is customized Service Manager application for Maintenance and Installation Engineers
+content	experience	· Implementation and Development of Syclo BAPI
+content	experience	· Worked with Functional team to implement the app User Interface and adding various functionalities and enhancements
+content	experience	· Worked on development of Data Tables, complex tables ,standard data object tables
+content	experience	· Addition of input filters which are not present in standard functionality of Handlers.
+content	experience	· Set Background Jobs for Purging programs to maintain records in standard Syclo table for smoothening of an Application
+content	experience	· Linking of Bapi’s and mdo’s in Configuration Panel.
+header	education	Educational Qualifications:
+content	education	· 2013
+content	education	B.E in Electronics Engineering from Mumbai University.
+content	education	· 2008
+content	education	H.S.C. from Board, Maharashtra.
+content	education	· 2006 S.S.C. from Nasik Board, Maharashtra.
+meta	others	www.klouddata.com

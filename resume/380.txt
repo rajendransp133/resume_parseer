@@ -1,0 +1,55 @@
+meta	others	Email : usoundar@gmail.com
+meta	others	Mobile : 0 9239837107
+meta	others	U SOUNDARRAJAN
+meta	others	36/151/h9,Anna Nagar,
+meta	others	Thangamapuri Pattanam,
+meta	others	Mettur dam - 636402,
+meta	others	salem (DT),Tamilnadu.
+header	knowledge	Key Skills
+content	knowledge	SAS 9.1.3 version
+content	knowledge	Basic: Data sanity checks, Macro, Array, Sorting, Merging, Proc SQL, data extraction.
+content	knowledge	Advanced : Regression analysis,
+content	knowledge	Time series forecasting,
+content	knowledge	Cluster analysis.
+content	knowledge	MS Excel
+content	knowledge	Advanced Excel,
+content	knowledge	VBA programming,
+content	knowledge	Macro.
+content	knowledge	MS Access
+content	knowledge	SQL,
+content	knowledge	Designing of database.
+header	education	Academics
+content	education	Post Graduate Program in Management (PGPM) in Finance with CGPA 5.41 out of 9.
+content	education	Unitedworld School of Business, Kolkata.
+content	education	B.Tech in Chemical Engineering with 78 % (First class).
+content	education	Kongu Engineering College, Anna university, Chennai.
+content	education	Diploma in Chemical Engineering With 74 % (First class)
+content	education	Kongu Polytechnic College, DOTE, Chennai.
+content	education	High School Certification with 60 %
+content	education	Core modules: Mathematics, Physics, Chemistry & computer science.
+content	education	Government higher secondary school, State board, Mettur dam.
+content	education	April 2012
+content	education	May 2008
+content	education	April 2005
+content	education	March 2003
+header	experience	Professional Experience
+content	experience	Union bank of India, Kolkata, Internship.
+content	experience	Responsibilities: Credit Analysis of a firm for loans sale, interpreted the balance sheet, P&L account of the firm. And I analyzed the credit worthiness of the firm using the financial ratios with the help of MS Excel.
+content	experience	Dalmia Cement (B) Ltd, Plant engineer - Production.
+content	experience	Responsibilities: Performance monitoring 220 tons / hr of cement grinding unit and inter departmental coordination ensuring smooth execution of the unit. Daily production management and do Why – Why analysis.
+content	experience	Additionally I was responsible for Flash dryer and Roto-packer (project) to enhance the production capacity of cement grinding.
+content	experience	April 2011 – July 2011
+content	experience	June 2008 – August 2009
+header	education	Certification
+content	education	National stock exchange Certification in Financial Market (NCFM)
+content	education	· Investment Analysis & Portfolio Management.
+content	education	· Capital Market - Dealer’s Module.
+content	education	· Derivatives Market - Dealer’s Module.
+header	others	Extra Circular Activities
+meta	others	Participated in National Business Olympiad conducted by IIM-A.
+meta	others	Performed in Trade Buzzer held at UnitedWorld School of business, Kolkata.
+meta	others	Organized a National level symposium in Under Graduate.
+meta	others	National Cadet Corps (‘B’- Certificate).
+meta	others	KABADDI-Runner in Anna University Zonal level.
+meta	others	Interest & hobbies
+meta	others	Badminton, Chess, SU-DO-KO

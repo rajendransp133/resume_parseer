@@ -1,0 +1,83 @@
+header	others	CURRICULUM VITAE_ _____________________
+header	others	CURRICULUM VITAE
+meta	others	Mr. KIRAN VISHNU MOHIRE.
+meta	others	E-mail:
+meta	others	kiran.mohire@yahoo.com
+meta	others	Contact No:
+meta	others	Mob : +91 9819745946
+meta	others	: +91 8446929452
+meta	others	Permanent Address:
+meta	others	Mohire Chawl,
+meta	others	Priyadarshni Society,
+meta	others	Ramnagar (B), Near Amrutnagar,
+meta	others	Ghatkopar (W), Mumbai: 400086.
+meta	others	Personal Profile:
+meta	others	Date of Birth: 14-09-1988
+meta	others	Sex: Male
+meta	others	Nationality: Indian
+meta	others	Marital Status: Married
+header	knowledge	Linguistic Abilities:
+meta	knowledge	(To Speak, Read, Write) - English, Hindi &Marathi.
+header	others	Hobbies:
+content	others	Playing, Listening music & Watching Movies.
+header	others	CAREER OBJECTIVE
+content	others	I would like to use my knowledge and skills for achieving organization objectives and enhance my career in the process.
+header	experience	WORK EXPERIENCE
+content	experience	State Street Syntel Services Pvt Ltd.
+content	experience	Designation : Sr. Finance Assistance
+content	experience	Period : Jan 2013 to till date
+header	experience	Work Profile (Auditing)
+content	experience	· Transaction Auditing – Auditing Trade, Receipt, Payment, Inter fund Transfer and FXs.
+content	experience	· Checking of ATRN macro.
+content	experience	· Checking of Russian Trade macro.
+content	experience	· Checking of MMAT macro.
+content	experience	· Checking of failed trade macro
+content	experience	· Processing Trade received from IM.
+content	experience	· Management of corporate clients cash payments.
+content	experience	· Processing national and international currencies transactions.(EUR, GBP, USD)
+content	experience	· Raise query & coordinate with client.
+content	experience	· Working as per currency deadlines.
+content	experience	Cox & King Pvt. Ltd.
+content	experience	Designation : Jr.Executive
+content	experience	Period : Apr 2012 to Dec 2012
+header	experience	Work Profile
+content	experience	· Handling all daily tally entries.
+content	experience	· Managing the rail & Bus department.
+content	experience	· Coordinating with individual and corporate clients.
+content	experience	· Coordinating with Accounts team to prepare the invoices and
+content	experience	maintaining MIS reports.
+content	experience	· Accounts Receivable including follow ups and Recoveries.
+content	experience	· Ensuring all reservation and bookings are done and submitted within
+content	experience	the specified timeframe.
+header	others	ACHIVEMENTS:
+content	others	Award & Recognition
+content	others	· Syntel Champ
+content	others	· Titan Award
+content	others	· AGILE
+content	others	· Spot
+header	education	ACADEMIC CHRONICLE:
+content	education	Exam Degree
+content	education	Board/ University
+content	education	Name of Institute
+content	education	Year of Passing
+content	education	B.Com
+content	education	Mumbai University
+content	education	Indiragandhi College Of Commerce
+content	education	2012
+content	education	H.S.C
+content	education	Maharashtra Board
+content	education	Sandesh Vidyale College Of Commerce
+content	education	2007
+content	education	S.S.C
+content	education	Maharashtra Board
+content	education	Meera’s Academy English High School
+content	education	2005
+header	knowledge	TECHNICAL SKILLS:
+header	knowledge	Software Skills
+content	knowledge	· Word, Excel, PowerPoint
+content	knowledge	· MS-CIT
+header	others	Declaration:-
+content	others	I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above-mentioned particulars.
+meta	others	Date:
+content	experience	Place: Mumbai ( Kiran Vishnu Mohire )
+content	experience	Page 1 of 2

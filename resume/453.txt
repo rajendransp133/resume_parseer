@@ -1,0 +1,103 @@
+meta	others	MINAL VIG
+meta	others	#502, Pine, Shreeji Splendor, Brahmand, minal.vig@gmail.com
+meta	others	GB Road, Thane West, Mumbai
+meta	others	9930909011
+header	education	EDUCATIONAL QUALIFICATION:
+content	education	· October 2008 - October 2010 :- Masters in Business Administration (MBA) from The Institute of Technology and Management [The Southern New Hampshire University (SNHU), USA]
+content	education	· June 2004 – March 2005:- Bachelors of Commerce (B.Com) from Mumbai University.
+header	experience	Profile Summary
+content	experience	· A competent HR Professional with 10+ years of experience as HR Generalist
+content	experience	· Including experience in Recruitment and Retention, Employee Engagement, Training & Development and HR policies development
+content	experience	· Adept with Problem Solving, People Management and Building Long Term Relationships with Senior Management, Peers and Partners
+header	knowledge	Key Skills
+content	knowledge	· Talent Acquisition:
+content	knowledge	· Candidate Evaluation
+content	knowledge	· Offer Negotiation
+content	knowledge	· On-Boarding
+content	knowledge	· Induction
+content	knowledge	· Talent Management:
+content	knowledge	· Performance Management
+content	knowledge	· Compensation & Benefits
+content	knowledge	· Organization Restructuring
+content	knowledge	· HR Operations
+content	knowledge	· Payroll processing
+content	knowledge	· Talent Retention:
+content	knowledge	· Learning & Development
+content	knowledge	· Employee Engagement
+content	knowledge	· Rewards & Recognition
+content	knowledge	· Employee Relations
+header	experience	Rainbow International School
+content	experience	Sr. Manager – Human Resources
+content	experience	Jan 2015 till date
+content	experience	American School of Bombay
+content	experience	Manager - Human Resources
+content	experience	June 2009 till Jan 2014
+content	experience	Intelenet Global Services Quality Manager Jan 2007 to July 2009
+content	experience	Convergys India Services Technical Support Executive June 2005 to Dec 2007
+content	experience	Professional Abstract
+header	experience	Talent Acquisition
+content	experience	· Mid to Junior level hiring for various profiles
+content	experience	· Proficient in Manpower Planning and Budgeting
+content	experience	· Cost Effective Hiring – Job Portals, Internal References, Social Media
+content	experience	· Formulation of Organization Structures and Job Descriptions
+content	experience	Talent Management
+content	experience	· Hand holding candidates till their date of joining to ensure smooth on-boarding experience
+content	experience	· On boarding and Induction
+content	experience	· HR Operations - Managing the entire employee life cycle
+content	experience	· Grievance handling, addressing policy related queries
+header	experience	Payroll Management
+content	experience	· Managing, updating and controlling the HRIS (SAP) independently
+content	experience	· Leave and attendance management
+content	experience	· PF
+content	experience	· Updating policies and upgrading the current system through automation of processes.
+content	experience	· MIS & Reports
+header	experience	Performance Management
+content	experience	· An integral part in the process of annual salary revisions / performance appraisals
+content	experience	· Completion of Goal Setting Exercise as per agreed timelines
+content	experience	· Compensation restructuring
+header	experience	Learning and Development
+content	experience	· Identifying and analyzing the training needs
+content	experience	· Planning the annual training calendar along with the business team
+content	experience	· Evaluating the effectiveness of the programs and collating feedback
+header	experience	Employee Engagement
+content	experience	· Designed and executed various employee engagement and rewards and recognition programs
+content	experience	· Co-anchored and drafted policies along with cross functional teams
+content	experience	· Studying the attrition trend and gauging the people pulse to ensure a more engaged organization
+content	experience	· Active participant in the organization-wide communication
+content	experience	· Adept in planning and execution of workshops for employees to help them understand the processes and policies implemented in the organization
+content	experience	· Planned and executed skipped level meetings and Town Halls for healthy interactions between the management and the employees
+header	experience	Organizational Restructuring
+content	experience	· Involved in supporting the management team to communicate across the organization, redesign organization structure in backdrop during the process
+content	experience	· Managed the Layoffs taking into consideration employee’s state of mind and managed the exit process smoothly.
+content	experience	· Community Service Initiatives
+content	experience	Jan 2007 to July 2009 Intelenet Global Services
+content	experience	Intelenet portfolio includes: Deals in offshore processes from US and UK. Handles banking, billing and health care services for various MNCs.
+header	experience	My Job profile and Responsibilities is as follows:
+content	experience	· Working as a part of the Credit Bureau Team, majorly involved in consumer credit checks for Transunion.
+content	experience	· Supervising and monitoring smooth flow of credit reputation analysis for customers.
+content	experience	· Working on Systems like CRS2 , CMS (Avaya).
+content	experience	· Handling a Team of 12 Agents.
+content	experience	· Monitoring calls and providing Feedback.
+content	experience	· Handling presentations and group reports.
+content	experience	· Granting or denying credit to the U.S. Clients.
+content	experience	· Maintaining Business as well as personal Credit Reports.
+content	experience	· Responsible for achieving Monthly targets as per SLA’s as well as Sales.
+content	experience	· Involved in checking the Fraud Database for the U.S. Consumers and then providing the proper procedure.
+content	experience	· Effectively training floor agents to meet the training objectives.
+content	experience	June 2005 to Dec 2007 Convergys India Services
+content	experience	Convergys portfolio includes: Global leader in customer management, billing and HR services, providing outsourcing, services, consulting and software solutions to leading companies around the world.
+header	experience	My Job profile and Responsibilities is as follows:
+content	experience	· Working for Optus Mobile Customer Care, interacting with Australian customers and client.
+content	experience	· My job profile includes quality management across the floor, also involved in error management and process development by finding process gaps and providing solutions or suggestions for solving it.
+content	experience	· Worked on systems like, Focus, Icon, HLR, CMS (Avaya), CRDB (Comprehensive Report Database Management System), TKS (Time Keeping System).
+content	experience	· Actively involved in client interaction in regards to technical queries and updates.
+content	experience	· Monitoring calls and providing feedback to agents.
+content	experience	· Imparting training to people of across the floor on various updates.
+content	experience	· Identify opportunities for improvement to polices, procedures and systems.
+content	experience	· Responsible for conducting quality sessions for various teams to improve overall performance of the floor and meet client expectations.
+content	experience	· Handling presentations and group reports.
+content	experience	· Assist / Support team members with personal development planning.
+content	experience	· Imparting training to people of across the floor on various updates.
+content	experience	· Identify opportunities for improvement to polices, procedures and systems.
+meta	others	Date:
+meta	others	Place: Mumbai (Minal Vig)

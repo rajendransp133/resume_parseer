@@ -1,0 +1,52 @@
+header	others	CURRICULUM VITAE
+meta	others	Syed Irfan Hossain
+content	others	I-192 Paharpur Road Kolkata-700 024
+meta	others	CONTACT No : +91974878372
+meta	others	Email Address : SyedIrfanHossain@gmail.com
+header	education	ACADEMIC QUALIFICATION
+content	education	Year Course Institute/School Marks (​%)
+content	education	2009 B.COM(H) Harimohan Ghosh College 52.5
+content	education	2006
+content	education	Class XII: West Bengal
+content	education	Board
+content	education	Metiabruz High School 45.9
+content	education	2004
+content	education	Class X: West Bengal
+content	education	Board
+content	education	Metropoliton Institution 45
+content	education	PROFESSIONAL QUALIFICATION
+header	education	Year Course Institute Marks (​%) Remarks
+content	education	2010 CPT ICAI 60 Passed
+content	education	2011 IPCC Group I ICAI 52.5 Passed
+header	experience	PROFESSIONAL EXPERIENCE
+content	experience	Year Remarks
+content	experience	2012-2015 3 Years Experience of Articleship Training in a C.A.
+content	experience	firm in the areas of Accounts Finalization, Audit of
+content	experience	Small & medium scale Companies, Individual &
+content	experience	Companies Tax Computation, Income Tax
+content	experience	Return filling.
+header	knowledge	IT SKILLS
+content	knowledge	o Basic Knowledge in Computers
+content	knowledge	o Proficient in using MS Office and Tally ERP9
+meta	others	1
+header	experience	WORK EXPERIENCE
+content	experience	Year Remarks
+content	experience	2015-2017 2 Years work experience as Assistant Accountant in a
+content	experience	C.A. firm in the areas of Accounts Finalization,Stock
+content	experience	Audit, Bank’s Statutory Audit, Audit of Small &
+content	experience	medium scale Companies, Individual & Companies Tax
+content	experience	Computation, Income Tax Return filling.
+header	others	CURRENT OCCUPATION
+content	others	Currently Working in a Shopping Mall as an Accounts Managers and looking
+meta	others	after their Creditors and GST related Issues.
+header	others	PERSONAL INFORMATION
+meta	others	o Father’s Name: Syed Qaisar Hossain
+meta	others	o Date of Birth: 01​st​ May 1988
+meta	knowledge	o Language proficiency: English, Hindi,Urdu & Bengali
+meta	others	o Hobbies: Playing Cricket;Drawing; Shopping and Travelling.
+meta	others	To confront myself with challenging jobs even in difficult
+meta	others	situations and get that done successfully with patience and
+meta	others	conscience.
+meta	others	Date ________ ______________
+meta	others	signature
+meta	others	2

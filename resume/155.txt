@@ -1,0 +1,112 @@
+meta	others	Gurpreet Singh
+meta	others	Address:-D1/604 Shivalik Apartments,Gurgoan.
+meta	others	Mobile: +91-8800712837,9796605537
+meta	others	E-Mail: gurpreet1489@gmail.com,gurpreet9.singh@airtel.com
+header	experience	PROFESSIONAL SYNOPSIS
+content	experience	· 4+ years of working experience in Airtel-UNOC to support to Bharti’s network infrastructure
+content	experience	North & West Region.
+content	experience	· Expertise on CEN Access, Backend
+content	experience	· Configuring, monitoring and troubleshooting DSLAMs (Ericsson, UT Starcom & Alcatel), BRAS, and switches for DSL service implementations and operation.
+content	experience	· Expertise on OSPF routing, network connectivity, static routes for networks, and Cisco routers/switches across Bharti internal ISP network.
+content	experience	· IOS Up gradation Cisco Routers/Switches, Alcatel Service Routers.
+header	knowledge	KEY SKILLS
+content	knowledge	Strategic Planning Network Analysis Network integration
+content	knowledge	Cost Control Risk Mitigation & Control Resource Optimization
+content	knowledge	Product / Process Enhancements Quality Assurance Technical Documentation
+header	knowledge	KNOWLEDGE PURVIEW
+content	knowledge	· Experience in installation, configuration and maintenance of CISCO/Alcatel Lucent / Huawei networking equipment& services in multi-platform environments.
+content	knowledge	· Data-Link level Switching.
+content	knowledge	· Routing protocols OSPF, BGP, MPLS,MPBGP,,L2-VPN, L3-VPN.
+content	knowledge	· Switching technologies L2 / L3 Switching, VLAN, Inter-VLAN, Access List, STP, RSTP.
+content	knowledge	· Leased line, Leased Port / Next Gen ILP (Bharti CEN Network)
+content	knowledge	· Network Troubleshooting.
+header	experience	Career Contour
+content	experience	Sl. No
+content	experience	Organisation
+content	experience	Designation
+content	experience	Period
+meta	others	1
+content	experience	Telesonic Networks Limited
+content	experience	Executive (TAC)Engg
+content	experience	2016 till now
+meta	others	2
+content	experience	Dimension Data india pvt. Ltd.
+content	experience	Network Support Engineer
+content	experience	10-6-2015 to 31-3- 2016
+meta	others	3
+content	experience	Wipro infotech ltd.
+content	experience	Network Associate Management
+content	experience	1-5-2014 to 4-6-2015
+meta	others	4
+content	experience	Tulip Telecom ltd.
+content	experience	Network Engineer
+content	experience	14-11-2012 to 30-4- 2014
+content	experience	CAREER RECITAL
+content	experience	Telesonic Networks Limited ( Executive)
+content	experience	Designation: Sr. Executive Engineer.
+content	experience	Work Profile-Network Fault (TAC)
+content	experience	Roll: TNL
+header	experience	Key Deliverables:
+content	experience	· Handling NOC operation for PAN INDIA (North, West), TAC-2 Fault support.
+content	experience	· Responsible for troubleshooting of backbone network related issues.
+content	experience	· Configuring /handling/ maintaining/ network devices (Cisco, Alcatel, Huawei, and Juniper ERX) & taking their scheduled backups.
+content	experience	· Troubleshooting all networking problems i.e. routing protocols (OSPF, and BGP, MPLS,L2 VPN).Hardware issue and connectivity of access and backend network devices.
+content	experience	· Analyze the Network (24x7) using network monitoring tools (MRTG, WHATSUP Gold).
+content	experience	· Backbone network congestion issues and co-ordinate with network planning and rollout teams to ensure timely capacity upgrades.
+content	experience	· Troubleshooting on transport part for 2G, 3G and 4G services which are running on CEN network.
+content	experience	· Co-ordination with ISP-O&M, Vendor partner, and Core team.
+content	experience	Router Included in CEN: CISCO 7200, 7600 etc., ALCATEL LUCENT SR-7710, SR-7750 etc., HUAWEICX-600.
+content	experience	Switches: CISCO L3 Switch (3550, 3750, 4500 and 6500.), ALU-7450 Ethernet Service Switch.
+content	experience	Protocols running: OSPF, BGP, MPLS, VPLS, VPRN Pseudo wire,
+content	experience	Tools Used: Telemedia, Metasolve M6, BMC Remedy tool MRTG
+content	experience	· BRAS (Broadband Remote Access Server): Configuration and Monitoring of the port and card hardware related issues.
+content	experience	· DSLAM (Digital Subscriber Line Access Multiplexer): Working on the various types of Dslams: like as Ericsson,UT Star, Alcatel,
+content	experience	· End to end configuration of VLAN/Management vlan for different types of DSLAM, and troubleshooting various fault in different dslams.
+content	experience	· Familiar with the NMS (networking monitoring tools.) just like as:
+content	experience	· 1. WUG (What Up Gold): For Check the ping response of the devices.
+content	experience	· 2. OP Manager: To Check the ping response and performance of the devices.
+content	experience	· 3. SAM (Service Aware Manager): For Monitor The Alcatel Devices which Is used in the CEN Network.
+content	experience	· 4. U2000 IManager: For Monitor The Huawei Devices which is used in the CEN Network.
+content	experience	· 5. Tivoli Net cool: For checking the all types of alarms which occurs in the NMS tools.
+content	experience	· 6. BMC Remedy: For generate the Trouble Ticket for occurrence of any alarm in the NMS Tools.
+content	experience	· 7. MRTG : For Monitor the utilization of the Internet
+content	experience	Reliance jio 4G 2015 – 2016
+content	experience	Designation: Network Support Engineer
+content	experience	Rolls-Dimension data india pvt. Ltd
+content	experience	Key Deliverables:
+content	experience	Implementation of the project: from project planning stage to work delivery, execution of the plan with various site completions to assisting the project management and providing technical support to the onsite project.
+header	experience	Rolls & Responsibilities:
+content	experience	· Installation & Configuration of Cisco routers: 903, 920i, ASR 1090,920o.
+content	experience	· Installation & Configuration of Cisco L2, L3 Switches: 2950, 2960, 3550, 4500.
+content	experience	· Planning and implementation of IP address schemes and subnet masks.
+content	experience	· Responsible for Configuring, troubleshooting& maintaining WAN connectivity.
+content	experience	· Developing and maintaining a detailed project plan.
+content	experience	· Responsible for: co-ordination with different departments for planning & designing the requirements for the migration of the challenging LAN Network and WAN Network.
+content	experience	· Responsible for co-ordination to vendor and the client company for the execution and completion of project within the given timeline.
+content	experience	· Management of Acceptance Testing program
+content	experience	Client NIC(National Informatic Centre)
+content	experience	Designation: Network Operator cum Field Engineer/Network Associate management
+content	experience	Rolls-Tulip Telecom ltd./Wipro infotech ltd.
+content	experience	NIC is a part of the Indian Ministry of Communications & Information Technology’s Department of Electronics & Information Technology and is headquartered in New Delhi. It has offices in all 28 state capitals and 7 union-territory headquarters and almost all districts. At New Delhi Headquarters, a large number of Application Divisions exist which provide total Informatics Support to the Ministries and Departments of the Central Government.
+content	experience	Rolls & Responsibilities:
+content	experience	· Troubleshooting WAN, MPLS, VSAT, Failover and Access related issues.
+content	experience	· Configuration of Cisco Switches (Layer 2 – 2900 series; Layer 3 – 3500.
+content	experience	· Configuration and troubleshooting of RAD switches.
+content	experience	· Providing level second support to Juniper ACX 2200 router.
+content	experience	· VLAN Creation, Maintenance & Troubleshooting,upgradation of ios of network devices
+content	experience	· Managing the LAN of the J&K Civil Secretariat (Internet Connectivity)
+content	experience	· Conduct of Video Conferencing of Higher officials of the State with Central Ministers.
+content	experience	· Creating & managing entries in DHCP, ISA and Cyberom like latest technologies.
+header	education	ACADEMIA
+content	education	MCA FROM IGNOU.
+content	education	B.CA from University of Jammu
+header	others	PERSONAL DOSSIER
+meta	others	Father’s Name : S. Charanjeet Singh
+meta	others	Date of Birth : 14th Feb.1989.
+meta	others	Gender : Male.
+meta	others	Marital status : Single.
+meta	others	Nationality : Indian.
+meta	others	Proficiency in languages : English, Hindi,Punjabi.
+meta	others	Home Address : H. NO. 109, ward 32, Munshi chack, J&K-18002.
+meta	others	Place :
+meta	others	Date : (Gurpreet Singh )

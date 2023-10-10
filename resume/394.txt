@@ -1,0 +1,52 @@
+meta	others	YATEE MAHESHWARI
+meta	others	9560078520
+meta	others	maheshwari.yatee10@gmail.com
+header	experience	Professional Summary
+content	experience	· Having 2.2 years of experience in IT industry in Analysis, Scheduling, Monitoring and Implementation of Business requirements as Tivoli Workload Scheduler.
+content	experience	· Received promotion within a year with Exceptional Performance Rating in the current organization.
+content	experience	Key Responsibilities
+content	experience	· Extensively worked on scheduling, monitoring and implementation of batches in TWS 9.3.
+content	experience	· Responsible for all activities related to the development, implementation, administration and support of batches using TWS.
+content	experience	· Strong working experience in Batch scheduling using TWS 9.3.
+content	experience	· Well versed in developing the complex and logical jobs.
+content	experience	· Have basic knowledge of Unix.
+content	experience	· Have working knowledge of Internet Information Services (IIS).
+content	experience	· Hands on Experience in creating Service Request Tickets using ServiceNow.
+content	experience	· Well Experienced in doing Error Handling and Troubleshooting using various log files.
+content	experience	· Ability to meet deadlines and handle multiple tasks, decisive with strong leadership qualities, flexible in work schedules and possess good communication skills.
+content	experience	· Team player, Motivated, able to grasp things quickly with analytical and problem solving skills.
+content	experience	· Comprehensive technical, oral, written and communicational skills.
+header	experience	Professional Experience
+content	experience	· Currently working as Senior Analyst in HCL Technologies Ltd., Noida (Sept 2015 – till date).
+header	knowledge	Technical trainings/Certification
+content	knowledge	· Obtained ITIL certification to enhance the skill set.
+header	education	Educational Qualification
+content	education	· B.TECH in EIE from Greater Noida Institute of Technolog, Greater Noida (U.P.) affiliated to AKTU, Lucknow with 77%.
+content	education	· Intermediate (12th) from Tata Chem DAV Public School, Babrala (UP) affiliated to CBSE with 76.2%.
+content	education	· High School (10th) from Tata Chem DAV Public School, Babrala (UP) affiliated to CBSE with 85%.
+header	others	Awards & Recognition
+content	others	· Received Employee of the Month Award for four times.
+content	others	· Received Employee of the Year Award for the year 2016.
+header	knowledge	Technical Skill Set
+content	knowledge	Operating Systems : Windows XP, 7 and 10.
+content	knowledge	Languages : C, C++
+content	knowledge	Databases : MS-SQL Server 2008
+content	knowledge	Scheduling Tools : IBM Tivoli Workload Scheduler 9.3
+content	knowledge	Others : Internet Information Services (IIS, formerly Internet Information Server) 7.5
+header	project	Project Details
+content	experience	Name : Lansforsakringar (LFAB)
+content	experience	Role : Senior Anaylist
+content	experience	Duration : Sept 2015 to till date
+content	experience	Länsförsäkringar, or literally County Insurance, is a Swedish group of customer owned insurance companies. The group consists of 23 independent companies, one in each of the counties of Sweden (pre 1998 division), that cooperate under a common brand name. Länsförsäkringar Bank, is a bank which was started in the 1990s and is operated by the group.
+header	experience	Responsibilities:
+content	experience	· Preparation of High Level Design Documents and mapping specification documents.
+content	experience	· Learned various processes involved in the project.
+content	experience	· Monitoring of Daily and Monthly batches.
+content	experience	· Modification and running of jobs in TWS.
+content	experience	· Supporting various Month-end, Quarter-end and Year-end production activities.
+content	experience	· Automation of various processes to reduce complexity.
+content	experience	· Scheduling and monitoring jobs and batches in TWS.
+meta	others	Declaration:
+meta	others	I here declare that the above written particulars are to the best of my knowledge and behalf.
+meta	others	Place: Noida
+meta	others	Date: 18/11/2017 Yatee Maheshwari

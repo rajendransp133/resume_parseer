@@ -1,0 +1,42 @@
+meta	others	Geetanjali Sadashiv Chendage
+meta	others	B.C.A.
+meta	others	E-mail :gitanjalichendage@gmail.com
+meta	others	Phone Number:7709379542
+header	others	Objective—
+content	others	Career Driven Goal Of Joining Your Organisation And To Work Hard With Honesty To Achieve Technical Excellence For Welfare Of Organisation As Well As Myself.
+header	education	EDUCATIONAL QUALIFICATION :
+content	education	Qualification
+content	education	School/College
+content	education	University/Board
+content	education	Year of Passing
+content	education	Score
+content	education	BCA
+content	education	MMT Collage Tasgaon
+content	education	ShivajiUniversityKolhapur
+content	education	2015
+content	education	62.89%
+content	education	HSC
+content	education	Bhilawadi
+content	education	Shivaji UniversityKolhapur
+content	education	2012
+content	education	58.83%
+content	education	SSC
+content	education	Bhialwadi
+content	education	Shivaji University Kolhapur
+content	education	2010
+content	education	53.69%
+header	experience	Professional Experience :
+content	experience	· Having1 year 8 monthexperience as a CSE in Tech Mahindra, Sharda Centre, Pune.
+header	knowledge	Compute Knowledge :
+content	experience	· Basic computer knowledge certify course of MS-CIT, TYPING.
+content	knowledge	· Well know about web searching , and operating system, Microsoft Office.
+content	knowledge	· Self motivated, able to learn new information quickly.
+header	others	Personal Information :
+meta	others	· Date Of Birth :16/04/1993
+meta	others	· Address :Kothrud Stand, Pune - 411038,
+meta	knowledge	· Languages Known: English, Marathi,Hindi.
+header	others	Declaration :
+meta	others	I do here by declare that particulars in the resume are correct to the best of my knowledge and belief.
+meta	others	Thank You !
+meta	others	Date : Place : Pune
+meta	others	Chendage Geetanjali

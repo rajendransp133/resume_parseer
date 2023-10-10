@@ -1,0 +1,96 @@
+meta	others	Qualification
+meta	others	Raghav Ranjan
+meta	others	A/8, Zaver Nagar Society, Opp.Panchsheel Flats, Harni Warasia Ring Road,Baroda, Gujarat-390022.
+meta	others	Phone: 9904402852. E-mail: raghav_ranjan83@yahoo.co.in
+meta	others	Date of Birth: October 11th , 1983
+header	experience	Summary of Qualifications
+content	experience	Extremely motivated and results-driven professional with exceptional communication and negotiation skills and an extensive background in the following competencies:
+content	experience	· Demonstrated ability to generate new business, thereby increasing productivity and company profits.
+content	experience	· Highly motivated with a commitment to excellence in the workplace. Energetic team player.
+content	experience	· Skilled in developing strong rapport with clients by providing value through individual consultation
+content	experience	· Displayed ability to handle multiple tasks as a team member, and work under pressure reaching deadlines.
+content	experience	· Excellent Presentation, Analytical and Interpersonal skills
+content	experience	· Language skills include fluency in English and Hindi.
+content	experience	· Computer skills include Microsoft Office: Word, PowerPoint & Excel
+header	experience	Professional Experience
+content	experience	ULTRA TECH CEMENT LTD – Mumbai / Vadodara, India
+content	experience	August 2009-Present
+content	experience	Territory Sales Executive, Sales & Marketing, Trade
+content	experience	One of India’s leading Cement Manufacturer with an augmented capacity of 48 MTPA and having pan India presence; the strengths of the company lie in both trade and non-trade segment.
+header	experience	Core responsibilities:
+content	experience	· Sales Operations in trade sector:
+content	experience	· Handling Sales of 3500 MT per month.
+content	experience	· Identifying and networking with financially strong and reliable dealers/ channel partners, resulting in deeper market penetration and reach.
+content	experience	· Strict monitoring and responsible for collection of outstanding of customers as per the credit terms.
+content	experience	· Handling a set of 29 stockiest / Dealers in Baroda city region and evaluating their capabilities and interest.
+content	experience	· Liaising within the organization to ensure that information and servicing needs of stockiest and clients are met.
+content	experience	· Ensuring speedy resolution of queries and grievances to maximize customer satisfaction levels.
+content	experience	· Coordinating with sales support staff, disperse points and transporters for smooth logistic functioning.
+content	experience	· Sales Promotion:
+content	experience	· Along with Technical Officer take initiative to organize Dealers meets, Retailers meets, Builders meet, Contractor meets;
+content	experience	· Implement company advertising policy - distribution of Gifts, Stationery, Wall paintings;
+content	experience	· Implement company Scheme Policies in order enhances sales revenue and build company brand.
+content	experience	· MIS Reporting:
+content	experience	· Planning & Monitoring sales targets for Vadodara region
+content	experience	· Constantly monitoring the performance of the channel partners
+content	experience	· Constant interaction with the channel partners for collecting market information
+content	experience	· Preparing industry reports and competitors performance Reports
+content	experience	· Calculating & Analysing the market potential
+content	experience	· Monitoring various sales promotional activities
+content	experience	· Involved in Budgeting & Planning exercise for Vadodara region.
+content	experience	RAGHAV RANJAN
+meta	others	Page 2
+content	experience	LAKEWOOD MALLS PRIVATE LTD (A Hiranandani Group Company) – Mumbai, from Feb’08 - Jan ‘09
+content	experience	As Management Trainee
+content	experience	· Introduction of new brands in various categories, to provide variety to Customers;
+content	experience	· Statistical Analysis for all the brands to evaluate performance on a quarterly basis;
+content	experience	· Ensuring growth in Contribution given to business by the brands being handled;
+content	experience	· Negotiations to improve margins & upgrade standard margins thereby enhancing net profitability for the Store;
+content	experience	· Optimize quality of services for business growth as well as customer satisfaction;
+content	experience	· Vendor Development besides maintaining and developing relations with existing ones;
+content	experience	· Base stock allocation for various brands after proper analysis & acquired experience;
+content	experience	· Ensuring the Proper & timely replenishment of stock with lead time of 15 days;
+content	experience	· Planning the sales target & achieving the set Targets;
+content	experience	· Learn & Train, motivate , & handle the sales team;
+content	experience	· Providing market information to marketing team;
+content	experience	· Planning & operating sales promotion activities like schemes & displays in the Stores;
+content	experience	· Space planning to brands in terms of Visual Merchandising.
+header	education	Education
+header	education	Qualification
+content	education	College / Institution
+content	education	Year of Completion
+content	education	Percentage
+content	education	M.M.S.
+content	education	Atharva College of Mgmt Studies, Mumbai
+content	education	May ‘08
+content	education	60%
+content	education	B.M.S.
+content	education	Thakur College of Science & Commerce, Mumbai
+content	education	April’06
+content	education	61%
+content	education	H.S.C.
+content	education	Raja Ram Mohon Roy Intermediate College, Patna
+content	education	March’03
+content	education	64%
+content	education	S.S.C.
+content	education	DAV School, Patna, Bihar
+content	education	March’00
+content	education	61%
+header	experience	SUMMER INTERNSHIP
+content	experience	Name of the Company
+content	experience	Designation
+content	experience	Duration
+header	project	PROJECT TITLE
+content	experience	PROVOGUE (INDIA) Ltd.
+content	experience	Trainee
+content	experience	12th MAY’O7 -12th JULY’O7
+content	experience	Distribution Management in Retail Sector
+header	knowledge	COMPUTER ORIENTATION
+content	knowledge	· MS WORD
+content	knowledge	· MS EXCEL
+content	knowledge	· MS POWER POINT
+header	knowledge	LANGUGAE KNOWN
+content	knowledge	· ENGLISH
+content	knowledge	· HINDI
+meta	others	REFERENCES
+meta	others	Personal and professional references gladly furnished upon request.

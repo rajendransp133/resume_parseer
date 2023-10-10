@@ -1,0 +1,210 @@
+meta	others	R
+meta	others	R.PRABHU
+meta	others	prabhusapbi07@gmail.com
+meta	others	Mobile: +91 7358908527
+header	others	OBJECTIVE
+content	others	To work in an innovative environment on challenging projects for the benefit of both the organization and the improvement of self and to be with an organization, where I can explore my potential in an environment characterized by opportunity, flexibility, growth and continuously acquire skills in emerging trends.
+header	experience	PROFILE SUMMARY
+content	experience	· Having 6.8 years of experience in SAP BI with 4 years of experience in SAP BODS.
+content	experience	· Currently working as Associate in Cognizant Technology solutions LTD, Chennai for the client project Monsanto Company US.
+content	knowledge	· Having knowledge of business process in the application Component SAP BODS 4.2 & SAP BO Dashboard, SAP APO, SAP MM.
+content	experience	· Excellent communication and presentation skills.
+header	knowledge	SAP BI Knowledge:
+content	experience	· Worked on all technical aspects of SAP BW and expert in SAP BW Administrator Workbench. Good Technical skills in the area of Data Modeling, Extraction and Reporting
+content	experience	· Data Modeling – Extensively worked in creating Info Cubes, Data Store Objects (DSO), Multiproviders, InfoObject and Data Sources
+content	knowledge	· Knowledge in OLTP extractions from SAP R/3 using LO Cockpit, Generic Extractions, Flat file Extractions.
+content	experience	· Enhancement of existing data flow involving enhancement of Standard Datasources , enhancing BW objects like Cubes, DSO, etc and performing Historical load and setting up regular deltas
+content	experience	· Performance - Infocube management with Aggregates, Compression, Partitioning, Rollup, Indexes
+content	experience	· Ticket resolution - Involved in Analysis and ticket resolution process for issues arising due to data loads, data reconciliation and performance related issues.
+content	experience	· Process Chains - Actively involved in the Designing and Development of Process chains considering the dependency among the BW objects. Automate, schedule and monitoring on daily, weekly and monthly basis.
+content	experience	· Transport management in BW using standard SAP TMS.
+content	experience	· Reporting – Exposed to front-end BW Components like Queries, Restricted Key Figures, Variables, Calculated Key figures, Structures, Selections, Conditions, Filters, Exceptions, Free Characteristics and Formula.
+header	knowledge	SAP BODS Knowledge:
+content	experience	· Good knowledge on SAP BODS/Data Services tool for E-T-L Process & Data Migration.
+content	experience	· Proficient in creation of Data Migration Technical Specification/Conversion Rule Documents using Functional Specifications, Source to Target Mapping sheets.
+content	experience	· Proficient in creation of central and local repositories.
+content	experience	· Proficient in creation of data stores such as application data stores, Database data stores
+content	experience	· Sound knowledge in transforms such as Case, Map Operation, Merge, Query, Row Generation, SQL, Validation,Data_Transfer,Date_Generation,Effective_Date,Hierarchy_Flattening,History_Preserving,Key_Generation,Pivot, Reverse Pivot, Table Comparison.
+content	experience	· Proficient in creation of Projects and connections.
+content	knowledge	· Good knowledge in functions such as math functions, Conversion functions, Data base functions, Miscellaneous functions, Date functions, String functions etc.
+content	knowledge	· Good knowledge in Performance Optimization such us pushdown, Select Distinct, and avoid unwanted Data type conversion etc.
+content	knowledge	· Good knowledge in Try and Catch.
+content	knowledge	· Good Knowledge in IDOC and RFC (Loading Methods).
+content	knowledge	· Good knowledge in creating Users in CMC.
+content	knowledge	· Good knowledge in Data Services Management Console.
+content	knowledge	· Good knowledge in promoting the objects from one environment to another.
+content	knowledge	· Good knowledge in data profiling.
+content	experience	· Able to create rules, bind the rules and generate the score card.
+content	experience	· Hands on experience in BOM, preparing Bill of Materials for Mechanical, Electrical, Instrumentation& Electronics Material, Equipment, Functional Location, plant etc.
+content	knowledge	· Good knowledge in Microsoft Excel, formula and Lookup.
+content	experience	· Master Data Preparation and Functional Support for CMMS & ERP Implementation.
+content	experience	· Experience in preparing Centralized Material master.
+content	experience	· Excellent interpersonal and communication skills.
+header	experience	Employment History:
+content	experience	COGNIZANT TECHNOLOGY SOLUTIONS LTD, Chennai
+content	experience	Project: 1
+content	experience	Client
+content	experience	Monsanto Company US
+content	experience	Environment
+content	experience	SAP BI 7.0, SAP BI 7.4, SAP BW on HANA, SAP BODS 4.2 & SAP BO.
+content	experience	Duration
+content	experience	JULY 2016 to Till date.
+content	experience	Reporting Tool
+content	experience	BEx Analyzer, Query Designer & BO DASHBOARD
+content	experience	Management Tool
+content	experience	Autosys
+content	experience	Team Size
+content	experience	19 Members
+content	experience	Monsanto Company US is a publicly traded American multinational agrochemical and agricultural biotechnology corporation. It is headquartered in Creve Coeur, Greater St. Louis, Missouri. Monsanto is a leading producer of Genetically Engineered (GE) seed and Roundup, a glyphopaste-based herbicide.
+content	experience	Project Description: BI support in Monsanto comprises of SAP Business Objects as visualization tool, SAP BO Data Services (BODS) as ETL tool used for data integration and data processing, and data sources such as SAP BW, Teradata, Oracle and free-hand SQL.
+content	experience	Roles and Responsibilities:
+content	experience	· Strong work experience with Data Warehouse design techniques and Data Modeling (SAP BW configuration & customization of SAP BW models, data flows, enhancement of transactional/master data extractors, infoproviders construction, consistency & performance tests, process chains design, troubleshooting, transporting, functional & technical documentation.
+content	experience	· Worked extensively in SAP BI report design techniques, implementation and supporting complex reports (Query Designer, Bex Analyzer, WAD, & BO Dashboards).
+content	experience	· Extensive experience in handling data extraction and integration to BW with SD, SCM, APO, FI (AP, AR, G/L), SRM, CRM & HCM modules and non-SAP source systems.
+content	experience	· Data flow modeling in BW on HANA using InfoObjects, InfoCubes, APD, VirtualCubes, Multiproviders, Open Hub Destination, Info sets, Aggregates, ODS/DSO objects, Transformation rules and Data Sources.
+content	experience	· Extensively involved in data extraction of LO Cockpit, Generic, COPA, CRM, SNP and non-SAP data using DBCONNECT into SAP BW.
+content	experience	· Performance Tuning with Aggregates, compression, Rollup, Partition, Reconstruction, OLAP Cache, Query Mode, Indices, Multi-Provider, Line Item Dimension, Query Monitor (RSRT), Indexes and Archiving. Experience in using BWA (BW Accelerator) Filling of BIA Indices, Roll up etc.
+content	experience	· Enterprise reporting with Business Objects, BEx Query Designer, Analyzer, WAD and Dashboard Designer, Universe Design Tool (UDT) & Rich Client (RC),
+content	experience	· Handing of Incidents, workorders & service requests in Remedy application for various data loading related issues, data reconciliation, query related changes and enhancements.
+content	experience	· Involved in preparing of Test cases for the Migration of Jobs from BODS 4.0 to BODS 4.2 environment.
+content	experience	· Creation of Charm requests with FDS, TDS & approval documents for the movement of BW objects from Development(Quality(Production environment.
+content	experience	· Monitoring and fixing of Process chain failures, reloading of missing data to BODS open hub destination by changing the process chain design from Delta to Full load with missing document selections.
+content	experience	· Extensively involved in Enhancement of BEX query design sing CKF, RKF, Variables, Structures, Filters, Free Characteristics, Conditions, Exceptions, and RRI based upon the user requirements.
+content	experience	· Working on Enhancement requests from business users on Universe changes and Webi report creation & changes.
+content	experience	· Resolved data load issues to BODS open hub destinations from BW system.
+content	experience	· Maintenance of BO application Pre-production, Development servers.
+content	experience	· Creation of new BO reports using BEX query as datasource in Web intelligence and scheduling the same report in BO production environment based upon the user requirements.
+content	experience	COGNIZANT TECHNOLOGY SOLUTIONS LTD, Chennai
+header	project	Project: 2
+content	experience	Client
+content	experience	Monsanto Company US
+content	experience	Environment
+content	experience	SAP BODS 4.2
+content	experience	Duration
+content	experience	JULY 2016 to Till date.
+content	experience	Team Size
+content	experience	3 Members
+content	experience	Roles and Responsibilities:
+content	experience	· Migrating the Jobs from BODS4.0 to BODS 4.2.
+content	experience	· Create the test cases for migration from 4.0 to 4.2.
+content	experience	· Moving the code from Test to Prod environment.
+content	experience	· Continuous jobs monitoring and resolving the batch job failures.
+content	experience	· Verifying the transport between BW and BODS through RFC regularly.
+content	experience	· Respond to the user based on the Incident severity.
+content	experience	· Resolve the problems with in SLA.
+content	experience	· Collecting requirements from the client.
+content	experience	· Creation of solution architecture document.
+content	experience	· Extract the data from various heterogeneous sources.
+content	experience	· Perform the transformation based on the mapping sheet.
+content	experience	· Load the data into SAP Hana.
+content	experience	· Perform Unit test.
+content	experience	· Object promotion to QA environment from DEV environment.
+content	experience	· Object promotion to PROD environment from QA environment.
+content	experience	· Coordinate with SAP basis team to make sure that RFC connection between BW and BODS is working fine.
+content	experience	INFOSYS TECHNOLOGIES LTD, Chennai.
+content	experience	Client
+content	experience	COCA-COLA Company – US & COKE JAPAN CCEJ
+content	experience	Environment
+content	experience	SAP BI 3.x, SAP BI 7.0, SAP BI 7.3 and SAP HANA STUDIO, SAP BODS & BO DASHBOARD
+content	experience	Duration
+content	experience	MARCH 14 to JULY 2017.
+content	experience	Reporting Tool
+content	experience	BEx Analyzer, Query Designer
+content	experience	Management Tool
+content	experience	Redwood, Autosys.
+content	experience	Team Size
+content	experience	20 Members
+content	experience	Coca-Cola US is a multinational company, Business, Planning and Consolidation project comprised of various key planning report from different modules like, Purchase - PO, Sales - SD, MM, FICO, MEM – Marketing Expenses and Management.
+content	experience	Roles and Responsibilities:
+content	experience	· Strong work experience with BEx tools, BEx Query Designer, Web Application Designer.
+content	experience	· Experienced in installing and enhancing Business Contents and transfer routine and update routine according to the client’s requirement.
+content	experience	· Knowledge in ABAP like creating start routine, end routine, expert routine etc.
+content	experience	· Data extraction with Business content extractors, LO Cockpit extractors, CO-PA and Generic Data Extractors from R3 to BW.
+content	experience	· Creating and Maintenance of Process chains.
+content	experience	· In Analyzing and activating appropriate Business Content for the solution.
+content	experience	· Proficient in Performance tuning using Aggregates, Partition Compression, rollups and maintaining the BWA index.
+content	experience	· Involved in preparation of technical specification documents based on user
+content	experience	· Extensively involved in setting up of procedures for extraction data from SAP r/3 source system by using Purchasing data sources
+content	experience	· Involved in creation of Bex reports.
+content	experience	· Involved in transporting objects from Mod ( QA ( Production.
+content	experience	· Monitoring and handling of the data loads and failures.
+content	experience	· Handling of Tickets related to Data loading and client specific applications like MEM (Marketing expense management).
+content	experience	· Post Production support, which involves daily monitoring of data loads via process chains, trouble shooting and correcting the known errors and escalating the unknown to the SAP support team.
+content	experience	· Actively and regularly involved in Load Monitoring of Daily, weekly, and
+content	experience	Monthly, Data Loads using Process Chains.
+content	experience	· Involved in designing, developing InfoCubes, DSO, and loading data into them. Used generic extraction (RSO2) to extract data from SAP R/3 to BW. Included the newly created DTPs in the Process Chain for that automatic scheduling of data loads.
+content	experience	· Involved in identifying the root cause of the issues faced by the users, creating a Problem ticket and CR to make sure the issues been worked out, with exact development that needs to resolve the issue.
+content	experience	· Involved on creating documentation on various issues faced during the process.
+content	experience	· Actively involved on all CRs’ whenever it has been scheduled.
+content	experience	· Clearing Delta Queues, dropping BIA indexes of InfoProvider, unscheduling the Process chains, make sure that all Delta IP extract 0 records, before the CR starts.
+content	experience	· Worked on SAP BW on HANA project for COKE JAPAN-CCEJ.
+content	experience	CAPGEMINI BUSINESS SERVICES LTD Chennai, SAP BW consultant
+header	project	Project
+content	experience	FUSION
+content	experience	Client
+content	experience	Hindustan Unilever Ltd – Unilever Group
+content	experience	Environment
+content	experience	SAPBW Ver 3.5/ BI 7.0
+content	experience	Duration
+content	experience	FEB 11 to JAN 14
+content	experience	Team Size
+content	experience	8 Members
+content	experience	HUL is one among the leading FMCG companies in India and has 80 factories and 120 depots across India. FUSION is a SAP data warehouse implemented for HUL for its sales and distribution system. HUL needed to analyze sales data from disparate systems to understand the performance of their stores and the effectiveness of their promotions. This solution provided a standard means of obtaining accurate numbers for specific performance measurements across depots owned by HUL and helped the category management team to make sound business decisions.
+content	experience	Roles and Responsibilities:
+content	experience	· Loaded Data from multiple Data Sources to multiple Data Targets with different Transformations and DTP’s by scheduling different updates.
+content	experience	· Loaded data from PSA to Data Targets using Transformations and DTPs
+content	experience	· Used new Delta Mechanism of BI, configured Full & Delta loads from single Datasource to different Data targets.
+content	experience	· Corrected Erroneous records in Error Stack and executed the Error DTP to continue the loading process as part of testing in Quality Box.
+content	experience	· Involved in the Process chain monitoring on a daily basis in BI7.0 system.
+content	experience	· Involved in resolving issues related to process chain errors and corrective action.
+content	experience	· Worked on several issues related to data discrepancy between R/3 and BI.
+content	experience	· Performed Pre upgrade activities like clearing delta queue on R3 and BW, Post upgrade activities like testing all the process chain(data loading) and tested reports on the upgraded server to ensure data quality.
+content	experience	· Schedule data loads to BW from SAP R/3 using process chains and Monitor data loads which run on an hourly, daily, weekly & monthly basis and resolve errors when they occur.
+content	experience	· Uploaded master data and transactional data from Flat File and SAP R/3 to BW system.
+content	experience	· Extensively involved in setting up of procedures for extracting data from SAP R/3 Source system by using customizing LO Cockpit.
+content	experience	· Reviewed performance bottlenecks and tuned inefficient queries using Aggregates, Compression, and Partitioning.
+content	experience	· Used PSA for checking data quality before loading and BW monitor for trouble shooting.
+content	experience	· Modified and enhanced existing queries to match the new business requirements.
+content	experience	· Involved in submitting the Ticket Status (Open/Close) report.
+content	experience	· Reconstructed data requests from PSA in case of data load failure.
+content	experience	· Raised tickets to other resolution group regarding performance of the system and data loads using SAP solution Manager.
+header	experience	Role
+content	experience	SAP BW Consultant
+content	experience	Client
+content	experience	Hindustan Unilever Ltd – Unilever Group
+content	experience	Environment
+content	experience	SAPBW Ver 3.5/ BI 7.0
+content	experience	Duration
+content	experience	FEB 11 to JAN 14
+header	experience	Roles and Responsibilities:
+content	experience	· Loading flat files from application server (UNIX) and client server.
+content	experience	· Scheduling and Monitoring process chains on a daily basis.
+content	experience	· Loading hierarchy files on a weekly basis.
+content	experience	· Used PSA for checking data quality before loading and BW monitor for trouble shooting.
+content	experience	· Rectifying and resolving errors during data loading.
+header	education	Educational Qualification:
+content	education	· Master of Business Administration (MBA) –in Retail & Supply Chain Management
+content	education	(Full Time) - 77%
+content	education	Anna University of Technology - Coimbatore.
+content	education	· Bachelor of Engineering (B.E) in Mechanical Engineering
+content	education	(Full Time) – 70%
+content	education	Sri Krishna College of Engineering & Technology - Coimbatore.
+header	others	PERSONAL DETAILS
+meta	others	Gender
+meta	others	Male
+meta	others	Date of Birth
+meta	others	27th June 1987
+meta	others	Father’s Name
+meta	others	Mr. R. Ravindran
+meta	others	Address
+meta	others	Plot No 13, F2, Anandham Nagar, Sholinganallur, Chennai-600119
+header	knowledge	Languages Known
+meta	knowledge	English, Hindi, and Tamil.
+meta	others	Nationality
+meta	others	Indian
+meta	others	Passport Number
+meta	others	H2300107
+meta	others	Date
+meta	others	:
+meta	others	Place
+meta	others	: Chennai PRABHU.R

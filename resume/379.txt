@@ -1,0 +1,79 @@
+header	others	Curriculum Vitae
+meta	others	MAYUKH CHAKRABORTY
+meta	others	Contact & Address:
+meta	others	Cell No : 7407126976/8420762102
+meta	others	E-mail : mayukhchakraborty1992@gmail.com
+meta	others	Address: 13, Garfa North Lake Road
+meta	others	P.O – Santoshpur, P.S – Garfa,
+meta	others	Kolkata - 700075
+header	others	Objective
+content	others	“My goal is to become associated with a company where I can utilize my skills and gain further experience while enhancing the company’s productivity and reputation.”
+header	education	Academic qualification
+content	education	Qualification
+content	education	School/College
+content	education	University/Board
+content	education	Year
+content	education	Stream
+content	education	Division
+content	education	B.Com
+content	education	Sammilani
+content	education	Mahavidayalaya
+content	education	Calcutta
+content	education	University
+content	education	2017
+content	education	B.COM(Hons.
+content	education	In Accounts)
+content	education	40%
+content	education	Class 12
+content	education	Jagadbandhu
+content	education	Institution
+content	education	WBCHSE
+content	education	2010
+content	education	Commerce
+content	education	1st Div.(61%)
+content	education	Class 10
+content	education	Jagadbandhu
+content	education	Institution
+content	education	WBBSE
+content	education	2008
+content	education	1st Div.(62%)
+header	knowledge	Computer Skill
+content	knowledge	* Office Applications (MS Word, MS Excel).
+content	knowledge	* Internet : Browsing & E-mail literacy.
+content	knowledge	* ERP (Oracle Apps)
+header	experience	Work Experience
+content	experience	* Currently working in BIL INFRATECH LTD (BRAJ BNINANI GROUP) as an Accounts Assistant since Aug. 2017 through third party pay roll.
+header	experience	Job Profile :
+content	experience	* Making invoice, Credit memo, Debit memo on customers as per the guideline of work order, checking bill abstract, Preparing debtors outstanding statement, debtors aging, passed different adjustment entry like mobilization advance, retention and other deductions.
+content	experience	* Customer reconciliation every fortnight basis, follow up with the customer every fort night for the outstanding payment.
+content	experience	* Assist senior team at the time of Internal audit and Statutory audit.
+content	experience	* All cash and bank entry in ERP, vendor invoice and contractor invoice entry in ERP as per the guideline of direct/indirect tax.
+content	experience	* Making BRS monthly for different bank A/c.
+content	experience	* All HO expenses entry in ERP.
+content	experience	* Generate E Way bill for different states.
+content	experience	*Worked at SS ENTERPRISE, BHOJERHAT (MAY, 2015 – JULY,2017)
+content	experience	Designation : Cashier
+header	experience	Job Profile :
+content	experience	* Handle all cash transactions.
+content	experience	* Collect payments & Issue receipts.
+content	experience	* Resolve customer complaints, guide them.
+content	experience	*Worked at SKY MANAGEMENT, RUBY (AUG, 2014 – APRIL, 2015)
+content	experience	Designation : Accounting Clerk
+header	experience	Job Profile :
+content	experience	* Provided accounting and clerical assistance to the accounting department.
+content	experience	* Typing accurately, preparing and maintaining accounting documents and records.
+content	experience	* Preparing bank deposits, general ledger postings and statements.
+content	experience	*Worked at CKCB CONSULTANCY SERVICE, MUDIALI (OCT, 2013 –- JULY, 2014)
+content	experience	Designation : Office Assistant
+header	experience	Job Profile :
+content	experience	* Organizing the office and the assisting associates to optimize processes.
+content	experience	* Sorting and distributing communications in a timely manner.
+content	experience	* Schedule and plan meetings and appointments.
+content	experience	* Create and update records ensuring accuracy and validity of information.
+header	knowledge	Language Proficiency
+content	knowledge	English, Hindi & Bengali.
+meta	others	Reference
+meta	others	References available upon request.
+meta	others	DATE : ––––––—
+meta	others	PLACE : –––––––—
+meta	others	SIGNATURE : ––––––––––––––-

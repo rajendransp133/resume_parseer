@@ -1,0 +1,39 @@
+meta	others	MITALI SAHA
+meta	others	65, Mathkal Najrul Sarani,
+meta	others	P.O.- Rabindra Nagar,
+meta	others	Dum Dum Cantonment,
+meta	others	Kolkata-700 065
+meta	others	Mob: 7890183943
+meta	others	Mail: mitalisaha763@gmail.com
+content	others	OBJECTIVE: To work in an organization where I shall able to contribute growth and profitability with my skills and knowledge
+header	education	PROFESSIONAL QUALIFICATION: DIPLOMA IN DESK TOP PUBLISHING
+header	experience	EXPERIENCE: a. Destimoney Securities Pvt. Ltd. During 6 month as a Telecaller
+content	experience	b. Grant & Benjamin Pvt. Ltd. During 7 months as a Deta Operator
+header	knowledge	SKILLS SETS: MS WORD, MS EXCEL
+header	education	EDUCATIONAL QUALIFICATION
+content	education	PASS
+content	education	Board/ university
+content	education	Year of passing
+content	education	% of marks
+content	education	X
+content	education	WBBSE
+content	education	2012
+content	education	60%
+content	education	XII
+content	education	WBCHSE
+content	education	2014
+content	education	62.6%
+content	education	B.A.
+content	education	Calcutta university
+content	education	2017
+content	education	53.3%
+header	others	PERSONAL DETAILS
+content	others	Fathers name – Samir Saha
+content	experience	Date of birth – 10th March, 1995
+content	others	Nationality – Indian
+content	others	Religion – Hindu
+content	others	Marital Status - Single
+header	knowledge	LANGUAGE KNOWN: English, Hindi and Bengali
+content	others	HOBBIES: Listening to music and Drawing
+content	others	STRENGTH: Ability to work hard, can communicate with people
+content	others	DECLARATION: I do here by declare that all above information are true and correct to the best of my knowledge and belief.

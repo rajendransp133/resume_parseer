@@ -1,0 +1,124 @@
+header	others	RESUME
+header	others	RESUME
+meta	others	S.S.SUGANTHI
+meta	others	NO:74/15A, RAHUMAN SAIT COLONY-II
+meta	others	SOWRIPALYAM PIRIVU
+meta	others	RAMANATHAPURAM
+meta	others	COIMBATORE – 641 045
+meta	others	TAMILNADU – INDIA
+header	others	PERSONAL DETAILS:
+meta	others	HUSBAND’S NAME
+meta	others	: M.MURUGESAN
+header	others	DATE OF BIRTH & AGE
+content	others	: 28.03.1975, 36 YEARS
+header	others	E-MAIL ADDRESS
+content	others	: sugancwa@gmail.com
+header	others	MOBILE NO
+content	others	: 9965106060
+header	education	PROFESSIONAL QUALIFICATION:
+meta	experience	INSTITUTE OF COSTS AND WORKS ACCOUNTANTS OF INDIA
+content	experience	(Completed in September – 1999)
+header	experience	ACADEMIC QUALIFICATION:
+content	education	B.COM – First Class – 70% during May 1995 at
+content	education	P.S.G.R.KRISHNAMMAL COLLEGE FOR WOMEN
+content	education	AFFLIATED TO BHARATHIYAR UNIVERSITY
+content	experience	COIMBATORE.
+header	experience	EXPERIENCE:
+content	experience	1. ABIRAMI ELECTRONICS PRIVATE LIMITED
+content	experience	As ACCOUNTS ASSISTANT CUM CASHIER (June 95 to March 97)
+content	experience	As ACCOUNTS OFFICER (April 97 to March 99)
+content	experience	Nature of work as an Accounts Assistant Cum Cashier
+content	experience	· Preparation of Cash Vouchers and Payment advices
+content	experience	· Maintenance of Cash Books & Bank Books
+content	experience	· Maintenance of Books of Accounts – Daybook & Ledgers
+content	experience	· Maintenance of Register – Purchase, Sales & other Control Registers
+content	experience	· Maintenance of Central Excise Records - RG A PART – I
+content	experience	- RG A PART – II
+content	experience	- RG C PART – I
+content	experience	- RG C PART – II
+content	experience	- PLA REGISTER
+content	experience	· Preparation of Sales tax documents and monthly returns
+content	experience	· Preparation of Invoice and Delivery Challans
+content	experience	Nature of Work as an Accounts Officer
+content	experience	· Preparation of Bank Reconciliation Statements
+content	experience	· Preparation of Stock Statements of Bank
+content	experience	· Preparation of Statements of Final Accounts
+content	experience	· Assisting for Tax Audit & Internal Audit
+content	experience	2. SHREE KARTHIK PAPERS LTD
+content	experience	- Joined and worked as an ACCOUNTS MANAGER
+content	experience	( from March 99 to Novemeber 2003)
+content	experience	Nature of Job
+content	experience	· Bill passing
+content	experience	· Overall Supervision of Books of Accounts
+content	experience	· Finalization of Accounts
+content	experience	· Day to Day Funds Planning
+content	experience	· Sales Tax Assessment
+content	experience	· Preparation of timely reports as required by Management
+content	experience	· Assisting Tax Audit
+content	experience	· Preparation of One Time Settlement Proposals to Banks
+content	experience	· Public Relation Work
+content	experience	3. ENGLISH TOOLS & CASTINGS PRIVATE LTD
+content	experience	· Joined and worked as an Assistant Manager – Cost
+content	experience	( from November 2003 – September 2004)
+content	experience	Nature of Job
+content	experience	· Machine Hour Rate Setting
+content	experience	· Labour Hour Rate Setting
+content	experience	· Working out Tools Cost
+content	experience	· Price fixation
+content	experience	· Preparation of Cost Statements for products
+content	experience	· Reconcilation of Cost Statements to Financial Statements
+content	experience	· Monthly Work in Progress
+content	experience	4. SRI SUDARSAN PAPER MILLS LTD
+content	experience	· Worked as an ACCOUNTS MANAGER
+content	experience	(from October 2004 to March 2006)
+content	experience	Nature of Job
+content	experience	· Bill passing
+content	experience	· Overall Supervision of Books of Accounts
+content	experience	· Finalization of Accounts
+content	experience	· Day to Day Funds Planning
+content	experience	· Preparation of timely reports as required by Management
+content	experience	- Public Relation Work
+content	experience	· Daily production Reports
+content	experience	· Batch Costing
+content	experience	· Sales Tax Assessment
+content	experience	· Reconciliation of Cost Statements to Financial Statements
+content	experience	· Daily Cost Monitoring Reports
+content	experience	5. SHREE KARTHIK PAPERS LTD
+content	experience	- Working as MANAGER ACCOUNTS since April 2006
+content	experience	Nature of Job
+content	experience	· Auditing the day to day transaction
+content	experience	· Auditing Production and stock statements on day to day basis
+content	experience	· Auditing daily production reports
+content	experience	· Tax audit
+content	experience	· Preparation of all statutory returns and reports
+content	experience	· Scrutiny of all Creditors and Debtor statements
+content	experience	· Scrutiny of all Bank and Cash transaction
+content	experience	· Preparation of Batch Costing
+content	experience	· Reconciliation of Cost Statements to Financial Statements
+content	experience	· Daily Cost Monitoring Reports
+content	experience	· Preparation of Quarterly Unaudited Results
+content	experience	· Filing necessary documents to ROC
+content	experience	· Looking after all Secretarial formalities.
+header	knowledge	SOTWARE KNOWLEDGE
+content	knowledge	Platform Familiar
+content	knowledge	: DOS & Windows 95
+content	knowledge	DBMS
+content	knowledge	: Dbase
+content	knowledge	Applications
+content	knowledge	: MS Office
+content	knowledge	Accounts Package
+content	knowledge	: Tally, Profit & Wings
+header	knowledge	LANGUAGES KNOWN
+content	knowledge	: Tamil & English
+header	others	PRESENT SALARY
+meta	others	: INR 45000/-+TA+Bonus
+header	others	REFERENCE
+meta	others	: R.Giri, BCOM, B.L, FCA, Grad (CWA)
+meta	others	Chartered Accountant
+meta	others	No:28, West Arokiaswamy Road
+meta	others	R.S.PURAM
+meta	others	COIMBATORE
+meta	others	I hereby declare that all the particulars given are true and correct to the best of my knowledge and beliefs.
+meta	others	Place : Coimbatore
+header	others	Date :
+meta	others	Signature

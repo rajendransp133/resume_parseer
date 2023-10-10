@@ -1,0 +1,101 @@
+header	others	Resume
+meta	others	Comet A
+meta	others	# 3, T.H. Road,
+meta	others	Chinandmadam,Chennai-600 118
+meta	others	Tamil Nadu - INDIA
+meta	others	Pass Port No: F9648426/ 22-09-2016
+meta	others	E-Mail: comet.anto@gmail.com
+meta	others	Ph: +919884878884
+meta	others	Home Ph: +914425548736
+header	others	Objective:
+content	others	Middle level management in the area of ITES -BPO
+header	experience	Summary
+content	experience	· Over 5 years of experience in the area of Service Delivery Industry.
+content	experience	· Proven experience in Technical Support for windows operating system.
+content	experience	· Excellent in Windows Troubleshooting etc
+content	experience	· Strong analytical ability with proven skills in anticipating problems & providing cost effective solutions for computer software issues.
+content	experience	· Team leader, very good in interpersonal skills, Handled a team of 25 advisors.
+header	experience	Career Highlights
+content	experience	Infinite Computer Solutions (Bangalore, India) – Floor Technical Lead
+content	experience	· Take care of the team AHT, CSAT, FCR of the L2 Techs.
+content	experience	· Take care of the revenue generation for the L2.
+content	experience	· Provide updates in any kind of technical updates required in the floor.
+content	experience	· Provide Counselling and Moral support for the advisors if there is any issue.
+content	experience	· Process iYogi US, UK and Australia Support.
+content	experience	First source Solution Ltd (Bangalore, India) – Floor Technical Lead
+content	experience	· Provide complete support for the team of L2 advisors to help solve the technical issue.
+content	experience	· Maintain the FCR and AHT of the floor.
+content	experience	· Frequently do the resolution audit.
+content	experience	· Scrub the case details of the advisors are check for failures.
+content	experience	· Process iYogi US, UK and Australia Support.
+header	experience	Sutherland Global Services (Chennai, India) – Sr Technical Support Executive L2
+content	experience	· Good in Troubleshooting Dell Computers specially virus removal.
+content	experience	· One of the experts in Solution Station Process.
+content	experience	· One of the top revenue generators in the process.
+content	experience	· Provide team support and reports generation.
+content	experience	· Process Dell Solution Station, US support.
+header	experience	SITEL – India Pvt Ltd (Chennai, India) – Sr Technical Support Professional
+content	experience	· Good in Troubleshooting Dell Computers specially virus removal.
+content	experience	· One of the experts in Solution Station Process.
+content	experience	· Best revenue generators in the process and the best technician.
+content	experience	· Diagnose, sell and fix all kinds of in software issues.
+content	experience	· Process Dell on Call, US support.
+header	experience	Aviva 24/7 (Chennai, India) – Customer Support Advisor
+content	experience	· Provide customer service for UK based motor insurance company.
+content	experience	· Best seller in the customer service segment.
+content	experience	· Highest CE points earning advisor in the complete process.
+content	experience	· Process NUD – CS, UK support.
+header	experience	Hewlett Packard (Chennai, India) – HR Admin Centre Coordinator
+content	experience	· Extra mile award achieved for performance.
+content	experience	· Was handling Hiring and termination process.
+content	experience	· Responsible of processing the offer letters and the people soft updating.
+content	experience	· Process HR for UK support.
+header	experience	My CAREER PATH
+content	experience	Apr 2010 – May 2011
+content	experience	Infinite Computer Solutions
+content	experience	Floor Technical Lead(TL)
+content	experience	Feb 2010 - Apr 2010
+content	experience	Firstsoure Solutions Limited
+content	experience	Floor Technical Lead
+content	experience	Jan 2009 - Feb 2010
+content	experience	Sutherland Global Services
+content	experience	Sr Technical Support Executive L2
+content	experience	Sep 2007-Oct 2008
+content	experience	SITEL India Pvt Ltd
+content	experience	Sr Technical Support Professional
+content	experience	Sep 2006 - Sep 2007
+content	experience	Aviva 24/7
+content	experience	Customer Support Advisor
+content	experience	Aug 2005 - Aug 2006
+content	experience	Hewlett Packard
+content	experience	HR Admin Center Coordinator
+content	experience	My KRAs
+header	knowledge	Technical Support
+content	knowledge	· Meet the CSAT required by client of 95%.
+content	knowledge	· Maintain a FCR of 68%.
+content	knowledge	· Keep the AHT less than 52 min for the Team.
+content	knowledge	· Maintain the team quality score above 85%.
+content	knowledge	· Keep the shrinkage of the team below 8% and Attrition below 4%.
+content	knowledge	· Meet the APT of the Team and complete the required productive time.
+content	knowledge	· Observe and give regular feedback to the advisors in the team.
+content	knowledge	· Meet the revenue target of the team on monthly basis.
+header	education	Educational Qualification
+content	education	· B.Sc Zoology graduate from Loyola College
+content	education	· PGDBI – Bioinformatics from LIVE (Loyola College)
+content	education	· ITIL V3.0 Certified
+header	knowledge	Computer Exposure
+content	knowledge	· Expertise in Microsoft OS and Basic Troubleshooting in Ubunto
+content	knowledge	· Ms office (Word, Excel, Power point, Outlook, One note)
+content	knowledge	· Excellent in troubleshooting all windows based software, games and applications.
+header	others	Other Exposure
+content	others	· Good in Bluebook
+content	others	· Excellent knowledge of GHRMS, People Soft 6.0
+content	others	· Fair in Backtrack version of operating system.
+content	others	· Manual virus removal in Pc.
+content	others	· Good in Microsoft and third party manufactured application and software troubleshooting.
+content	others	· Handled training sessions for corporate.
+meta	others	Date of Birth: 14-04-1984
+meta	others	Marital Status: Single
+meta	others	Pass Port No: F9648426/ 22-09-2016
+meta	others	(Comet A)
+meta	others	comet.anto@gmail.com/ +919884878884

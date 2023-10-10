@@ -1,0 +1,93 @@
+meta	others	Pankaj Baviskar
+header	others	CURRICULUM VITAE
+meta	others	Miss Chaitali Ashok Uttekar PERMANENT ADDRESS:
+meta	others	MSC (Computer Science) Flat no 1, Nadhe Nagar,
+meta	others	Email-chaitaliuttekar3@gmail.com Kalewadi, Pune 410117
+meta	others	Mob.-7721969342 Maharashtra.
+meta	others	Interested in working as a member of motivated development team involved in challenging projects and which would help me in value addition to my career.
+header	experience	WORK EXPERIENCE
+content	experience	Organization: OOPSCODE InfoTech PVT LTD Period:1st Feb. 2017 to till now
+content	experience	Designation: Jr Software Developer Location: Pune
+header	education	EDUCATIONAL QUALIFICATION
+content	education	· M.sc (Computer Science) :( Master of Computer Science): From University of Pune with First Class (74.14%) in June 2017.
+content	education	· B.Sc(Computer Science): (Bachelor of Computer Science): From University of Pune with First Class (67.73%) in April 2014.
+content	education	· 12th (Science): From Central board of Secondary Education with Higher Second Class (%) in Feb 2011.
+content	education	· 10th: From Central Board of Secondary Education with (78.15%) in March 2009.
+header	project	PROJECT DETAILES
+content	experience	· MCS (2nd Year) Internship Project.
+header	project	Project Title
+content	experience	Employee Tracker
+content	experience	Description
+content	experience	This Project can be used by banks to keep record of their employee by using tracking system.
+content	experience	Language used
+content	experience	PHP
+content	experience	Platform Used
+content	experience	Windows 7 OS
+content	experience	Database
+content	experience	MySQL
+content	experience	· MCS (2nd Year) Internship Project.
+header	project	Project Title
+content	experience	Pathology Lab
+content	experience	Description
+content	experience	This Project manages patient/doctor record in Pathology Laboratory and it is a complete pathology management system.
+content	experience	Language used
+content	experience	PHP
+content	experience	Platform Used
+content	experience	Windows 7 OS
+content	experience	Database
+content	experience	MySQL
+content	experience	· MCS (2nd Year Semester 3) Project
+header	project	Project Title
+content	experience	Personal Finance
+content	experience	Description
+content	experience	Using this project we can maintain our financial Billing Details. It also helps us to keep record of which payment should be done and when.
+content	experience	Language used
+content	experience	Android
+content	experience	Platform Used
+content	experience	Eclipse, Windows 7
+content	experience	Database
+content	experience	SQLite
+content	experience	· MCS (1st Year) Project
+header	project	Project Title
+content	experience	Music Shop
+content	experience	Description
+content	experience	Using this project we can manage the billing system of music shop with also maintain the records of CDs and DVDs stock.
+content	experience	Language used
+content	experience	C#,.net
+content	experience	Platform Used
+content	experience	Visual Studio, Windows 7
+content	experience	Database
+content	experience	MYSQL
+content	experience	· BCS
+header	project	Project Title
+content	experience	Gym Management System
+content	experience	Description
+content	experience	This application is used to keep records of gym customer and trainer.
+content	experience	Platform Used
+content	experience	Linux
+content	experience	Language used
+content	experience	JAVA, MYSQL
+content	experience	EXTRA CURRICULAR ACTIVITIES
+content	experience	· Participate in no of Quiz competitions.
+header	knowledge	TECHNICAL SKILLS
+content	knowledge	· Operating System: Windows, Linux.
+content	knowledge	· Database Packages: My-SQL 5.5.
+content	knowledge	· Languages: C, PHP, MVC, Java and C#.
+content	knowledge	· Web Technologies: HTML5, JQUERY, CSS, JSON.
+header	knowledge	PROFESSIONAL SKILL
+content	knowledge	· Team-working skills and the ability to delegate and motivate others.
+content	knowledge	· Hardworking and coping up with stress with effective time management.
+content	knowledge	· Fast Learner and confident.
+header	others	PERSONAL DETAILS
+meta	others	· Nationality: Indian.
+meta	others	· Marital Status: Unmarried.
+meta	knowledge	· Languages known: English, Hindi, Marathi.
+meta	others	· Date Of Birth: 08 May 1994.
+meta	others	· Hobbies: Dancing, Reading, and Listening to Music.
+meta	others	· Strength: Positive attitude, laborious.
+meta	others	· Weakness: Afraid of crowded places.
+meta	others	Place:Pune
+meta	others	Date :
+meta	others	Yours Sincerely
+meta	others	(Chaitali Uttekar)
+meta	others	4

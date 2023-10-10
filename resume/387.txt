@@ -1,0 +1,138 @@
+meta	others	Page 1 of 4
+header	others	RESUME
+meta	others	Suriyanarayanan
+meta	others	+919043948348
+meta	others	ksuriyanarayanan.shr@gmail.com
+header	others	OBJECTIVE
+content	others	Seeking a challenging and rewarding career in ERP as SAP consultant where I can contribute my
+content	others	knowledge and skills for growth and development of the organization.
+header	experience	PROFESSIONAL SUMMARY:
+content	experience	 Playing the role of SAP ABAPer
+content	experience	 4.5 years of working experience in SAP ABAP 
+content	experience	 Sound knowledge in RICEF object development models 
+content	experience	 Good knowledge in SAP HR and SAP SD Module 
+content	experience	 Well exposed to SAP upgrade 
+content	experience	 Worked in Development, Support and Enhancement projects 
+header	education	EDUCATIONAL QUALIFICATION:
+content	education	Bachelor degree in Computer Science from Madras Institute of Technology, Anna University,
+content	education	Chennai, India – graduated in August 2012 (Cumulative GPA:6.3).
+header	experience	EMPLOYMENT HISTORY:
+content	experience	Company Name : Cognizant
+content	experience	Job Title : Consultant
+content	experience	Division : SAP Managed Development Services
+content	experience	Industry : Information Technology Services
+content	experience	Date Joined : November, 2012
+content	experience	Duration : November, 2012 to present
+content	experience	Work Location : Chennai, India.
+header	knowledge	SKILL SET:
+content	knowledge	SAP ABAP Skill Set:
+content	knowledge	 Data Dictionary 
+content	knowledge	 Reports, ALV (Normal and OO ALV) 
+content	knowledge	 BAPI 
+content	knowledge	 Enhancements (BADI and User Exit) 
+content	knowledge	 Script and Smart Forms 
+content	knowledge	 IDOCs 
+content	knowledge	 Conversions (BDC and LSMW) 
+content	knowledge	 Webdynpro
+meta	others	Page 2 of 4
+header	project	CONSULTING PROJECT EXPERIENCES
+content	experience	1. July 2014 – Till date:
+content	experience	Company : The Clorox Company, US and ATLAS
+content	experience	My Role : SAP Consultant
+header	experience	ABAP Responsibility:
+content	experience	 Created many custom tables along with table maintenance generator. Applied
+content	experience	validations through TMG events. 
+content	experience	 Added custom fields by APPEND structure to sales order tables. 
+content	experience	 Developed reports for country-specific taxation using XML transfer to the Government
+content	experience	Website. 
+content	experience	 Created a report that automatically post invoice documents. 
+content	experience	 Created many ALV reports (both normal and interactive) using function module and
+content	experience	converted the spool output into PDF. 
+content	experience	 Developed class to display ALV and send the report to mail recipients. 
+content	experience	 Developed a report to mass update the sales order details. 
+content	experience	 Created internal table dynamically and displayed it in ALV.
+content	experience	 Worked extensively on sales order and billing user-exits, MV45A*** and RV60A***. 
+content	experience	 Implemented BAdi’s BADI_FDCB_SUBBAS05 to add additional field in MIRO for
+content	experience	facilitating Electronic Accounting. 
+content	experience	 Implemented implicit enhancement to update the internal order number in the
+content	experience	purchase requisition creation for Third Party Order process. 
+content	experience	 Worked with BAPIs to update the custom fields in material master. 
+content	experience	 Used BAPI BAPI_SALESORDER_CREATEFROMDAT2 to create sales orders along with
+content	experience	custom fields created in Additional Data tabs. 
+content	experience	 Good experience in handling pricing condition routines and output control requirement
+content	experience	routines. 
+content	experience	 Worked on extract programs during migration of SAP HR to WORKDAY.
+content	experience	 Worked on reprocessing the failed inbound IDOCs. 
+content	experience	 Worked on extension of standard IDOC segments and manipulating data to those custom
+content	experience	segments.
+content	experience	 Modified Smartforms for billing documents and Sales order based on the new
+content	experience	requirements and implemented barcode for shipping and delivery number. 
+content	experience	 Created BDC programs (both session and call transaction) to post accounting documents,
+content	experience	sales deal, etc. 
+content	experience	 Created LSMW to maintain the plan data for transaction code PP02 via batch input
+content	experience	session. 
+content	experience	 Involved in developing Technical specification by understanding the Functional
+content	experience	requirements.
+content	experience	 Very good in debugging and troubleshooting techniques. 
+content	experience	 Worked closely with functional consultants from requirement gathering to implementation. 
+meta	others	
+meta	others	
+meta	others	
+meta	others	
+meta	others	
+meta	others	
+meta	others	
+meta	others	
+meta	others	
+meta	others	
+meta	others	
+meta	others	Page 3 of 4
+content	experience	2. April 2016 – Till date:
+content	experience	Company : PETSMART
+content	experience	My Role : SAP Consultant
+header	experience	ABAP Responsibility:
+content	experience	 Worked on reprocessing the failed inbound IDOCs. 
+content	experience	 Created few custom fields to the existing custom table and changed the primary key
+content	experience	fields to improve the performance of existing program.
+content	experience	 Created a program to automatically reprocess the FI related IDOCs. 
+content	experience	 Prepared Knowledge base documents for frequently occurring incidents.
+content	experience	3. December 2012 to – July 2013
+content	experience	Company : United Nations, US
+content	experience	Project Name : UN-UMOJA
+content	experience	My Role : ABAP Consultant
+header	experience	Responsibility :
+content	experience	 Preparation of technical specification documents based on the functional specifications. 
+content	experience	 Developed Webdynpro Applications for updating the bank details of employees and
+content	experience	transfer of an employee within organization, changing the designation of an employee
+content	experience	and termination of an employee using WebDynrpo Application. 
+content	experience	 Worked on simple changes in Adobe Forms (non interactive)
+content	experience	 Worked on hook methods as well as methods defined for custom action. 
+content	experience	 Worked on Assistance class
+content	experience	 Worked on controlling various parameters of the objects like visibility, text, input enabled
+content	experience	based on roles. 
+content	experience	 Prepared Unit Test cases and performed the same. 
+header	experience	ADDITIONAL EXPERIENCE:
+content	experience	Jan 2013 – Till date:
+content	experience	 Part of a development team for a tool that minimizes the effort required for understanding
+content	experience	the functional configuration in a SAP system (Reverse Engineering Tool).
+content	experience	 Developed multiple extraction reports from configuration tables for this tool. 
+content	experience	 Prepared technical solution for all the modules in the tool. 
+content	experience	 Part of a development team for IDOC and Background job monitoring tool. 
+content	experience	 Conducted training on basic concepts of Webdynpro for the freshers.
+meta	others	
+header	others	ACHIEVEMENTS
+content	others	 Awarded ‘Above and Beyond the Call of Duty’ for taking care of critical incidents. 
+content	others	 Awarded ‘Associate of the Quarter’ for outstanding overall performance. 
+content	others	 Awarded ‘Stellar Success’ for completing a project single-handedly. 
+meta	others	Page 4 of 4
+content	others	TRAININGS ATTENDED
+content	others	 3 months full time ABAP training 
+content	others	 Webdynpro ABAP 
+header	others	GENERAL
+meta	others	Name : Suriyanarayanan K
+meta	others	Date of Birth : 21 August, 1990
+meta	others	Gender : Male
+meta	others	Nationality : Indian
+meta	others	Languages : English and Tamil
+meta	others	Marital Status : Single
+meta	others	Hobby : Music, Sports.

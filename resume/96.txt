@@ -1,0 +1,61 @@
+meta	others	1
+meta	others	FUTURE INSTITUTE OF ENGINEERING AND MANAGEMENT
+meta	others	CURRICULUM VITAE
+meta	others	Name : Kaveri Das
+meta	others	Contact Number :+91 9304750584 | +91 8603211345
+meta	others	Email : kaveri.das.fiem.mca16@teamfuture.in |
+meta	others	kaveri55.k5@ gmail.com
+header	others	Career Objective:
+content	others	To seek employment in an organization which will enable me to increase my technical skills, develop my
+content	others	personality and enable me to build my character to be a better person in this world.
+header	education	Academic Qualification:
+content	education	Post-Graduation: MCA
+content	education	Secondary & Higher Secondary
+header	project	Projects & Internships:
+content	experience	Sl No Company Project Title Duration
+content	experience	1 RSG Software Services Trainee 2 Months
+content	experience	2 E.T.M Institute Trainee 1 Months
+content	experience	SEM 1 2 3 4 5 6 7 8
+content	experience	SGPA 7.62 7.59 7.10 7.43
+content	experience	Average 7.43
+content	experience	Examination
+content	experience	Board/ College/ University
+content	experience	Year of
+content	experience	Passing
+content	experience	Marks
+content	experience	Obtained Out of (Total) %
+content	experience	10th Std
+content	experience	C.B.S.E 2010 8.0 10 76
+content	experience	12th Std
+content	experience	C.B.S.E 2013 286 500 57.2
+content	experience	Bachelor’s in
+content	experience	Computer
+content	experience	Application
+content	experience	Ranchi University 2016 967 1200 80.58
+content	experience	mailto:kaveri.das.fiem.mca16@teamfuture.in
+content	experience	2
+header	knowledge	Technical Proficiency & Certifications:
+content	knowledge	 Ms Office,
+content	knowledge	 Ms Excel,
+content	knowledge	 SEO
+content	knowledge	 HTML, CSS
+content	knowledge	 C
+content	knowledge	 WordPress
+header	others	Achievements (Academic & Social)
+content	others	 The winner in Science exhibition cluster level in 2009 and 2010 under Kendriya Vidyalaya
+content	others	Sangathan.
+content	others	 Runner-up in Social-Science Debate competition in class 10
+content	others	th
+content	others	under Kendriya
+content	others	Vidyalaya Sangathan.
+content	others	Interests & Extra Curricular:
+content	others	Event Management, Travelling, Playing Chess, Watching TedTalks.
+header	knowledge	Language Known:-
+content	knowledge	English, Hindi, Bengali, German
+header	others	Personal Details:
+meta	others	Permanent Address Q.No 204/C, Station Road, Barkakana, Ramgarh Jharkhand-829102
+meta	others	Date of Birth 05-04-1993
+meta	others	ADHAAR Card 2464-4195-9771
+header	others	Declaration:
+meta	others	I hereby declare that the information given above is true and correct.
+meta	others	DATE: _____________________ SIGNATURE: ___________________________

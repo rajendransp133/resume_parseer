@@ -1,0 +1,75 @@
+meta	others	Santosh Yadav
+meta	others	B-121, IKV Okhla Phase-1, New Delhi-110020.
+meta	others	Contact: + 91-9910240667, E Mail Id: Yadav.s444@gmail.com
+header	experience	FINANCE & ACCOUNTS/ PAYROLL OPERATIONS PROFESSIONAL
+content	experience	Seeking challenging assignments across Finance & Accounting in an organization of repute which provides me avenues for professional learning and makes good use of my technical skills and encourages individual growth
+header	experience	PAYROLL OPERATIONS PROFESSIONAL
+content	experience	· Proactive and result oriented professional with over 4+ years of experience across Accounting Operations, Reconciliations, Payroll Management and Financial Management; currently spearheading as Process Developer, Corporate Finance with Genpact, Gurgaon.
+content	experience	· Proven Expertise in Payroll Operations, Administration & HR Functions and Finance & Accounting and with planning and organizational skills.
+content	experience	· Excellent time management skills with proven ability to work accurately and quickly prioritize, coordinate and consolidate tasks while simultaneously managing the diverse range of function from multiple sources.
+content	experience	· Motivated and goal driven with strong work ethics, continuously striving for improvement coupled with excellent Administrative aptitude with an eye for detail and the commitment to offer quality work.
+header	experience	CAREER GLIMPSE
+content	experience	Genpact India (P) Ltd.
+content	experience	Process Developer, Corporate Finance
+content	experience	SEP’16 – Till Date
+content	experience	· PAYROLL PROCESSING
+content	experience	· Managing the wide spectrum of Payroll activities for 2000+ corporate employees on Fox Pro software and ensuring performance as per the Job Description.
+content	experience	· Conduct a New hire orientation call on a monthly basis in which different teams are also available and I make sure that all the employee queries and concern are shorted out.
+content	experience	· Accountable for Checking and ensure accurate processing of Performance Awards & Variable Incentive of employees, and Remittances of salary and other payouts through bank transfer etc. Processing and checking of various payroll processes (Salary revision Process, New Hire Process, Conveyance and Medical, House Lease, Car Lease, Give India and various payroll deduction and payout processes)
+content	experience	· Independently taking care of Payroll related quires for different legal entities i.e. Genpact Mobility Services (India), GEII, Endeavor, Dubai and Genpact Onsite Services.
+content	experience	· Handling employee related queries for Tax assessment.
+content	experience	· Accounting of salary & cash reimbursement transaction through Fox Pro/Oracle Financial module.
+content	experience	· Ensuring proper and timely credit of regular Salary Advances as per defined Turnaround Time.
+content	experience	· Responsible for Processing the Payroll and generating Bank Advices and Pay Slips every month and sending the Pay Slips and Tax Computation Reports to Employees through E-Mail.
+content	experience	· Posting of 4 different legal entity GL entries and making insure that it is being posted within the time line.
+content	experience	· Take care for these 4 different LE SOX audit as well.
+content	experience	· Checking and Preparation of Form-16’s and making ensure that its calculation is 100% correct and as per Income Tax law.
+header	experience	· STATUTORY LIABILITY PAYMENT PROCESSING
+content	experience	· After Payroll Closing, as per the Company Policies and Procedures and as per the Statutory Compliances, depositing all the Statutory Liability payments of the company (like PF, ESI, HLWF, P.TAX, Give India, and TDS) within TAT.
+content	experience	· Responsible for doing all the Statutory Liability payments entries on Oracle Financial and uploading them on the Bank Sites for releasing payments troughs Cheque/Bank Transfers.
+content	experience	· Responsible for online Submission of TDS Challan as per the Compliance.
+content	experience	· Responsible for doing all the accounting related to statutory payment on Oracle Financial.
+content	experience	· Following up’s with our Vendors to ensure that payments are being done as per the liabilities booked by the company.
+content	experience	· Following up with our vendors to ensure that the payments are getting deposited on timely basis and as per the TAT.
+content	experience	· Responsible for making the Control Sheet to ensure that all the payments are getting deposited on time.
+content	experience	· Responsible for collecting all the Challans on E-Mail and filling of those Challans.
+header	experience	· RECONCILIATIONS
+content	experience	· Preparation of Payroll Reconciliations
+content	experience	· Live and Non Live Employee’s Reconciliations.
+content	experience	· Salary Advances Reconciliations.
+content	experience	· Statutory Liability Reconciliations.
+content	experience	· Cash & Equivalent Reconciliations.
+content	experience	· Cash Advances Reconciliations.
+content	experience	· Loans Reconciliations (i.e. Soft; Special; PLD; Housing)
+content	experience	· Preparation of Bank Reconciliations and FD Reconciliations.
+content	experience	· Preparation of Payroll Provision Reconciliations.
+content	experience	· Identifying and analyzing Book variances and resolving the open batches for related variances.
+content	experience	· Always worked on timely Closure of Accounts & reporting it to the management.
+content	experience	· Always supported the auditor’s at the time of audit for having any query regarding the reconciliations.
+content	experience	Lions Workforce Solution India P Ltd.
+header	experience	Assistant Manager, Corporate Finance
+content	experience	OCT’13 – Apr’16
+content	experience	· Handled payroll activities and TDS returns
+content	experience	· Handling of Matters relating to Income Tax, Sales Tax, T.D.S, etc.
+content	experience	· Calculation of TDS and Preparing TDS Returns.
+content	experience	· Calculation of Service Tax and Preparing Service Tax returns.
+content	experience	· Maintaining Books of Accounts in Tally Package.
+content	experience	· Independently Handling of Book writing of Various Prop. Concerns and Companies.
+content	experience	· Reconciliation of Bank & Parties.
+content	experience	· Preparing of Salary.
+content	experience	· Dealing with the Departments such as Sales Tax, Income Tax, and ESI & PF etc.
+header	education	EDUCATION QUALIFICATION
+content	education	· Completed M. Com from Delhi University in 2018
+content	education	· Completed B.COM from Delhi University (SOL) in 2015
+content	education	· Completed 12th (COMMERCE) from CBSE Board, Delhi In 2011
+content	education	· Completed 10th from CBSE Board, Delhi in 2009
+header	knowledge	SOFTWARE PROFICIENCY
+content	knowledge	· MS Office & Internet Applications
+content	knowledge	· Tally (5.4, 6.3, 7.2 and 9.0)
+content	knowledge	· FOXPRO
+content	knowledge	· Oracle 11i, R12
+content	knowledge	· Certificate Course in Industrial Accountant from ICA (P) ltd.
+meta	others	Date of Birth: 12th Sept 1993
+meta	others	Hobby : Travelling
+meta	others	Dated ……………..
+meta	others	(Santosh Yadav)

@@ -1,0 +1,183 @@
+header	others	CURRICULUM-VITAE
+meta	others	E-mail-sawant.nikita266@gmail.com
+meta	others	Contact No.-9773535384
+meta	others	2.7 Java Developer In Banking Domain
+meta	others	ELECTRONICS AND COMMUNICATION
+header	others	CAREER OBJECTIVE:
+content	others	To show my skills for the job within the environment and ready to face all challenging opportunities
+content	others	Presentely working as Java developer in Insolution global
+content	others	Work on interchange module(Interchange is a small fee paid by a merchant’s bank (acquirer) to a cardholder’s bank (issuer) to compensate the issuer for the value and benefits that merchants receive when they accept electronic payments).
+header	knowledge	Web Technologies
+meta	others	:
+content	knowledge	JSP Servlets, HTML, Struts2
+content	knowledge	Role
+meta	others	:
+content	knowledge	Developer
+content	knowledge	Application Server : Jboss 7
+content	knowledge	Framework
+meta	others	:
+content	knowledge	MVC Framework, Struts 2.0,Spring
+content	knowledge	Database
+content	knowledge	: Oracel
+content	knowledge	Scripting Languages : JavaScript
+header	experience	Responsibilities
+content	experience	· Understanding of interchange Module
+content	experience	· Understanding the Requirements and Functional Specifications of the application
+content	experience	· Develop the desired Module (Designing, Coding and Unit Testing) on Jboss 5 and Jboss 7.
+content	experience	· Implement changes or Enhancements according to the Client Specifications.
+content	experience	· Chargeback module, Represement module, File reading and writing, Excel reading and writing. Dispute register module, Rollback Module ect.
+header	project	Project #1
+meta	others	:
+content	experience	CRM (Customer Relationship Management)
+content	experience	Client
+meta	others	:
+content	experience	Anitha Arts Printer, Santacruz.
+content	experience	Team Size
+meta	others	:
+content	experience	3
+content	experience	Technology Used
+meta	others	:
+content	experience	Java jdk-1.7, JSP Servlet, Java Script, Ajax, MySql.
+content	experience	Role
+meta	others	:
+content	experience	Developer
+content	experience	Project Description
+meta	others	:
+content	experience	Customer Relationship Management is the project that maintains the activities of the sales/deal made by company and traces the details of the sales done by company. Reports are generates defining the sales status and progress.
+content	experience	Responsibilities
+meta	others	:
+content	experience	· Understand and discuss the requirements of the client.
+content	experience	· Come up with the different Solution and approaches.
+content	experience	· Develop the desired Module (Designing, Coding and Unit Testing).
+header	project	Project #2
+meta	others	:
+content	experience	Red Sparrow LifeScience
+content	experience	Client
+meta	others	:
+content	experience	Red Sparrow LifeScience, Santacruz
+content	experience	Team Size
+meta	others	:
+content	experience	2
+content	experience	Technology Used
+meta	others	:
+content	experience	Java jdk-1.7, JSP Servlet, Java Script, Ajax
+content	experience	Role
+meta	others	:
+content	experience	Developer
+content	experience	Project Description
+meta	others	:
+content	experience	Red Sparrow Life science is a medical publication (Magazine, Articles, Case studies, etc).
+content	experience	Responsibilities
+meta	others	:
+content	experience	· Understand and discuss the requirements of the client.
+content	experience	· Come up with the different Solution and approaches.
+content	experience	· Develop the desired Module (Designing, Coding and Unit Testing).
+content	experience	· Also working on the UI part of the application
+header	project	Project #3
+meta	others	:
+content	experience	Homeopathy4all
+content	experience	Client
+meta	others	:
+content	experience	Homeopathy4all, Thane
+content	experience	Team Size
+meta	others	:
+content	experience	3
+content	experience	Technology Used
+meta	others	:
+content	experience	Java jdk-1.7, JSP Servlet, Java Script, Ajax, MySql
+content	experience	Role
+meta	others	:
+content	experience	Developer
+content	experience	Project Description
+meta	others	:
+content	experience	Homeopathy4All is the homeopathy website developed for connecting doctor and patient where patient can interact with doctors through live chat, question and answer, Skype, etc. It also consist of shopping cart where can buy or order there medicines as per their requirements. Information can be shared through blogs and case studies.
+content	experience	Responsibilities
+meta	others	:
+content	experience	· Understand and discuss the requirements of the client.
+content	experience	· Come up with the different Solution and approaches.
+content	experience	· Develop the desired Module (Designing, Coding and Unit Testing).
+content	experience	· Also working on the UI part of the application
+header	project	Project #4
+meta	others	:
+content	experience	Visiting Print Card
+content	experience	Client
+meta	others	:
+content	experience	Anitha Arts Printer, Santacruz.
+content	experience	Team Size
+meta	others	:
+content	experience	2
+content	experience	Duration
+meta	others	:
+content	experience	October 2015 – November 2015
+content	experience	Technology Used
+meta	others	:
+content	experience	Java jdk-1.7, JSP Servlet, Java Script, MySql
+content	experience	Role
+meta	others	:
+content	experience	Developer
+content	experience	Project Description
+meta	others	:
+content	experience	Visiting Print Card is a web based application for printing visiting card generated by client. The client fills details and check the generate pdf and send for the print.
+content	experience	Responsibilities
+meta	others	:
+content	experience	· Come up with the different Solution and approaches.
+content	experience	· Implement changes or Enhancements according to the Client Specifications.
+header	project	Project #
+meta	others	:
+content	experience	Red Sparrow Infotech
+content	experience	Client
+meta	others	:
+content	experience	Red Sparrow Infotech, Santacruz
+content	experience	Team Size
+meta	others	:
+content	experience	2
+content	experience	Technology Used
+meta	others	:
+content	experience	Html
+content	experience	Role
+meta	others	:
+content	experience	Developer
+content	experience	Project Description
+meta	others	:
+content	experience	Website
+content	experience	Responsibilities
+meta	others	:
+content	experience	· Understand and discuss the requirements of the client.
+content	experience	· Come up with the different Solution and approaches.
+content	experience	· Develop the desired Module (Designing, Coding and Unit Testing).
+content	experience	· Also working on the UI part of the application
+content	education	Examination
+content	education	School/College
+content	education	Board /
+content	education	University
+content	education	Year of Passing
+content	education	Percentage
+content	education	SSC
+content	education	Kalina Education High School
+content	education	Maharashtra state board
+content	education	Mar
+content	education	2007
+content	education	72.33
+content	education	Diploma
+content	education	Premlila Vithaldas Polytechnic, SNDT
+content	education	(Electronics)
+content	education	SNDT
+content	education	2011
+content	education	83.33
+content	education	Degree
+content	education	Usha Mittal Institute Of Technology, SNDT
+content	education	(Electronics & Communication)
+content	education	SNDT
+content	education	2014
+content	education	Final year agg 61.86
+content	experience	Agg of all sem 56.94
+header	knowledge	Languages
+content	knowledge	Database
+content	knowledge	Web Designing
+content	knowledge	: Core Java, J2EE, JDBC, Struts2, ,Spring
+content	knowledge	: SQL, Mysql
+content	knowledge	: HTML, CSS, JavaScript, Ajax
+header	others	NAME: Nikita Shankar Sawant
+header	experience	WORK EXPERIENCE
+header	education	ACADEMIC QUALIFICATIONS
+header	knowledge	SOFTWARE PROFICIENCEY

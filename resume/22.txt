@@ -1,0 +1,50 @@
+meta	others	LAKHAN SOLANKI
+meta	others	ANURAG PANDEY
+meta	others	E-mail: anurag.pandey87@ gmail.com
+meta	others	Address: D/M-223, Sukhliya, Indore (M.P.).
+meta	others	Pin: 452010
+meta	others	Mob. : 9893458841
+meta	others	________________________________________________________________________
+header	others	Objective:
+content	others	To seek and pursue a challenging opportunity in a reputed organization which will give leverage to my skills.
+header	education	Education:
+content	education	· Graduate in B.A. (Bachelor of Arts) in 2012 from Indira Gandhi National Open University.
+content	education	· Higher Secondary in 2004 from M.P. Board .
+content	education	· High School in 2002 from MP Board.
+meta	others	·
+header	knowledge	Professional Qualification:
+content	knowledge	· Jet king Certified Hardware & Networking Professional (JCHNP).
+content	knowledge	From Jetking Infotrain Ltd, Indore with ‘A’ Grade in year 2008.
+content	knowledge	● Post Graduate in diploma in computer application(PGDCA) from
+content	knowledge	Makhan lal chaturvedi university in 2014.
+header	experience	Experience:
+content	experience	● Worked with Firstsource Solutions Limited as Customer Support Asso.
+content	experience	In voice process (Airtel DTH) from 27th July, 2009 to 14th April, 2010
+content	experience	● Worked with Firstsource Solutions Limited as Customer Support Asso
+content	experience	In Non-voice process (ICICI Prudential) from 12th November, 2010
+content	experience	to 08th December, 2011.
+content	experience	● Worked with Agro Vision Industries Indore as Computer Operator
+content	experience	From 01st January, 2012 to 31st December, 2012.
+content	experience	● Worked as Transaction processor at Xerox Business Services from 11Th
+content	experience	October, 2013 to 31st January 2017.
+content	experience	● Working as Transaction Quality Assurance at Conduent Business Services
+content	experience	Erstwhile Xerox Business Services from 1st February 2017 to till date.
+content	experience	Achievements Winner of Eagle award (employee of the month) three times at
+content	experience	Conduent business services erstwhile Xerox Business Services.
+header	knowledge	Computer Skills:
+content	knowledge	● Operating System - Windows 98, Windows 2000 pro/server
+content	knowledge	Windows xp, Windows Server 2003, Linux
+content	knowledge	(Installation)
+content	knowledge	· Troubleshooting - Hardware, Systems,
+content	knowledge	· Office Suite – MS Office 2000/Xp/2003
+content	knowledge	MS Excel 2003, 2007.
+meta	others	.
+header	others	Interests:
+content	others	Playing cricket, collecting information about newer technologies, watching movies & listening songs.
+content	others	Personal detail: Father’s name : Shri H.S. Pandey
+content	others	Date of birth : 23/09/1987
+content	others	Marital status : Married
+content	knowledge	Languages : Hindi, English
+content	others	I hereby declare that all the above information is factual and correct to the best of my knowledge and belief. I also under take to provide all necessary testimonials for verification, submission, whenever demanded.
+content	others	Place: Indore
+content	others	Date: (Anurag Pandey)

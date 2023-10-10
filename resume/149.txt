@@ -1,0 +1,101 @@
+meta	others	Sample resume for an accounts payable specialist
+meta	others	AVINASH B. BANGAR
+meta	others	Address-Flat No.202, Nathani Building, Opposite Veer Hospital, Tapkir
+meta	others	chowk, Kalewadi, Pune 411017
+meta	others	Email ID-avibangar94@gmail.com Contact No: 9511271248 / 8149658550
+header	knowledge	KEY SKILLS
+content	knowledge	• Accounts Payable Processes & Management
+content	knowledge	• Overview of Purchase Orders & Requisitions
+content	knowledge	• Processing Payment for Invoices & Expense Reports
+content	knowledge	• Credit Notes & Pending Aged Payable Invoices
+header	knowledge	Analysis
+content	knowledge	• Overview of Vendor Management
+content	knowledge	• Invoice Processing (Oracle - R12)
+content	knowledge	• Teambuilding & Leading Team from Front
+content	knowledge	• Reporting & Analysis
+header	experience	PROFESSIONAL EXPERIENCE
+content	experience	WNS Global Services Pvt. Ltd. (BPM) Magarpatta City, Pane
+content	experience	Sr. Process Associate, 14th Nov 2016 to 10th Dec 2018 (Serving Notice Period)
+content	experience	During short span of 2 years worked in Accounts Payable (Procure to Pay) department as Senior Process Associate.
+content	experience	Successfully completed Training Programs organized by the management and actively participate in all activities. Worked in
+content	experience	Invoice processing team for 1 year 4 months (including Training period of 1 Months) and in Disbursement Team (Payment
+content	experience	Team) for 8 Months (Training period of 1 Month). Always shown the positive approach in the critical situations and lead the
+content	experience	issues from front and resolve them.
+header	experience	Key Results:
+content	experience	• Managed the accurate and timely processing of Invoices by Validating all the key elements to avoid any incorrect
+content	experience	Invoicing / duplicate Invoice. Ensuring the urgent requests of payment will get processed on timely and worked
+content	experience	along with payments team in order to process payment for the same.
+content	experience	• Processed invoices set up in Two-way matching / three-way matching along with worked on the Holds which get
+content	experience	placed on Invoices in system due to Invoice – PO Qty. Price Discrepancy.
+content	experience	• Successfully reduced the number of volumes of Invoices from Holds and maintained the accuracy while releasing
+content	experience	the holds from Invoices and presented the Data to the Offshore Management / Onshore Client.
+content	experience	• Successfully completed the Aging Analysis project on the Validated Invoices for payment but not paid. Analyze the
+content	experience	reasons of unpaid Invoices by coordinating with Payments team and reduced the Pending volume by presenting the
+content	experience	data to Management.
+content	experience	• Credit Analysis of old aged unutilized credit memo’s in system. Analyzing the reasons and issues and resolved the
+content	experience	same in order to utilized Credit while making payments to Vendor/ Expense reports. Seeking suppliers for refund
+content	experience	against the Credit Memo’s (if the business will not continuous with them)
+content	experience	• Has been part of Implementing E-Invoicing portal which will reduce Manual work & speedy payment transactions.
+content	experience	Increasing Transparency & accuracy in Invoicing and payment processing.
+content	experience	• Processing payments to Vendors Employees for Invoices Expense reports. Analyzing the Bank Outstanding’s
+content	experience	open entries in Cash Book/ Bank
+content	experience	• Worked on all types of payment rejections received while processing payments such as Oracle Rejection (missing
+content	experience	banking details in Oracle system) Bank Rejections (Payment rejected by Bank due to Invalid credentials of
+content	experience	payments/ rejected by beneficiary bank due to remittance details missing)
+content	experience	• Reconciliation of open entries in Bank outstanding’s, such as Refund from Suppliers/ Employees, Manual payment
+content	experience	made by Client, Direct Debit Entries in Bank.
+content	experience	mailto:avibangar94@gmail.com
+content	experience	• Leading team from front in critical situations-such as any escalation received from Onshore clients responded in
+content	experience	positive way. Motivated team to work beyond the allocated activities and explore themselves with their new ideas
+content	experience	and innovations (if any)
+header	education	EDUCATION
+content	education	COURSE
+content	education	INSTITUTION BOARD
+content	education	/UNIVERSITY
+content	education	YEAR OF
+content	education	PASSING
+content	education	PERCENTAGE/MARKS
+content	education	B.COM
+content	education	Commerce College
+content	education	Kolhapur
+content	education	Shivaji
+content	education	University
+content	education	Kolhapur
+content	education	2016
+content	education	60.06%
+content	education	HSC
+content	education	Savarkar College
+content	education	Beed
+content	education	BAMU University
+content	education	Aurangabad
+content	education	2012
+content	education	79%
+content	education	SSC
+content	education	Beed High school
+content	education	BAMU University
+content	education	Aurangabad
+content	education	2010
+content	education	56%
+header	knowledge	TECHNOLOGY SUMMARY
+content	knowledge	• Oracle (R12): Have good knowledge and work experience of 2 Years work of Oracle software. Become handy for
+content	knowledge	pooling reports, processing Invoices/ Payments, working on Month End close activities in Oracle.
+content	knowledge	• MS Office: Successfully completed MSCIT Course in 2010 after pass out of 10th Std. Worked experienced on the MS
+content	knowledge	office is of 2 years, using Excel for preparing the Reporting Compliance Data with functions such as VLOOKUP, Pivot
+content	knowledge	Tables/ Charts etc. Used MS Outlook for Sending receiving emails meetings etc.
+content	knowledge	• Tally ERP 9.0: Successfully completed Three months Training program of Tally ERP 9.0 in 2012, however don’t have
+content	knowledge	the experienced in practical work for the same.
+header	others	PERSONAL PROFILE
+meta	others	• Name : Avinash Baban Bangar
+meta	others	• Date & Place of birth : 11-05-1994 at Beed
+meta	others	• Fathers Name : Baban Rustumrao Bangar
+meta	others	• Nationality : Indian
+meta	others	• Marital Status : Unmarried
+meta	knowledge	• Languages known : English, Hindi, Marathi
+meta	others	• Sex : Male
+meta	others	• Mobile Number : +919511271248 / 8149658550
+meta	others	• Hobbies : Learning new things
+header	others	DECLARATION
+meta	others	I hereby declare that the above information is true and correct to the best of my knowledge. I bear the responsibility for
+meta	others	the correctness of the mentioned particulars.
+header	others	Date:
+meta	others	Place: Pune Name: Avinash Bangar

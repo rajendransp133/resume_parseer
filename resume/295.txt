@@ -1,0 +1,74 @@
+meta	others	Elegant Resume
+header	others	RESUME
+meta	others	SANDEEP S. BORSE
+meta	others	204 2nd Floor,
+meta	others	New Varsha Co op soc
+meta	others	Near Rana Tower, B/s Vikram Nagar
+meta	others	Kalwa ( West )
+meta	others	E-MAIL - sandeepsborse@gmail.com
+meta	others	Mob No. 084518 77512
+meta	others	To pursue a challenging in renowned organization for the mention position and applying all my skill and knowledge for the rapid growth and development of organization.
+header	experience	Previous Working Experience
+content	experience	Organization : Nityo Infotech India Pvt Ltd. ( Audit & Accounting Firm )
+content	experience	Designation : Finance Associate
+content	experience	Period : July’11 to Till Date
+header	experience	Job Profile :
+content	experience	Handling Finance and Overseas Financial Accounting.
+content	experience	Handling Accounts Payable, Accounts Receivable and General Accounting.
+content	experience	Processing vendor payments. Overseeing Accounts, MIS, Budgets.
+content	experience	Handling Taxation and statutory compliance for Service Tax TDS, VAT, WCT etc
+content	experience	Monitoring Payroll, Managing Cash flow and expenses effectively.
+content	experience	Overall Import and Export Costing.
+content	experience	Coordinating with Internal and External Auditors.
+content	experience	Processing the invoices, verifying receipt of materials or services, match invoices, process payments and distributes checks according to established procedures, prepare all necessary reports.
+content	experience	Organization : Condor Footwear India Pvt Ltd
+content	experience	( Surat )
+content	experience	Period : June ’10 to June ‘11
+content	experience	Designation : Accounts Executive
+header	experience	Job Profile :
+content	experience	Handling Accounts and Costing.
+content	experience	Managing Bills Receivable and Bills Payable.
+content	experience	Bank Reconsilation. Processing Invoice Payments.
+content	experience	Finalization and Cost Analysis.
+content	experience	Handling Taxation Service Tax TDS, VAT, Excise etc.
+content	experience	Previous Employment :
+content	experience	Organization : LG Call Center
+content	experience	( Surat )
+content	experience	Period : April’04 to Aug’ 06
+content	experience	Designation : Team Leader
+header	experience	Job Profile :
+content	experience	Handling Accounts and Payroll.
+content	experience	Managing People & Reporting to Head office.
+content	experience	Preparing Daily , Weekly & Monthly Report
+content	experience	· ICWA – Inter Group 2 Appeared.
+content	experience	· ICWA – Inter Group 1 Completed.
+content	experience	· MBA in Finance from ICFAI University, in 2010
+content	experience	· B.B.A From Veer Nermad South Gujrat University Specialization in Finance, in 2007 with 57%
+content	experience	· H.S.C. From Gujarat Secondary and Higher Secondary Education Board with 83% in Commerce Stream in the year 2003.
+content	experience	· BHARTI AIRTEL LTD..
+content	experience	Duration:- 3 Month (MBA -Training Full time)
+content	experience	Add:- Ground Floor, Shurana International Building Ring Road, Surat.
+content	experience	Expereince:- Good learning about the corporate culture and Sales.
+content	experience	· ONGC HAZIRA.
+content	experience	Duration : - 2 Month ( BBA - Training Full Time )
+content	experience	Add : Hazira Surat.
+content	experience	Experience: Learn Function of Finance, HR, Production and Marketing
+meta	others	· Date of Birth:- 8TH MARCH, 1987
+meta	others	· Male Married, 25 Years
+meta	others	· Language Known:- English, Hindi,Gujarati.
+meta	others	· Hobbies:- Reading, Listening Music, Watching News,travelling.
+meta	others	· Family Member
+meta	others	· Father – Teacher at Sardar English Medium School, Surat.
+meta	others	· Mother:- House Wife
+meta	others	· Three Sister:- Married and Setteled
+meta	others	Date :
+meta	others	Place : Surat
+meta	others	_________________________
+meta	others	( Signature )
+header	education	EDUCATION
+header	experience	SUMMER INTERNSHIP PROGRAM
+header	others	PERSONAL INFORMATION
+content	experience	OBJECTIVE
+header	experience	PRESENTLY WORKING
+content	others	3074, mAHAVIR TEXTILE MARKET, RING ROAD,SURAT 395002
+meta	others	Phone (91-261) 224-4842,233-4036,098257-54698 e-mail

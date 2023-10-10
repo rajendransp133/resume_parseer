@@ -1,0 +1,97 @@
+header	others	CURRICULUM VITAE
+meta	others	BHAVNEESHKAURBHATIA
+meta	others	Email:nishubhatia06@gmail.com
+meta	others	Mob.No:+918962781900
+header	others	CAREEROBJECTIVE
+content	others	To workinanorganizationwhereIcanutilizeaswellasenhancemyskillsand
+content	others	understandthe responsibilitiesandstriveforcollectivegrowthanddevelopment,always
+content	others	keepingorganizationgoalsaspriority.
+header	experience	PROFESSIONALEXPERIENCE
+content	experience	 SixmonthsprovidingchatandemailsupportasaTechnocalSupportExecutive
+content	experience	inanInternationalnon-voiceprocessatTeleperformance,Indore.
+header	education	EDUCATIONALQUALIFICATION
+content	education	 PursuingB.E.(COMPUTER SCIENCE AND ENGINEERING)from SanjayRungta
+content	education	Group ofInstitutions,Bhilai,affiliated to Chhattisgarh SwamiVivekananda
+content	education	TechnicalUniversity,Bhilai,Chhattisgarh.
+content	education	 Completed12
+content	education	th
+content	education	(C.B.S.E.)inyear2013from WeidnerMemorialSeniorSecondary
+content	education	School,Rajnandgaon,Chhattisgarh.
+content	education	 Completed10
+content	education	th(
+content	education	C.B.S.E.)inyear2011from WeidnerMemorialSeniorSecondary
+content	education	School,Rajnandgaon,Chhattisgarh.
+content	education	S.NO. Course/degree University/Board Year Percentage
+content	education	1. B.E.(persuing) CSVTU 2017 78.5%
+content	education	2. 12
+content	education	th
+content	education	C.B.S.E. 2013 73%
+content	education	3. 10
+content	education	th
+content	education	C.B.S.E. 2011 8.8(CGPA)
+header	knowledge	TECHNICALSKILLS
+content	knowledge	FamiliarPlatforms : WindowsXP,Windows7,Windows8
+content	knowledge	Language : C,C++,Java,PHP,Android
+content	knowledge	Database : MySQL,MSAccess
+content	knowledge	IDEs : NetBeans,Dreamweaver,Eclipse
+content	knowledge	WebTechnology : HTML,JavaScript,CSS
+content	knowledge	WebBrowsers : Chrome,Mozilla
+content	knowledge	PackagesKnown : MSOffice
+header	education	VOCATIONALTRAINING
+content	education	 CompletedMinorTraininginCOREJAVA from ORACLEheldinRSR Rungta
+content	education	College,Bhilai.
+content	education	 Completed MajorTraining in ANDROID DEVELOPMENT from HP(HEWLETT
+content	education	PACKARD)ENTERPRISE,PUNE.
+header	project	ACADEMICPROJECTS
+content	experience	 DIGITALSIGNATUREVERIFICATION
+content	experience	ProgrammingLanguage:Java
+content	experience	Script:JavaScript
+content	experience	Inofficeautomationrecognitionofsoftwareanddocumentanalysisishighly
+content	experience	required.Toprocesshandwrittensmallsampleswithefficiencygreatabilityis
+content	experience	requiredanditincludesthosethatarefoundonenvelopes,checksandsoon.In
+content	experience	thecurrentresearchthisisthemajordrivingforce.Thereisalargevariation
+content	experience	betweenthehandwritingsamplesthatiscreatingagreathamper.Researchers
+content	experience	arenowcarryingonwiththeirresearchworktofindvarioustechniquesthatcan
+content	experience	improvethecomputer’sabilitytorecognizeaswellasrepresentinghandwritten
+content	experience	samples.Thisnewsystem isdesignedtorecognizethesignatureautomatically
+content	experience	from aJPEGimage.
+header	others	AWARDSANDACHIEVEMENTS
+content	others	 Participatedin“ACEWRM sponsoredNationalConference”organizedbyRSRCET,
+content	others	Bhilai.
+content	others	 Secretaryofatechnicalclubincollege-“TYROTECHIECLUB”.
+content	others	 Havebeentopperof“MIRROR 2016”heldby“SANJAY RUNGTA GROUP OF
+content	others	INSTITUTIONS”,BHILAI.
+content	others	 WorkedasVolunteers(Leaderoftheteam)inMEGA JOB FAIR 2016heldat
+content	others	“SANJAYRUNGTAGROUPOFINSTITUTIONS,BHILAI”.
+content	others	 AwardedasCollegeTopperof1
+content	others	ST
+content	others	semesterinGDRungtaCollege.
+header	experience	 HavebeenCulturalSecretaryofCARNIVAL2016.
+content	experience	 WorkedasCulturalcoordinatorofCARNIVAL2015.
+content	experience	 WorkedasStudentCoordinatorofSRIJAN2014.
+content	experience	PROFESSIONALEFFICIENCIES
+content	experience	 Softspoken,debonairanddisciplined.
+content	experience	 Pleasingpersonality.
+content	experience	 Efficientinsortingoutinstantaneouslyallkindsofserviceandproductsrelated
+content	experience	complaintsofthecustomers.
+content	experience	 Adaptingexpertisewiththechangingenvironment.
+content	experience	 Diligent,target-centricandresult-oriented.
+content	experience	 Stronginterpersonal,communication,organizationandfollow-throughskills.
+content	experience	 Extensiveknowledgeofcomputerandsoftware.
+header	others	PERSONALDETAILS
+meta	others	Name : BhavneeshKaurBhatia
+meta	others	Gender : Female
+meta	others	Father’sName : Mr.SurendrapalSinghBhatia
+meta	others	Mother’sName : Mrs.GurvinderKaurBhatia
+meta	others	DateofBirth : May27,1995
+meta	knowledge	Languagesknown : Hindi,English,Punjabi
+meta	others	Nationality : Indian
+meta	others	PermanentAddress : Ward No. 17 Mamta Nagar, Rajnandgaon,
+meta	others	Chhattisgarh.
+meta	knowledge	Strengths : Confidence, Leadership, Teamwork, Honesty,
+meta	others	Progressive,Positive attitude,Punctuality,Sincerity,Hard
+meta	others	working,GoodCommunicationskills.
+meta	others	DECLARATION:
+meta	others	Iherebydeclarethattheaboveinformationistruetothebestofmyknowledge.
+meta	others	Place:
+meta	others	Date: (BhavneeshKaurBhatia)

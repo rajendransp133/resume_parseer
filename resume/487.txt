@@ -1,0 +1,86 @@
+meta	others	NARSIH J. KHASIYA
+meta	others	Plot No: 127,
+meta	others	Near Bus Station Opp Talav,
+meta	others	To: Juni Katar, Ta: Rajula Dist: Amreli 365560
+meta	others	Gujarat– INDIA
+content	others	Ph. No.: +91 09016182632
+meta	others	E-mail: narsih777@gmail.com
+header	others	OBJECTIVE
+content	others	Seeking for a challenging role where I can enhance my skills and give efficient and effective solutions that will help in the growth of the organization.
+header	education	EDUCATION QUALIFICATIONS
+content	education	Course Name
+content	education	Institutes/University
+content	education	Year
+content	education	Result
+content	education	CHNA-1
+content	education	Computer Hardware Network Administrator
+content	education	IANT
+content	education	Institute Of Advance Network Technology
+content	education	2012-2013
+content	education	Pass
+content	education	M.com 2nd
+content	education	Saurastra/ Uni Rajkot
+content	education	2016-17
+content	education	Running
+content	education	M.com 1st
+content	education	Saurastra/ Uni Rajkot
+content	education	2015-16
+content	education	Pass
+content	education	B.Com
+content	education	Saurastra/ Uni Rajkot
+content	education	2012-2015
+content	education	Pass
+content	education	H.S.C
+content	education	Gujarat High Secondary Education Board
+content	education	2012
+content	education	Pass
+content	education	S.S.C.
+content	education	Gujarat Secondary Education Board
+content	education	2010
+content	education	Pass
+header	experience	EXPERIENCE
+content	experience	· I am worked as a hardware & networking engineer and OPD In charge cum Computer Operator in Suchak multi speciality Hospital, Bhavnagar from 01-07-2012 to 30-09-2018.
+header	knowledge	Technical Skill
+header	knowledge	CCC
+content	knowledge	Microsoft Office Word 2007
+content	knowledge	Microsoft Office Excel 2007
+content	knowledge	Microsoft Office PowerPoint 2007
+content	knowledge	Notepad
+content	knowledge	WordPad
+content	knowledge	Paint
+header	knowledge	Hardware
+content	knowledge	 Assembling
+content	knowledge	 Disassembling
+content	knowledge	 Troubleshooting
+content	knowledge	 Attaching External Devices
+content	knowledge	 Installation Application Software
+content	knowledge	Installation Operating System (Windows 98, Windows 2000,
+content	knowledge	Windows XP2-3, Win Seven, Vista, Linux )
+content	knowledge	Printer
+header	knowledge	Knowledgef Printer
+content	knowledge	· Laser Jet
+content	knowledge	· Ink-Jet
+header	knowledge	Networking
+content	knowledge	 DNS & DHCP Server installation
+content	knowledge	 Handling Client
+content	knowledge	 Networking Operating System (Windows 2000 Server, Windows 2003 Server, Windows 2008 Server)
+content	knowledge	 Configure File Server
+content	knowledge	 Set Printer setting to Client side
+content	knowledge	 Installation of Cisco 2500, 2600 and 4500 Router.
+content	knowledge	 Configure Application Server
+header	knowledge	Linux
+content	knowledge	 Installation LINUX O.S.
+content	knowledge	 DHCP Server installation & Configuration
+header	knowledge	Other
+content	knowledge	· I also have knowledge about Multispecialty Hospital management software, RSBY software, payroll software, Medical Retail & Wholesaler software(KMS),I also have knowledge about internet surfing etc.
+meta	knowledge	(
+content	knowledge	Management skill
+meta	knowledge	)
+content	knowledge	I also managed more than 15 computers & all networking handling.
+content	knowledge	I managed OPD for visiting super specialist doctors from Ahmadabad & Mumbai multi specialty hospital.
+header	others	PERSONAL DETAIL
+meta	others	Date of Birth : 20/03/1993.
+meta	others	Sex : Male.
+meta	others	Nationality : Indian.
+meta	others	Language known : English, Hindi, Gujarati.
+meta	others	Father’s Name : Jahabhai N. Khasiya

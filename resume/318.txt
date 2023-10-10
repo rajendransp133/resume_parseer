@@ -1,0 +1,57 @@
+header	others	RESUME
+header	others	RESUME
+meta	others	DULAM SUPRAJA
+meta	others	email:suprajateju.78@gmail.com
+meta	others	Phone+917093574550
+header	others	Objective:
+content	others	To seek a challenging position in a reputed organization, where my analytical and communication skills can be put in for the accomplishment of organizations goals and its Continuous improvement.
+header	education	Education:
+content	education	Qualification
+content	education	Board / University
+content	education	School/College
+content	education	B Tech
+content	education	JNTU – A
+content	education	Rajeev Gandhi Memorial College of Engineering &Technology
+content	education	Intermediate
+content	education	Board of Intermediate Education
+content	education	Sri Venkateshwara Junior College
+content	education	SSC
+content	education	Board of Secondary Education
+content	education	Vijaya Vani English Medium School.
+header	knowledge	Technical Skills:
+content	knowledge	· M.S. office
+content	knowledge	· C Language
+content	knowledge	· Operating Systems
+content	knowledge	· Typing skills (Lower)
+header	experience	Work Experience:
+content	experience	Organisation: Dhanush Engg Services India Pvt Ltd.
+content	experience	Worked as a Team Leader in BPO team and Placement Executive in Placement team.
+header	experience	Job Responsibilities:
+content	experience	· Handle calls from the customer or clients and provide them with a solution to their queries.
+content	experience	· Given Counselling to the new students.
+content	experience	· Work with senior team members to identify and manage risks.
+content	experience	· Coordinating to the different companies and generating employments.
+content	experience	· Organising Employers meet.
+content	experience	· Organising job mela.
+content	experience	· Responsible for Documentation of placement and post placement proofs.
+content	experience	· Contacting clients to inform them about new developments in the company’s Products.
+content	experience	· Working with Portals.
+content	experience	· Searching new companies from Google..
+content	experience	· Posting jobs in company website.
+content	experience	· Arranging the Interviews to candidates and giving Orientation.
+content	experience	· Sending Introductory mails to the new clients.
+content	experience	· Building Business relationships with current and potential clients.
+content	experience	· Working with MIS.
+content	experience	· Generating weekly and Monthly Reports.
+header	others	Personal Details:
+meta	others	Name: DULAM SUPRAJA
+meta	others	Father’s Name: DULAM JEEVAIAH
+meta	others	Date of Birth: 04-06-1992
+meta	others	Nationality: Indian
+meta	knowledge	Languages Known: English, Hindi, Telugu,
+meta	others	Contact Address:28-1598-1 RS ROAD NANDYAL VILLAGE ),NANDYAL MANDAL KURNOOL(dt), A.P
+meta	others	Declaration:
+meta	others	I here by declare that the above written particulars are best of my knowledge and belief.
+meta	others	Place:
+meta	others	Date:
+meta	others	(DULAM SUPRAJA)

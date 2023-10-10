@@ -1,0 +1,77 @@
+header	experience	SUMMARY
+content	experience	· Over 2 year of experience in software.
+content	knowledge	· Good knowledge in Medical coding-Analyzing the medical bills and records and sort them as per the client specifications.
+content	experience	· Thorough experience in providing Support and Quality Process, worked in various projects adhering to phases of software development life cycle, which includes system study, analysis, design, development, testing and implementation.
+header	knowledge	TECHNICAL SKILLS
+content	knowledge	Hardware
+content	knowledge	Pentium based PCs
+content	knowledge	Operating System
+content	knowledge	Windows-95/98/2000/2007, Linux
+content	knowledge	Programming Languages
+content	knowledge	C, C++, HTML, Php
+content	knowledge	Tools
+content	knowledge	Microsoft Office (Word, Power point, Excel)
+header	experience	EMPLOYMENT HISTORY
+content	experience	Name of the Company
+content	experience	Designation
+content	experience	From
+content	experience	To
+content	experience	Cognizant Technologies Solutions, India
+content	experience	Senior Process Executive
+content	experience	October-2015
+content	experience	Till Date
+header	education	EDUCATION
+content	education	Degree
+content	education	College/University
+content	education	Bachelor of Computer Applications
+content	education	M.G.R College, Hosur.
+header	experience	EXPERIENCE SUMMARY
+header	project	Project Title
+content	experience	MITCHELL BILL REVIEWSS-TB
+content	experience	Duration
+content	experience	October-2015
+content	experience	Location
+content	experience	Chennai-CRC India
+content	experience	Hardware
+content	experience	Intel based PC
+content	experience	Operating Systems
+content	experience	Windows-95/98/2000/2007
+content	experience	Programming Languages
+content	experience	C, C++, HTML, Php
+header	experience	ROLES AND RESPONSIBILITIES IN THE PROJECT
+content	experience	· Medical coding-Analyzing the medical bills and records and sort them as per the client specifications.
+content	experience	· Assign codes to diagnoses and procedures using ICD (International Classification of Diseases) and CPT (Current Procedural Terminology) codes.
+content	experience	· Assign and sequence all codes for services rendered and communicate client regarding data errors/disputes.
+content	experience	· Creating a structured format of a demand by reviewing the information provided by the client.
+content	experience	· Involved in gathering requirement with clients for designing and creating structured format documents.
+content	experience	· Perform quality assurance reviews for documents created and understanding of and commitment to appropriate protection of confidential information.
+content	experience	· Meeting the Service Level Agreement requirements as prescribed by the client and preparing the high quality medical coding to serve the client better.
+header	others	PERSONAL INFORMATION:
+header	others	Name
+meta	others	:
+meta	others	Saranraj V
+header	others	Father’s Name
+meta	others	:
+meta	others	VijayaKumar K
+header	others	Gender
+meta	others	:
+meta	others	Male
+header	others	Nationality
+meta	others	:
+meta	others	Indian
+header	others	Marital Status :
+meta	others	Unmarried
+header	knowledge	Languages Known :
+meta	knowledge	English, Telugu, Tamil and Hindi
+header	knowledge	Date of Birth
+meta	others	:
+meta	others	10-05-1995
+header	others	DECLARATION:
+meta	others	I hereby declare that all the above details provided are true to my Knowledge.
+meta	others	Yours faithfully,
+meta	others	Saranraj .V
+meta	others	SARANRAJ V PERSONAL SUMMARY
+meta	others	� HYPERLINK “mailto:Saranvijay1095@gmail.com” �Saranvijay1095@gmail.com�
+meta	others	+91-9042956322
+meta	others	+91
+meta	others	1 | Page

@@ -1,0 +1,89 @@
+meta	others	1
+meta	others	NAYANA K M
+header	others	CAREER OBJECTIVE
+content	others	Seeking a challenging & growth oriented career with a progressive organization that could
+content	others	utilize my skills at greater extent.
+header	experience	SUMMARY
+content	experience	 Currently working as Analyst in HCL Technologies Pvt Ltd, Bangalore.
+content	experience	 2 Years of IT experience in MS SQL server(SQL DBA)& Windows server administration
+content	experience	 Working for RETS which is a magazine publisher and information company operating
+content	experience	in science domain & headquartered in London, UK.
+header	knowledge	TECHNICAL SKILLS/TOOLS
+content	knowledge	 L2 SQL DBA,T-SQL,AWS Cloud
+content	knowledge	 L2 Windows
+content	knowledge	 SSMS
+content	knowledge	 Query Analyzer
+content	knowledge	 Servicenow
+header	education	PROFESSIONAL CERTIFICATIONS
+content	education	 Microsoft Certified Professional: Administering Microsoft SQL server 2012/2014
+content	education	Databases.
+header	education	ACADEMIC DETAILS
+content	education	 Mtech(ECE) from REVA Institute of Technology and Management, Bangalore
+content	education	(2014) with 74%.
+content	education	 B.E (TCE) from Siddaganga Institute of Technology, Tumkur (2011) with 7.28
+content	education	CGPA.
+meta	experience	Email Id: Nayanakm23@gmail.com
+meta	experience	Mobile: +91-9538586201
+meta	experience	mailto:Nayanakm23@gmail.com
+meta	experience	2
+header	experience	ROLES AND RESPONSIBILITIES
+header	experience	MS SQL server Administration:
+content	experience	 Providing Second-level technical support and troubleshooting for users in Remote
+content	experience	places.
+content	experience	 Database Administration Support of MS-SQL Server 2005/2008/2012/2014.
+content	experience	 I have been involved in supporting SQL Server instances in all the three
+content	experience	environments (Production, Development and Test).
+content	experience	 Database installation and administration of MS SQL Server 2005, 2008, 2008R2
+content	experience	and 2012.
+content	experience	 Identifying and resolving performance, blocking, Disk Space and data issues using
+content	experience	DBCC, Activity Monitor and Profiler.
+content	experience	 Identifying & Resolving Space Management issues like backups, Data and log file
+content	experience	space issues.
+content	experience	 Expertise in performing the Database Backup and Restores & resolving connectivity
+content	experience	issues.
+content	experience	 Day-to-day maintenance activities like remediating backup job failures, checking
+content	experience	for disk space availability for the files to grow, fixing server down &DB consistency
+content	experience	alerts etc.
+content	experience	 Experience in applying necessary SQL server service packs and SQL server
+content	experience	patching.
+content	experience	 Hands-on experience in Database Refresh Activities
+content	experience	 Experience in Deploying & Scheduling SSIS packages on SQL servers
+content	experience	 Performing Index rebuild activity as per the application team request.
+content	experience	 Having experience in Database Migration activities,Migrated around 3000+
+content	experience	databases (phase1 to 3).
+content	experience	 Worked on SQL server decommission, SQL database mail configuration,database
+content	experience	file movement(user DB’s),Auditing failed login attempts on financial production
+content	experience	servers,SA password remediation.
+content	experience	 Having knowledge on Logshipping,database mirroring,HA.
+content	experience	 24 x 7 Production Database On call Support.
+content	experience	 Interact with the clients to resolve the queries, issues and problems over mail
+content	experience	 Having basic understanding in AWS cloud administration.
+meta	others	3
+header	experience	Windows server Administration:
+content	experience	 Maintaining 1000+ physical and virtual windows servers.
+content	experience	 Monitoring & troubleshooting the issues for CPU,Memory,Disk and Serverdown.
+content	experience	 Checking the Disk space of the critical servers and clearing the unwanted
+content	experience	files/folders.
+content	experience	 Installation/configuring the software’s based upon the Support Team’s request
+content	experience	 Granting access to Files shares in servers and users accounts.
+content	experience	 Having experience in Server patching and server decommission.
+content	experience	 Building windows servers in VM console.
+content	experience	 Experience in handling the following on day-to-day basis
+content	experience	 Incident management
+content	experience	 Change management
+content	experience	 Catalogue task management
+header	others	ACHIEVEMENTS & EXTRA CURRICULUM
+content	others	 Successfully Implemented the value Adds worth of 18000$ for Windows
+content	others	technology.
+content	others	 Created Multiple Value Adds in SQL DBA for the betterment of work process
+content	others	 Successfully handled multiple technologies(Windows & SQL)and got an award also.
+header	knowledge	INTER PERSONAL SKILLS
+content	knowledge	 Good Time management,Team co-ordination
+content	knowledge	 Good in Communication Skills
+content	knowledge	 Flexible,Hard working and Knowledge transfer
+header	others	PERSONAL DETAILS
+meta	others	Name : Nayana K M
+meta	others	Date of Birth : 4 OCT 1989
+meta	others	Nationality : Indian
+meta	knowledge	Languages Known : English, Kannada,Hindi, Telugu, Tamil.
+meta	others	Hobbies : Gardening, Reading Books,Listening music,badminton

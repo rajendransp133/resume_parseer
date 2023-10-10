@@ -1,0 +1,73 @@
+meta	others	Krishna Tej Makani
+meta	others	Address: Flat #001, Sri Satya Condominiums,
+meta	others	5th ‘E’ Cross, Manjunatha Layout, Off Wind Tunnel Road,
+meta	others	Murugeshpalya, Bangalore - 17
+meta	others	Phone: +91 9986126107
+meta	others	Email: tejamakani@gmail.com
+meta	others	Birth date: 28.07.1990
+meta	others	Current job: Network Analyst at Oracle India Pvt. Ltd, Bangalore
+header	experience	Summary
+content	experience	I have over 6 Yrs of experience in Networking, and I love working in a strong and friendly environment. During the years, I have gathered knowledge about Network operations and maintenance; Firewalls, Load balancers, Routers, Switches, Data-centre operations, Build and de-install projects.
+header	others	Objective
+content	others	Obtain a competitive position on a very reputable company in Hyderabad/Bangalore, where I can use all my knowledge’s I have gathered about networking.
+header	experience	Experience
+content	experience	Network Analyst
+content	experience	Oracle India Pvt. Ltd, Bangalore
+content	experience	June 2015 – Present
+content	experience	Oracle Managed Cloud Services – Network Operations
+content	experience	Client: Multi Customer environment
+header	experience	Responsibilities:
+content	experience	· Working as a Tier 2 support for network and security related issues on below technologies:
+content	experience	Juniper SRX and netscreen firewall
+content	experience	F5 - Local traffic manager
+content	experience	CISCO routing and switching
+content	experience	SUN/OPUS routing and switching
+content	experience	· Handling Provisioning and decom activities as per customer set SLA’s
+content	experience	· Performing basic network tests for customer LAN’s and correcting the necessary configurations from primary to DR’s
+content	experience	· Maintenance and monitoring of network and resolving technical (both hardware and software) related issues remotely in data centre environment
+content	experience	· SIEM monitoring(level 1)
+content	experience	· Mcafee Data loss prevention monitoring
+content	experience	Network Administrator
+content	experience	Microland LTD, Bangalore
+content	experience	January 2012 – May 2015
+content	experience	Project – L2 Network Team – Incident
+content	experience	Client: General Electric
+header	experience	Responsibilities:
+content	experience	· Global Datacenter Network support for routers, switches and access points
+content	experience	· Basic router and switch configurations
+content	experience	· Handling hardware issues for routers, L2 and L3 switches and Access points (Lightweight and autonomous) and working with Hardware vendors
+content	experience	· IOS up gradation for devices having crash and operating system issues
+content	experience	· Working with different ISP vendors on link down and flapping issues
+content	experience	Project - Compute Server Build & De-install
+content	experience	Client: General Electric
+header	experience	Responsibilities:
+content	experience	· Worked on Windows, Linux and Solaris Server De-commissioning and on their quality audit.
+content	experience	· Handled escalated de-comms from customer and completing them in the given SLA.
+content	experience	Project – L2 IT Security Operations
+content	experience	Client: General Electric
+header	experience	Responsibilities:
+content	experience	· Handled various virus infected machines remotely and provided technical assistance in remediation.
+content	experience	· Worked on PC data encryption software maintenance and troubleshooting (Mcafee Endpoint encryption for PC –Safeboot)
+content	experience	Network Administrator
+content	experience	Corporate Network Solutions, Bangalore
+content	experience	August 2011 – Jan 2012
+header	experience	Responsibilities:
+content	experience	· Responsible for taking care of network infrastructure in the company such as routers, switches, hardware firewalls, desktops
+content	experience	· Configured Cisco routers (1600, 2600, 3600 series), switches (2600 and 3500 series) in lab environment for training purposes and also performed network cabling
+content	experience	· Had hands on experience in troubleshooting small sized networks and remotely checking the health of network infrastructure
+header	education	Education
+content	education	Bachelor of Technology (B.Tech) – First class
+content	education	Arjun College of Technology and Sciences (Affiliated to Nehru Technological University), Hyd
+content	education	Specialty: Electronics and Communication Engineering
+content	education	2007 – 2011
+content	education	Intermediate – First class
+content	education	Narayana Junior College, Hyd
+content	education	Specialty: Mathematics
+content	education	2005-2007
+content	education	SSC– First class
+content	education	Brilliant Grammar High School, Hyd
+content	education	2005
+header	education	Courses
+content	education	· F5 Local traffic manager , 2017
+content	education	· Juniper SRX Basic architecture, 2016
+content	education	· CCNA, networking, 2013

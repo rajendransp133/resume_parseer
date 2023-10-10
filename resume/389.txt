@@ -1,0 +1,58 @@
+header	others	Resume
+header	others	Resume
+meta	others	PRANJAL SURESH PATIL
+meta	others	BANKING PROFESSIONAL
+meta	others	Offering a productive experience of 2 years, in generating optimal results and business value in demanding deadlines; seeking assignments across the Banking.
+header	others	CAREER CONSPECTUS
+content	others	· Technically competent and highly empowered Banking Professional offering cross-functional experience in delivering optimal results and business value via technology solutions; currently spearheading efforts with Axis Bank.
+content	others	· Proactive and goal-oriented leader, flexible and able to adapt quickly to changing environments and needs ensuring the delivery of new, highly effective results on time.
+content	others	· Multitasking credentials with excellent planning, execution, monitoring and resource-balancing skills, as well as the ability to handle multiple tasks in high pressure environments and deadlines.
+header	knowledge	SKILL SET
+content	knowledge	Skills
+content	knowledge	Cashier, Clearing.
+content	knowledge	Tools
+content	knowledge	FINACLE, Tally ERP 9, MS-Office
+header	education	PROFESSIONAL QUALIFICATION
+content	education	· B.A.F. 62.33%, Mumbai University. 2015
+content	education	· HSC, 60.83%, Mumbai University. 2012
+content	education	· SSC,68.80 %, Maharashtra Board 2010
+header	education	Certifications Highlights:
+content	education	· MS-CIT
+content	education	· TALLY ERP 9
+header	experience	PROFESSIONAL GLIMPSE
+content	experience	Axis Bank. Teller & Officer 22nd APR 2016 till now
+content	experience	Key Deliverables:
+content	experience	· Banking :
+content	experience	1. Handling entire Banking operation like deposits & withdrawal daily basis.
+content	experience	2. Entry of Receipts & payments daily basis.
+content	experience	3. Maintaining the Cash Balance Register & Cash Vault Register.
+content	experience	4. Achievements of assigned targets.
+content	experience	5. Enterer of transfer Entries NEFT RTGS etc.
+content	experience	6. Verification of all routine transactions, cash Transaction.
+content	experience	7. Custodian of BNA.
+content	experience	8. Handle Stationery and deliverable.
+content	experience	9. Income Tax Payments.
+content	experience	10. Accepting and processing Customer request and ensuring the proper completion of the request and proper filing of the records to done.
+content	experience	11. Achievements of assigned targets.
+content	experience	12. Daily Mapped based calling to be done.
+content	experience	· Petty Cash :
+content	experience	1. Handling entire cash transaction.
+content	experience	2. Maintaining the Petty register.
+content	experience	3. Making cash voucher for routine expenses & cash withdrawal.
+header	others	PERSONAL FORTE
+meta	others	Date of Birth
+meta	others	20th MARCH, 1995
+meta	others	Gender
+meta	others	Female
+meta	others	Marital Status
+meta	others	Unmarried
+meta	others	Nationality
+meta	others	Indian
+header	knowledge	Languages Known
+meta	knowledge	English, Hindi and Marathi
+meta	others	Address
+meta	others	KISHOR PLAZA FLAT NO 701 OPP NATIONAL HOTEL MANSIHA NAGAR KALWA 400605 .
+content	others	References
+content	others	Available on request
+content	others	Mobile: +91 8655486545
+content	others	Email: pranjal2095@gmail.com

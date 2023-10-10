@@ -1,0 +1,70 @@
+meta	others	S.SATHYA
+content	others	3/177, Nethaji Road, Email: ssathya992@gmail.com.
+meta	others	MelaniKuzhi, Phone: 9585339621
+meta	others	Ariyalur-Dt Current Location: Velachery
+header	others	OBJECTIVE:
+meta	others	Seeking a challenging and satisfying career as a dedicated professional to enrich my
+meta	others	skills and personal growth in conjunction with the organization’s goals and objectives.
+header	experience	EXPERIENCE:
+content	experience	Congenial Studioss, Chennai. Nov, 2016 – Nov,2017
+content	experience	Designation : Software Developer
+content	experience	Responsibility : Major Responsibilities include but not limited to
+content	experience	i) Analysis, Design and Development of Web
+content	experience	Application using Dot Net Frameworks.
+content	experience	ii) Enhancing and Maintenance of existing developed
+content	experience	websites.
+content	experience	iii) Designing new Web page layout and updating
+content	experience	websites.
+content	experience	iv) Taking Part in Database Design and Development.
+header	education	ACADEMIC PROFILE:
+content	education	 Master of Engineering in Computer Science Engineering from Valliammai Engineering
+content	education	College, (2016) securing 8.0 CGPA.
+content	education	 Bachelor of Technology in Information Technology from Dhanalakshmi Srinivasan
+content	education	Engineering College, (2013) securing 8.2 CGPA.
+content	education	 High School education from Fathima Girls.Hr.Sec School (TN State Board),
+content	education	Jayakondam, (2009) securing 70 Percent.
+content	education	 Schooling from Kasturiammal High School (TN State Board), Nattarmangalam,(2007)
+content	education	securing 79 Percent.
+header	knowledge	SOFTWARE PROFICIENCY:
+content	knowledge	Operating systems : Windows
+content	knowledge	Languages : C#.NET, HTML, CSS, MVC, API Service, Angular JS
+content	knowledge	Database : Microsoft SQL Server 2008.
+content	knowledge	Web designing : HTML, CSS
+content	knowledge	Scripting Languages: JavaScript, Jquery
+header	project	PROJECT EXPERIENCE:
+header	project	Project 1: MAS RIDE
+content	experience	Type : Web Application
+content	experience	Environment : Angular JS, MVC with SQL server 2012, API Service
+content	experience	MAS Rides is a technology platform in which Auto & Share Auto are used to travel from one
+content	experience	place to another with help of our smartphone apps which will be in connected with Drivers and
+content	experience	Passengers. MAS Rides app also provides information about the driver with whom the Passenger
+content	experience	is riding, shown the driver details for end the trip. This info helps both Driver and Passenger to
+content	experience	get connect at pickup location. It allows the users to pay their travelling fare by Online.
+header	project	Project 2: VPS ENGINEERING
+content	experience	Type : Web Design
+content	experience	Environment : HTML, CSS, Bootstrap
+content	experience	VPS Engineering and Consultant have good exposure in delivering Engineering documents and
+content	experience	deliverables in all disiciples of Civil, Mechanical Electrical and Instrumentation. It’s have good
+content	experience	exposure in prepare 2D Auto CAD Drawing, Designing, Drafting ,3D CAD Modeling and supply
+content	experience	the manpower provides their services.
+header	project	Project 3: BENCHAWAY
+content	experience	Type : Web Application
+content	experience	Environment : Angular JS, MVC with SQL server 2012, API Service
+content	experience	Search the Relevant Talents and map the project, based on the project completion Freelancer will
+content	experience	be generate the invoice. Once the invoice was generated notification will be highlighted to the
+content	experience	corresponding Corporate as well as financier, Corporate will be verifying the invoice then release
+content	experience	the invoice. Financer was verified both Invoices based on the Tariff amount will be dedicated
+content	experience	from the invoice and credited to the Freelancer.
+header	others	PERSONAL DETAILS:
+meta	others	Father’s Name : SAMBATH.K
+meta	others	Date of Birth : 16/04/1992
+meta	others	Gender : Female
+meta	others	Nationality : Indian
+meta	knowledge	Languages Known : English, Tamil
+meta	others	Permanent Address : 3/177,Nethaji Road,
+meta	others	Melanikuzhi,
+meta	others	Ariyalur.
+header	others	DECLARATION:
+meta	others	I hereby declare that, all the details furnished above are true and best of my knowledge.
+meta	others	Place:Chennai Yours sincerely,
+meta	others	Date : (SATHYA.S)

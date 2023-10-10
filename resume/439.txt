@@ -1,0 +1,66 @@
+header	others	RESUME
+meta	others	SANDEEP PATIDAR
+meta	others	Sandeep.mukati@gmail.com
+meta	others	88, Greater Vaishali Nagar
+meta	others	Gopur Square, Indore (M.P.) - 452009
+meta	others	+918818888577
+header	others	OBJECTIVE
+content	others	Looking forward for a challenging and growth full career in the field Accounts, which will provide me
+content	others	ample opportunities for learning and performing in the field. To work with a market leader and making
+content	others	every effort to contribute my best towards its success and proving my abilities.
+header	education	ACADEMIC QUALIFICATIONS
+content	education	Institute / Board Exam Marks
+content	education	obtained
+content	education	Percentages Year
+content	education	ICAI IPCC – Group I 221/400 55.25%
+content	education	2011
+content	education	ICAI CPT 136/200 68.00 % 2009
+content	education	Devi Ahilya
+content	education	Vishwavidyalya,
+content	education	Indore
+content	education	B.com (Regular) 786/1450 54.21% 2009
+content	education	M.P. Board, Bhopal Higher Secondary Examination 259/450 57.56% 2006
+content	education	M.P. Board, Bhopal Secondary School Examination 288/500 57.60% 2004
+header	experience	WORK EXPERIENCE
+content	experience	Name of Company Place Designation Period
+content	experience	Atul Premdayal and Co. Indore (M.P.) Auditor and Account Executive
+content	experience	December-2015 to
+content	experience	Till Date
+header	experience	ARTICLESHIP
+content	experience	Name of Company Place Designation Period
+content	experience	Atul Premdayal and Co. Indore (M.P.) Article Assistant (Articleship)
+content	experience	April-2012 to March-
+content	experience	2015
+content	experience	Functional Areas:-
+content	experience	 Accounting as per GST of Various companies.
+content	experience	 Preparation & Filing of GST Return.
+content	experience	 Preparation on daily basis group wise bank reconciliation statement.
+content	experience	 Preparation of Fixed Assets Register of Various Companies.
+content	experience	 Preparation of Fixed Assets Schedule.
+content	experience	 Conducted Internal Audit of various sector, including preparation of audit plan, steps to be follow,
+content	experience	areas to be focused and implementation and monitoring of necessary Internal Control on timely basis
+content	experience	based on nature of organization and risk assessment.
+content	experience	 Conducted of Concurrent audits of Banks like Bank Of India, Indian Overseas Bank, Central Bank of
+content	experience	India and Allahabad Bank.
+content	experience	 Preparation of ROC Search of Various Client.
+content	experience	 Conducted stock audits and preparation of report of various sector viz. manufacturing and trading
+content	experience	concerns.
+content	experience	 Preparation & Filing of Income Tax returns of Non Corporate Bodies.
+content	experience	 Preparation & Filling of TDS returns.
+content	experience	 Preparation of financial statement on quarterly basis and report to the management on timely basis.
+content	experience	 Involved in drafting of replies to the questionnaire for the assessment procedure under Income Tax
+content	experience	Act and collecting the documents from the clients and checking the same before submitting to the
+content	experience	Department.
+header	knowledge	COMPUTER PROFICIENCY
+content	knowledge	 Efficient knowledge in using MS-Office & Internet operation.
+content	knowledge	 Working knowledge of accounting package Tally and various Accounting Software.
+header	others	PEERSONAL DETAILS
+meta	others	 Father’s Name : Shri Gendalal Patidar
+meta	others	 Mother’s Name : Smt. Kunta Patidar
+meta	others	 Spouse Name : Mrs Ruchita Patidar
+meta	others	 Permanent Address : 271, Patidar Mohalla, Gram Pipliya Tehsil Kukshi,
+meta	others	Dist. Dhar (M.P.) - 454335
+meta	others	 DOB : 26th February , 1988
+meta	knowledge	 Languages : English and Hindi
+meta	others	 Hobby : Playing Cricket
+meta	others	Sandeep Patidar

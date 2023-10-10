@@ -1,0 +1,116 @@
+header	others	CURRICULUM VITAE
+meta	others	PAGE
+header	others	CURRICULUM VITAE
+meta	others	PRATEEK KUMAR
+meta	others	Mo: 8130260887
+meta	others	E-mail: prateekksingh92@gmail.com
+meta	others	08318297046
+header	others	OBJECTIVE
+content	others	Keen to learn the latest technologies and become a successful software developer. To work in a reputed organization and grow professionally by strengthening my technical & professional skill.
+header	experience	Profile
+content	education	· Bachelor degree in computer application with good academic records
+content	others	· Team player
+content	experience	· Multiple project experience
+header	experience	Professional Exposure
+content	experience	Engenia Technology Pvt. Ltd.
+content	experience	(Engenia.in)
+content	experience	Noida
+content	experience	Software Developer
+content	experience	May 2017 To Till Date
+content	experience	As a Php Software Developer I am responsible for Development of website including the Programming and the designing aspects. I have worked on a many websites, using custom php, HTML, Laravel. Most of the websites were responsive to support the mobile devices.
+content	experience	Webbriz Technology
+content	experience	(webbriz.com)
+content	experience	Noida
+content	experience	Php web Developer
+content	experience	June 2016 To May 2017
+content	experience	As a Php Web Developer I am responsible for Development of website including the Programming and the designing aspects. I have worked on a number of websites, using custom php, HTML, Wordpress. Most of the websites were responsive to support the mobile devices
+content	experience	Atomants Technologies
+content	experience	Noida
+content	experience	Php web Developer
+content	experience	July 2015 To May 2016
+content	experience	As a Php Web Developer I am responsible for Development of website including the Programming and the designing aspects. I have worked on a number of websites, using custom php, HTML, Wordpress. Most of the websites were responsive to support the mobile devices
+header	knowledge	Technical Skills
+header	knowledge	Operating System
+meta	others	:
+content	knowledge	Windows -7, Windows-8, Windows-8.1 XP,
+header	knowledge	Softwares
+meta	others	:
+content	knowledge	Dreamweaver, Notepad++, sublime text, Photoshop
+header	knowledge	Web Technology
+meta	others	:
+content	knowledge	PHP, MY-SQL, HTML, CSS, JavaScript, Ajax, jquery, Wordpress,
+header	knowledge	Laravel
+content	knowledge	My PROJECT DETAILs in Webbriz Services
+header	project	Project Title
+content	experience	Webbriz.com
+header	project	Project Title
+content	experience	Dealsincoupons.com
+content	experience	Project Title
+content	experience	Vcraft.co.in
+header	project	Project Title
+content	experience	Drishtisolarsystem.com
+content	experience	My PROJECT DETAILs in Kush/Atomants Technologies
+header	project	Project Title
+content	experience	direct-ficci.com
+header	project	Project Title
+content	experience	massmerize.com
+header	project	Project Title
+content	experience	aquasovi.in
+header	project	Project Title
+content	experience	Ptc-india.com
+header	project	Project Title
+content	experience	gopuiyengars.com
+header	project	Project Title
+content	experience	skyhighindia.com
+header	education	Academic Details
+content	education	Examination/ Degree
+content	education	Discipline/ Specialization
+content	education	School/College
+content	education	Board/University
+content	education	Year of Passing
+content	education	Master of Computer
+content	education	Application
+header	education	Computer Application
+content	education	Indira Gandhi National Open University (IGNOU)
+content	education	Indira Gandhi National Open University (IGNOU)
+content	education	pursuing
+content	education	Bachelor of Computer Application
+header	education	Computer Application
+content	education	Dr. virendra swarup institute of computer studies, Kanpur
+content	education	CSJM University Kanpur
+content	education	2014
+content	experience	12th
+content	experience	Science Stream
+content	experience	H. P. I. C. Kanpur
+content	experience	UP Board
+content	experience	2011
+content	experience	10th
+content	experience	Science Stream
+content	experience	H. P. I. C. Kanpur
+content	experience	UP Board
+content	experience	2008
+header	knowledge	Personal SKILLS & Interests
+content	knowledge	· Learning Attitude
+content	knowledge	· PHP programming
+content	knowledge	· Exploring New Web Application
+content	others	· Playing cricket.
+content	others	· Listening to music
+header	others	PERSONAL DETAIL
+header	others	Father’s Name
+meta	others	Mr. Shyam Singh
+header	others	Date of Birth
+meta	others	1st Jan 1992
+meta	others	Gender Male
+header	others	Marital Status
+meta	others	Unmarried
+header	knowledge	Language
+meta	knowledge	Hindi, English
+header	others	Nationality
+meta	others	Indian
+header	others	Present Address
+meta	others	H.N. A-18, Sec-35, Noida
+meta	others	Permanent Address H.N. J/394, Gujaini, Kanpur Nagar, Uttar Pradesh
+meta	others	Date:
+meta	others	Place:
+meta	others	Noida
+meta	others	(PRATEEK KUMAR)

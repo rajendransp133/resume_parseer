@@ -1,0 +1,78 @@
+meta	others	Dilkhush Bharucha
+meta	others	DILKHUSH BHARUCHA
+meta	experience	5/Ajeet Bld, Plot no 148, Sher-e-Punjab Society, Next to Tolani College, Andheri (E), Mumbai - 93
+meta	experience	Customer Service & Operations
+content	experience	Commerce graduate with 7 years work history in operations management specializing in branch operations, customer service and new business generation through up-sell/cross-sell.
+header	experience	PROFESSIONAL EXPERIENCE
+content	experience	ICICI Prudential Life Insurance Company, Mumbai
+content	experience	Feb ‘06 – Mar ‘12
+content	experience	Branch Customer Service Manager, Mumbai
+content	experience	Oct ‘08 – Mar ‘12
+content	experience	Led a team of 8 employees and 7 CPAs to manage a customer base of appx 1.1 million with AUM of appx.8185 million to deliver following responsibilities:-
+content	experience	(1) Customer Service:
+content	experience	Manage customer service framework of branch and provide end to end resolution of all customer interactions.
+content	experience	Provide resolution to customer complaints and escalations within TAT and take initiatives to reduce their origination while adhering to closure quality norms.
+content	experience	Execute customer retention exercise to guard against leakage in AUM.
+header	experience	Achievements:
+content	experience	Number of complaints reduced to 20 per quarter from 170 per quarter by end of FY 2012.
+content	experience	Retention increased to 40% of surrender request/ partial withdrawal request by end of FY 2012.
+content	experience	(2) Operations:
+content	experience	Adhere to company guidelines for error free processing of applications via proper and timely training to related parties.
+content	experience	Liaise with Central Operations and Central Underwriting teams to
+content	experience	(a) enhance sales support for timely policy issuance and
+content	experience	(b) ensure timely settlement of claims.
+content	experience	End to end supervision of new advisor membership applications along with training of sales managers on underwriting norms.
+content	experience	Manage daily branch reconciliation along with various MIS as desired by management.
+header	experience	Achievements:
+content	experience	Attainted Six Sigma (monthly review) in branch operations for three consecutive years.
+content	experience	Branch audit received ‘Green’ tag for 2 consecutive years highlighting highest level of compliance.
+content	experience	… contd pg. 2
+content	experience	:2:
+content	experience	3) Revenue generation: Achieve renewal targets for the branch as communicated from time to time and contribute to branch revenue maximization via Top –Up solicitations.
+content	experience	Provide Service-to-sales via new policy solutions for branch Walk Ins and references.
+content	experience	Achievements:
+content	experience	Led the branch to attain 3rd position Pan India for achieving record sales via sales-to- service channel.
+content	experience	(4) Additional:
+content	experience	Pan Mumbai responsibility of off-role employees’ on-boarding and vendor management.
+content	experience	Process request for additional off-role employees’ hires basis productivity matrix and appropriate approvals.
+header	others	HONORS
+content	others	2012
+content	others	Awarded ICICI Prudential prestigious TATVA GOLD STANDARD for excellence in customer service, branch operations and contribution to branch business.
+content	others	2011
+content	others	(a) Awarded TATVA for display of right leadership & environment in Q2.
+content	others	(b) Awarded ‘Extra Mile’ for achieving renewal premium of INR 2 million in the last week of November.
+content	others	2010
+content	others	Awarded Master Blaster for exceeding revenue targets under service to sales category.
+content	others	2006-09
+content	others	Awarded with “HOWZATT” 6 times for initiatives other than key result areas.
+content	others	CARRER PROGRESSION
+content	others	Feb ‘06
+content	others	Appointed as Company Customer Service Executive to manage branch related customer queries with ICICI Prudential Life Insurance.
+content	others	Feb ‘07
+content	others	Promoted as Customer Service Associate with additional responsibilities of branch operations.
+content	others	Sep ‘07
+content	others	Promoted as Branch in-charge with responsibilities of team management for branch service and operations apart for customer escalations.
+content	others	Oct ‘08
+content	others	Promoted as Customer Service Manager for management of Tier I branch.
+content	others	…contd pg. 3
+content	others	:3:
+header	education	EDUCATIONAL QUALIFICATION
+content	education	Mar 2005
+content	education	Bachelor of Commerce, Mumbai University with specialization in Accounts
+content	education	Mar 2002
+content	education	Higher secondary certificate (HSC) from Maharashtra State Board
+content	education	Mar 2000
+content	education	Secondary School Certification (S.S.C) from Maharashtra State Board
+header	others	PERSONAL INFORMATION
+header	others	Date of Birth:
+meta	others	5th November, 1984
+header	others	Marital Status:
+meta	others	Single
+header	others	Hand phone:
+meta	others	+91 9833243441
+meta	others	Email id:
+meta	others	dilkhushb@gmail.com
+header	others	Religion:
+meta	others	Zoroastrian
+header	knowledge	Languages known:
+content	knowledge	English, Hindi, Marathi, Gujarati.

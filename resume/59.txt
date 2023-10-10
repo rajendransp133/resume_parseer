@@ -1,0 +1,103 @@
+header	others	CURRICULUM VITAE _____________________________________________
+header	others	CURRICULUM VITAE _____________________________________________
+meta	others	AMIT KHANNA
+meta	others	System & Network Support Engineer [6 .5 Year’s Experience]
+header	experience	Summary :-
+content	experience	Over all 6.5 Year’s Experienced professional seeking advancement in the information technology Industry, with exposure on seeking a Windows XP & vista 2003 Systems Administrator LANWAN Network Administrator Engineer or related platform. To gain employment with a company that will utilize my existing skills, and provide me with an opportunity to learn new things for advancement in the Field of Information Technology.
+content	experience	· 6 years of experience in systems administration including analyzing, designing, installing, maintaining, and repairing hardware, software, peripherals and networks.
+content	experience	· Installing and configuring Ms Office Outlook on Win XP/2003 server.
+content	experience	· Maintenance of VPN,Antivirus, and application services like ODIN 9.1.5, and maintenance of AVR Systems (Automatic Voice Recorded Machines).
+content	experience	· User account management and managing password policies
+content	experience	· Strong hands-on experience in implementing LAN & WAN setups.
+content	experience	· Understanding of managing IP Address.
+content	experience	· Troubleshooting of RF signal and VSAT and coordinating with vendors.
+content	experience	· Configuring DNS & DHCP.
+header	knowledge	Technical Skills:-
+content	knowledge	Operating System
+content	knowledge	: Windows XP/2003/vista/window 7
+content	knowledge	Technology
+content	knowledge	: CLIENT-SERVER, TCP/IP
+content	knowledge	Network Services
+meta	others	:
+content	knowledge	Active Directory Services, Certificate Services,
+content	knowledge	Group Policy, DNS, DHCP, VPN, Mail services,
+content	knowledge	IPSec, Backup.
+content	knowledge	Tools
+meta	others	:
+content	knowledge	MacAfee Antivirus 8.7 , Ms Outlook Express, MS Office
+content	knowledge	2003 & 2007, Net Support V 10.1 (Remoting tool)
+header	experience	Work Experience :-
+content	experience	Client
+content	experience	:Kotak securities ltd, Vijayawada,(pay roll is with CBT INFOTECH PVT LTD).
+content	experience	Duration
+content	experience	: – From January 3rd, 2007 to Till Date.
+content	experience	Description: Designing and installing a new Windows 2000&XP/2003 LAN for Kotak securities Ltd. The work involved configuring a Windows based Domain for 100 users including Proxy Server, and client/server applications, Upgrading existing hardware and software.
+content	experience	Responsibilities:-
+content	experience	1. To maintain the Live Network of Kotak Securities with NSE & BSE Exchange via V-SAT network.
+content	experience	2. Maintaining the total system & Intranet of the organization.
+content	experience	3. Maintaining the ODIN, Antivirus, Voice recording System, Proxy & VPN network.
+content	experience	4. Maintaining both Hardware and Software in Windows platforms.
+content	experience	5. Maintaining the mailing system-Exchange server and outlook.
+content	experience	6. Troubleshooting the Network and Servers (2000/2003 server).
+content	experience	7. Installations of networking services (DHCP, DNS, VPN client).
+content	experience	8. Troubleshooting of electronic components (Switch, Hub, Modems).
+content	experience	9. Configuring and troubleshooting the Network.
+content	experience	10. Network planning structure & remote access and LAN.
+content	experience	11. Backup and Restore of user and exchange server data.
+content	experience	12. Administering network security through installation & maintenance of anti-viruses.
+content	experience	13. Managing the overall administration of LAN System. Configuration and maintenance of servers.
+content	experience	14. Responsible for daily monitoring of all systems, troubleshooting & problem
+content	experience	solving and hardware maintenance & support.
+content	experience	15. Taking care of RF signal v sat link problems at local and remote branches.
+content	experience	16. Installing, configuration and trouble shooting window xp and window
+content	experience	2000 &2003 server and workstation.
+content	experience	17. Manage client/server environment.
+content	experience	Client : CAMS, JAMSHEDPUR ( Pay roll with Xenon Technology Pvt ltd).
+content	experience	Duration : Oct 2005 to Dec 2006.
+content	experience	Environment:
+content	experience	Windows 2000 & Windows xp, Switch.
+content	experience	Description: Designed and installing a new Windows 2000 LAN for CAMS. The work involved designing, establishing and configuring a new Windows 2000 based Network for 25 users including installing Fast Ethernet, Hubs, Switches, setting up Broadband & Dial-up network, applications, Upgrading existing hardware and software.
+header	experience	Responsibilities:-
+content	experience	1. Troubleshooting the Network and Window (2000 server & window xp).
+content	experience	2. Configuring and troubleshooting the Network.
+content	experience	3. Installations of Online Scanner & Application services.
+content	experience	4. Management and Troubleshooting of LAN.
+content	experience	5. Managing the overall administration of LAN Configuration and
+content	experience	Maintenance of SYSTEMS.
+content	experience	6. Manage client/server environment .
+content	experience	· Worked as Hardware Engineer in SILICON INDIA, at Jamshedpur from SEP 2004 to SEP 2005.
+header	experience	Responsibilities:
+content	experience	1. Assembling and troubleshooting of Desktop PC.
+content	experience	2. Installing the software and OS (win98/xp/2000/2003).
+content	experience	3. Installation of peripherals and N/W devices (Hub, Switch, N/W card, Modem etc).
+content	experience	4. Crimping and cabling of UTP cable.
+header	education	Educational Qualification :-
+content	education	( Completed BSc (IT&M) with 1st division having specialization in Network Engineering from Utkal University, Bhubaneswar in year 2004.
+content	education	· Passed 10+2 (PCM) from B.I.E.C (Patna) with 1st division in year 2001.
+content	education	( Passed Matriculation from B.S.E.B (Patna) with 2nd division in year 1998
+header	education	other Qualification :-
+content	education	· Microsoft Certified Technology Specialist(Windows Server 2008 Active Directory, Configuring)
+header	education	ADDRESS FOR CORRESPONDENCE :-
+meta	others	C/O AWINASH KUMAR, Q.NO-B1F1B B-BLOCK , MOON CITY , DIMNA ROAD, MANGO, JAMSHEDPUR, JHARKHAND, INDIA, 831012.
+meta	others	Contact No :- (+91)9959503482, 0657-2652422
+meta	others	E-mail:- khanna.net@gmail.com ;AmitKhanna.jsr@gmail.com
+header	others	Personal Details :-
+content	others	Sex-Male
+meta	others	Date of Birth-13/08/1981
+meta	others	Marital Status-Single
+meta	others	Nationality-Indian
+meta	others	Strength :-
+meta	others	· Good communication skill and adaptability to any business environment.
+meta	others	· Goal oriented and consistent track record of timely completion.
+meta	others	· A fast learner and like working in team.
+header	others	Hobbies :-
+meta	others	Listening to music, Playing Cricket, to spend leisure time with friends and to interact with people.
+meta	others	References :-
+meta	others	· Mr. Ram Kumar. Pilla, Head IT (Hyderabad), Kotak Securities Ltd.
+meta	others	Cell No:- 09885319996(M)
+meta	others	· Mr. Murali krishna .reddy, IT (VIZAG), Kotak Securities Ltd.
+meta	others	Cell No:- 09966404864(M)
+meta	others	Present Address:
+meta	others	D.no:- 40/17-27 c/o koteswar rao, pukkar guddam,labbipet Vijayawada ,520010 India.
+header	others	Date: -
+meta	others	Signature

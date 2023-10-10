@@ -1,0 +1,56 @@
+header	others	CURRICULUM VITAE
+header	others	CURRICULUM VITAE
+header	others	Permanent Address
+header	others	Present Address
+meta	others	C/O Sri D.K MISHRA
+meta	others	13 SLV RESIDENCY
+meta	others	SAHAJOG NAGAR
+meta	others	SAPTAGIRI LAYOUT
+meta	others	BUDARAJA, 7680004.
+meta	others	MUNNEKOLALA
+meta	others	Orissa
+meta	others	MARATHALI,BANGLORE
+meta	others	Ph—0663-2400366 mobile-8147727184
+meta	others	E mail:- rahulsingvivek@gmail.com, viv4810@yahoo.com
+header	others	CAREER OBJECTIVE:
+content	others	I want to be in an organization, which provides me with immense opportunities to learn, grow and to apply technical skill set to the fullest and establishes me as a successful engineer.
+header	education	EDUCATIONAL QUALIFICATIONS:
+content	education	· B-Tech in Electrical Engineering ((2007-2011) at Gandhi Institute For Technological Advancement(GITA), Bhubaneswar, under BPUT and secure
+content	education	7.60 C.G.P.A
+content	education	· 12th: At Gangadhar Meher Junior College, sambalpur(2006) under CHSE
+content	education	Secured-74%
+content	education	· Matriculation : At Budaraja High School Sambalpur [Board HSE]
+content	education	Secured -85%
+header	knowledge	SKILL SET:
+content	knowledge	1 Operating System : MS DOS,Windows98, Windows XP
+content	knowledge	2 Programming Language : C,C++
+content	knowledge	3 Languages Known : Hindi , English , Oriya
+content	knowledge	4 Database Management
+header	education	TRAINING TOURS AND EXTRA COURSES:
+content	education	· Industrial Training in Rourkela Steel Plant(R.S.P)
+content	education	· Summer Training on “T&D” at “OPTCL” Bhubaneswar
+header	project	PROJECT WORKS:
+content	experience	· A project on“TELEPHONE CONTROLLED SPEED CONTROL OF D.C MOTOR”,by using pulse width modulation(PWM)methods.
+content	experience	· Making a full size “500VA INVERTER “using modern electronic technique
+header	others	ACHIEVEMENTS:
+content	others	· Participated and won the 1st prize in painting in intercollege painting competition held at GITA Bhubaneswar.
+content	others	· Participated in college and school level debate and essay competition and received prizes from Government of Orissa
+content	others	· Participated in intercollege Basketball tournament-10, in our college
+content	others	· Participated and represented my college in many Rock Band Competition as a lead guitarist.
+content	others	· Received the participation certificate from National Level “ART COMPITION” held at New Delhi.
+header	others	PERSONAL INTERESTS:
+content	others	2 Playing Guitar and composing new song..
+content	others	3 Painting, sketching.
+content	others	4 Watching and playing cricket, tennis
+content	others	5 Watching documentary movies and art move.
+content	others	6 Reading novels
+header	others	PERSONAL PROFILE
+meta	others	Name : VIVEK MISHRA
+meta	others	Sex : Male.
+meta	others	Date of Birth : 8th JULY 1988.
+meta	others	Mother’s Name : Mrs. Ranjita Mishra
+meta	others	Father’s Name : Mr. Dillip Kumar Mishra
+header	others	DECLARATION
+meta	others	I, hereby declare that the above statements made complete and true to the best of my knowledge.
+meta	others	VIVEK MISHRA
+meta	others	Date-Place-

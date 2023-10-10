@@ -1,0 +1,82 @@
+meta	others	Rama Krishna
+meta	others	ARROLU RANI
+meta	others	Mobile : +91 -7702346525
+meta	others	Email : a.rani7496@gmail.com
+header	others	OBJECTIVE
+content	others	To join a Software Organization that yields out my learning and transforms me into a human capital with due course of time and enhances the qualities like creativity and innovation.
+header	others	PROFESSIONAL SUMMARY
+content	experience	· UI Designer & Developer with 2.4 years of experience.
+content	experience	· Having 2 years of experience in designing and developing Websites.
+content	experience	· Solid understanding of Web Development.
+content	experience	· Having knowledge on Illustrator and Photoshop.
+content	experience	· Having knowledge on Wireframes, Wireframes, Storyboards, user flows, Process flows and Site maps.
+content	experience	· Coordinating with other teams across the organization for efficient work progress.
+header	knowledge	SKILLS
+content	knowledge	Web Technologies : HTML, CSS, Bootstrap, Java Script, jquery
+content	knowledge	Tools &IDES : Photoshop, Illustrator, Sublime text, Atom
+content	knowledge	Operating Systems : Windows 7/8/10/XP
+header	experience	WORK EXPERIENCE
+content	experience	Working as an UI Designer & Developer in Dmonks Software LLP since August 2016 to till now.
+content	experience	UI Designing & Developing:
+content	experience	Roles and Responsibilities:
+content	experience	· Worked with management team to find and produce creative solutions for new marketing
+content	experience	· Present the design ideas and concepts to colleagues, clients, and executives.
+content	experience	· Create storyboards, sitemaps, and process flow charts to explain design ideas.
+content	experience	· Developed design documents and provided estimates for the client requirements
+content	experience	· Developed the user interface with HTML, HTML5, CSS, CSS3, JavaScript, jQuery
+content	experience	· Used Responsive Web Design templates to meet cutting-edge technology requirements
+content	experience	· Implemented Page Optimization techniques for web pages, Best Practices in JavaScript and handled Cross Browser compatibility issues in web pages.
+header	education	EDUCATIONAL QUALIFICATION
+content	education	· S.S.C from Good Shepherd high School in the year 2012 with an Aggregate of 80%.
+content	education	· Intermediate(MPC) from Sri Gayatri Junior College in the year 2012with an Aggregate of 85.6%.
+content	education	· Computer Science and Engineering ( BTech) from Institute of Aeronautical Engineering, Dundigal, Hyderabad in the year 2016 with an Aggregate of 79.17%
+header	project	PROJECTS
+content	project	Project : Dmonks
+content	experience	Environment : HTML, CSS, Bootstrap, Java Script, Photoshop.
+content	experience	Link : https://dmonks.com/#home
+content	experience	Description :
+content	experience	The Dmonks Software is a service based software company. The main objective is to provide the best quality of website based on the client’s requirements help them in achieving their business targets.
+content	experience	Roles & Responsibilities:
+content	experience	· Designing Website Template using Photoshop and developing user interfaces using HTML.
+content	experience	· Designing social media posters.
+meta	others	_____________________________________________________________________________________
+header	project	Project : Stenable
+content	experience	Environment : HTML, CSS, Bootstrap, Java Script, Photoshop.
+content	experience	Link : http://www.stenable.com/
+header	experience	Description :
+content	experience	The Stenable is recruiting process company.
+content	experience	Roles & Responsibilities:
+content	experience	· Designing Website Template and Logo using Photoshop and developing user interfaces using HTML.
+meta	others	_____________________________________________________________________________________
+header	project	Project : Supra Builders
+content	experience	Environment : Photoshop and Illustrator.
+content	experience	Link : http://www.supra.builders/
+content	experience	Description :
+content	experience	The Supra builders is a website based on construction field.
+content	experience	Roles & Responsibilities:
+content	experience	· Designing Website Template and Logo using Photoshop and developing user interfaces using HTML.
+content	experience	· Designing social media posters.
+meta	others	_____________________________________________________________________________________
+header	project	Project : Apex
+content	experience	Environment : Html, CSS, Bootstrap, Photoshop and Illustrator.
+content	experience	Link : https://apexdentalcentre.com.au/
+content	experience	Description :
+content	experience	The Apex is a Dental hospital.
+content	experience	Roles & Responsibilities:
+content	experience	· Designing Website Template and Logo using Photoshop
+content	experience	· Designing social media posters.
+meta	others	_____________________________________________________________________________________
+content	experience	Project : Solo Ready
+content	experience	Environment : HTML, CSS, Photoshop and Illustrator.
+content	experience	Link : http://www.soloready.com.au/
+content	experience	Description :
+content	experience	The Solo Ready is a Driving school.
+content	experience	Roles & Responsibilities:
+meta	experience	· Designing Website Template and Logo using Photoshop and developing user interfaces using HTML.
+content	others	_____________________________________________________________________________________
+meta	others	I hereby declare that the information furnished above is true to the best of my knowledge.
+meta	others	Place
+meta	others	: Hyderabad
+content	others	Date
+meta	others	:
+meta	others	( A. Rani )

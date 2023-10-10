@@ -1,0 +1,156 @@
+meta	others	Khyati R
+meta	others	E-mail : vishsurti88@gmail.com
+meta	others	Mob. No. 8849124327
+meta	others	Vaishali Kori
+header	others	OBJECTIVE
+content	others	To succeed in an environment of growth and excellence and earn a job which provides me job satisfaction and self development and help me achieve personal as well as organizational goals.
+header	experience	WORK EXPERIENCE
+content	experience	1. Search Overseas Pvt Ltd Gandhinagar
+content	experience	Period
+content	experience	· March 17 to till date
+content	experience	Position
+content	experience	· Team Manager / HR Manager
+header	experience	Job Profile
+content	experience	· Responsible to do recruitment.
+content	experience	· Follow start to end recruitment process.
+content	experience	· Provide initial product training.
+content	experience	· Attending telephonic & e-mail inquiries.
+content	experience	· Meeting the walk-ins and counseling them.
+content	experience	· Meet enrolled students on regular basis and check if they any issues.
+content	experience	· Arranging activities on weekly basis for students.
+content	experience	· Managing a team of 2 tele callers and 3 counselors.
+content	experience	· Making presentations for counseling.
+content	experience	· Taking care of enrollment process.
+content	experience	2. Shree Balaji Agora Mall Ahmedabad
+header	experience	Period
+content	experience	· March 14 to Nov 14
+content	experience	Position
+content	experience	· Marketing Manager
+header	experience	Job Profile
+content	experience	· Responsible to take care of all the marketing activities.
+content	experience	· Arranging road shows to promote the product.
+content	experience	· Meet clients who would be interested to buy shops at the mall.
+content	experience	· Arranging activities at the mall to attract walk-ins.
+content	experience	· Managed a team of 3 executives.
+content	experience	· Making presentations.
+header	experience	3. Planet M Ahmedabad
+content	experience	Period
+content	experience	· Jan 12 to Feb 14
+content	experience	Position
+content	experience	· Director
+header	experience	Job Profile
+content	experience	· Planet M was a job placement company.
+content	experience	· We did recruitments in various sector, i.e.,Finance, BPO and FMCG.
+content	experience	· Managed a team of 5 recruiters.
+content	experience	· Did all recruitment activities, starting from resume screening to enrollment.
+content	experience	· Arranged mega walk-in drives at my office.
+content	experience	· Taking care of enrollment process.
+header	experience	4. Infibeam.com (NSI Infinium Pvt. Ltd.) Ahmedabad .
+content	experience	Period
+content	experience	· Sept 10 to Oct 11
+content	experience	Position
+content	experience	· Customer Service Representative
+header	experience	Job Profile
+content	experience	Period
+content	experience	Position
+content	experience	Job Profile
+content	experience	· Servicing the existing clients
+content	experience	· Taking incoming calls from the existing as well new customers.
+content	experience	· Making outing calls and resolving customer’s queries, and satisfying them by providing complimentary gifts.
+content	experience	· Responsible for making verification calls to customers.
+content	experience	· Taking care that the customer service process and internal procedures are followed properly .
+content	experience	· Keep a close track on work in process, customer complaints and accounts receivables.
+content	experience	· April 11 to Oct 11
+content	experience	· Sr. Customer Service Representative
+content	experience	· Solve customer queries by replying them in E mails.
+content	experience	· Making calls to customers who have posted about Infibeam.com on social networking sites like; Mouthshut.com.
+content	experience	· Also take escalations.
+content	experience	· Monitor the new newly joined executives and also train them.
+header	experience	5. Indiamart Intermesh. Ltd. Ahmedabad .
+content	experience	Period
+content	experience	· Dec 09 to Aug 10
+content	experience	Position
+content	experience	· Assistant Manager – Client Servicing
+header	experience	Job Profile
+content	experience	· Servicing the existing clients
+content	experience	· Achievement of monthly, quarterly and annual sales targets by generating revenue from existing paid members.
+content	experience	· Per client revenue optimization.
+content	experience	· Responsible for client retention or no loss of accounts.
+content	experience	· Ensure strict adherence of sales process and internal procedures.
+content	experience	· Keep a close track on work in process, customer complaints and accounts receivables.
+content	experience	· Ensure timely delivery of services to clients.
+header	experience	6. Infocom Network Pvt. Ltd. Ahmedabad .
+content	experience	Period
+content	experience	· Aug 08 – Nov 09
+content	experience	Position
+content	experience	· HR Associate (State – Gujarat)
+header	experience	Job Profile
+content	experience	Recruitment & Selection:
+content	experience	· Maintaining candidate’s database.
+content	experience	· Involved in full-cycle recruiting and staffing management.
+content	experience	· Responsible for all stages of recruitment process recruiting from database and from the internet, interviewing, screening negotiating Salary and reference-checking candidates prior to being submitted to the client.
+content	experience	· Forward short listed candidates to functional heads.
+content	experience	· Telephonic screening/Interviewing candidates.
+content	experience	· Validating the profiles as per the requirements
+content	experience	· Negotiating salary with prospective candidates .
+content	experience	· Follow up with the candidates.
+content	experience	· Following up on candidate status & discussing offers to be made.
+content	experience	Joining and Induction:
+content	experience	· Issuing Offer letter and appointment letter
+content	experience	· Conducting joining formalities
+content	experience	· Providing an overview of the organization
+content	experience	· Keeping the track of employee details.
+content	experience	Wage and Salary Administration
+content	experience	· Punching of details into payroll of State
+content	experience	· Attendance posting and salary process
+header	experience	Exit:
+content	experience	· Responsible for exit formalities and settlements.
+content	experience	· Updating details for internal system
+content	experience	· Conducting Exit interview
+header	experience	7. Aegis BPO Ltd. Ahmedabad
+content	experience	Period
+content	experience	· Feb 07 – April 08
+content	experience	Position
+content	experience	· Customer Care Executive
+header	experience	Job Profile
+content	experience	· Attending incoming calls from BPL sim card users .
+content	experience	· Solving queries of the customers .
+content	experience	· Maintaining a quality level in the speech while talking to customers .
+content	experience	· Maintaing the call duration , by providing proper information in limited time.
+header	education	EDUCATIONAL QUALIFICATIONS
+content	education	Degree/ Certificate
+content	education	Institute/ University
+content	education	Year of Passing
+content	education	Percentage
+content	education	S.S.C.
+content	education	GSEB
+content	education	2004
+content	education	1st class
+content	education	H.S.C.
+content	education	GSEB
+content	education	2006
+content	education	1st class
+content	education	Bachelor of Science
+content	education	Gujarat University
+content	education	2009
+content	education	distinction
+content	education	computer proficiency
+content	education	Good in MS Word and MS Excel.
+header	knowledge	STRENGTHS
+content	knowledge	· Ability to work independently and as part of a team.
+content	knowledge	· Strongly self-motivated, committed, creative and willing to assume responsibility.
+content	knowledge	· Ability to achieve best possible results under extreme work pressure.
+content	knowledge	· Good communication and interpersonal skills.
+content	knowledge	· Hardworking and Committed.
+header	others	INTERESTS
+meta	others	· Interacting with new people.
+meta	others	· Listening music.
+meta	others	· Reading fiction books.
+header	others	PERSONAL DETAILS
+meta	others	Date of Birth:
+meta	others	21.12.1988
+meta	others	Marital Status: Married
+meta	knowledge	Languages known:– English, Hindi and Gujarati.
+header	others	Address:
+meta	others	194/1, Sector 5-A,
+meta	others	Gandhinagar-382006

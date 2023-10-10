@@ -1,0 +1,91 @@
+meta	others	______________________________________________________
+meta	others	RESUME
+meta	others	ANKIT GUPTA
+meta	others	Email ID-ankitdengre12345@gmail.com
+meta	others	S/O Mr. Hari Ram Dengre Contact: +919873063937, 9795216191
+meta	others	ADD-13, hingan katra, Jhansi,(U.P.)
+header	others	OBJECTIVE:
+content	others	Seeking a career in Telecom field, which offers challenging opportunities, where I can share and show my abilities & talent and contribute to the growth of the organization as a part of the team.
+header	experience	Work Experience:
+content	experience	Nov 2010 to Oct 2011, Ericsson India Pvt Ltd(Off-Role).
+content	experience	Integration & Maintenance Engineer
+content	experience	· Working in lucknow for BSNL UP EAST 2G,3G project for Maintenance of equipments.
+content	experience	· Worked as a Integration Engineer at Ericsson India Pvt. Ltd., Mumbai for VODAFONE 3G project.
+content	experience	· Worked as an Integration Engineer at Ericsson India Pvt. Ltd Indore. For IDEA 3G project.
+content	experience	· Troubleshooting of alarms and rectifying the occurred problems during Integration.
+content	experience	June 2010 to November, Nagar Comm. Pvt. Ltd.
+content	experience	Quality Engineer
+content	experience	· Working as a Quality Engineer for Nagar comm.pvt. Limited, Delhi a vendor company of Ericsson India pvt. ltd.
+content	experience	· Installation Engg. In Airtel Project in Delhi during installation of 3G.
+content	experience	· Handling a team of 4 persons and supervising the quality and Installation process.
+header	others	STRENGTHS:
+meta	others	•
+content	others	I can work in challenging environment and under pressure
+meta	others	•
+content	others	Ability to work in a team
+meta	others	•
+meta	others	Fast learning skills
+content	others	• Hard worker
+header	knowledge	QUALIFICATION:
+content	knowledge	B TECH –
+content	knowledge	BRANCH : ELECTRONICS & COMMUNICATION INSTITUTE : BABU BANARASI DAS NATIONAL INSTITUTE OF TECHNOLOGY & MANAGEMENT , LUCKNOW.
+header	education	ACADEMIC PROFILE:
+content	education	COURSE
+content	education	BOARD
+content	education	YEAR
+content	education	PERCENTAGE
+content	education	HIGH SCHOOL
+content	education	U.P. Board
+content	education	2003
+content	education	66.50
+content	education	INTERMEDIATE
+content	education	U.P. Board
+content	education	2005
+content	education	68.40
+content	education	B. TECH.
+content	education	UPTU, LUCKNOW
+content	education	2010
+content	education	74.23
+header	knowledge	TECHNICAL SKILLS:
+content	knowledge	· Signals & System.
+content	knowledge	· Network Analysis & Synthesis.
+content	knowledge	· OPAMP.
+content	knowledge	· Automatic Control System.
+header	project	PROJECT:
+content	project	Optical Faber Application
+content	project	INDUSTRIAL TRAINING
+content	project	Organization
+meta	others	:
+content	project	BHARAT HEAVY ELECTRICALS LIMITED.
+content	project	Department
+meta	others	:
+content	project	TELECOM DEPARTMENT
+content	project	Duration
+meta	others	:
+content	project	4 Weeks
+content	project	Description
+meta	others	:
+content	project	Analysis of various activies of telecom field of gsm and 3G.
+header	knowledge	COMPUTER PROFICIENCY:
+content	knowledge	Technical : C,Data Structures, BASIC Language
+content	knowledge	Operating System : Windows 98/XP/7/ Vista.
+content	knowledge	Application : MS Word, MS Excel, MS PowerPoint, Internet
+header	others	EXTRA CURRICULAR ACTIVITIES:
+content	others	· Delivered a power point presentation on Optical Fiber Communication.
+content	others	· Got first prize in G K competition in 1999.
+content	others	· Got first prize in BHARATIYA GYAN PARICKSHA.
+content	others	· Got 98.70 percentile in GATE 2010.
+content	others	· ISRO EXAM 2010 qualified.
+header	others	PERSONAL PROFILE:
+meta	others	Father’s Name: Mr. Hari Ram Dengre
+meta	others	Date of Birth:
+content	others	June 30th, 1988.
+header	others	Sex:
+meta	others	Male
+meta	others	Marital Status: Single.
+meta	others	Hobbies: Solve SUDOKU, Playing Cards.
+header	others	Declaration:
+meta	others	I here by declare that the information furnished above is true to the best of my knowledge.
+meta	others	Place: Noida
+meta	others	Ankit gupta
+meta	others	Date: 17/12/2011

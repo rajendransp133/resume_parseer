@@ -1,0 +1,114 @@
+header	others	RESUME
+meta	others	DEEPAK RANGANATH
+meta	others	Mobile: 9731874687 ( E-Mail: trojandeep@gmail.com
+header	experience	CAREER SYNOPSIS
+content	experience	Graduate (B.Com) – with over 8 years of experience in Brokerage, Motor Insurance and Finance process.
+content	experience	Has good analytical skills and Possess excellent interpersonal, communication & organizational skills with proven abilities in team management and customer relationship management. Skilled in handling process transitions – onsite and offsite.
+header	education	ACADEMIC CREDENTIALS
+content	education	B.Com
+content	education	2004
+content	education	Mysore University
+content	education	Diploma in Computer Science
+content	experience	1999
+content	experience	ISCOT
+header	experience	PROFICIENCY FORTE
+header	experience	Assistant Unit Manager
+content	experience	· Handling transaction processing team of seven, Responsible for Personnel Development, Career Planning, and growth of team members
+content	experience	· Process Improvement and Development, Client Interaction and Client Management
+content	experience	· Transition of a Brokerage process both Retail & Institutional business from the US across Bangalore and Chennai and also responsible for training batches in India and setting up the process
+content	experience	· Monitoring the overall functioning/performance of the projects, identifying improvement areas and implementing adequate measures to maximize customer satisfaction level and generating revenue
+header	experience	Financial Analyst
+content	experience	· Initial approver & preparer for Journal Entries
+content	experience	· Balance Sheet Reconciliation and preparing Inter-Company Request Forms
+header	experience	Initial Underwriter
+content	experience	· Conducting Survey for the UK Motor Insurance
+content	experience	· Issuing Quotation for New Business and final documents to Underwriters
+header	experience	E-Customer Consultant
+content	experience	· Responsible to convince the customers to avail loans for Citi Loans project
+header	experience	ORGANISATIONAL SCAN
+content	experience	Sep’04 – till date
+content	experience	Mphasis, an HP company, Bangalore
+content	experience	Assistant Unit Manager
+header	experience	Key Deliverables:
+content	experience	· Managing team performance, staff management, meeting SLA’s
+content	experience	· Preparing timely reports such as Quality, Productivity, Key Result Area’s and conduct Product Knowledge Tests on monthly basis
+content	experience	· Responsible for Personnel development, Career planning, Mentoring and Coaching
+content	experience	· Monitoring quality and productivity of the associates and provide timely feedback
+content	experience	· To conduct one to one with associates to discuss their performance on monthly basis
+content	experience	· Responsible to prepare Performance Incentive Plan
+content	experience	· Developing Monthly Dashboards and MIS reports to assess the performance of the unit; responsible for critical weekly, bi-weekly, monthly reports
+content	experience	· Working toward achieving critical deadlines and ability to prioritize across multiple and changing
+header	experience	Notable Attainments:
+content	experience	· Received letter of appreciation from client for ‘Outstanding Contribution & 100% quality’
+content	experience	· ‘Best Performer’ Summit award in Q3 2011
+content	experience	· Contributed for Process Improvement and Development
+header	experience	As Financial Analyst
+content	experience	Worked for Finance & Accounts process handling regions across America, EMEA & APAC
+header	experience	Key Deliverables:
+content	experience	· Initial approver & preparer for JE
+content	experience	· Worked on Balance Sheet Reconciliation
+content	experience	As Initial Underwriter
+content	experience	Worked for UK based Insurance semi-voice process, responsible for approving Quotation’s from clients.
+header	experience	Key Deliverables:
+content	experience	· Approve Quotation’s for New Business
+content	experience	· New Business Debiting and Renewal Pre-population
+content	experience	· Processing Mid-year Adjustments
+content	experience	· Conducting survey for Motor Insurance
+content	experience	· Issuing final documents to Underwriters in UK
+content	experience	Dec’03-Aug’04
+content	experience	Iseva Systems Pvt Ltd, Bangalore
+content	experience	E-Customer Consultant
+header	experience	Key Deliverables:
+content	experience	· Worked for Citi Loans project and was responsible for convincing customers to avail Loan, Credit and Debit card.
+content	experience	· Monitoring and tracking performance of all the ongoing projects; suggesting and implementing actions wherever the performance is below par.
+meta	others	.
+content	experience	IT FORTE
+content	experience	Operating System
+meta	others	:
+content	experience	Windows (95, 98, XP & 2000)
+content	experience	Applications
+meta	others	:
+content	experience	MS Office (Word, PowerPoint, Excel)
+header	others	ACHIEVEMENTS & EXTRA CURRICULAR ACTIVITIES
+content	others	· Won award for Best Choreographer for Fashion show twice (Mphasis)
+content	others	· Participated in Inter-College Competition for Cricket, Hockey & Kho-Kho
+content	others	· School Leader for Sports
+header	experience	PERSONAL DOSSIER
+meta	experience	Father’s Name
+meta	experience	:
+meta	others	P N Ranganath
+header	others	Marital Status
+meta	others	:
+meta	others	Married
+header	others	Date of Birth
+meta	others	:
+meta	others	10th February, 1981
+header	others	Residential Address
+meta	others	:
+meta	others	No. 472 5th Cross M. S. Ramaiah Nagar, Bangalore 560054
+header	others	Alternate Contact No
+meta	others	:
+meta	others	9880035135
+header	others	Passport and Visa :
+meta	others	Passport valid till Sep 2017 & US Business Visa till Dec-2019
+meta	others	REFERENCES
+meta	others	· PRIMARY CONTACT
+header	others	NAME
+meta	others	:
+meta	others	Rohit Bhotika
+header	others	DESIGNATION
+meta	others	:
+meta	others	Unit Manager - Training
+header	others	PH NO
+meta	others	:
+meta	others	7353947974
+meta	others	· SECONDARY CONTACT
+header	others	NAME
+meta	others	:
+meta	others	Mohamud Dastagir
+header	others	DESIGNATION
+meta	others	:
+meta	others	Unit Manager - Operations
+header	others	PH NO
+meta	others	:
+meta	others	9945272797

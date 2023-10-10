@@ -1,0 +1,103 @@
+header	others	RESUME
+header	others	CURRICULUM VITAE
+meta	others	SATYAM RAVAL
+meta	others	E-mail :satyamraval16@gmail.com
+meta	others	Mob : 9824304630
+meta	others	AHMEDABAD
+header	others	Objective
+content	others	To pursue and excel in a growth oriented organization in order to utilize my skills and experience
+content	others	for the growth and prosperity of the organization which will simultaneously facilitate my career
+content	others	and professional growth.
+content	others	Projects And Internship
+header	experience	SUMMER INTERNSHIP (SIP)
+content	experience	Company : Saraspur Nagrik Co-operative Bank
+content	experience	Title : “ A Study on Customer Satisfaction at Saraspur Nagrik Co-operative Bank”
+content	experience	Duration : 55 Days
+content	experience	A Project on Bajaj Auto, which I had done in MBA sem-1, It Based On Production, Marketing And Finance
+content	experience	Department.
+content	experience	COMPREHENCIVE PROJECT(CP) :
+content	experience	Title : “A Project on Performance evaluation of Private Equity Mutual Funds”
+header	education	Educational Qualifications
+content	education	Degree
+content	education	Institute/School
+content	education	University/Board
+content	education	From/To
+content	education	CGPA
+content	education	MBA
+content	education	L.J.Institute of Mangement Studies
+content	education	Gujarat
+header	education	Technological
+content	education	University
+content	education	2015-2017
+content	education	7.17
+content	education	B.COM
+content	education	H.K.Commerce College
+content	education	Gujrat University
+content	education	2011-2014
+content	education	6.11
+content	education	HSC
+content	education	Axay High School
+content	education	Gujrat Board
+content	education	2011
+content	education	71.57
+content	education	SSC
+content	education	Shri R.J.Patel Shreeji Vidhyalay
+content	education	Gujrat Board
+content	education	2009
+content	education	53.54
+header	experience	Work Experience
+content	experience	Current Company Name
+content	experience	: SUPREME TRANSPORT SOLUTIONS PVT LTD
+content	experience	Position
+meta	others	:
+content	experience	Accountant Assistant
+header	experience	Responsibilities
+content	experience	· Responsible for Accounting / Document Management and clerical jobs of the company.
+content	experience	· Recording of expenses & Purchases and materials delivery.
+content	experience	· Bank Reconciliation
+content	experience	· Checking vouchers with supporting documents.
+content	experience	· Preparation of Vouching Notes.
+content	experience	· Make profit & Loss report and submit to the Manager.
+content	experience	· Analyze cash flow and suggest effective method to increase the profitability of the organization.
+content	experience	· Keep and track all company related documents like, Proposals, Delivery orders, and retrieve them in no time,when required by the relevant employees.
+header	knowledge	Computer skills
+content	knowledge	Basic Knowledge about computer Software and Hardware, Microsoft office, Tally ERP9,
+content	knowledge	Personal traits
+content	knowledge	Ability to learn things fast
+content	knowledge	Takes responsibility, creative
+content	knowledge	Self confident with positive mind set
+header	knowledge	Languages Known
+content	knowledge	English, Hindi ,Gujrati
+header	others	Personal Information
+meta	others	Contact No
+meta	others	:
+meta	others	9824304630
+meta	others	Sex
+meta	others	:
+meta	others	Male
+meta	others	Date of Birth
+meta	others	:
+meta	others	4th january1995
+meta	others	Nationality
+meta	others	:
+meta	others	Indian
+meta	others	Religion & Community
+meta	others	:
+meta	others	Hindu
+meta	others	Marital status
+meta	others	:
+meta	others	Single
+meta	others	.
+meta	others	References
+meta	others	1 .Bhuvnesh Mehta
+meta	others	Supreme Transport Solutions Pvt Ltd
+meta	others	General Manager
+meta	others	MOB:9376038883
+meta	others	2 Nilesh Patel
+meta	others	Assistant Professor
+meta	others	SAL College Of Management
+meta	others	MOB :9925937375
+meta	others	DECLARATION
+meta	others	I hereby declare that the above mentioned details are true to best of my knowledge and belief
+meta	others	Place: Ahmedabad Satyam Raval
+meta	others	Date:

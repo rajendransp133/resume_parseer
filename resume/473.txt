@@ -1,0 +1,83 @@
+meta	others	CURRICULUM VITAE
+meta	others	SAGARDEEP ROY
+meta	others	roy.sagard@gmail.com
+meta	others	9051293686 [M]
+meta	others	CURRICULUM VITAE
+meta	others	43/3, P.K.GUHO LANE, MODERN PARK,
+meta	others	DUMDUM CANTONMENT,
+meta	others	KOLKATA-700028
+meta	others	Mobile No. 9051293686
+meta	others	Email ID: roy.sagard@gmail.com
+header	others	CAREER OBJECTIVE
+content	others	Intend to build a career with leading corporate of hi-tech environment with committed & dedicated people, which will help me to explore myself fully and realize my potential.
+header	knowledge	SOFTWARE PROFICIENCY
+header	knowledge	Languages
+content	knowledge	C, C++,JAVA,C#
+header	knowledge	Database
+content	knowledge	Oracle 8i,MS-SQL
+content	knowledge	Operating Systems
+content	knowledge	Windows 98, 2000,XP
+header	knowledge	Web Designing
+content	knowledge	JAVA SCRIPT, HTML, XML, CSS
+header	knowledge	Development Methodology
+content	knowledge	Object Oriented Programming
+content	knowledge	Awareness
+content	knowledge	Networking, Software Testing, Software Development Life Cycle, Data Structures,J2EE,ASP.NET
+header	education	ACADEMIC QUALIFICATIONS
+content	education	EXAM / DEGREE
+content	education	YEAR
+content	education	NAME OF INSTITUTE
+content	education	UNIVERSITY / BOARD
+content	education	PERCENTAGE
+content	education	B.Tech. (CSE)
+content	education	2011
+content	education	Calcutta Institute Of Technology
+content	education	West Bengal University Of Technology
+content	education	72.6%
+content	education	12th Board
+content	education	2007
+content	education	Kendriya Vidyalaya No1
+content	education	, Salt Lake
+content	education	CBSE
+content	education	72.4%
+content	education	10th Board
+content	education	2005
+content	education	Kalyani Central Model School
+content	education	CBSE
+content	education	84.5%
+header	project	PROJECT DETAILS
+header	project	Project Title
+content	project	Online job portal
+header	project	Platform
+content	experience	J2EE platform using ORACLE as backend
+header	project	Description
+content	experience	This is a web-application primarily developed for the job seekers to find their suitable jobs .This also serves as a platform for employers to search and select there would be employers more efficiently
+content	experience	Role
+content	experience	Designed ,developed and tested.
+content	experience	TRAINING
+content	experience	Oracle
+content	experience	Training on RDBMS Concepts and Oracle with grade of “A” designed and developed by IBM, the course was conducted by Moniba Compu Academy Pvt. Ltd.
+content	experience	C#
+content	experience	Training on C# Programming, The Course was conducted by Aptech Computer Education .
+header	knowledge	PERSONAL SKILLS
+content	knowledge	· Comprehensive problem solving abilities.
+content	knowledge	· Excellent verbal and written communication skills.
+content	knowledge	· Ability to deal with people diplomatically.
+content	knowledge	· Willingness to learn team facilitator hard worker.
+header	others	ACHIEVEMENTS & EXTRA CURRICULAR
+content	others	· Participated in college and school level debate and essay competition and received applauds.
+content	others	· Event organizer in all school and college annual day functions and other technical events.
+header	others	PERSONAL PROFILE
+header	experience	Address
+meta	others	: 43/3,P.K.Guha Lane, Modern Park, Dum Dum Cantonment
+meta	experience	Kolkata-700028, West Bengal, India
+meta	others	Fathers Name : Pradip Roy
+meta	others	Mothers Name : Manika Roy
+header	others	Contact
+meta	others	: [R] (033)-2590-1029, [M] 9051293686
+meta	others	Date of Birth : 12th September, 1989
+meta	others	Nationality : Indian
+meta	others	Hobbies : Playing Sports, Reading novels, Watching movies, Listening music and Social networking,
+content	knowledge	Languages Known : English, Bengali, Hindi
+header	others	Declaration:
+content	others	I here by declare that above information is correct to the best of my knowledge and belief.

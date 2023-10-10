@@ -1,0 +1,94 @@
+meta	others	Abhijit Raokhande
+meta	others	SAP Functional Consultant for MM Module
+meta	others	With 5.0 + years of experience in SAP implementation and support
+meta	others	Current Address: Contact Details:
+meta	others	Sr.No 285/286, Flat no 1,B-16 Saraswati Raj park Mobile: +91-9689823572
+meta	others	Keshav Nagar, Chinchwad-411033 Email: abhi24686@gmail.com
+meta	others	Pune
+meta	others	India
+header	experience	Professional Summary:
+content	experience	· SAP Functional Consultant for SAP MM module with 5.0+ years of experience in E2E SAP implementation and suppot.
+content	experience	· 2 years of comprehensive experience in Project Management and Supply Chain Management
+content	experience	· 4.0+ of experience as end user for SAP PS module.
+header	knowledge	Summary of SAP/ERP skills:
+content	knowledge	Skill/Technology
+content	knowledge	Period working
+content	knowledge	Details
+content	knowledge	SAP-MM
+content	knowledge	Dec-11 to April-17
+content	knowledge	· Member of SAP Implementation Team (MM Module)
+content	knowledge	· SAP Support
+content	knowledge	SAP-PS
+content	knowledge	Jul-12 to April-17
+content	knowledge	· End user
+header	experience	Employment Summary:
+content	experience	Organization
+content	experience	Period working
+content	experience	Roles / Responsibilities
+content	experience	Thermax Ltd, Heating
+content	experience	April-17 to Oct-17
+content	experience	SAP Consultant - Support Project
+content	experience	Sulzer India Pvt. Ltd, Pune (formerly known as Sulzer India Ltd)
+content	experience	Dec-11 to April-17
+content	experience	SAP-Implementation and Support
+content	experience	Kay Bouvet Engg.Pvt Ltd
+content	experience	Oct-08 to Oct-10
+content	experience	Project Management and Supply Chain Management
+content	experience	Details of Current Employments:
+content	experience	Current Organization : Thermax Ltd, Heating
+content	experience	Current Location : Chinchwad, Pune, Maharashtra,India
+content	experience	Period : April-17 to Oct-17
+content	experience	Role : Project Manager
+header	knowledge	Good Knowledge of:
+content	knowledge	· Organisation Structure
+content	knowledge	· Various Master Data in materials management
+content	knowledge	· P2P Cycle and Standard & Special Procurement Processes
+content	knowledge	· Release Procedure for purchasing documents
+content	knowledge	· Pricing Procedure for POs
+content	knowledge	· Integration with other modules as SD / FI / CO etc.
+content	knowledge	· Automatic Account Determination for various goods movement
+content	knowledge	· Unit Testing
+header	experience	Roles and Responsibilities:
+content	experience	As a part of SAP implementation core team member was involved in below mentioned activities relatetd to materials management:
+content	experience	· Preparing Project Plan and SAP overview
+content	experience	· Understand the business requirements, preparing AS-IS and TO-BE document, performing GAP analysis for AS-IS and IS-TO-BE business process and finalisation of Business Blue Print
+content	experience	· Defining organization structure of materials management like purchase organization, valuation area, plants, storage location etc.
+content	experience	· Maintain master data for various objects like material master, vendor master, Info-records, source list etc.
+content	experience	· Configuration of release procedure for purchasing document like Purchase requisition and purchase order
+content	experience	· Perform Unit Testing and Integration testing with other module PM, PP, SD and FICO
+content	experience	· Preparing the user manual and imparting training to business process owners
+content	experience	· Go-live preparation and post go live support
+content	experience	SAP Support – MM Module:
+content	experience	· Primarily responsible for handling remedy tickets and application support to the end users
+content	experience	· Diagnose, analyze and solve the issue
+content	experience	· Raising Change Requests (CRs) and writing functional specifications and interacting with ABAPers
+content	experience	· Preparing test data for testing CRs; testing CRs and preparing test results; migrate to production with the help of BASIS team
+content	experience	· Help in extracting various reports, master data upload etc.
+content	experience	· Taking timely review of tickets handled by team; keep close eye on SLA for remedy tickets
+content	experience	Project Management and Supply Chain Management:
+content	experience	· Project Planning and Scheduling
+content	experience	· Handling the Kick-off meetings and discussions with client
+content	experience	· Assure that all Project team members are familiar with scope & specifications of project
+content	experience	· Formulating Quarterly & Monthly requirement Plan; ensuring overall inventory targets are in line with corporate Goal
+content	experience	· Devising Strategy to make supply chain effective
+content	experience	· Effectively define and follow the P2P cycle for procurement
+content	experience	· Responsible for assuring all scope changes are maintained in records and are promptly transmitted to the client for resolution
+content	experience	· Close Co-ordination with all concerned departments
+content	experience	Details of onsite travel and visas:
+content	experience	Country visited
+content	experience	Period
+content	experience	Type of Visa
+content	experience	Visa validity
+content	experience	South Korea
+content	experience	Dec-14
+content	experience	ECONOMY
+content	experience	Mar-15
+content	experience	Details of Educational qualification:
+content	experience	BE (Production) from K.B.P COLLEGE OF ENGINEERING SATARA with first class-63.52% (April-2008)
+header	others	Personal details:
+meta	others	Date of Birth :June 25, 1986
+meta	others	Nationality : Indian
+meta	others	Marital status : Married
+meta	others	Passport No. : India – G3342860
+meta	others	Name: Abhijit Raokhande
+meta	others	Place: Pune Date:

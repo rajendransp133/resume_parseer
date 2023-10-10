@@ -1,0 +1,74 @@
+meta	others	Shubham Goud
+meta	others	Phone: (+91)9907638884
+meta	others	E-mail: goudshubham5@gmail.com
+meta	others	___________________________________________________________________________
+header	others	Career objective
+content	others	To be associated with the organization where my skills find opportunities for up-gradation of my knowledge and growth of my career with the growth of company.
+header	education	Educational details
+content	education	Completed B.E. with CS branch from Alpine institute of technology
+content	education	CGPA OF VlII sem: 6.38
+content	education	Schooling
+content	education	Class
+content	education	Name of School
+content	education	Board
+content	education	Marks
+content	education	X (2010-11) Govt Girls Higher S.School, Sarafa Ujjain
+content	education	M.P. 53.2%
+content	education	Xll (2012-13)
+content	education	Lokmanya Tilak Higher S.School, Ujjain
+content	education	M.P. 52.6%
+header	education	Training and Certification
+content	education	· C/C++ Training and Certification form ASTIER Informatics Pvt.Ltd. , Ujjain
+content	education	· Java Training and Certification from ASTIER Informatics Pvt.Ltd., Ujjain
+header	knowledge	Professional Skills
+header	knowledge	Technical skills
+content	knowledge	· Languages & Tools: C, C++, Java, SQL,
+content	knowledge	· Software: MySQL, Tomcat.
+header	knowledge	Subjective Skills
+content	knowledge	· Operating system.
+content	knowledge	· Software engineering.
+content	knowledge	· Database management system.
+header	project	Project Undertaken
+header	experience	Minor
+content	experience	· Title :Foodies
+content	experience	· Description: The main objective of this project is planning, organizing, managing the ordering food online.
+content	experience	· Tool used :Java Script , Servlet , MySQL, RDBM,W3.CSS
+content	experience	· Team Member :2
+content	experience	· Key learning: website provide a computerized version of Ordering Food which will benefit the customers and shop owner
+header	experience	Major
+content	experience	· Title : Just Park Here
+content	experience	· Description: The main objective of this project is organizing and managing the parking of car and bike
+content	experience	· Tool used: Java Script , Servlet , MySQL, RDBM,W3.CSS
+content	experience	· Team member : 2
+content	experience	· Key learning : website provide a online parking in city area and also rent your space in it.
+header	others	Personal details
+meta	others	
+header	others	Fathers name
+meta	others	:
+meta	others	Jagannath Singh Goud.
+meta	others	
+meta	others	D.O.B.
+meta	others	:
+meta	others	23/12/1995.
+meta	others	
+header	knowledge	Languages known
+meta	knowledge	: Hindi, English & Marathi.
+meta	others	
+header	others	Address
+meta	others	:
+meta	others	67,Sudama Nagar ,Ujjain
+header	knowledge	Strengths
+meta	knowledge	· Adaptability.
+meta	knowledge	· Honesty.
+meta	knowledge	· Team work.
+meta	knowledge	· Punctuality.
+meta	knowledge	· Optimistic approach.
+header	others	Hobbies & Interests
+meta	others	· Playing Cricket.
+meta	others	· Cycling.
+meta	others	· Listening to music.
+meta	others	· Dancing.
+header	others	Declaration
+meta	others	I do Hereby declare that the above information is true to the best of my knowledge.
+meta	others	Place : Ujjain
+meta	others	Date : Shubham Goud

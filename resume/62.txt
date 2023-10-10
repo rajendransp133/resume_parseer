@@ -1,0 +1,58 @@
+header	others	CURRICULUM VITAE
+meta	others	SONU BALIRAM METHRE
+meta	others	Email: sonumethre1@gmail.com Phone: +91-9611624053
+header	others	CAREER OBJECTIVE
+content	others	Seeking a challenging position in a company where by my academic background, interpersonal and analytical skills can be utilized and developed.
+header	education	EDUCATION QUALIFICATION
+content	education	Qualification
+content	education	Discipline/
+content	education	Specialization
+content	education	School/College
+content	education	University
+content	education	Year of Passing
+content	education	AggregatePercentage
+content	education	B.COM
+content	education	Commerce
+content	education	Sai Gajanan Educational Foundation, Jalgaon,Maharashtra
+content	education	VIVEKANAND
+content	education	VIDNYANPEETH
+content	education	2018
+content	education	67
+content	education	HSC
+content	education	Commerce
+content	education	Dayanand Commerce Junior College, Latur
+content	education	Maharashtra State Board
+content	education	2015
+content	education	57
+content	education	SSC
+content	education	Sant Namdev Vidyalaya, Latur
+content	education	Maharashtra State Board
+content	education	2013
+content	education	73
+content	education	*No backlogs
+header	knowledge	SKILLS
+content	knowledge	· Basic Computer Knowledge
+content	knowledge	· MS-Word
+content	knowledge	· MS-PowerPoint
+content	experience	· MS-Excel
+header	others	EXTRACURRICULAR ACTIVITIES
+content	others	· Participated in painting, quiz, Dancing and sports in school level.
+header	knowledge	PERSONAL STRENGTH
+content	knowledge	· Flexible to both people and places
+content	knowledge	· Ability to work in team
+content	knowledge	· Seeking challenges
+content	knowledge	· Hardworking
+content	knowledge	· Always open to learn new things.
+header	others	PERSONAL PROFILE
+meta	others	Name : SONU BALIRAM METHRE
+meta	others	Father’s Name : BALIRAM
+meta	others	Sex : FEMALE
+meta	others	Nationality : INDIAN
+meta	others	Date of Birth : 05/06/1997
+meta	knowledge	Languages known : English, Hindi and Marathi
+meta	others	Hobbies : Playing badminton, and listening to music.
+meta	others	Permanent Address: # 18-3-271/1 Billal colony, Chidri road,
+meta	others	BIDAR-585403
+header	others	DECLARATION
+meta	others	I hereby declare that above furnished particulars are true to the best of my knowledge and belief.
+meta	others	SONU BALIRAM METHRE

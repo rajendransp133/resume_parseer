@@ -1,0 +1,72 @@
+meta	others	Email *
+meta	others	MANITEJA JENGATI
+meta	others	Email
+meta	others	mteja9700@gmail.com
+meta	others	Contact: 9700747989
+meta	others	Correspondence address:
+meta	others	# 26/4 1ST Floor,
+meta	experience	Kummara guru 2nd street,
+meta	others	Lakshmi Puram, Tiruvanmiyur,
+meta	others	Chennai-600041.
+header	others	Personal Data
+meta	others	Father Name : Reddeppa.J
+meta	others	Date of Birth : 22/04/1992
+meta	others	Sex : Male
+meta	others	Nationality : Indian
+meta	others	Marital Status : Single
+meta	others	Passport : Available Valid till 2027
+header	knowledge	Languages known
+content	knowledge	English ,Tamil & Telugu
+meta	others	Area of Interest
+meta	others	Accounts & Finance
+meta	others	Hobbies
+meta	others	Interested in watching movies, listening songs and Playing Volleyball.
+content	others	Highly Energized with 1.7 years of experience. Having a proven ability to lead by example consistently hit targets, implements best practices and organizes time efficiently.
+header	knowledge	Key Skills
+content	knowledge	· Fixed Assets Accounting
+content	knowledge	· General Ledger
+content	knowledge	· Intercompany
+content	knowledge	· GL Reconciliation
+header	knowledge	Operational Skills
+content	knowledge	· SAP
+content	knowledge	· Cadency
+content	knowledge	· BPOPEN
+content	knowledge	· Office tools: MS Office.
+content	knowledge	Microsoft Excel, Microsoft Word, Microsoft Presentation, Microsoft Outlook etc..,
+header	knowledge	Personal Strengths
+content	knowledge	· Ability to work under pressure without compromising the quality of work.
+content	knowledge	· Multitasking ability that helps to handle additional roles and responsibilities.
+content	knowledge	· Good communication and inter personal skills.
+header	others	Achievements & Awards
+content	others	· Successfully completed transition and stabilized the process from Ramp-Up to Go-Live stage.
+content	others	· Achieved Stabilization for the process by achieving green SLA’s on a continuous basis for a period.
+content	others	· Awarded raising star awards for outstanding performance.
+content	others	· Best NCC Cadit in my school.
+header	others	RESUME
+content	experience	Current Employment:
+content	experience	1. Organization : Capgemini Technology Services India Limited
+content	experience	Duration : From JUNE 2018 to JAN 2020
+content	experience	Department : R2A
+content	experience	Designation : Process Associate
+content	experience	Application : SAP
+content	experience	General Ledger Responsibilities:
+content	experience	· Preparation, validation and Posting monthly journals also recurring journals before books close.
+content	experience	· Prepare accrual and payment journal entries also re-class entries posted in SAP.
+content	experience	· Preparing and posting the quarterly journals and extracting invoices sending to plant owners.
+content	experience	· Netting between intercompany entities.
+content	experience	· Reconcile to Sub-Ledger vs GL accounts with proper substantiation..
+content	experience	· All the Cadency/Blackline reconciliations have always reached a passing percentage of 100%.
+content	experience	· Record the Capital order creation, Asset placed into services, Asset transfers and disposal of assets in SAP.
+content	experience	· Performing the Depreciation Test and Live RUN monthly and preparation of depreciation comparison report.
+content	experience	· Capital Investment Project (CIP) Report.
+content	experience	· FEBAN manual clearing and Reporting
+content	experience	· Journal Status Reporting.
+content	experience	· Administrate the Cadency tool to add, remove and edit the user and reconciliation accounts.
+content	experience	· Updating the DTP’s there are any process updates are availables.
+header	education	EDUCATIONAL DETAILS:
+content	education	B.Com from S V University, SVCC Degree College, Tirupati - 2017.
+meta	others	DECLARATION:
+meta	others	I hereby declare that the above-mentioned information is true to my knowledge and up to date. If appointed in your esteemed company, would work with dedication and prove myself as a committed member.
+meta	others	Date:
+meta	others	Place: Chennai (J.MANITEJA)
+meta	others	2

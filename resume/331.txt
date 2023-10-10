@@ -1,0 +1,54 @@
+header	others	Functional resume
+meta	others	Mr Vishal Manwar
+meta	others	+919724221321
+meta	others	C-501 ,Sun Flower Heights,
+meta	others	Opp Raysan Petrol Pump,Gandhinagar-382007
+meta	others	Mail me : vishalmanwar946@gmail.com
+meta	others	Skype id : vishal.manwar
+meta	others	Date Of Birth : 26-09-1991
+header	experience	Professional Profile
+content	experience	Work for an IT firm To enhance my working capacities, professional skills, business efficiencies and to
+content	experience	serve my organization in best possible way with sheer determination and commitment.
+content	experience	 JSP/Servlet
+content	experience	 MySQL
+content	experience	 HTML5
+content	experience	 CSS3
+content	experience	 CodeIgnitor
+content	experience	 Joomla
+content	experience	 J2EE
+content	experience	[Relevant skill]
+content	experience	 Drupal
+content	experience	 Advanced PHP With MVC
+content	experience	 JavaScript
+content	experience	 Ajax
+content	experience	 Wordpress
+content	experience	 Java
+content	experience	 Photoshop
+header	experience	Professional
+content	experience	Accomplishments
+content	experience	A) Corporate School ERP Using JSP/Servlet
+content	experience	B) Jewelry Shop Using JSP/Servlet
+content	experience	C) Web Development Using PHP With Mysql In BackEnd
+content	experience	 School Erp
+content	experience	 reyanelectrodes.com
+content	experience	 reputeindustries.com
+content	experience	 howtochangeipaddress.com
+content	experience	D) Corporate Sites Development Using PHP and CMS
+content	experience	 Bostonchairmassage.com
+content	experience	 Corextrime.com
+content	experience	 Altalouk.com
+content	experience	 Manstires.com
+content	experience	 Soatech.in
+content	experience	 L2mx.com
+content	experience	 Linked-initiatives.com
+content	experience	Work History February 24, 2013 to May 1
+content	experience	st
+content	experience	2014
+content	experience	Lecturer, Christ Polytechnic Institute, Rajkot, Gujarat
+content	experience	September 1,
+content	experience	2014 to Till Date
+content	experience	Senior Developer ,Corextrime Training Services, Ahmedabad, Gujarat
+content	experience	Freelancing Since Last 4 Years
+header	education	Education Bachelor Of Engineering In Information Technology
+content	education	Atmiya Institute Of Technology And Science
+content	others	Rajkot,Gujarat

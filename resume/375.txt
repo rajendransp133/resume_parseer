@@ -1,0 +1,60 @@
+meta	others	THIVYA SREE U
+meta	others	Mobile: 9597681459
+meta	others	Email: thivyasree2703@gmail.com
+header	knowledge	TECHNICAL PROFESSIONAL
+content	knowledge	Seeking a challenging and rewarding opportunity in the IT-Industry which is in line with my academic background and which effectively utilizes my analytical and technical skills.
+header	experience	PROFILE
+content	experience	· Dynamic & result oriented professional with cross-functional experience in managing the entire spectrum of operations, customer service delivery, customer relationship management, client servicing.
+content	experience	· Possess in knowledge of BPO operations ranging from ensuring SLAs, SOP’s, Local work instructions, Process flows and meeting the quality standards.
+content	experience	· Expertise in maintaining high standards of customer & client service, with quality & service norms to achieve customer satisfaction and business retention.
+header	knowledge	TECHNICAL SKILLS:
+content	knowledge	Operating System
+content	knowledge	Windows legacy version(Win XP , Win Vista , Win 7,8.1,10)
+content	knowledge	Other applications
+content	knowledge	MS-Offce, MS-Outlook, Bomgar
+content	knowledge	Networking&
+content	knowledge	LAN, WAN, Router and Modem Configurations
+content	knowledge	Hardware
+header	experience	PROFESSIONAL EXPERIENCE
+content	experience	CSS CORP PVT LTD, CHENNAI NOV’15 – JULY’17
+content	experience	Application Engineer
+content	experience	· Configure & Troubleshooting Netgear SOHO Routers
+content	experience	· Remote desktop assistance using Bomgar remote console
+content	experience	· Configuring Home Network &Support(IP Cam’s , Wireless Repeaters)
+content	experience	· Operating system troubleshooting(Windows XP/Vista/7/8/10 , MAC OS)
+content	experience	· Virus & Spyware removal , Configuration and troubleshooting various Email clients
+content	experience	· Developed and modified programs as part of maximising system performance.
+content	experience	· Troubleshooting with Issues related with Slow internet, Intermittent connectivity issues
+content	experience	· Mostly obtained more than 92% CSAT from customers
+header	education	ACADEMIA
+content	education	· B.Tech (Computer Science Engineering ) , Indo American Institutions of Technical Campus(Affiliated JNTU-Kakinada) , Visakhapatnam (2011-2015)
+content	education	· Intermediate from Sri Chaitanya Jn. College , Visakhapatnam (2009-2011)
+content	education	· SSC from Marvel School, Visakapatnam (2009)
+header	project	Academic Project
+content	experience	· Title : Bus Information System
+content	experience	· Over-view : Bus Information System is an Android mobile application used to find out the details of the bus numbers according to route details. This mobile application consists of various fields such as Bus source, destination, in between stops, fare for journey. It also have a feature of finding the nearby bus stops, ATM’s, Hospitals etc.
+content	experience	· Advantages : It reduce the waiting time of the passengers at bus stops , it provides the details about bus information in all Stops & the system relays data about the different busses available for citizens.
+header	others	EXTRA-CURRICULAR ACTIVITIES/ACHIEVEMENTS
+content	others	· Won the Contest “Grow Your Idea” in the Entrepreneurship Awareness Programme on Exploring Entrepreneurship Opportunities in Andhra Pradesh organized by JNTU Kakinada
+content	others	· Attended one month Internship at SCITUS Labs & Technologies , developed fewHTML5 based websites
+content	others	· Participated in JAVA coding competition conducted by VITA
+content	others	· Took part in raising funds for the welfare of the Blind Children of ITRRODDD.
+content	others	· Participated in A.P State Cross Country Championship held in Tirupati.
+content	others	· Received certificate of excellence for Throw Ball in School and College.
+content	others	· As a Captain I organized school Volley Ball team
+content	others	· Organized events in all school and college annual day functions and other technical events.
+content	others	· Participated in college level dance competition and received applauds
+header	others	PERSONAL DETAILS
+meta	others	Date of Birth: 27 April 1994.
+meta	knowledge	Linguistic Ability : English , Telugu , Hindi , Tamil (Speak).
+meta	others	Father’s name: Udaya Sooriyan
+meta	others	Hobbies: Dance , Listening to music , Playing games .
+meta	others	Gender : Female
+meta	others	Marital Status: Single
+meta	others	Address: L.I.G – 177 , Samatha Nagar
+meta	others	Phase – iii , Pedagantyada Post
+meta	others	Visakapatnam - 530044
+meta	others	DECLARATION
+meta	others	I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above-mentioned particulars.
+meta	others	Place: Chennai Sincerely
+meta	others	Date: 29/10/2017 (Thivya Sree U )

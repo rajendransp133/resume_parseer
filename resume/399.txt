@@ -1,0 +1,74 @@
+meta	others	Name: Sushma P Kamble
+meta	others	Phone No: 7219238113
+meta	others	Email Id: sushk4040@gmail.com
+header	others	Objective:
+content	others	Seeking a challenging and rewarding opportunity as Testing Engineer with an organization that recognizes and utilizes my potential and analytical & technical skills.
+header	experience	Summary:
+content	experience	· Around 1 year 2 month of experience in Manual Testing.
+content	experience	· Worked on Web Application and Game Testing.
+content	experience	· Experience in test case writing and execution.
+header	experience	Summary of Work Experience:
+meta	others	●
+meta	experience	Company
+meta	experience	: Qualitas Global QA Lab, Pun.
+meta	others	●
+meta	experience	Date of Employment
+meta	experience	: July, 2017 till now.
+meta	experience	●
+meta	experience	Designation
+meta	experience	: Jr.Test Engineer.
+header	knowledge	Technical Skills:
+meta	others	●
+content	knowledge	Programming Languages
+content	knowledge	: JAVA, C, C++.
+meta	others	●
+content	knowledge	Automation Tool
+content	knowledge	: QTP, Selenium IDE.
+meta	others	●
+content	knowledge	Database
+content	knowledge	: SQL Server.
+meta	others	●
+content	knowledge	Platform
+content	knowledge	: Windows XP, Windows 7.
+header	education	Educational and professional credentials:
+content	education	BTech (Computer Science)
+content	education	2016
+content	education	Shivaji University
+content	education	66.00%
+content	education	DIPLOMA (IT)
+content	education	2013
+content	education	MSBTE
+content	education	76.00%
+content	education	HSC
+content	education	2009
+content	education	Maharashtra State Board
+content	education	62.00%
+content	education	SSC
+content	education	2007
+content	education	Maharashtra State Board
+content	education	74.00%
+header	experience	Professional Experience:
+content	experience	Project Title: ​ICC Pro Cricket.
+header	experience	Project Description
+content	experience	ICC Pro Cricket is a Mobile Game which Plays on Platforms like Android with a version 6.0.0 or higher.
+header	experience	Roles and Responsibilities:
+content	experience	· Understand the requirement for the application and deriving Test Cases. Finding the Defect while playing the Game.
+content	experience	· Defect Reporting.
+header	project	Project Title: ​Image Tracking and Annotation.
+header	project	Project Description
+content	experience	P​allas Ludens delivers an end-to-end data annotation service. This ensures optimal quality in every step of your image processing project. The aim of project is image processing with crowd sourcing. The technology has been thoroughly tested in prototypes and has been awarded the best paper award at the International Conference for Vision Systems in 2013.Pallas Ludens delivers an end-to-end data annotation service. This ensures optimal quality in every step of your image processing project.
+header	experience	Roles and Responsibilities:
+content	experience	· Work Profile and Responsibilities: Reporting any issues faced, to the QA manager.
+content	experience	· Preparing testing documents and test case execution.
+content	experience	· Participated with the team members in various modules’ discussion.
+content	experience	· Before time completed the task and got appreciation from the client.
+content	experience	· Requirements understanding and coordinating with the client
+header	others	Personal Information:
+meta	others	Current Address : Jagtap Complex, Near Kharadi by Pass, Pune.
+meta	others	Permanent address : Post Omerga, Taluka Omerga Dist. Osmanabad
+meta	others	Date of Birth : 13/09/1992.
+meta	others	Gender : Female
+meta	knowledge	Languages Known : Marathi, Hindi and English.
+meta	others	Marital Status : Single
+meta	others	I hereby declare that the information given above is true to the best of my Information knowledge belief.
+meta	others	Date: Signature:

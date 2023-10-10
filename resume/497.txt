@@ -1,0 +1,107 @@
+meta	others	Email ID:hirenprajapati003@gmail.com
+meta	others	Mobile No:+91 8866839512
+meta	others	+91 8401954757
+meta	others	Curriculum Vitae
+meta	others	Hiren A. Prajapati
+meta	others	(
+meta	others	Birth Date:
+meta	others	22
+meta	others	nd
+meta	others	Aug 1989
+meta	others	Mobile:
+meta	others	+91—
+meta	others	8866839512
+meta	others	+91-8401954757
+meta	others	Email
+meta	others	:
+meta	others	hirenprajapati003
+meta	others	@gmail.com
+meta	others	)Address: 26,Kameshwar Park,
+meta	others	Kathwada Road.,
+meta	others	Nava Naroda,
+meta	others	Ahmedabad. 382325
+header	others	OBJECTIVE PROFILE
+content	others	· To acquire a position as an Developer in a company, where acquired skills and education would be utilized towards growth and advancement of the organization & employee.
+content	others	· Willing to work as a key player in challenging and creative environment.
+header	education	EDUCATION QUALIFICATION
+content	education	Degree
+content	education	Year of passing
+content	education	Percentage / CGPA
+content	education	Institution
+content	education	Board / university
+content	education	B.E in CE
+content	education	2012
+content	education	6.06 CGPA
+content	education	Ahmedabad Institute Of Technology
+content	education	Gujarat Technological University
+content	education	H.S.C
+content	education	2007
+content	education	62.00%
+content	education	Shree Gayatri Vidhyalaya
+content	education	GSHEB
+content	education	S.S.C
+content	education	2005
+content	education	79.86%
+content	education	Sagar Vidhyalaya
+content	education	GSEB
+header	knowledge	TECHNICAL SKILLS
+content	knowledge	Programming Languages
+content	others	:
+content	knowledge	ASP.NET with C#,MVC, Crystal Reports, Java Script, JQuery,AJAX.
+content	knowledge	Web Technologies
+content	others	:
+content	knowledge	HTML, CSS,
+content	knowledge	Database
+content	others	:
+content	knowledge	SQL server 2016/2014/2012/2008/R2,Hana studio.
+content	knowledge	Database Tools
+content	others	:
+content	knowledge	SSRS,SSIS.
+content	knowledge	Application software/Packages
+content	others	:
+content	knowledge	Microsoft office.
+header	experience	WORK EXPERIANCE
+content	experience	LANDMARK GROUP(BIC)
+content	experience	Period
+content	experience	26th Oct 2015 To Till Date
+content	experience	Position
+content	experience	Sr. Software & SQL Developer
+content	experience	Job Description
+content	experience	· Create & manage whole database architecture for module of Purchase, Repair Order, Branch Transfer ,Parts etc.
+content	experience	· Create SSRS report as per management required.
+content	experience	· Create SSIS alert as per requirement.
+content	experience	· Rebuilding / monitoring the indexes at regular intervals for better performance.
+content	experience	· Monitored and modified Performance using execution plans and Index tuning.
+content	experience	· To assist in the support of business applications with database integration.
+content	experience	B S SOFT/UPRISE SYSTECH
+content	experience	Period
+content	experience	1st Apr 2014 To 22nd Oct 2015
+content	experience	Position
+content	experience	Software & SQL Developer
+content	experience	Job Description
+content	experience	· Web Based ERP System with ASP.NET C# & SQL Server 2012
+content	experience	· Web Based Attendance & Salary Management Application ASP.NET C# & SQL Server 2012
+content	experience	· Web Based Production Management Application ASP.NET C# & SQL Server 2012
+content	experience	· Web Based Marketing Management Application ASP.NET C# & SQL Server 2012
+content	experience	· Create and manage whole Database architecture projects.
+content	experience	SILICON COMPUTECH Pvt Ltd
+content	experience	Join date
+content	experience	10th Apr 2013 To 22nd Mar 2014
+content	experience	Leave Date
+content	experience	22nd March 2014
+content	experience	Position
+content	experience	Software & DBA(SQL Server)
+content	experience	Job Description
+content	experience	· Birth ,Death ,Marriage Register entry level software in ASP.NET C# & SQL Server 2008
+content	experience	· IIR Recognise Software ASP.NET C# & SQL Server 2008
+content	experience	· Create & Manage Whole database with designing.
+header	others	Skills & Hobbies
+content	others	· Good Communication, self-motivated and Quick-witted
+content	others	· Hard working and creative work
+content	others	· Analytical, good at problem solving and excellent in maintaining interpersonal relationship
+content	others	· Hobbies: Surfing, Music, Badminton, Travelling, Reading.
+content	knowledge	· Languages known : English, Hindi, Gujarati
+header	others	DECLARATION
+content	others	I hereby declare that the above mentioned information is true to the best of my knowledge.
+content	others	Place: Ahmedabad Hiren Prajapati
+meta	others	Date:

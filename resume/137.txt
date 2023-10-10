@@ -1,0 +1,88 @@
+header	others	RESUME
+content	others	DILEEP KOTANA
+meta	others	Email id:-vspcdvm@gmail.com Mob:- +91-8500372393
+header	others	CAREER OBJECTIVE
+content	others	I am seeking a competitive and challenging environment where I can serve the organization and establish an enjoyable career for myself.
+header	experience	ABOUT ME
+content	experience	· My name is KOTANA DILEEP, aged 26 years possessing a good sound healthy body. By born, I am an Indian belongs to a Hindu family.
+header	education	· Educationally, I have completed my Graduation (B.com) from Christ College; Cuttack in the year 2013 with good computer knowledge in PGDCA, DTP and my typing speed is 30 words per minute.
+content	experience	SKILLS
+content	experience	· I have good communication knowledge over the languages English, Hindi, Odia and Telugu which
+content	experience	I can read, write, speak and understand.
+content	experience	· I pass my leisure time by Surfing Internet, Making Friends and interacting with new people.
+content	experience	PROFILE
+content	experience	· 8 Years experience in Customer service field.
+content	experience	· Experience in IT Support for UK clients.
+content	experience	· Experience in Transportation.
+content	experience	· Experience in Mobile Technician and Business Card &Templates Designing.
+content	experience	· Ability to grasp new ideas and integrate them into desired results.
+content	experience	· Able to prioritize and operate proactively.
+content	experience	· Combine patience, determination, and persistence to troubleshoot client issues.
+content	experience	· Ability to manage the team according to the situation.
+content	experience	· Good Communication skill and leadership qualities.
+content	experience	· Commended for reliability and trustworthiness.
+content	experience	· Confident and professional speaking abilities (and experience).
+content	experience	· Easily understand and solve technical problems.
+content	experience	· Empathetic listener.
+content	experience	· Enjoy working as a team member as well as independently.
+content	experience	· Excellent common sense, judgment, and decision-making abilities.
+content	experience	· Excellent interpersonal and analytical skills.
+content	experience	· Works efficiently under pressure.
+header	education	ACADEMIC DETAIL
+content	education	QUALIFICATION
+content	education	NAME OF SCHOOL/ COLLEGE
+content	education	BOARD OF EDUCATION
+content	education	Year
+content	education	MATRICULATION
+content	experience	Cambridge School
+content	education	ICSE
+content	education	2008
+content	education	I.COM
+content	education	Christ College
+content	education	CHSE, ODISHA
+content	education	2010
+content	education	B.com
+content	education	Christ College
+content	education	Utkal University
+content	education	2013
+header	experience	WORK EXPERIENCE
+content	experience	Organization Name
+content	experience	Designation
+content	experience	DURATION
+content	experience	Job Description
+content	experience	SRMT
+content	experience	(Sri Ramadas Motor Transport Ltd)
+content	experience	Branch Manager
+content	experience	6th of December, 2015 to TILL TODAY
+content	experience	Providing Customer service, Branch area marketing for the growth of the branch, Looking after the Goods while Loading and Unloading Lorries, Resolving Customers Issue Patiently. Looking after Daily Remittance Account of the Branch every day and provide updated to the Transshipment (HO). And proving each and every updates regarding the customer satisfaction and their goods details to the Transshipment..
+content	experience	Wipro Ltd.
+content	experience	Senior Technical Associate
+content	experience	31stMay, 2013 to 6th of May, 2015.
+content	experience	Had been working as a Technical Support Associate (L1 advisor) and now working as a part of FMT (Fault Management Team). L2 advisor. We are the last point of contact for any issue related to internet services and Telephone.
+content	experience	Ensure all services are provided as per Contractual agreement with the customer.
+content	experience	Troubleshooting all issues regarding broadband (Internet), voice (telephone) & TV(Setup Box, IP Channels &Free view Channels etc.,)Setup and installation of software. On MAC, Windows, Ipad, Iphon, Android Phones and other tab’s and kindles
+content	experience	Apple Info Tech.
+content	experience	Associate
+content	experience	25ndApril, 2012 to 10th May2013
+content	experience	Joined as an associate. We complete short survey of UK residential Customers.
+content	experience	KDM Mobile Care
+content	experience	Technician & Designer
+content	experience	9th November, 2009 to 21thapril 2012.
+content	experience	· All Kinds of Mobile Repairing which includes Hardware and Software.
+content	experience	· Business Card & Templates designing as per Clients requirement.
+content	experience	Total Work Experience:- 8 years 6 Month
+header	knowledge	TECHNICAL SKILLS
+content	knowledge	· Experience in troubleshooting Hardware and software Issues related to computers.
+content	knowledge	· Experience in troubleshooting Software installation Issues.
+content	knowledge	· Proficiency in troubleshooting and configuring Win 7/Win Vista/Win XP.
+content	knowledge	· Proficiency in troubleshooting network and internet related issues.
+content	knowledge	· Troubleshooting experience in MS Office Tools.
+content	knowledge	· Proficiency in finding out resolution of an issue very soon.
+content	knowledge	· Experience in configuring handheld devices like I pad, Android Phones in issues related to emai land Wi-Fi connections.
+content	knowledge	· Experience in repairing all kinds of Mobile phones including Hardware and Software.
+content	knowledge	· Experience in Business Card & Templates designing in Photoshop, Corel Draw & PageMaker.
+header	others	ADRESS FOR LETTER CORRESPONDENCE
+meta	others	H.No-19-622/1, shivalayam street, beside TTD Kalyan Mandap, Chodavaram, Visakhapatnam-531036, AP
+meta	others	I do hereby declare the above mentioned information given by me is correct to the best of my knowledge and belief.
+header	experience	Date:
+meta	others	Place: Visakhapatnam Signature

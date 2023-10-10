@@ -1,0 +1,77 @@
+meta	others	Pavuluri Lakshmi Priyanka
+header	experience	Profile
+content	experience	 3.3 years of IT industry experience encompassing a wide range of skill set, roles and industry
+content	experience	verticals.
+content	experience	 Extensive experience with analysis, design, development, customization, implementation &
+content	experience	testing of software applications.
+content	experience	 Proficient in analyzing and translating business requirements to technical requirements and
+content	experience	architecture.
+content	experience	 Strong database skills, Object Oriented Programming and development knowledge.
+content	experience	 Played multiple roles like – Programming Developer in IBM + Apple Engagement Projects i.e.,
+content	experience	IBM MobileFirst for iOS Garage, Package Solution Consultant & QA in IBM India Software
+content	experience	Labs.
+content	experience	 Strong Campaign Development skills with Silver Pop (IBM Marketing Cloud ) & UBX Integrations.
+content	experience	 Experience in working with customer environments & executing client – side specific scenarios in
+content	experience	test environments.
+content	experience	 Experience in working with DevOps tools like UCD & played a key role in designing processes for
+content	experience	automating application deployments through environments.
+content	experience	 Good communication skills, interpersonal skills, self-motivated, quick learner,Comprehensive
+content	experience	problem solving skills & a team player.
+header	knowledge	Skill Set
+content	knowledge	Products Known: IBM UNICA Suite of products : IBM Campaign, Silver Pop, UBX, MarketingOperations,
+content	knowledge	eMessage, Distributed Marketing, Interact design time, IBM Cognos Report configuration for Campaign,
+content	knowledge	Opportunity Detect & Marketing Platform.
+content	knowledge	DevOps tools : Urban Code Deploy (UCD).
+content	knowledge	Testing: Manual testing: Black Box, Smoke, Regression, PVT, Functional.
+content	knowledge	Programming Languages : C , Objective C , Swift programming Language
+content	knowledge	Operating Systems : Mac OS X, WINDOWS , RHEL, AIX.
+content	knowledge	Application Servers : Webshpere, Weblogic .
+header	education	Education:
+content	education	 Bachelor’s in Electrical Engineering - 2014, Raghu Engineering College, Visakhapatnam, JNTUK
+content	education	University (A.P) , India.
+header	experience	Professional Experience
+content	experience	Experience: In India Software Labs , IBM – 3.3 years
+content	experience	Designation: Software Engineer – Unica
+content	experience	Expertise: Managing IBM –EMM products implementation and development.
+content	experience	1
+content	experience	D/No : 2-92 /1 , Baji junction ,
+content	experience	Visakhapatnam , A.P – 530027.
+content	experience	Ph No : 9130018098,9989868098.
+content	experience	Email id : priyankalakshmi21@gmail.com
+content	experience	mailto:priyankalakshmi21@gmail.com
+header	experience	Responsibilities :
+content	experience	As a Project Member responsible for Product Functional testing , Installation , Deployment and
+content	experience	implementation of Unica Marketing Suite of Products.
+content	experience	 Installation of various IBM EMM/Unica products : Platform, Campaign, Interact,DM ,
+content	experience	Marketing Operations on different stacks with combinations having different OS, Application
+content	experience	Servers and Databases.
+content	experience	 Worked with DevOps tools like Urban Code deploy in designing processes for automating
+content	experience	applications deployments seamlessly without any interruptions through environments.
+content	experience	 Active member of the delivery team in Delivering Campaign & Marketing Operations
+content	experience	products for 10.0 Major, minor & also patches & fix pack releases.
+content	experience	 Worked on Campaign & SilverPop & UBX integration in combination with ETL for 10.0.
+content	experience	 Testing Unica Campaign for 10.0, 9.0 and 9.1and 9.12 releases also patches and fix pack
+content	experience	releases.
+content	experience	 Executing client side scenarios in test environment.
+content	experience	 Creating campaigns, offers, flowcharts,segments & sessions,etc for IBM Campaign & also
+content	experience	worked on newly implemented features & enhancements like Deep search & Engage.
+content	experience	 Creating Interactive Channels, Interaction Strategy, flowcharts, offers etc for IBM Interact.
+content	experience	 Deploying these various applications on Websphere Application Server and Weblogic
+content	experience	Application Server.
+content	experience	 Generating Reports of Campaign and Interact products using Cognos.
+content	experience	 Providing end to end work flow of IBM Campaign.
+content	experience	 Performed customer upgrades from 8.5 , 9.0 , 9.1 to 10.0 & 10.1.
+content	experience	 Integrating Campaign & Unica Products with Silver Pop-Engage & UBX.
+header	education	Training:
+content	education	 UNICA Marketing Software Products Implementation.
+content	education	 Campaign + Silver Pop Integration – 10.0.
+content	education	 Campaign + Silver Pop + UBX Integration – 10.0.0.1
+content	education	 Test Automation training.
+content	education	 IOS Application Development training.
+content	education	 Java Cross Skills training.
+meta	others	2
+meta	others	Pavuluri Lakshmi Priyanka
+header	experience	Profile
+header	knowledge	Skill Set
+header	education	Education:
+header	experience	Professional Experience

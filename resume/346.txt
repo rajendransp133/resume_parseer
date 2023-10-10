@@ -1,0 +1,88 @@
+header	others	RESUME
+meta	others	E-mail: tempvarsha@gmail.com
+meta	others	+918898141405, (Mob)
+meta	others	+917814565750
+meta	others	VARSHA SANJAY GAIKWAD
+header	others	CAREER OBJECTIVE:
+content	others	A challenging position utilizing abilities developed through my experience and education with the opportunity for professional growth. To develop a challenging long term & growth oriented career in the field of financial analysis. Want to work in an organization where I can develop myself & achieve my goals.
+header	education	EDUCATIONAL QUALIFICATION:
+content	education	QUALIFICATION: B.com Specialized in Banking & Insurance
+content	education	Qualification
+content	education	School/Institute
+content	education	Board/University
+content	education	Year
+content	education	%
+content	education	1.
+content	education	Bachelor of Commerce (Banking & Insurance)
+content	education	Mulund College of Commerce
+content	education	Mumbai University
+content	education	2006
+content	education	70
+content	education	2
+content	education	H.S.C.
+content	education	R.K.T College
+content	education	Maharashtra Board
+content	education	2003
+content	education	66
+content	education	3
+content	education	S.S.C.
+content	education	N.R.C School
+content	education	Maharashtra Board
+content	education	2001
+content	education	54
+header	project	University Project
+content	experience	· Performance Appraisal in Private Sector Bank.
+content	experience	· Impact of Tsunami on Life Insurance of India.
+header	experience	SUMMARY OF PROFESSIONAL EXPERIENCE:
+content	experience	· Duration: August 2006 – May 2009.
+content	experience	· Organization: ICICI BANK LIMITED – MUMBAI
+content	experience	· Department: Cross Border Payment Processing Center,
+content	experience	· International Banking Operations Group (IBOG)
+content	experience	An international banking division, it is responsible for existing NRI products for all service related issues, product support, development of new products, providing a central point of support for all international sales activities and handling the back office operations.
+content	experience	· August 2006 – May 2009.
+header	experience	JOB PROFILE: Processing Officer
+content	experience	· Reporting of Foreign Currency deposits to Treasury Branch.
+content	experience	· Inputting of transaction entries.
+content	experience	· Swift Transfer (Inputting of message types i.e. MT103, MT202, MT110, MT199/299/999 etc.)
+content	experience	· Follow up of Exceptions (Transactions) with branches.
+content	experience	· Follow-up with Foreign Correspondent Banks for Fund Transfer Exceptions.
+content	experience	· Processing of ACU (Asian Clearing Unit) transactions (Remittances done for Bangladeshi,
+content	experience	SriLankan Banks within India).
+content	experience	· Handling NRI Query Desk.
+content	experience	SYSTEM KNOWLEDGE : Finacle Core 7.0.6 IN, SWIFT applications.
+content	experience	ACCOMPLISHMENT:
+meta	others	·
+content	experience	Branch Appreciations received for Quick Query Resolution.
+content	experience	· Awarded with Eagle Eye certificate for preventing double payment.
+content	experience	· Team award for highest STP achieved in Swift (Fund Transfer) from Bank of Newyork.
+header	knowledge	Computer Skills
+content	knowledge	· MS-CIT (Maharashtra State Certificate in Information Technology) 69 %
+content	knowledge	· Typing Speed – 30 wpm
+content	knowledge	· Proficient knowledge of Finacle Core Program.
+header	others	PERSONAL DETAILS:
+meta	others	Name
+meta	others	:
+meta	others	VARSHA SANJAY GAIKWAD
+meta	others	Date of Birth
+meta	others	:
+meta	others	1ST July 1985
+header	knowledge	Linguistic Proficiency
+meta	others	:
+meta	knowledge	English, Hindi and Marathi
+meta	others	Marital Status
+meta	others	:
+meta	others	Single
+meta	others	Address for Communication
+meta	others	:
+meta	others	6/D Abhivandan,
+meta	others	Chandresh Galaxy,
+meta	others	Godrej hill road, Khadak Pada
+meta	others	Kalyan (W) 421 301
+meta	others	Mobile - +918898141405,+917814565750
+meta	others	E-mail: tempvarsha@gmail.com
+meta	others	REFERENCES:
+meta	others	· Available on request.
+meta	others	FAMILY BACKGROUND:
+meta	others	My father is Section officer (Medical Education and Drugs Dept) in Mantralaya and mother is a housewife.
+meta	others	SIGNATURE:
+meta	others	DATE:

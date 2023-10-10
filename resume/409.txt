@@ -1,0 +1,146 @@
+meta	others	CURRICULUM VITAE
+meta	others	Rupa Halder
+meta	others	Vivekananda Nagar, Madhyamgram.
+meta	others	P.O.- East Udayrajpur,
+meta	others	P.S.-Madhyamgram email: rupahalder1@gmail.com
+meta	others	Kolkata -700129 Contact no: +91-9038756220
+meta	others	CAREER OBJECTIVE:-
+meta	others	To secure a challenging position where I can effectively use my skills and Knowledge as an Efficient
+meta	others	Professional.
+header	education	ACADEMIC QUALIFICATION:-
+content	education	Examination Discipline/
+content	education	Specialization
+content	education	School/college Board/
+content	education	University
+content	education	Year of
+content	education	Passing
+content	education	Marks
+content	education	M.SC IN
+content	education	ECONOMICS
+content	education	Money Banking
+content	education	and Finance
+content	education	Kalyani University University Of
+content	education	Kalyani
+content	education	2017
+content	education	54.13%
+content	education	B.SC(Hons)
+content	education	Economics
+content	education	Barasat Govrnment
+content	education	College
+content	education	West Bengal
+content	education	State University
+content	education	2015
+content	education	50.1%
+content	education	Higher
+content	education	Secondary
+content	education	Examination
+content	education	Eco Science
+content	education	Madhyamgram Girl’s
+content	education	High School
+content	education	W.B.C.H.S.E
+content	education	2011
+content	education	62.6%
+content	education	Madhyamik
+content	education	Examination
+content	education	General
+content	education	Madhyamgram Girl’s
+content	education	High School
+content	education	W.B.B.S.E
+content	education	2009
+content	experience	67.0%
+header	knowledge	Computer Skills:
+content	knowledge	Course name Session Modules Covered
+content	knowledge	Certificate in April’2009 to sept’2009 Fundamental, MS-VISTA,
+content	experience	Information Technology MS WORD, MS Excel,
+content	knowledge	Application MS Power Point and
+content	knowledge	Visual Foxpro 6.0
+content	knowledge	Advance Diploma in July’2010 to Dec’2011 C, C++,VB.Net, HTML,
+content	knowledge	Information Technology DHTML,JAVA Script
+content	knowledge	Business Analytics March’2018 to still going Advance Excel,SAS,SPSS,R
+content	knowledge	VBA, SQL, Core Analytics
+header	project	Project Work-
+content	experience	 CASHLESS INDIA (Under The Guidance of Miss Bishakha Ghosh,
+content	experience	Associate Professor of Kalyani University)
+content	experience	 ORGANIZED RETAIL MARKET IN INDIA (Under The Guidance of Miss Bishakha
+content	experience	Ghosh, Associate Professor of Kalyani University.
+content	experience	 Project on LPG DISTRIBUTION MANAGEMENT SYSTEM (Under The Guidance of
+content	experience	Souvik Sen, Senior Faculty of Youth Computer Training Centre).
+content	experience	 Consumer Preferences (Traditional Market/Supermarket)
+content	experience	Area Of Interest
+content	experience	Linear Regression,Logistic Regression,Decision Tree,K-Means Clustering
+content	experience	 Work on Decision Tree
+content	experience	Data-Bank Marketing Dataset
+content	experience	About-The dataset has been downloaded from UCI Machine Learning Repository.The data is related with
+content	experience	direct marketing campaigns of a Portuguese banking institution.
+content	experience	I have done with the dataset.The goal is to build models which predict if the client will subscribe a term
+content	experience	deposit(Y)
+content	experience	Analysis-Perform some analysis on the dataset by choosing one or two variables and visualizing them,this
+content	experience	way we can get an idea of how values are distributed for the entire set.
+content	experience	Take ggplot functions to visualize the data distributions across the variables.
+content	experience	Modeling-A decision Tree is a robust and transparent Machine Learning Model.It can be used to predict
+content	experience	whether a particular variable would have mattered in the customer’s decision to subscribe or not to the
+content	experience	Bank’s term deposit.
+content	experience	Finally the summary of the Decision Tree plotted with the Chi-Squared value and the P-value.
+content	experience	 Work on Logistic Regression
+content	experience	Data-The Quality Dataset
+content	experience	About-In this dataset we have 131 observations,One for each of the patients in our dataset,and 14
+content	experience	different variables.The 12 variables from InpatientDays to AcuteDrugGapSmall are the independent
+content	experience	variables.I am using the number of office visits and the number of prescriptions for narcotics that the
+content	experience	patient had.
+content	experience	Analysis-Use Table function to find out the outcome of the variable PoorCare.Next,We will randomly
+content	experience	split our data into two dataset, Train and Test dataset.Now,Finding the correlation between all numeric
+content	experience	variables.
+content	experience	Modeling-Correlation between PoorCare and AcuteDrugGapSmall is significant,But Correlation between
+content	experience	AcuteDrugGapSmall and Narcotics is higher and it can Cause the Multicollinearity so we will prefer to
+content	experience	drop this variable from the Predictions because Narcotics seems more significant variable.So,We will build
+content	experience	Logistic Regression Model using PoorCare as dependent Variable and OfficeVisits and Narcotics as
+content	experience	independent variables.Made a Logistic Regression Model that can accurately identity Diabetic Patients
+content	experience	Who receiving low quality care.The model provide probabilities of somebody Receiving Poor Quality
+content	experience	Care.
+content	experience	 Work on Linear Regression
+content	experience	Data-AirQuality Dataset
+content	experience	About-I have downloaded the data from stat.ethz.ch site.There are 153 observations and 6 variables.We
+content	experience	have to create Linear Regression Model.But before that we have to identify the missing values.
+content	experience	Analysis-In our dataset only Ozone and Solar.R attributes have some missing value.We need to impute
+content	experience	those missing values(NA).After removing missing values now we perform Linear Regression on our
+content	experience	dataset.
+content	experience	Modeling-Apply Linear Regression Algorithm using Least Square Method on Ozone and Wind.Now
+content	experience	Build scatterplot. The slope of the scatterplot of the line goes downwards,hence there exist a negative
+content	experience	correlation between Ozone and Wind.
+header	experience	 Internship-
+content	experience	 ‘Research Intern’ for the NITI Aayog study on “Status on Women in Science
+content	experience	among Select Institutions in India: Policy Implications’’ conducted by the Society for
+content	experience	Socio-Economic Studies and Services (SSESS) during the period 1.08.2017-31.08.2017.
+content	experience	 Experience-
+content	experience	 Working with a NGO (THE GREEN CORNER), as a teacher (for underprivileged children)
+content	experience	for last 1.5 years. I have also been appointed as the Treasurer in the NGO.
+header	others	EXTRA-CURRICULAR ACTIVITIES :-
+content	others	 Interests: Reading Story Book, Listening music, Singing, Painting.
+header	others	PERSONAL DETAILS :-
+content	others	Father’s Name : Mr. Haripada Halder
+content	others	Date of Birth : 12
+content	others	th
+content	others	January, 1993.
+content	others	Permanent Address: Vivekananda Nagar, Madhyamgram, P.O.-East Udayrajpur,
+content	others	Kolkata - 700129
+content	others	Sex : Female
+content	others	Marital status : Unmarried
+header	knowledge	Languages Known
+content	knowledge	Can Speak : English, Bengali and Hindi
+meta	others	Can Write & read: English, Bengali, Hindi
+meta	others	Nationality : Indian
+meta	others	DECLARATION :-
+meta	others	I hereby declare that the information’s given above are true to the best of my knowledge.
+meta	others	Signature: _________________
+meta	others	(RUPA HALDER)
+meta	others	CURRICULUM VITAE
+meta	others	Rupa Halder
+meta	others	Vivekananda Nagar, Madhyamgram.
+meta	others	P.O.- East Udayrajpur,
+meta	others	P.S.-Madhyamgram email: rupahalder1@gmail.com
+meta	others	Kolkata -700129 Contact no: +91-9038756220
+header	others	CAREER OBJECTIVE:-
+header	others	ACADEMIC QUALIFICATION:-
+header	others	EXTRA-CURRICULAR ACTIVITIES :-
+header	others	PERSONAL DETAILS :-
+header	others	DECLARATION :-

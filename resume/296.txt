@@ -1,0 +1,35 @@
+meta	others	SANDYA S V Email: sandyasv7@gmail.com
+meta	others	Ph no. 8553078108/ 968669188
+meta	others	Address: #.11. Channasandra
+meta	others	Kadugodi (Post)
+meta	others	Bangalore – 560067 CAREER OBJECTIVE
+meta	others	“To work in an environment where I get a chance to gain knowledge which can be shared and enriched, where I can utilize my skills and expertise to the optimum towards achieving my goal”
+header	education	ACCADEMIC DETAILS
+content	education	1. MBA [2015] with aggregate of 61.25% from JSSATE/VTU
+content	education	1. B.COM [2013] with aggregative of 59% from PES Degree collage / Bangalore University
+content	education	1. PUC [2010] with aggregative of 57% from RVVPU Collage
+content	education	1. SSLC [2008] with aggregative of 54% from C.Puttaia Memorial High School
+header	experience	WORK EXPERIENCE
+content	experience	1. Worked as Space Administrator, Handled day to day Accounts and Finance in Workbench Project Halsoor From Apr 2016 to July 2016( Intership)
+header	project	PROJECT DETAILS
+content	experience	1. Organization Culture and it’s Impact on Employee Behavior
+content	experience	Description: It brings behavior aspects of the employee working in the Strides Arcolab Ltd
+content	experience	The object of study to find the organization culture and measure the employee opinion towards the organization culture
+content	experience	Conclusion: Employees had positive towards the organization culture, Employees do their work as per the organization vision and mission.
+content	experience	Duration: 3Months
+content	experience	Role: HR
+header	knowledge	ADDITIONAL LEARNING SKILLS
+content	knowledge	1. Microsoft office World, XL, PPT
+content	knowledge	1. Tally 9.4
+content	knowledge	1. Well versed in Internet and E-Mail
+header	others	PERSONAL PROFILE
+meta	others	Father Name: A Venkatesh
+meta	others	Mother : P Padma
+meta	others	Date of Birth : 04-04-1992
+meta	knowledge	Language: English, Kannada
+meta	others	Nationality: Indian
+meta	others	Religion: Hindu
+meta	others	Marital status: Married
+header	others	DECLARATION
+meta	others	I hereby declare that all the above mentioned information’s are true to the best of my knowledge.
+meta	others	Place: Bangalore (Sandya S V)

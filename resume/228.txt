@@ -1,0 +1,77 @@
+meta	others	Akash Desai | Cell No. 9727733385 | Email: akash13.desai@gmail.com
+header	education	Educational Qualification:
+content	education	Master of Human Resource Management (MHRM), 2008 batch, Faculty of Social Work,
+content	education	The M.S. University of Baroda
+header	education	Additional Qualification:
+header	education	Diploma in Information Technology (DIT), NIIT
+header	knowledge	HR Skills:
+content	knowledge	Talent Acquisition, Talent Development, Talent Management, Talent Engagement & Talent Retention
+header	knowledge	ERP Skills:
+content	knowledge	SAP (HR Modules), Hirecraft & Adrenaline software
+content	knowledge	(for recruitment), HRMS/HRIS & BaaN
+header	others	Personal Details:
+meta	others	· Date of Birth:
+meta	others	13th June, 1985
+meta	others	· Gender: Male
+content	knowledge	· Language Proficiency in English, Hindi and Gujarati (Advance level)
+header	others	Present & Permanent Address:
+meta	others	A/604, Rosewood Estate, Satellite, Ahmedabad, Gujarat – 380015.
+meta	others	Cell No.: 9727733385
+meta	others	Email: akash13.desai@gmail.com
+meta	others	Akash Desai
+content	experience	HR professional with 9 years & 7 months of experience
+header	experience	· Professional Experience:
+content	experience	· Currently working with “Baxter International Inc.”
+content	experience	(US Pharma MNC), Ahmedabad as “Manager - HRM”.
+content	experience	Profile: HR Business Partner & Talent Acquisition
+content	experience	Note: Currently internal trainer for HR & Code of Conduct Training
+content	experience	· Guj Info Petro Ltd., Gandhinagar
+content	experience	as Sr. Officer (HR) (October 2014 to March 2017)
+content	experience	Profile: Generalist HR (managing the entire gamut of HR activities)
+content	experience	· Talent Acquisition
+content	experience	· On-boarding/Joining process of new joiners
+content	experience	· New Joiner Induction process
+content	experience	· Review & implementation of HR Policies from time to time
+content	experience	· Employee transfers/deputations
+content	experience	· Compensation/Payroll Administration
+content	experience	· HRMS management
+content	experience	· Employee Retention strategies in consultation with senior management
+content	experience	· Team Re-Allocation/Reviews in consultation with line managers/HODs
+content	experience	· Contractual Staff Management (recruitment till separation)
+content	experience	· Facilitate in processing Employee Benefits as per policy
+content	experience	· Learning & Development initiatives
+content	experience	· Performance Management System & facilitate feedback sessions post PMS
+content	experience	· Employee Engagement activities
+content	experience	· Played Core Team member role for facilitating implementation process of PMS module of SAP
+content	experience	· Facilitated process owner in PA & OM module of SAP
+content	experience	· Larsen & Toubro Ltd. (L&T Power), Vadodara
+content	experience	as Executive (HR) (April 2010 to October 2014)
+content	experience	Profile: People Management processes & Talent Acquisition
+content	experience	· Talent Acquisition
+content	experience	· On-boarding/Joining process across all verticals
+content	experience	· Facilitate New Joiner Induction process
+content	experience	· SAP management (HR modules)
+content	experience	· EDMS (Electronic/Employee data management system)
+content	experience	· HR portal revamping & its management (mPower)
+content	experience	· Employee Rewards Management/PMS
+content	experience	· Employee Exit Interview Analysis
+content	experience	· Fixed Term Contractual employee management (end to end process)
+content	experience	· Other Employee initiatives (Employee Feedback Sessions for retaining top talent)
+content	experience	· Co-ordination of Site HR & Administration activities (Power Sites)
+content	experience	· Videocon group, Ahmedabad as Sr. Executive (HR)
+content	experience	(January 2010 to April 2010)
+content	experience	Profile: Generalist HR
+content	experience	· Talent Acquisition
+content	experience	· Performance Management System
+content	experience	· Training & Development
+content	experience	· Salary Administration
+content	experience	· Legal/Labour Law Compliances
+content	experience	· Torrent Group, Ahmedabad as Executive Trainee (HR)
+content	experience	(July 2008 to December 2009)
+content	experience	Profile: Employee Relations
+content	experience	· Address & ensure the resolution of issues related to payment of wages & statutory dues in respect of Contract labour in co-ordination with Zonal HR Manager
+content	experience	· Handling Court cases (IR-Legal) and co-ordinating with company Advocates
+content	experience	· Employee Grievance handling, mainly contract labour matters
+content	experience	· To furnish required details for wage settlement, mainly w.r.t. financial burden
+content	experience	· Initiate Legal process for absconding employees in accordance with terms of appointment/company policy
+content	experience	· Attending Conciliation proceedings at ACL office on behalf of the company.

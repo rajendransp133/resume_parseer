@@ -1,0 +1,67 @@
+meta	others	Vikrant Bhutani
+meta	others	Associate Network Records
+meta	others	Address 238/2 prem nagar gurugram CONTACT 8955788648
+meta	others	vikrantbhutani94@gmail.com
+meta	others	I am seeking a competitive and
+meta	others	challenging environment where I
+meta	others	can serve your organization and
+meta	others	establish an enjoyable career for
+meta	others	myself.
+header	others	CAREER OBJECTIVE
+content	others	2016
+content	others	2012
+header	education	EDUCATION
+header	knowledge	SKILLS
+content	knowledge	CCNA
+content	knowledge	CCNP
+content	knowledge	CCNA Security
+content	knowledge	Excel
+content	knowledge	IT netwoking
+content	knowledge	Analytical skills
+content	knowledge	ITIL
+content	knowledge	Embedded systems
+content	knowledge	C language
+header	knowledge	LANGUAGE
+content	knowledge	English
+content	knowledge	Hindi
+content	knowledge	Punjabi
+header	education	CCNA Certified
+header	others	ACHIEVEMENTS
+content	others	CCNA - 2018
+content	others	19/12/2016 -
+content	others	Till Date
+header	experience	EXPERIENCE
+header	project	PROJECTS
+content	experience	Project Name : OR Infrastructure delivery
+content	experience	Duration : 2
+content	experience	Technology : Infrastructure delivery planning
+content	experience	Role : Associate Network records
+content	experience	Url : UK
+content	experience	PERSONAL INFORMATION
+content	experience	Name : Vikrant Bhutani
+content	experience	Birth Date : 27/08/1994
+content	experience	Gender : Male
+content	experience	Nationality : Indian
+content	experience	Marital Status : Unmarried
+header	others	REFERENCE
+meta	others	Name : Vikrant bhutani
+meta	others	Detail : Myself
+meta	others	Email : vikrantbhutani94@gmail.com
+meta	others	Mobile : 8955788648
+meta	others	Name : Shailendra bhutani
+meta	others	Detail : Father
+meta	others	Email : vikrantbhutani94@gmail.com
+meta	others	Mobile : 9829859591
+meta	others	I hereby declare that the above mentioned information is true to the best of my knowledge and belief.
+header	experience	DECLARATION
+content	education	B.tech (Completed)
+content	education	In IET Under RTU With 69 %
+content	education	senior secondary
+content	education	(Completed)
+content	education	In Central Academy Under
+content	education	CBSE With 72 %
+content	others	Associate Network Records
+content	others	British Telecom (gurgaon )
+content	others	PLACE : Gurgaon
+content	others	DATE : 11-11-2018
+content	others	SIGNATURE

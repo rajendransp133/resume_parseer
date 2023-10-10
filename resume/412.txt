@@ -1,0 +1,92 @@
+meta	others	HRISHIKESH SHIRISH KHEDKAR
+meta	others	481, B/14 “Matruichha” Shrikrupa Society, Shivdarshan, Parvati, Pune-411009 | M: 9823353038 | Email: hrishisk29@gmail.com /hrishi.k.2987@gmail.com
+header	others	PROFESSIONAL SUMMARY
+content	others	Human Resource Professional with practical understanding of business needs. Over 7+ years of experience in HR Practice, Employee Life Cycle Management, End to end HR Functions. Pre & Post Recruitment process, Employee Induction, Performance Management, Employee Relations, Grievance Handling, Payroll, Separations, etc.
+header	knowledge	SKILLS
+content	knowledge	New Employee Orientation Personnel Records Maintenance Technical Skills
+content	knowledge	HR Policies and Procedures Employee Relations Interpersonal Skills
+content	knowledge	Payroll Management Statutory Compliance People Oriented
+content	knowledge	HR Audits Performance Appraisal Organized
+header	experience	RESPONSIBILITIES HANDLED
+header	experience	Generalist HR Responsibilities:
+content	experience	· Recruitment: Initial screening, scheduling interviews, preparation of offer letters and compensation break-up.
+content	experience	· Induction: Design a structured Induction/On Boarding program for all new joiner’s orientation.
+content	experience	· Employee Queries: Respond to employee questions during entrance and exit interview process.
+content	experience	· HRIS: Maintaining accurate employee data in HRIS. Upholding the HRIS accuracy for every employee in the region.
+content	experience	· Leave & Attendance: Effectively manage leave and attendance records, maintenance of personnel files, etc.
+content	experience	· HR Audits: Responsible for ISO Compliance for HR, ISO Annual Audits and quarterly internal audits.
+content	experience	· Performance Management System: Initiating Quarterly Performance appraisal followed by annual review & rewarding appraisal process, preparation of increment plan and increment letters.
+content	experience	· Payroll Management: Salary Inputs, Payroll Management through HRIS Database, Overtime and shift allowance reports, Payroll MIS, Reimbursements, Maintaining Actual vs. Budget report, Mediclaim, etc.
+content	experience	· Grievances: Grievance Handling, Sports and cultural activities
+content	experience	· Exits: Separations, Attrition reports, PF Settlements.
+content	experience	HR Shared Services Responsibilities
+content	experience	· International Relocations
+content	experience	· Handling salary, benefits and contracts for International Relocation
+content	experience	· Generating offer letters and bonus letters.
+content	experience	· Process integration, bench marking exercises and communication activities and case management.
+content	experience	· Framing processes and policies.
+content	experience	· Understanding of region specific issues and highlight exceptions.
+content	experience	· Handling Localization of employees in foreign countries (Americas).
+content	experience	· Human Resource Operations for Americas
+content	experience	· Benefit management of exiting employees.
+content	experience	· Managing Overtime Payments.
+content	experience	· Managing Work on Weekend Payments.
+content	experience	· Managing Monetary Bonus Inputs for all employees.
+content	experience	· MetLife Home & Auto Insurance for all employees.
+content	experience	· MetLife Insurance for all employees.
+content	experience	· Managing benefits terminations process
+content	experience	· Contract Extensions for Americas & CALA Region.
+content	experience	· Human Resource Operations for India
+content	experience	· Expat Benefit Reimbursements.
+content	experience	· Family Event Benefits that includes Wedding & Birth of Child Monetary Benefit.
+content	experience	· Shift Allowance Management.
+content	experience	· Human Resource Operations for APAC
+content	experience	· Tuition Fee Reimbursements for Expats in APAC.
+content	experience	· Contract Extensions for Expats & Locals.
+content	experience	· Global Compensation and Benefits
+content	experience	· Facilitating help and support for Salary Revision and Annual Incentive Plans.
+content	experience	· Responsible and Accountable for Global Special Bonus System.
+content	experience	· Budget Control and Monitoring for Corporate Reserves.
+content	experience	· Update Corporate Accounting Team & Interface with Corporate Economics on day to day basis on usage and consumption of special bonus budgets.
+content	experience	· Human Resource Operations
+content	experience	· Managing Global Expat Assignment Allowance Program for all Expats across the company.
+content	experience	· Deploy standardized policies and practices that ensure compliance with all local legal
+content	experience	requirements applicable in consultation with various internal & external stakeholders.
+header	experience	EMPLOYMENT DETAILS
+content	experience	· Company Name: Mindcrest India Pvt. Ltd.
+content	experience	Duration: 21-Aug-2017 to 7-Mar-2018
+content	experience	Designation: Sr. Executive-HR
+meta	others	–––––––––––––––––––––-
+content	experience	· Company Name: Helpshift Technologies Pvt. Ltd.
+content	experience	Duration: 4-Jul-2016 to 11-Aug-2017
+content	experience	Designation: Office Manager
+meta	others	–––––––––––––––––––––-
+content	experience	· Company Name: Amdocs
+content	experience	Duration: 10-Feb-2014 to 29-Jun-2016
+content	experience	Designation: HRSS Representative
+meta	others	–––––––––––––––––––––-
+content	experience	· Company Name: EasiOption BPO Services Pvt. Ltd.
+content	experience	Duration: 18-Oct-2010 to 30-Sep-2013
+content	experience	Designation: Sr. Executive-HR
+header	education	ACADEMIC QUALIFICATIONS
+content	education	Degree: MBA-Human Resources| College: IndSearch (University of Pune) | Year of passing: 2010 | Marks/Grade: A+
+content	education	Degree: B.Sc. Chemistry | College: Fergusson College (University of Pune) | Year of passing: 2008 | Marks/Grade: 62%
+header	project	ACADEMIC PROJECT
+content	experience	Company Name: Electro Dip Pvt. Ltd.
+content	experience	Project Title: Job Satisfaction Survey
+content	experience	· The study of the project was Job Satisfaction of middle management. A study of this sort was intended to get a fair idea of Human Resources in the organization. It gives detailed picture of various provisions carried out by the organization to retain employees.
+content	experience	Company Name : Perennial Technologies
+content	experience	· Completed a field work study at Perennial Technologies, on the topic of the functions of Human Resource management.
+header	others	HOBBIES AND INTERESTS
+content	others	· Music
+content	others	· Sports
+content	others	· Driving
+content	others	· Travelling
+header	others	PERSONAL DETAILS
+meta	others	Date of Birth: 29th January, 1987
+meta	knowledge	Language Proficiency: English, Hindi, Marathi, German (Beginner).
+meta	others	Nationality: Indian
+meta	others	Marital Status: Married
+meta	others	Declaration
+meta	others	I confirm that the information provided by me is true to the best of my knowledge and belief.
+meta	others	Place: Pune Date:

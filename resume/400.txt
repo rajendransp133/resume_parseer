@@ -1,0 +1,92 @@
+meta	others	Khushnaz Y
+meta	others	Khushnaz Y. Wadiwalla
+meta	others	Phone: 022-.28311962, 9820944090 ● e-mail: khushnaz_wadiwalla@yahoo.com
+content	experience	20 years progressive experience in the Banking industry working with multinational and nationalized and private sector banks with a major focus on providing excellent customer service and building new business.
+content	experience	Highlights include -
+content	experience	· Excellent knowledge of Front-Office processes for Retail Banking like new account openings, following KYC norms, generating and checking daily reports of financial as well as non-financial transactions, exception monitoring, AML monitoring, Cash Retention Limit, ATM servicing process and Reconciliation.
+content	experience	· Extensive experience with Audit compliance, inward/outward clearing, RTGS (Real Time Gross Settlement), authorizing tax payments, providing various government services like Franking, tax payments.
+content	experience	· In-depth understanding of consumer banking products like Savings Account, FDs, Current Accounts and 3rd party products like Mutual Funds and Insurance.
+content	experience	· Strong inter-personal skills
+content	experience	· Customer relationship management skills.
+content	experience	· Worked with various banking systems like Finacle, Bank Master, CBS, Hogan, finware, lotus notes
+content	experience	· Supervised and managed team sizes upto 35 people.
+header	experience	AWARDS / Achievements:
+content	experience	· Qualified for international as well as domestic trip from HDFC LIFE for achieving team objective and targets in insurance sales.
+content	experience	· Consistently achieving a good personal rating as well as good rating in audit for the branch.
+content	experience	· Consistently achieved an “Excellent” rating in performance appraisal at IDBI bank for the past 2 years.
+content	experience	· Achieved an excellent rating in audit for IDBI Prabhadevi branch for 05-06 and 06-07.
+content	experience	· Received the Merit Award for Overall Performance 4 times from ANZ Grindlays Bank.
+content	experience	· Received the Merit Award for Excellent Customer Service 4 times from ANZ Grindlays Bank.
+content	experience	· Received an Award for maximum mobilization of mutual funds for the Branch.
+content	experience	· Received Loyalty Award from Standard Chartered bank for completing more than 10 years with the bank
+header	education	Education:
+content	education	· B.Com - 1st Class from Bombay University
+content	education	Narsee Monjee College of Commerce and Economics
+content	education	· Honours In Systems Management from NIIT
+content	education	· C.A.I.I.B. conducted by Indian Institute of Bankers
+content	education	· AMFI certified
+content	education	· NCFM-Depository module
+header	knowledge	Technical Skills:
+content	knowledge	Finacle, Bank master, CBS (Centralised Banking System), Hogan, MS Office, Lotus notes, netscape, FINWARE
+header	experience	Professional Experience:
+meta	experience	HDFC BANK
+meta	experience	July08 – Present
+content	experience	PERSONAL BANKER AUTHORISER (Santacruz W)
+content	experience	· Supervising the personal bankers and ensuring that they achieve their targets
+content	experience	· Responsible for personal bankers’ productivity
+content	experience	· Over looking overall operations of the branch
+content	experience	· Monitoring high value transactions.
+content	experience	· Taking care of inquiries from statutory authorities.
+content	experience	· Complaints Management
+content	experience	· Working as Backup Branch Manager for a branch sized 950cr.
+content	experience	· Maintaining Service Quality ratings as excellent for the branch.
+content	experience	· Ensuring good audit ratings for the branch.
+content	experience	IDBI BANK
+meta	experience	Jun 04 – July 08
+content	experience	BRANCH HEAD (Powai)
+meta	experience	Nov 2007 – present
+content	experience	· Responsible for setting up the infrastructure and operations for a new branch.
+content	experience	· Extensive coordination with various departments like IT, Administration, Finance to ensure the branch was inaugurated on schedule.
+content	experience	· Responsible for new Business Development and achieving the targets of the branch.
+content	experience	· Responsible for the overall Operations of the branch.
+content	experience	· Set up of the Front-Office processes of the branch and coordinated with the Back-Office processing team to ensure the smooth operations of the new branch.
+content	experience	· Trained the staff in front office processes, customer service and the use of banking solutions like Finacle.
+content	experience	· Responsible for motivating the team to achieve the goals and targets
+content	experience	Service and Operations Manager
+meta	experience	June 04 - Oct 07
+content	experience	· Responsible for the day-to-day Front Office operations of the branch
+content	experience	· Generated and checked daily reports like accounts status, exception reports, cash balances, overdrafts.
+content	experience	· Responsible for monitoring new accounts and high value transactions.
+content	experience	· Provided various government services like Franking, authorizing tax payments, issuing GOI bonds, etc.
+content	experience	· Responsible for authorizing and processing new accounts opening.
+content	experience	· Acted as the joint custodian for vault and ATM
+content	experience	· Responsible for training the staff and coordination of all Front office activities.
+content	experience	· Responsible for cross-selling of banking products
+content	experience	· Officiated as the Branch manager in his/her absence
+content	experience	Standard Chartered Bank
+meta	experience	2000-2004
+content	experience	Customer Service officer
+content	experience	2003-2004
+content	experience	· Worked as the Head Cashier and responsible for handling all the transactions at the Cash counter.
+content	experience	· Processing all transactions at teller counter
+content	experience	· Responsible for Cross selling banking products to customers
+content	experience	Teller Services Manager
+content	experience	2002 – 2003
+content	experience	· Supervised the teller counter
+content	experience	· Managed the cash position in the branch and monitored the cash retention limit.
+content	experience	· Responsible for generation and checking of daily reports
+content	experience	· Responsible for ATM servicing/balancing
+content	experience	· Managed the housekeeping and operations of the branch.
+content	experience	Personal Financial Consultant
+content	experience	2000-2002
+content	experience	· Responsible for assessing and addressing customer needs and providing a high level of customer service.
+content	experience	· Recommending appropriate financial solutions including liability products, mutual funds, credit cards and Demat accounts.
+content	experience	· Creating Business Development Reports.
+content	experience	· Responsible for Customer relationship management.
+content	experience	ANZ Grindlays Bank
+content	experience	Customer Service Executive
+content	experience	1991-2000
+content	experience	· Responsible for inward/outward clearing.
+content	experience	· Handled various Front Office operations like Account Opening/Closing, Remittances, Fixed deposits etc.
+content	experience	· Generated Back office reports
+content	experience	· Responsible for selling Mutual funds and loan products

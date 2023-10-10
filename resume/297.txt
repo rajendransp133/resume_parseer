@@ -1,0 +1,81 @@
+meta	others	Application for the Post of Accountant
+meta	others	“Lalganj Dahibazar ,
+meta	others	Dalalchowk, Itwari,
+meta	others	Nagpur – 440002 ( India )
+meta	others	E-ID-deepak.dulewale@gmail.com
+meta	others	dhakate.deepak@gmail.com
+meta	others	Contact - 09767115765
+meta	others	DEEPAK F. DULEWALE
+meta	others	_____________________________________________________
+header	others	Carrier Objective
+content	others	To seek a long-term carrier through innovations, creativity and hard work where I will be able to implement all my potentials and also get a chance to learn and serve my company to the best of my abilities.
+header	experience	Summary
+content	experience	I am a B.Com Graduate having 8 years experience in the various fields.
+content	experience	(Sales & Purchase Accounting / Excise Return & Stores, Stock inventory Accounting )
+header	education	Education
+content	education	B.Com Nagpur University
+content	education	Software Skills
+content	education	Knowledge of Computer: Diploma in Computer Software - ( Nagpur ) Computorised Accounting in Tally Software ( Nagpur )
+content	education	Work Experience
+content	education	Agrawal Trading Carproration (All Total Managements in Accounting) (2008 To 2009)
+content	education	Goenka Switchgears Private Limited – Accountant
+content	education	( Store Stock inventory & Excise Accounting) ( 2009 To 2010 )
+content	education	Sureyaprakash Industries – Accountant ( 2010 to 2011 )
+content	education	Nice Paper Ltd. - Accountant ( 11.01.11 To 28.02.14 )
+content	education	Aaryan cards Nagpur ( 01.04.14 to 15.6.15 )
+content	education	Lipi International Pvt. Ltd. ( 01.09.2015 to Present )
+header	experience	Details of Work Experience:
+content	experience	Agrawal Trading Carproration ( Paper Trading Stop )
+content	experience	Goenka Switchgears Private Limited ( Electric Panel Unit )
+content	experience	Suryaprakash Industries ( Casting Unit )
+content	experience	Nice Paper Limited ( Kraft Paper Manufacture Unit )
+content	experience	Aaryan cards Nagpur ( Offset & Printing Unit )
+content	experience	Lipi International Pvt. Ltd. ( Printing & Packaging Manufacture unit )
+header	experience	Responsibility/Achievements:
+content	experience	· Excise Return ( ER-1 ) online submit and Excise Related all working
+content	experience	· Modvat credit working sheet and cenvat credit details working sheet , Description for goods ( Finish Stock ) working sheet ,
+content	experience	· Capital goods modvat working sheet,
+content	experience	· Service tax return working as per details,
+content	experience	· Service tax for GTA in Transportation, Manpower of contractor’s and security ,
+content	experience	· Export related working, invoice , packing list , ARE-1, etc.
+content	experience	· Excise department related working
+content	experience	· CT-1 against material Export related working
+content	experience	· Form I against material dispatch and ARE-3 Working Sheet
+content	experience	· Bank related Export issue and payment received against issue
+content	experience	· Raw material stock consumption entry in tally software
+content	experience	· Production in finish stock entry in tally software
+content	experience	· Daily Stock register working in excel sheet
+content	experience	· Excise department related covering letter working
+content	experience	· Responsible for cost effective purchases of materials accounting
+content	experience	· Procurement & development of materials accounting
+content	experience	· Responsible for local purchase accounting.
+content	experience	· Follow-up with supplier pre timely delivery & dispatch of materials in accounting.
+content	experience	· Excise sale and purchase accounting
+content	experience	· Preparation of purchase orders Co-ordinate with store & purchase follow-up for urgent material & collection.
+content	experience	· Responsible for cost effective purchases of materials bills.
+content	experience	· Setting of inventory level of production consumables
+content	experience	· Feedback of material inventory in store.
+content	experience	· Responsible for local purchase in accounting.
+content	experience	· Stock Position reconciliation
+content	experience	· Preparation of Sales Tax , purchase Tax, Aditing in data.
+content	experience	· Purchase & Sales Tax Returns related all activities
+content	experience	· Factory Invoicing
+content	experience	· Material dispatches
+content	experience	· Services Tax & Tds working ,
+content	experience	· Bill & Stock match for reconciliation Tally software
+content	experience	· Bank Reconciliation and all accounting entry.
+content	experience	· Company Purchase Department working Handle
+content	experience	· Company & Store Auditing working
+content	experience	· I will be handling for Account Department any Working.
+content	experience	· I will be handling any working for any other department .
+header	education	Detail Qualifications:
+content	education	· B.Com from Nagpur University in the year 2010 (43.33 %)
+content	education	· H.S.C. from M.S.B.S. & H.S.E. Divisional Board in the year 2005 (59.33 %)
+content	education	· S.S.C. from M.S.B.S. & H.S.E Pune in the year 2003 (46.93 %)
+header	others	Personal:
+meta	others	Martial Status: Married
+meta	others	Date of Birth: 18th Dec. 1986
+meta	knowledge	Languages Known: English, Hindi & Marathi.
+meta	others	Hobbies: Movies, Study & Parties
+meta	others	Please contact my Mobile No. 9767115765
+meta	others	Your’s Faithfully

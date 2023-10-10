@@ -1,0 +1,145 @@
+meta	others	CHEREDDY NARENDRA KUMAR
+meta	others	Email: chereddy.nary@gmail.com
+meta	others	Phone me: +91-9986011460
+header	others	career objective:
+content	others	Seeking a position as a database administrator in an organization with considerable growth and challenging opportunities.
+header	experience	PROFESSIONAL SUMMARY:
+content	experience	· Having 3.4 years of experience in the IT industry as database administrator
+content	experience	· Having knowledge in oracle and db2, MS sql server databases
+content	experience	· Worked in Linux,AIX,windows environments
+content	experience	· Worked in oracle 11g and 12c.
+content	experience	· Worked in db2 9.1,9.5,9.7,10.1 versions
+content	knowledge	· Having knowledge in sql
+content	knowledge	· Having knowledge in MS sql server administration
+content	knowledge	· Having knowledge in oracle data guard
+content	knowledge	· Having knowledge in shell scripting
+content	knowledge	· Having knowledge in linux commands
+content	knowledge	· Having knowledge in ITIL processes.
+content	experience	· Attended AIOUG conference at Bangalore .
+header	education	CERTIFICATIONS
+content	education	Oracle 11g Certified Associate
+content	education	IBM Certified Database Associate - DB2 10.1 Fundamentals
+header	education	academic CREDENTIALS:
+content	education	Qualification
+content	education	Stream
+content	education	Name of the Institute
+content	education	Board / University
+content	education	Year of Passing
+content	education	% of Marks
+content	education	BTech
+content	education	Information Technology
+content	education	RVR & JC College of Engineering
+content	education	Acharya Nagarjuna University
+content	education	2014
+content	education	79.8
+content	education	Intermediate
+content	education	M.P.C
+content	education	Sri chaitanya Junior College
+content	education	Board of Intermediate Education
+content	education	2010
+content	education	92.1
+content	education	SSC
+content	education	SSC
+content	education	Geethanjali High School
+content	education	Board Of Secondary
+content	education	Educaton
+content	education	2008
+content	education	92.8
+content	education	DEC 2016 – Till Date
+header	experience	INFOSYS LIMITED
+content	experience	Client
+content	experience	Confidential
+content	experience	Work Location
+content	experience	Bangalore
+content	experience	Position
+content	experience	Senior systems Engineer – Database Administrator
+header	knowledge	Databases
+content	knowledge	Oracle Database - 10g,11gR2 and 12C ,MSsql server
+header	knowledge	OS
+content	knowledge	Linux, Solaris ,AIX and Windows Server
+header	experience	Responsibilities
+content	experience	Oracle Core DBA : Roles And Responsibilties:
+content	experience	· Installation of Oracle Binaries on different unix flavors versions include 11gr1,11gR2 and 12cR1
+content	experience	· Creation of database - using DBCA as well as manual mode of creation.
+content	experience	· Performed Database upgrade activities. - Upgraded from 10g to 11g , 11g to 12c versions.
+content	experience	· Performed Database patching activity.
+content	experience	· Performed Database de-launch activities.
+content	experience	· Performed import and export activities.
+content	experience	· Performed backup and restore activities.
+content	experience	· Performed general technical trouble shooting and give consultation to development teams
+content	experience	· Provide 24/7 production support for the Oracle databases.
+content	experience	· Monitoring DB Growths and managing tablespaces of the Databases..
+content	experience	· Interacted with Oracle Corporation for technical support.
+content	experience	· As part of daily activities handled incident management,change management,task management
+content	experience	· Worked on user management
+content	experience	· Configured rman backups to networker with the help of backup team
+content	experience	· Worked on customer requests
+content	experience	· Provided oncall support during night time
+content	experience	· Collaborated with other teams (OS,backup,application) as and when required.
+content	experience	· Working in user connectivity issues
+content	experience	I IBM Certified Database Associate - DB2 10.1 Fundamentals
+content	experience	Click to teach Gmail this conversation is important.B
+content	experience	M Certified
+content	experience	OCT 2014 to NOV 2016
+content	experience	INFOSYS LIMITED
+content	experience	Client
+content	experience	Confidential
+content	experience	Work Location
+content	experience	Bangalore
+content	experience	Position
+content	experience	Senior systems Engineer – Database Administrator
+content	experience	Databases
+content	experience	Oracle (10g,11gR2 and 12C ) , DB2 ( 9.1 to 11 ) And MS SQL
+content	experience	OS
+content	experience	Linux, Solaris ,AIX and Windows Server
+header	experience	Responsibilities
+content	experience	ORACLE DBA ROLES :
+content	experience	· Provide 24x7 Production Oracle Database Administration
+content	experience	· Perform Oracle Software Installation
+content	experience	· Create Database manually and using DBCA as per Client requirement.
+content	experience	· Creation and Administration of Database Objects
+content	experience	· Upgrading databases from Oracle 10g to 11g R2
+content	experience	· Upgrading databases from Oracle 11g to 12C and applied patches whenever required
+content	experience	· Perform backup and recovery using RMAN.
+content	experience	· Perform duplication activities using RMAN.
+content	experience	· Perform import and export activities .
+content	experience	· Direct interaction with customers to understand the business requirements
+content	experience	· Prepared and executed pro-active solutions to help customer and improve productivity of team
+content	experience	· Monitoring daily scheduled backups
+header	experience	DB2 LUW DBA ROLES :
+content	experience	· Installing DB2 Server/Client Software 9.7.10.1 and 10.5 versions on all flavors of UNIX and Windows server.
+content	experience	· Creating the DB2 DB.
+content	experience	· Upgrading/Migrating and downgrading the DB2 DB.From 9.5 to 9.7,9.7 to 10.1 and higher version
+content	experience	· Performed fixpack upgrade on databases.
+content	experience	· Experienced in design, create implement and managing SMS, DMS, and Automatic Storage table spaces.
+content	experience	· Experienced in Table space management like Adding, dropping, extending, reducing and resizing table space containers
+content	experience	· Experienced in data movement utilities like Export, Import, Load and database maintenance utilities like Runstats, Reorg and Rebind
+content	experience	· Experienced in using DB2 diagnostic tools available: db2pd, db2mtrk, db2support, db2dart, database snapshot monitoring, db2diag log file and notification log files.
+content	experience	· Create PMRs with IBM in case of any software issues with DB2.
+content	experience	· Quality Review of incident tickets and Tasks with onsite team
+content	experience	· Experience in providing 24*7 support to maintain around 2000 Databases up and running which includes Production environments
+content	experience	Database Associate - DB2 10.1 Fundamentals
+content	experience	Click to teach Gmail this conversation is important.IBM Certified Database Associate - DB2 10.1 Funda
+header	knowledge	my strengths:
+content	knowledge	· Willingness to learn.
+content	knowledge	· Quick learner
+content	knowledge	· Self Motivated
+content	knowledge	· Good team member
+content	knowledge	· Learning new technologies
+header	others	Personal Profile:
+meta	others	Father’s name : Srinivasa Rao.
+meta	others	Mother’ : Hanumayamma
+meta	others	Date of birth : 18-06-1993.
+meta	others	Marital status : Single.
+meta	others	Nationality : Indian.
+meta	others	Hobbies : Playing cricket
+content	knowledge	Linguistic Versatility : English, Telugu.
+meta	others	Present address : vbn naveena recidency,9th cross manjunatha layout,munnekulal.
+meta	others	Permanent address : D.No:1-83,Bodepudivaripalem,Kondramutla(po),Ipur(md)
+meta	others	Guntur (dt), Andhra Pradesh-522647.
+header	others	Declaration:
+meta	others	I, Narendra Kumar do hereby confirm that the information furnished above is true to the best of my knowledge and belief.
+meta	others	Place: Bangalore
+meta	others	Date : [Ch.Narendra Kumar]
+meta	others	Click to teach Gmail this conversation is important.
+meta	others	07003110_Siebel_OCE_Logo

@@ -1,0 +1,120 @@
+meta	others	SHIVESH SRIVASTAVA
+meta	others	Senior Systems Engineer (Infosys Limited)
+meta	others	Contact No: +917905307714
+meta	others	E-Mail: beingshivesh@gmail.com
+header	others	Career Objective
+content	others	To be well settled in an organization, where my professional experience and abilities can be best
+content	others	utilized for growth of my career and the organization.
+header	experience	Professional Summary:
+content	experience	• Have 3 years of total IT experience in the Design, Implementation, Development, analyzing,
+content	experience	deploying MS SQL Server suite of products with Microsoft Azure Data Lake, Microsoft Azure
+content	experience	Data Factory,Power BI, Power Pivots ,Business Intelligence in SQL Server Integration
+content	experience	Services (SSIS) and SQL Server Analysis Services (SSAS)
+content	experience	• Have very good exposure in generating Power BI reports and Dashboards
+content	experience	• Conceptually strong with an innovative and analytical approach to the work with an eye for
+content	experience	detail. Enriched with the ability to learn new concepts & technology within a short span of
+content	experience	time.
+content	experience	• Have experience in analyzing, designing, developing and deploying MS SQL Server suite of
+content	experience	products with Business Intelligence in SQL Server Integration Services (SSIS) and SQL Server
+content	experience	Analysis Services (SSAS) and SQL Server Reporting Services(SSRS)
+content	experience	• Strong experience in fixing bugs in existing system and creating ad hoc reports based on user
+content	experience	requirements
+content	experience	• Highly motivated Business Intelligence Professional using SQL Server 2008/2012, Microsoft
+content	experience	Technologies and other technologies over last 3+ years
+content	experience	• Demonstrated leadership abilities and team work skills as well as the ability to accomplish
+content	experience	tasks under minimal direction and supervision.
+header	experience	Work Experience:
+content	experience	• 3 years of IT experience working on MSBI technologies and Power BI
+content	experience	Well versed with SQL 2012 SSIS, SSAS, SSRS, Power BI
+content	experience	• Effective communication skills and corporate business etiquettes
+content	experience	• Exposed to Big data technologies like Apache Hadoop, Hive.
+content	experience	mailto:beingshivesh@gmail.com
+header	knowledge	Technical Skills:
+content	knowledge	Database: SQL SERVER 2016/2014
+content	knowledge	Programming: T-SQL, PL\SQL, MDX , DAX
+content	knowledge	Operating System: Windows 2008/2010
+content	experience	ETL Tool: SQL Server Integration Services (SSIS), Informatica
+content	knowledge	OLAP Tool: SQL Server Analysis Services (SSAS)
+content	knowledge	Reporting Tools: Power BI, SQL Server Reporting Services (SSRS)
+content	knowledge	Development
+content	knowledge	Platform :
+content	knowledge	Microsoft Visual Studio Team Foundation Server (TFS)
+header	project	Projects Summary
+header	project	Project 1:
+header	project	Project Name MAST BI
+content	experience	Client Microsoft
+content	experience	Role Developer
+content	experience	Duration April 2017 to Present
+content	experience	Environment Power BI, SSAS Tabular
+content	experience	Description: Objective of this Project is to develop multiple SSIS packages to load data into
+content	experience	DataMart and Data warehouses, to be pulled for Multidimensional cubes in SSAS. And then
+content	experience	measures and dimensions from cubes were used by users for POWER BI dashboards and reports
+header	experience	Responsibilities:
+content	experience	• Created multiple SSIS ETL packages (2008/2012) to perform data pull from various data
+content	experience	sources from downstream team as per Requirement.
+content	experience	• Developing, configuring, deploying and scheduling the SSIS (ETL) Jobs in SQL Server
+content	experience	2008/2012 across all environments like DEV, Staging and Production servers.
+content	experience	• Created Stored Procedures to load data into SSAS tabular Models.
+content	experience	• Created Power Bi reports on top of SSAS tabular models.
+content	experience	• Created various measures and developed Dashboards and Reports.
+header	project	Project 2:
+header	project	Project Name GBS
+content	experience	Client Microsoft
+content	experience	Role Developer
+content	experience	Duration October 2016 to March 2017
+content	experience	Environment SSIS, SSRS, SQL Server
+content	experience	Description: Objective of this Project is to develop multiple SSIS packages to load data into
+content	experience	DataMart and Data warehouses, to be pulled for Multidimensional cubes in SSAS. And then
+content	experience	measures and dimensions from cubes were used by users for POWER BI dashboards and reports.
+header	experience	Responsibilities:
+content	experience	• Created multiple SSIS ETL packages (2008/2012) to perform data pull from various data
+content	experience	sources from downstream team as per BR.
+content	experience	• Developing, configuring, deploying and scheduling the SSIS (ETL) Jobs in SQL Server
+content	experience	2008/2012 across all environments like DEV, Staging and Production servers.
+content	experience	• Used transformations like Derived Column, Conditional Split, and Aggregate, Sort, Merge
+content	experience	join, Data Conversion, Union, Pivot and Script Task.
+content	experience	• Developed MDDM Cube using SSAS.
+content	experience	• Developed dashboards on top of MDDM cube using Power BI and Reporting Template.
+header	project	Project 2:
+header	project	Project Name GMO Power BI Dashboard
+content	experience	Client Microsoft
+content	experience	Role Developer
+content	experience	Duration April 2016 to September 2016
+content	experience	Environment Power BI, Power Pivot, Power View, Power Query
+content	experience	and Microsoft Excel 2013
+content	experience	Description: This Project is to develop a Power BI dashboard requested by Business Client. This
+content	experience	involves creation of data model from different data sources and development of Power View
+content	experience	Dashboard on top of it.
+header	experience	Responsibilities:
+content	experience	• Created a data model in Power Pivot using Microsoft Excel 2013 to perform data pull from
+content	experience	various data sources like databases and Excel files.
+content	experience	• Created multiple calculated columns using power queries based on requirements.
+content	experience	• Developed multiple Views on Excel using Power View and created multiple Slicers, Tiles,
+content	experience	Filters, Charts and Graphs on each view on this Dashboard.
+content	experience	• This dashboard helps to calculate the SLA’s for each ticket based on portfolio, application and
+content	experience	date filters.
+content	experience	• Delivered technical and domain related KT’s on this dashboard to entire team members.
+header	project	Project 3:
+header	project	Project Name Ask me tabular
+content	experience	Client Microsoft
+content	experience	Role Developer
+content	experience	Duration Nov 2014 to Mar 2015
+content	experience	Environment SSAS tabular, SSIS and Microsoft Excel 2013
+content	experience	Description: This Project is to develop tabular models from underlying databases which were
+content	experience	loaded according to BR and creating measure and KPI over it
+header	experience	Responsibilities:
+content	experience	• Created data models in SSAS tabular with the help of SP’s in SQL server.
+content	experience	• Created multiple calculated columns based on requirements.
+content	experience	• Created multiple measures and KPI’s according to requirement and loaded Excel accordingly.
+content	experience	• Created SSIS packages for loading new dimensions and fact tables in to the server.
+header	others	Personal Profile:
+meta	others	Date of birth : 04-05-1991
+meta	others	Gender : Male
+meta	others	Marital status : Single
+meta	others	Nationality : Indian
+content	knowledge	Languages Known : English and Hindi
+meta	others	Address: Shivesh Srivastava s/o Kamlesh Kumar Srivastava, Lucknow (226022), UP
+header	others	Declaration:
+meta	others	I hereby declare that the above provided information is correct to the best of my knowledge
+meta	others	and belief.
+meta	others	Shivesh Srivastava

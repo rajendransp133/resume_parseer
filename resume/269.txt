@@ -1,0 +1,129 @@
+meta	others	VINAYAGAMOORTHY .M
+meta	others	vinayag1987@gmail.com
+meta	others	(+91) 9962287728
+header	others	Objective:
+content	others	Network Engineer over with 4 years 10 month of experience in DSL and GPON/FTTH network. Monitoring and Troubleshooting maintaining network performance. Seeking a challenging & responsible position in your organization as Systems Technical Support/Monitoring engineer a professional and growth oriented organization, which may help me to utilize my technical skills and experience.
+header	knowledge	Technical skills:
+content	knowledge	Network Management System: ALCATEL AMS 5520, Huawei U2000, ZTE U31, Ericsson, UT-Star, Ruckus SEG-200.
+content	knowledge	Application Software: ITSM BMC Remedy, WHATSUP Gold, MRTG, Putty, Tivoli Netcool, ICRM, Metasolv Wireshark.
+header	experience	Experience Profile:
+content	experience	Company Name: US Technology International Pvt. Ltd
+content	experience	Designation
+content	experience	: Network Operation Associate-S1
+content	experience	Client
+content	experience	: Alcatel-Lucent India Pvt. Ltd (A Nokia Corporation Company)
+content	experience	Duration
+content	experience	: Nov 2017 – Till now
+content	experience	Company profile:
+content	experience	UST Global is a leading provider of end-to-end IT services and solutions for Global 1000 companies. A client-centric Global Engagement Model that combines local, senior, on-site resources with the cost, scale, and quality advantages of off-shore operations. Commitment to long-term client success empowers every associate to provide value and flexibility beyond the contract.
+content	experience	Roles & Responsibilities:
+content	experience	· Monitoring & Troubleshooting the GPON Fiber Access network Alcatel AMS 5520 client.
+content	experience	· Creating Trouble tickets to the ITSM Application.
+content	experience	· To provision FTTH customer network services on Access equipment (ONU).
+content	experience	· Troubleshooting FTTH OLT (DSLAM’s) & ONU.
+content	experience	· Monitring OLT & ONU traffic using intregerity tool.
+content	experience	· VLAN creation & VLAN tagging in OLT’s.
+content	experience	· Bulk customer migration on one OLT to another OLT.
+content	experience	· Troubleshooting based on the Customer related issues in Siebel & ITSM.
+content	experience	· Preparing OLT performance monitoring report and monitor OLT traffic using NAF.
+content	experience	· Fault handling and escalation in client network. (identifying and responding to faults on systems and networks, liaising with 3rd party suppliers, handling escalation through to resolution).
+content	experience	Company Name: Telesonic Networks Ltd
+content	experience	Designation
+content	experience	: TAC Engineer (Access DSL)
+content	experience	Client
+content	experience	: Bharti Airtel Limited
+content	experience	Duration
+content	experience	: Jan 2016 – Oct 2017
+content	experience	Company profile:
+content	experience	Telesonic Networks is a wholly owned subsidiary of Bharti Airtel limited. Telesonic provides end to end wire line network management and transformation to next generation wire line and wireless technologies with innovative cost effective solutions.
+content	experience	Roles & Responsibilities:
+content	experience	· Monitoring the GPON Fiber Access network through ZTE U31 & Alcatel AMS 5520 client.
+content	experience	· To provision FTTH customer network services on Access equipment (ONU).
+content	experience	· Troubleshooting FTTH OLT (DSLAM’s).
+content	experience	· Troubleshooting based on the Customer related issues in TAC & ICRM.
+content	experience	· Fault handling and escalation (identifying and responding to faults on systems and networks, liaising with 3rd party suppliers, handling escalation through to resolution).
+content	experience	· Preparing OLT performance monitoring report.
+content	experience	· Creating Trouble tickets to the concerned team in BMC Remedy Application.
+content	experience	· Monitoring of DSLAMs, Routers and Switches using monitoring tools like WHATSUP Gold, MRTG, and NETCOOL.
+content	experience	· Handled various Routers in CISCO/ HUAWEI /ALCATEL.
+content	experience	· Monitoring of internet bandwidth services (LDAP, RADIUS).
+content	experience	· SSID creation and broadcast in Ruckus SCG-200
+content	experience	· Monitoring WI-FI access points through Ruckus SCG-200, ZD5000 & ZD3000 WLAN controller.
+content	experience	· Configured the hotspot customers in DSLAM’s.
+content	experience	· Design and Implementation of Wi-Fi systems in major cities in India using Ruckus and Belair Access points.
+content	experience	· Taking a Packet capture using Wireshark.
+content	experience	· Proactive monitoring of the intercity links and WI-FI intercity links usage and track the usage every day.
+content	experience	· In charge of monitoring Bandwidth utilization of South Indian states.
+content	experience	· Involved in Change Managements/planned activities from NOC, like commissioning, new Node [Routers/Switches] integration, link establishments, Module replacement, and verifying the link stabilities by checking the various parameters.
+content	experience	· Preparing Managed Service Network surveillance performance report.
+content	experience	Company Name: Telesonic Networks Ltd
+content	experience	Designation
+content	experience	: Engineer (DSL-Provisioning)
+content	experience	Client
+content	experience	: Bharti Airtel Limited
+content	experience	Duration
+content	experience	: Dec 2014 – Jan 2016
+content	experience	Roles & Responsibilities:
+content	experience	· Daily order Processing, Port level Troubleshooting Speed and Data rate related Issues
+content	experience	· Applying customer bandwidth for DSLAM’s NMS (Ericsson, Alcatel Lucent, UT Star, Nokia Siemens, and Huawei).
+content	experience	· Configuration of static customer in DSLAM and BRAS.
+content	experience	· Handled OSS Related Order Issues and Metasolv order related issues.
+content	experience	· Handling customer’s bandwidth and profile related issue.
+content	experience	· DSLAM’s software upgradation.
+content	experience	· Card configuration in DSALM’s and OSS.
+content	experience	· Bulk Migration of customers from old to new DSLAM.
+content	experience	· Part of Team which won the Achievement Award for improvement of SLA within 2hrs.
+content	experience	Company Name: InfoServices (IBM Service Provider)
+content	experience	Designation
+content	experience	: Technical Support Engineer (L1-Support)
+content	experience	Client
+content	experience	: Bharti Airtel Limited
+content	experience	Duration
+content	experience	: Sep 2013 – Nov-2014
+content	experience	Company profile:
+content	experience	InfoServices is an Exclusive Service provider company, established by hard-core technocrats from IT industry. It is formed with the sole purpose of rendering quality customer services to IBM global services. Professionals with rich experience from the IT industry manage the affairs of the company.
+content	experience	Platforms Known:
+content	experience	Operating System
+content	experience	: Windows Family
+content	experience	Hardware
+content	experience	: Desktops, Laptops
+header	experience	Roles & Responsibilities:
+content	experience	· Configuring and Troubleshooting of Lotus Domino 8.5.2.
+content	experience	· Configuring and Troubleshooting of Microsoft Outlook.
+content	experience	· Able to work in all windows domain & troubleshoot the issues.
+content	experience	· Managed and maintained operating systems and network connectivity.
+content	experience	· Provided back up services to ensure system integrity.
+content	experience	· Managing User Accounts & configuring the network printers on the file server.
+content	experience	· Managed trouble tickets with a web based application IBM MAXIT.
+content	experience	· Installing and troubleshooting the Symantec security.
+content	experience	· Recommended changes, upgrades, and new hardware installation.
+content	experience	· Providing Remote Support using Tivoli as well Net meeting to the remote Client.
+content	experience	· Installing and Configure the Operating Systems (WINDOWS).
+content	experience	· Installing and troubleshooting client’s applications.
+content	experience	· knowledge in Bit locker in client OS (Windows 7)
+content	experience	· Knowledge in BMC Remedy, Citrix issue.
+content	experience	· Provide client Support & Technical Issue Resolution via Phone.
+header	education	Educational Qualification:
+content	education	· Completed MCA in 2011 at Mohamed Sathak Engineering College with 6.98 CGPA.
+content	education	· Completed BSc. [CS] in 2007 at Madurai Kamaraj University College with 58%.
+content	education	· Completed HSC in 2004 at St. Mary’s Higher Secondary School with 66.6%.
+content	education	· Completed SSLC in 2002 at St. Mary’s Higher Secondary School with 60%.
+header	education	Additional Qualification:
+content	education	· Successful completion of Computer Hardware & Networking.
+header	education	Extra-Curricular Activities:
+content	education	· Have got 1st place in Quiz as a part of Intxpo’09 Technical symposium.
+content	education	· Have got 1st place in Postal presentation Intxpo’10 Technical symposium.
+header	others	Personal Details:
+header	others	Name
+meta	others	: Vinayagamoorthy .M
+header	others	Nationality
+meta	others	: Indian
+header	others	DOB
+meta	others	: 10-Apr-1987
+header	knowledge	Language known
+meta	knowledge	: English, Tamil
+header	others	Marital Status
+meta	others	: Single
+header	others	Passport No.
+meta	others	: L4155994
+meta	others	PAGE

@@ -1,0 +1,92 @@
+meta	experience	Kalpana K,Mobile: +
+meta	experience	Call To: +91 9765067297
+meta	experience	Priyanka Chougule Email:priyankachougule7890@mail.com
+header	experience	Technical Summary:
+content	experience	· Total 4.7 years experience and 3 years of experience in IT support industry.
+content	experience	· Working Experience of End to End Implementation.
+content	experience	· Project Support Experience on Integrated Planning Deep understanding of planning sequences, planning functions.
+content	experience	· Understanding of customer business processes requirements to support project evaluations with proposed solutions.
+content	knowledge	· Thoughtful Knowledge of Data Modeling, Data Extraction and Reporting.
+content	experience	· Verification and Validations of Report and its Discrepancies/Feedback on the Data Received.
+content	experience	· Supported with Creation and Enhancement of Report templates as per the Business Requirement.
+content	experience	· Collate reports from centers and prepare dashboards for Further Analysis.
+content	experience	· Prepare and Publish weekly and monthly dashboards to management.
+content	experience	· Managed Regular follow-up with centers on report completeness & accuracy.
+content	experience	· Handled the Change process with Teams on new changes in reports as and when introduced.
+content	experience	· Support the Project Teams throughout the new solution implementation.
+content	experience	· Worked on Incident Solving, Additional Tasks.
+content	experience	· Experience on Performing root cause analysis.
+content	experience	· Excellent Interpersonal skills, outstanding problem solving and decision making skills.
+content	knowledge	· Good understanding of technology with focus on delivering business solutions.
+header	experience	Work Experience:
+content	experience	· Worked as Senior Associate in Allstate Limited, Pune from Sep 2017 to June 2018.
+content	experience	· Worked as a Senior Technology Supporter in Infosys BPO Pvt Ltd, Pune from July 2013 to Sep 2017.
+header	knowledge	Technical Skills:
+content	knowledge	· Functional Area
+content	knowledge	: SQL queries, MS access, SAP BW/BI Basic, Basic QlikView,
+content	knowledge	Excel.
+content	knowledge	· Database
+content	knowledge	: Oracle, SQL server
+content	knowledge	· Operating Systems : Windows 2010.
+header	education	Education:
+content	education	· M.SC.: Masters in Computer Science from Pune University, Pune with 58.33% (2013).
+content	education	· B.C.S: Bachelor of Computer Science from Shivaji University, Kolhapur with 60% (2011).
+content	education	· H.S.C: Higher Secondary School Certificate, 12th standard (Science), from Kolhapur Board with 55.33% (2008).
+content	education	· S.S.C: Secondary School Certificate, 10th standard; from Kolhapur Board with 67.06% (2006).
+header	project	Projects’ Details:
+content	experience	1. Company Name: Allstate private Ltd.
+content	experience	Project Name: Auto Manual.
+content	experience	Team: Reporting services.
+content	experience	Duration: - 2017 to 2018
+header	experience	Description:
+content	experience	This project Deal with US Customer’s insurance policies, where we manage various Customer Data aspects via Reporting and Data Analysis.
+content	experience	Responsibilities:
+content	experience	· Experience in gathering and analyzing business requirements
+content	experience	· Excellent systems and data analysis skills.
+content	experience	· Proven troubleshooting and analytical experience.
+content	experience	· Strong problem resolution skills and good judgment on how to proceed with issues.
+content	experience	· Define requirements and monitor those through to implementation.
+content	experience	· Report weekly to Executive Sponsor when tasks are at risk till critical path determined.
+content	experience	· Recommend management of status of all ongoing projects.
+header	project	2. Project Name: Syngenta.
+content	experience	Team: Reporting services.
+content	experience	Duration:- 2015 to 2017
+content	experience	Environment:-BW, SAP (ERP) Production, MS access, Dashboard, QlikView.
+content	experience	Reports: - Veg reports, Sales GP report, Quality report.
+header	experience	Description:
+content	experience	This Project Deals with various reports on monthly basis. Including Sales, Veg, KPI, Quality.
+content	experience	With SAP BI queries need to maintain the customer’s requirement as well as the dashboard data.
+header	experience	Responsibilities:
+content	experience	· Coordinate with Business Managers to translate business requirements into coherent Business Intelligence (BI) reports.
+content	experience	· Prepare and maintain BI reporting and analysis documentations.
+content	experience	· Generate BI reports, dashboards and data models with the help of BI tools and MS-Office products.
+content	experience	· Identify and resolve BI report related issues.
+content	experience	· Prepared Test Case documents and helped in review.
+content	experience	· Communicated with developers to sort out issues with respect to their criticality.
+content	experience	· Execute BI projects within assigned budget and timelines.
+content	experience	· Analyze existing BI reporting processes and suggest improvements.
+content	experience	· Validate data warehouse system for data integrity, quality and accuracy.
+content	experience	· Work with various business teams to improve BI reporting and analytics.
+content	experience	· Would support the Product teams by delivering monthly/weekly/Yearly reports.
+header	project	3. Project Name: CISCO.
+content	experience	Team: Reporting services (OTM).
+content	experience	Duration: - 2013 to 2015
+content	experience	Environment: - CRM tool, Excel.
+header	experience	Description:
+content	experience	Provide support and maintenance to existing partner information of CISCO. Maintain the reports as per the request. CISCO maintains relationship with some partners with their products.
+header	experience	Responsibilities:
+content	experience	· Provide support and maintenance to existing management information systems.
+content	experience	· Generate and distribute management reports in accurate and timely manner.
+content	experience	· Provide recommendations to update current MIS to improve reporting efficiency and consistency.
+content	experience	· Perform data analysis for generating reports on periodic basis.
+content	experience	· Provide strong reporting and analytical information support to management team.
+header	others	Personal details:
+meta	others	Date of Birth:-
+meta	others	7th August 1990.
+header	knowledge	Languages Known:-
+meta	knowledge	English, Hindi and Marathi.
+meta	others	Permanent Address:- Plot No.9, Meera colony, Hasani Ashram, Vishrambag Sangli.416416.
+meta	others	Present Address-c-5 402, Kunal Icon society, near shiwar garden, Pimlpe saudagar,
+meta	others	Pune-411027.
+meta	others	PAGE
+meta	others	1

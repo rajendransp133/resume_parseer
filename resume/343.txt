@@ -1,0 +1,63 @@
+meta	others	Supplier Name Contact Number 1 Pranav Dave – 07600021812
+meta	others	Abhishek Choudhary
+meta	others	E-mail: abhishekchoudhary005@gmail.com
+meta	others	Mobile#: 09899304087
+meta	others	Objective : To pursue a challenging career with a progressive organization, which offers a conducive work environment providing an opportunity for professional growth and enables me to realize my full potential.
+content	others	Self –Appraisal : Efficient time management. Handling multiple priorities and deadlines. Energetic and dedicated, with a demonstrated record of building strong working relationships with the team mates, as well as being able to work alone. Basic target in life is to be successful, and willing to work as hard and efficiently as possible for achieving this end.
+header	education	Professional Qualification:
+content	education	Course : Bachelor of Technology (Electronics & Communication)
+header	education	Academic Qualification:
+content	education	Degree/Certificate
+content	education	Institute
+content	education	Board / University
+content	education	Year of Passing
+content	education	%Marks
+content	education	B-TECH
+content	education	ABES ENGINEERING COLLEGE
+content	education	G.B.T.U (Formely U.P.T.U)
+content	education	2012
+content	education	65.8%
+content	education	12th standard
+content	education	SETH ANANDRAM JAIPURIA SCHOOL
+content	education	I.S.C
+content	education	2008
+content	education	74.6%
+content	education	10th standard
+content	education	SETH ANANDRAM JAIPURIA SCHOOL
+content	education	I.C.S.E
+content	education	2006
+content	education	77.8%
+header	education	Certifications: Cisco Certified Network Associate(CCNA CSCO ID#12295977)
+content	education	· CCNP Switching (cleared)
+header	experience	Work Experience: Total Experience is of 33 months out of which 28 Months in Network support /Service Desk through Remote ,dealing with International ISPs/Clients over call for resolving the issues
+content	experience	5 months experience Application/outlook/AD Support over calls and chats and email.
+content	experience	Current Organization: HCL Technologies
+content	experience	Training Join date: 26 June 2015 to 27 January 2016 (CCNA/ CCNP (switching))
+content	experience	Project Assignation Date : 28th Jan 2016-till date.
+content	experience	· Job Responsibilities: Working as ANALYST in project GNOC(CLIENTS:Electrolux,Saint Gobain Mtaas).
+content	experience	· Providing Network support to various clients managaing LAN and WAN trouble shooting of P1,P2,P3,P4 issues. Creating tickets of various severity. Acting as POC for the concerned clients
+content	experience	· Knowledge of TCP, SMTP, TELNET, SSH, PORT Numbers. Basic LAN configuration-VLANS, Trunks, Ether-channels. STP, SPAN,
+content	experience	· RSPAN, inter VLAN routing. IP source guard, private VLAN, port security.
+meta	others	.
+content	experience	Last Organization – IBM India Pvt ltd. 26 Aug 2014 to12 Jan 2015
+content	experience	Designation–Technical Support Representative
+content	experience	Job Responsibilities: Providing Application Outlook and Desktop Support to clients on calls.Handle various types of network and desktop issues and raising tickets for the clients.
+content	experience	· Strong aptitude in OS repairs, spy ware and virus removal, hardware, upgrades and troubleshooting
+content	experience	· Experience with basic Active Directory administration and support
+content	experience	· Able to work within time constraints and follow set processes and procedures.
+content	experience	· Customer focused, a team player, and able to work on multiple tasks with minimal supervision.
+content	experience	· Experience working with an international support team
+content	experience	Last Organization – Eljay Engineering India Pvt Ltd: 16 August 2012 to 12 August 2013
+content	experience	Designation – Associate Network Engineer. .
+content	experience	Domain– NOC Operations, Voice Services.
+header	experience	Job Responsibilities :
+content	experience	· Have worked on Alert Management (handling p1,p2,p3,p4 issues) as per strict SLA and Verifying and
+content	experience	troubleshooting alerts triggered from Cisco routers,Switches.
+content	experience	· Worked on various Networking tools like Spectrum, Prognosis, NAS, CA service desk.
+content	experience	· Registering Cisco CIPC phones.
+content	experience	· Have handled client calls and opening the case with the service provider.
+content	experience	· Troubleshooting CPU & Memory related issues.
+content	experience	· Major clients for which i have worked are FV21 store,Associa,CMHS,DFW,etc.
+header	knowledge	Soft Skills:
+content	knowledge	· Good Leadership and Management skills.
+content	knowledge	· Effective Interpersonal & Communication skills.

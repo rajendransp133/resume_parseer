@@ -1,0 +1,51 @@
+meta	others	Bibek Kumar Jena-Senior System Engineer
+meta	others	Male, DOB: 24th Apr 1993
+meta	others	Mobile No: +91 7550037307
+meta	others	E-mail: Bibek.jena2@gmail.com
+meta	others	LinkedIn URL: https://www.linkedin.com/in/bibek-kumar-jena-7043bab4/
+header	experience	Work Experience:
+content	experience	· Having 2 Years of professional experience as Oracle RightNow CX Admin.
+content	experience	· Experienced Oracle RightNow CX Administrator and Customer Portal developer.
+content	experience	· Experienced in configuring the agent desktop and automating business processes using contextual workspaces, workflows, business rules, custom objects and custom scripts.
+content	experience	· Well versed in Service Level Agreements, Root Cause Analysis and Problem Management.
+content	experience	· Skilled in PHP, JavaScript, HTML, CSS, Customer Portal framework, Oracle RightNow CX implementation, Analytics.
+header	knowledge	Technical Skills:
+content	knowledge	Packaged Application
+content	knowledge	Oracle RightNow
+content	knowledge	Programming languages
+content	knowledge	C++, Java, PHP,C#
+content	knowledge	Web languages
+content	knowledge	HTML, CSS, JavaScript
+content	knowledge	Frameworks
+content	knowledge	Hibernate, JSF
+header	education	Academic Qualifications:
+content	education	Degree / Certificate
+content	education	Institute
+content	education	Year of Passing
+content	education	Aggregate % / CGPA
+content	education	B.Tech
+content	education	C V Raman college of engineering, Bhubaneswar
+content	education	2015
+content	education	7.5
+header	project	Projects:
+header	project	Project Name
+content	experience	Auditor App
+content	experience	Description
+content	experience	Creation Of Service Request, Storing data from SalesCloud and CPQ, Knowledge Management, Customizing the data as per business Rules using Custom PHP Scripts ,Business rules and .net Addins are some of the features that we use of Oracle RightNow CX.
+header	experience	Roles and responsibility
+content	experience	Developer
+content	experience	Certifications:Oracle RightNow Cloud Service 2016 Certified sImplementation Specialist.
+content	experience	Responsibilities handled during project:
+content	experience	· Expertise in configuring the agent desktop and automating business processes using contextual workspaces, workflows, Custom Process Model scripting and business rules.
+content	experience	· Developing .Net Addins for custom application development.
+content	experience	· Extensively working on areas like custom objects, Business Rules, Workspace and Analytics, Create Products/ Categories, chat Routing Rules, Knowledge Management.
+content	experience	· Root cause analysis of production issues and providing temporary workaround fixes and permanent code fixes to eliminate production issues.
+content	experience	· Integration using Connect PHP and C# Addin.
+content	experience	Professional Synopsis:
+header	knowledge	Strengths:
+content	knowledge	· Adaptability & Ability to work in a group.
+content	knowledge	· Team player, Hardworking and Quick learner.
+header	others	Declaration:
+content	others	I hereby declare that all the above-mentioned information provided by me is true to the best of my knowledge.
+meta	others	Date : 17/09/2017 Bibek Kumar Jena
+meta	others	Place : Bangalore Signature

@@ -1,0 +1,141 @@
+meta	others	SQL DBA
+meta	others	SQL Server 2005
+meta	others	Ravi Chandra K
+meta	others	Mobile: 7799525962
+meta	others	Email: sravchandu@gmail.com
+header	experience	PROFESSIONAL SUMMARY
+content	experience	7+ years of experience in IT industry having strong skills in SQL Server 2000/2005/2008, development, Administration and leading both DB support and Maintenance teams . I am keen to adopt new skills, technologies and flexible to adapt in new domains and environments
+content	experience	IBM Services India pvt.ltd
+content	experience	Hyderabad. June 2010 – Till Date
+content	experience	Senior System Engineer (6B Band – Lead Role)
+content	experience	Accenture services pvt.ltd
+content	experience	Bangalore. Nov 2006 – May 2010
+content	experience	Team Lead
+content	experience	Accenture services pvt.ltd
+content	experience	Through SSG
+content	experience	Bangalore. Aug 2005 – Nov 2006
+content	experience	Software Engineer
+content	experience	CBRE Pvt Ltd
+content	experience	June 2004 – Aug 2005
+content	experience	Hyderabad
+header	education	EDUCATIONAL PROFILE
+content	education	M.Sc (Information Systems) from Nagarjuna University
+content	education	2004
+content	education	B.C.A (Bachelor of Computer Applications) from Nagarjuna University. 2002
+header	experience	Certifications
+content	education	MCTS 70-431: Microsoft SQL Server 2005 - Implementation &Maintenance
+content	education	MCDBA 70-228: Installing, Configuring, and Administering Microsoft SQL Server 2000 Enterprise Edition.
+content	education	MCDBA 70-229: Designing and Implementing Databases with Microsoft SQL Server 2000 Enterprise Edition.
+header	others	Strengths
+content	others	· SDLC Knowledge
+content	others	· End to end development
+content	others	· Client Interaction
+content	others	· Innovative approach
+content	others	· Banking and Telecom domain experience
+content	others	· Team leading
+content	others	· Result Oriented
+content	others	· Strong Communication skills
+content	others	· SCRUM, Waterfall and Spiral model work experience
+header	others	Responsibilities
+content	experience	· Interacting with the client to understand the project and finalize its scope.
+content	experience	· Estimation, design and development of various modules.
+content	experience	· Bug fixing and maintenance of the product
+content	experience	· Mentoring junior members in the team
+content	experience	· Coordinating with other teams working on the same project
+content	experience	· Coordinating with the testing team for fixing bugs.
+content	experience	· Conducting Peer – Reviews.
+content	experience	· Ensuring smooth delivery of the project
+content	experience	· Leading the technical team.
+header	others	Training and Achievements
+content	experience	· Completed a project assignment successfully at AT&T –USA (Aug 2005-Nov 2008)
+content	experience	· Completed a project assignment successfully at Warwick –United Kingdom (Dec 08-Dec 2009)
+content	experience	· Attended training on ITIL Awareness Process in Accenture.
+header	knowledge	Technical skills
+content	knowledge	RDBMS : SQL Server 7.0/ 2000/2005/2008
+content	knowledge	Operating Systems : Windows XP/NT/2000/2003
+content	knowledge	Ticketing Tool : Remedy, HPSC
+header	knowledge	Languages
+content	knowledge	: C, VB6.0, VBscript, ASP, .net
+header	knowledge	BI Tools
+content	experience	: SSIS, SSRS, DTS packaging.
+header	knowledge	Profile Summary
+content	experience	· Over 7+ years of IT Experience that includes analysis, design, development, testing and implementation of business systems using BI Tools and Data Base operations.
+content	experience	· Build and maintain SQL scripts, indexes, and complex queries for data analysis and extraction
+content	experience	· Plan, design, and implement application database code objects, such as stored procedures, triggers and views.
+content	experience	· Experienced in creating and scheduling the DTS packages.
+content	experience	· Experienced in working with SQLserver2005 BI tools SSIS, SSRS.
+content	experience	· Experienced in Working on clustered Environment and Multi Instance Servers.
+content	experience	· Experienced at Configuring and Troubleshooting the Replication, Log shipping and other distributed data issues in stipulated amount of time in SQL Server 2000 and 2005.
+content	experience	· Involved in writing complex T-SQL scripts to DBAs and dev team when ever required.
+content	experience	· Successfully resolving SQL Server problems in conformance with SLAs, which involves in-depth knowledge of SQL Server architecture, connectivity, backup/restore, database corruption, security etc
+content	experience	· Expertise in using SQL server profiler, Index Tuning Wizard & SQL query analyzer for performance related issues in MS SQL database / MS SQL based applications.
+content	experience	· Ensured that the automated jobs are not failed and reported to application team whenever required.
+content	experience	· Resolving database performance issues and monitoring the growth of the database to ensure the smooth running of daily activities.
+content	experience	· Had an experience of working with very huge databases up to 400 GB.
+content	experience	· Exposed to Performance Tuning and index tuning of SQL Server Databases.
+content	experience	· Aware of and adhering to the ITIL processes like Change Management, Incident Management in the Support Environment.
+content	experience	· Server Migration from SQL server 2000 to SQL Server 2005.
+content	experience	· Developing SSIS packages to import data from various sources & sync up all the master & transactional data.
+content	experience	· Created SSRS reports for the Business clients & managers (Parameterized, Drilldown and Drill Through reports).
+header	project	PROJECT PROFILE
+content	experience	Organization
+content	experience	: IBM India pvt.ltd, Hyderabad
+content	experience	Project Name
+content	experience	: SunTrust
+content	experience	Client : US
+content	experience	Duration
+content	experience	: June ‘2010 to till date
+content	experience	Environment : .Net/MS SQL Server 2005/ 2008
+content	experience	BI Tool
+content	experience	: SSIS, SSRS.
+content	experience	Team Size
+content	experience	: 12
+header	experience	Brief Description:
+content	experience	Initially ARGO was developed to perform the lift and shift of the Platform-online application, which performs inquiry, maintenance, sales, and new account set up. ARGO was designed to automate most branch day-to-day functions, allowing you to perform tasks such as:
+content	experience	ARGO Service:
+content	experience	· It performs client search and retrieve client information such as name, address, accounts etc.
+content	experience	· We can view one client at a time.
+content	experience	· It provides client and account inquiry & maintenance
+content	experience	· Each maintenance process will launch its respective component process
+header	experience	Roles & Responsibilities:
+content	experience	· Used SQL-Server 2008 for performing the database activities like creating Tables, Stored Procedures and scheduling the SQL-Jobs (for atomization of the process).
+content	experience	· Developing SSIS packages to import data from various sources & sync up all the master & transactional data.
+content	experience	· Created SSRS reports for the Business clients & managers (Parameterized, Drilldown and Drill Through reports).
+content	experience	· Active participation in P&A, Design, Construction and Implementation plan related documents.
+content	experience	Organization
+content	experience	: Accenture services pvt.ltd, Bangalore
+header	project	Project Name
+content	experience	: Warwick
+content	experience	Client : NGT and EDF, UK
+content	experience	Duration
+content	experience	: Dec 2008 to May 2010
+content	experience	Environment : .Net/MS SQL Server 2005 & 2008
+content	experience	BI Tool
+content	experience	: SSIS, SSRS.
+content	experience	Team Size
+content	experience	: 8
+header	experience	Brief Description:
+content	experience	Field Force Enablement (FFE) is a suite of software products, developed by Accenture and Avanade, which together provide a complete workforce management solution for utilities and other asset intensive industries. FFE aims to turn the mobile device into the field worker’s single point of contact with their employer, thereby eliminating all paperwork going to and from the field and achieving much greater business benefits. To achieve this, FFE provides a range of other capabilities on the device in addition to work management such as asset management; self administered HR; integrated document management for supporting information (e.g. maps, network schematics, standard procedures, health and safety docs); and generic productivity/communication tools.
+content	experience	Organization : ACCENTURE
+header	project	Project Name : MORRIS
+content	experience	Client
+content	experience	: AT&T
+content	experience	Duration
+content	experience	: Aug 2005 to Dec 2009
+content	experience	Environment : MS SQL Server 7/2000
+content	experience	ETL Tool
+content	experience	: DTS Packaging.
+content	experience	Team Size
+content	experience	: 10
+header	others	Brief Description:
+header	others	MORRIS process different affiliates data coming from different upstream sources. As of now in the existing process MORRIS process the data of affiliates like DTV, BSCC, CPE, BS.net and DSL. PHOENIX is a new AT&T affiliate. So we have to setup the environment in MORRIS in such a way to handle the PHOENIX data coming from the up streams, process the data and flow the valid records to the down streams OPTICS for compensation.
+header	others	PERSONAL INFORMATION
+header	others	Name
+content	others	: Ravi Chandra K
+header	others	Father Name
+content	others	: Krishna Mohan
+header	others	Marital Status
+content	others	: Married
+content	others	Nationality : Indian.
+header	knowledge	Languages known
+content	knowledge	: English, Hindi, Telugu, Kannada

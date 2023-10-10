@@ -1,0 +1,77 @@
+header	others	CURRICULUM VITAE
+header	others	My Profile
+meta	others	Ramana M.
+content	others	#12/31, Perumal Koil Street,
+meta	others	Mettupalayam,
+meta	others	West Mambalam, Cell: 9600 1300 48
+meta	others	Chennai – 600033.
+meta	others	E-Mail : ramana6888@gmail.com
+meta	others	Career Objective
+meta	others	To secure a challenging position where I can effectively contribute my skills as Software Professional.
+header	others	Strengths
+meta	others	· Goal oriented approach to work.
+meta	others	· Ability to learn new things.
+meta	others	· I have both Comfortable while working individually and as a team member.
+header	education	Educational Qualifications
+content	education	Institute / University
+content	education	Degree / Examination
+content	education	Percentage / CQPI
+content	education	Year of Passing
+content	education	T.S.Narayanaswami College, Chennai
+content	education	B.Sc., (Computer Science)
+content	education	60%
+content	education	2009
+content	education	S.M.B. Jain Hr. Sec School,
+content	education	T.nagar-17.
+content	education	H.S.C
+content	education	64 %
+content	education	2006
+content	education	S.M.B. Jain Hr. Sec
+content	education	School,
+content	education	T.nagar-17.
+content	education	S.S.L.C
+content	education	71.8 %
+content	education	2004
+header	knowledge	Software Proficiency
+header	knowledge	Languages
+content	knowledge	: C, C++.
+header	knowledge	Database
+content	knowledge	: ORACLE, SQL-Server.
+header	knowledge	Testing
+content	knowledge	: QTP tools.
+header	experience	Experience Details
+content	experience	Company Name
+content	experience	Role
+content	experience	Responsibilities
+content	experience	Time Period
+content	experience	Win India Exports Ltd.,
+content	experience	HDFC Bank Pvt Ltd
+content	experience	Export Documentation Assistant.
+content	experience	Sales Executive
+content	experience	Raising Invoice and packing list. Preparing Customs Clearance documents. Advancing about the shipment to consignee.
+content	experience	Saving Account, Current Account
+content	experience	Oct 2009 to Dec 2010.
+content	experience	May 2011
+content	experience	to Till date
+content	experience	Field of Interest
+content	experience	· Web Designing
+content	experience	· Software Development
+content	experience	· Software Testing – Certification in Testing – Infics Solution.
+header	knowledge	Language Known
+meta	knowledge	· Tamil, English, and Telugu.
+header	others	Personal Profile
+meta	others	Father’s Name : D. Mani
+meta	others	Date of Birth : 6-08-1988
+meta	others	Gender : Male
+header	others	Marital Status
+meta	others	: Single
+header	others	Nationality
+meta	others	: Indian
+meta	others	Hobbies : Hearing Song, Playing shuttle cork, Cricket, kabaddi, Ball badminton.
+header	others	Declaration
+meta	others	I hereby declare that all the above said details are true to the best of my knowledge.
+header	others	Place:
+meta	others	Chennai.
+meta	others	Yours Truly,
+header	others	Date:
+content	others	(M.Ramana)

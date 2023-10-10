@@ -1,0 +1,57 @@
+header	others	RESUME
+meta	others	NAME : MAYUR RAMCHANDRA PATERE
+meta	others	PRESENT ADDRESS : GALLI NO. 53, SUVARNYUG TARUN MITRA MANDAL, MARUTI
+meta	others	MANDIR, PARVATI, PUNE 411009
+meta	others	PERMANENT ADDRESS : AT POST - VERAL (PATEREWADI),
+meta	others	TAL-LANJA, DIST-RATNAGIRI 416712
+meta	others	CONTACT NO : 9860992554
+meta	others	E-MAIL ID : mpatere15@gmail.com
+meta	others	DATE OF BIRTH : 4th AUG, 1992
+meta	others	GENDER : MALE
+meta	others	MARITAL STATUS : UN-MARRIED
+meta	others	RELIGION : HINDU
+content	knowledge	LANGUAGE KNOWN : MARATHI, HINDI, ENGLISH
+meta	others	HOBBIES : PLAYING CRICKET,
+header	education	ACADEMIC QUALIFICATION :
+content	education	DEGREE
+content	education	UNIVERSITY / BOARD
+content	education	YEARS
+content	education	PERCENTAGE
+content	education	S.S.C
+content	education	KOLHAPUR BOARD
+content	education	MAR 2008
+content	education	63.07%
+content	education	H.S.C
+content	education	KOLHAPUR BOARD
+content	education	FEB 2010
+content	education	55.17%
+content	education	B.Com
+content	education	MUMBAI UNIVERSITY
+content	education	MAY 2013
+content	education	57.00%
+header	education	OTHER COURSE:
+content	education	COURSE
+content	education	YEAR
+content	education	PERCENTAGE
+content	education	MS-CIT
+content	education	AUG 2008
+content	education	58.00%
+content	education	TYPING ENG-30WPM
+content	education	MAY 2013
+content	education	67.00%
+content	education	Tally ERP 9
+content	education	OCT 2017
+content	education	98.00%
+header	experience	WORK EXPERIENCE :
+content	experience	· KARVY DATA MANAGEMENT , BIBWEWADI, PUNE, 411037
+content	experience	DESIGNATION OF “DATA ENTRY OPERATOR” FROM 20 MAY 2014 TO 10 SEP 2015.
+content	experience	• TATA TELESERVICES (MAHARASHTRA) LTD, SHIVAJI NAGAR, PUNE 411005
+content	experience	DESIGNATION OF “ASSOCIATE” FROM 20 SEP 2015 TO 10th JUNE 2017. REJOIN 07 FEB 2018 TO TILL DATE.
+meta	others	I hereby declare that the above information is true and correct to the best of my
+meta	others	Knowledge and belief.
+meta	others	VENUE: PUNE
+meta	others	DATE: 12/01/2019
+meta	others	YOURS FAITHFULLY
+meta	others	EP ID : EP2019IR351455
+meta	others	Ref : Shivaji Kshirsagar
+meta	others	(MAYUR RAMCHANDRA PATERE)

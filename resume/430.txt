@@ -1,0 +1,100 @@
+meta	others	Ephraim Moses
+meta	others	Ephraim Menash Moses
+meta	others	Permanent Add: 31/A Dossa Bldg, Opp. Sandhurst Road Rly Stn, Dongri, Mumbai-400009
+meta	others	Ph: +918452845717/+912223742182
+meta	others	ephraimmoses@gmail.com
+header	others	OBJECTIVE
+content	others	To grow as a learning professional in a dynamic and growth oriented organization, where I can develop my intellectual skills to gain versatile experience and career growth, and contribute effectively and efficiently to the organization goals
+content	others	SYNOPSIS
+content	others	· HR professional with more than 8years of experience in Talent Acquisition,Employee Relations,Employee Grievances, Induction ,Vendor Management,Joining Formalities,Documentation, HR Operations
+header	experience	WORK EXPERIENCE
+content	experience	Indusind Bank Ltd, Ahmedabad March 2018 – Till Date
+content	experience	Regional Resource Manager, Human Resources
+content	experience	· Coordinating and conducting of candidates interview and completing all the on-boarding formalities for Gujarat and Madhya Pradesh locations for the Consumer Banking profile
+content	experience	· Speaking to different consultants for candidates walk in as well as vendor management
+content	experience	· Initiating the background verification of all the employees
+content	experience	· Conducting employee relations and employee engagement activities as well as solving employee queries and grievances
+content	experience	· Coordinating with the HO is regards with launching of key HR policies and completion of the documents of new joiners
+content	experience	AVIVA Life Insurance Company Ltd, Pune August 2015 – March 2018
+content	experience	Assistant Manager – Human Resources
+content	experience	· Coordinating and conducting of candidates interview and completing all the on-boarding formalities for Maharashtra,
+content	experience	· Gujarat and Goa locations
+content	experience	· Speaking to different consultants for candidates walk in as well as vendor management
+content	experience	· Conducting Induction for all the new joiners
+content	experience	· Initiating the background verification of all the employees
+content	experience	· Conducting employee relations and employee engagement activities as well as solving employee queries and grievances
+content	experience	· Coordinating with the HO is regards with launching of key HR policies
+content	experience	AEGON Religare Life Insurance Company Ltd, Mumbai September 2014 – June 2015
+content	experience	Business Partner – Human Resources
+content	experience	· Coordinating and conducting of candidates interview and completing all the on-boarding formalities for Mumbai region
+content	experience	· Speaking to different consultants for candidates walk in as well as vendor management
+content	experience	· Conducting Induction for all the new joiners
+content	experience	· Doing background verification of all the employees
+content	experience	· Conducting employee relations and employee engagement activities as well as solving employee queries and grievances
+content	experience	· Coordinating with the HO is regards with launching of key HR policies
+content	experience	· Giving monthly data to the payroll team
+content	experience	Bajaj Allianz Life Insurance Company Pvt Ltd, Mumbai September 2012 – September 2014
+content	experience	HR Executive
+content	experience	· Handling end to end recruitment of the employees to be hired
+content	experience	· Induction and orientation of all new joiners
+content	experience	· Doing background verification of all the employees
+content	experience	· Handling employee grievances and providing resolution for the same as well as conducting employee relationship activities
+content	experience	· Conducting employee engagement activities on a regular basis
+content	experience	· Visiting all the branches and making sure all the hygiene and office activities are been carried as per the company policies
+content	experience	· Conducting Exit interviews and making analysis of the attrition
+content	experience	Prime Focus Limited, Mumbai September 2010 – July 2012
+content	experience	HR Executive
+content	experience	· Handling end to end recruitment for the professionals/employees to be hired
+content	experience	· Conduction Induction as well as completing the joining formalities for the professionals/employees which have been hired
+content	experience	· Implement employee engagement activities and enhancing practices necessary to establish a positive employer-employee relationship and promote a high level of employee morale and motivation
+content	experience	· Recommending benefit programs aimed at employee satisfaction and retention
+content	experience	· Identifying the Training/Retraining required for the employees/professionals
+content	experience	Niche Consulting Group, Mumbai January 2010-September 2010
+content	experience	Associate Consultant
+content	experience	· Recruiting for senior & top level positions
+content	experience	· Responsible for preparing a detailed search plan of candidates lined for interviews
+content	experience	· Searching candidates by head hunting, poaching and sourcing from job portals such as
+content	experience	Naukri as well as using social sites like Linkedin and Facebook to source for the candidates
+content	experience	· Scheduling of interviews and following up with the clients and the candidates
+content	experience	· Following up for the final joining formalities and other administrative follow ups
+content	experience	Epicenter Technologies Pvt Ltd., Mumbai May 2004 – June 2008
+content	experience	Senior Customer Relationship Associate
+content	experience	· Credit Analyst to customers of American Express from UK handling their financial expenses and concerns.
+content	experience	· Training the new agents to get certified so that their hours can be billed and ensure revenue generation for the organization.
+content	experience	· To make amends to the existing call structure so that customer satisfaction can be increased and the company’s score can be increase in Customer Service Survey Management (CSSM) score in the top two boxes
+header	education	ACADEMIC QUALIFICATIONS
+content	education	Degree
+content	education	College
+content	education	University/Board
+content	education	Year
+content	education	PGPM
+content	education	(HR & Marketing)
+content	experience	Kohinoor Business School
+content	education	YCMOU
+content	education	2010
+content	education	B.Sc.-Chemistry
+content	education	Ramnarain Ruia College
+content	education	Mumbai University
+content	education	2005
+header	others	PROFESSIONAL DEVELOPMENT AND ADDITIONAL QUALIFICATIONS
+content	others	· Psychological Counselling course completed from National Academy
+content	others	· Six Sigma Green Belt Certification from Kohinoor Business School
+content	others	· 12 weeks internship in Glomax Mall, Kharghar
+content	others	· Project in Epicenter Technologies Pvt Ltd for Quality Assurance
+content	others	· ‘Primary Research Project’ in Operations Research
+header	others	AWARDS AND ACHIEVEMENTS
+content	others	· Awarded Best HR in Bajaj Allianz Life Insurance for the FY 2013-2014
+content	others	· Awarded “Best Customer Representative” of Dec. 2007 - American Express UK
+content	others	· Participated in the International Festival of Bene Israelis
+content	others	· Cultural Coordinator of Cultural Committee responsible for making the first ever Dance Troupe & Choir Group of Kohinoor Business School
+header	others	EXTRA CURRICULAR ACTIVITIES
+content	others	· Have been choreographing dance for adults and kids as well for the past 16years in the annual Jewish cultural programme “Khai Fest”
+content	others	· Coordinator of ‘Induction,09’ in Kohinoor Business School
+content	others	· I was the Chief Student’s Event Coordinator for Kohinoor Business School for the year 2009-2010 and responsible for all the events in the college as well as participation of the college in other college events
+header	others	PERSONAL DETAILS
+content	others	Date of Birth : 20th July, 1983
+content	others	Gender : Male
+content	others	Relationship Status : Single
+content	knowledge	Languages Known : English, Hindi and Marathi.
+content	others	Hobbies : Watching Cricket, Watching Reality shows, Surfing the Internet,
+content	others	Dancing & Choreography (Fusion of Western and Indian Dances)

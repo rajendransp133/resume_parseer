@@ -1,0 +1,103 @@
+meta	others	CURRICULUM VITAE
+meta	others	HARI MALLA
+meta	others	E-mail: MALLAHARI321@gmail.com Mobile: +919177089692
+header	experience	SUMMARY:
+content	experience	▪ Expertise in ASP.Net and ASP.net MVC using C# with Object Oriented Programming.
+content	experience	▪ Having good experience on writing complex queries using SQL Server 2008/2012.
+content	experience	▪ 1+ years of IT experience in Microsoft technologies using ASP.Net, Asp.net MVC, SQL Server,
+content	experience	C#.Net.
+content	experience	▪ Involved in Coding and implementation.
+content	experience	▪ Involved in writing client side validations, making sure the pages validate and fixing JavaScript
+content	experience	errors.
+content	experience	▪ Implemented Business Logics & Data access operations using 3-tier Architecture.
+content	experience	▪ Having knowledge on WCF services.
+content	experience	▪ Excellent analytical and programming abilities to create elegant, flexible and maintainable solutions
+content	experience	for complex development problems.
+header	knowledge	TECHNICAL SKILLS
+content	knowledge	Programming Skills : c#, ASP.net, MVC,SQL server, WCF, Web services, AJAX
+content	knowledge	Scripting languages : Javascript
+content	knowledge	Designing Languages : Html and CSS
+content	knowledge	RDBMS : SQL server
+content	knowledge	Framework : .net Framework
+content	knowledge	IDE’s used : Visual Studio, SQL server Management Studio
+content	knowledge	Platforms : windows and Linux.
+header	others	AREAS OF INTEREST
+content	others	Web application development in Asp.net and MVC .
+header	experience	PROFESSIONAL EXPERIENCE:
+content	experience	Working for DMC It Services Pvt Ltd., Hyderabad(Banjara hills) as Junior Software Developer from
+content	experience	june 2016 to till date
+header	project	PROJECT:
+content	project	Project Name: Letter Hub
+content	project	Role Played: Team Member
+content	project	Client: United States
+content	project	Place: DMC It Services Pvt ltd, Hyderabad(Banjara hills).
+content	project	Technologies: C#,ASP.net, SQL server, WCF Services.
+content	project	Designation : Junior Software Developer.
+content	project	Tools Used: Visual Studio, Microsoft SQL server Management Studio.
+content	project	Description: Letter hub web application is developed by using Asp.net Technology, c# and
+content	project	sql server. It is mainly focused on schedule based message delivery through mail
+content	project	or sms or mms etc.
+header	experience	Responsibilities:
+content	experience	● Involved in designing of web pages for user Registration ,Authentication and search module
+content	experience	● Followed agile methodologies (Scrum) and Test Driven Development.
+content	experience	● Implemented Business Logics & Data access operations using 3-tier Architecture.
+content	experience	● Used CSS for unified look and feel of the application.
+content	experience	● Designed and written functionality for User Controls and consumed them.
+content	experience	● Used Master pages, Ajax Controls.
+content	experience	● Utilized ASP.NET validation controls and JavaScript, JQuery to perform client side validation.
+header	education	EDUCATIONAL QUALIFICATIONS:
+content	education	Qualification Name of the
+content	education	Board/University
+content	education	Name of the
+content	education	Institute
+content	education	Percentage Year of
+content	education	Passing
+content	education	B. Tech Jawaharlal Nehru
+content	experience	Technological
+content	education	University, Kakinada
+content	education	NRI Institute of
+content	education	Technology, Guntur.
+content	education	68.81% 2016
+content	education	Diploma SBTET Nuzvid polytechnic,
+content	education	Nuzvid.
+content	education	84.84% 2013
+content	education	SSC (Schooling) SSC Board, AP Z.P.H.School, 75
+content	education	Tyallur.
+content	education	76% 2010
+header	project	PROJECT:
+content	experience	Project Name: Route finding through interconnection, web application
+content	experience	Purpose: B. tech 8th Semester project
+content	experience	Place: NRI Institute of technology, Guntur.
+content	experience	Technologies: PHP, MySQL, HTML, CSS, Java script.
+content	experience	Tools Used: phpDesigner, Brackets, XAMPP.
+content	experience	Description: Web Application that provides shortest route for journey in any public
+content	experience	transportation if not having a direct route.
+header	experience	ACHEIVEMENTS:
+content	experience	• Participated in various online competitive programming challenges platforms like
+content	experience	HackerRank, HackerEarth.
+content	experience	• Participated in various workshops like ethical hacking, mobile app development using ionic
+content	experience	framework.
+content	experience	• Took initiative as team leader for my B.Tech college final year semester project and got
+content	experience	successful in planning and was able to complete it on time.
+header	others	Personal Qualities:
+meta	others	• Highly motivated and eager to learn new things.
+meta	others	• I’m kind of a person who takes insult as a challenge.
+meta	others	• Very interested in doing challenging work.
+header	others	EXTRACURRICULAR ACTIVITIES
+content	others	• Carroms
+content	others	• Badminton.
+header	others	PERSONAL DETAILS
+meta	others	Father’s name: Sri Srinu Malla
+meta	others	Mother’s name: Sri Sriravamma
+meta	others	Date of Birth: 06th March 1995
+meta	others	Sex: Male
+meta	knowledge	Languages Known: English, Telugu.
+meta	others	Hobbies: Reading Books, Browsing Internet, Listening music.
+header	others	CORRESPONDENCE ADDRESS
+meta	others	HARI MALLA
+meta	others	Sri Kanakadurga boy’s hostel,
+meta	others	C-105, Vengalrao nagar,
+content	others	Hyderabad, Telangana,
+meta	others	PIN: 500038.
+meta	others	Place: Hyderabad
+meta	others	Date : (HARI MALLA)

@@ -1,0 +1,61 @@
+header	others	CURRICULUM VITAE
+meta	others	JASMINE M B
+content	others	8197703622
+meta	others	stephyjasmine@gmail.com
+header	others	CAREER OBJECTIVES
+content	others	To solve problems in an effective/ creative manner in a challenging position. To use my
+content	others	educational skills to the best possible way for achieving the company’s goal. Seeking for an
+content	others	opportunity to be a part of an organization that provides an environment for learning and growth,
+content	others	enabling me to contribute my best to the organization.
+header	education	Education:
+content	education	 Master of Science with specializations from Mangalore University (2013-2015).
+content	education	 Bachelor of Science from Mangalore University in (2010-2013)
+header	experience	Employment summary:
+content	experience	 Worked as a Business HR Associate in P.V.R Cinemas Ltd from Feb 2016 to July 2016.
+content	experience	 Working as HR Admin in Peninsula group from 23 Sep 2016 to till date.
+content	experience	PVR Cinemas
+header	experience	Roles and Responsibilities:
+content	experience	 Recruitment.
+content	experience	 Handling on boarding process for new joiners
+content	experience	 Handling all the queries related with offer letters, confirmations, leave, salary &
+content	experience	expenses, PF settlement, F&F, attendance, reimbursements, and medi claim policies for
+content	experience	all employees.
+content	experience	 Maintaining Human Resource Information System (HRIS) using Oracle software.
+content	experience	 Maintaining attendance, Leaves & advance records of the employees.
+content	experience	 Handling biometrics application for check-in and checkout of employees.
+content	experience	 Interacting with employees on regular basis to be informed about their concerns and
+content	experience	queries.
+content	experience	 Monitor the inventory, and maintenance of office stationeries.
+content	experience	 Maintain proper documentation & records regarding all essential aspects of employees.
+content	experience	Peninsula Group
+header	experience	Roles and Responsibilities:
+content	experience	 Recruitment
+content	experience	 Posting job ads and organizing resumes and job applications.
+content	experience	 Scheduling job interviews and assisting in interview process.
+content	experience	 Ensuring background and reference checks are completed.
+content	experience	 Preparing new employee files.
+content	experience	 Orienting new employees to the organization (setting up a designated log-in, workstation,
+content	experience	email address, etc.)
+content	experience	 Administering new employment assessments
+content	experience	 Serving as a point person for all new employee questions
+content	experience	 Processing payroll.
+content	experience	 Maintaining HR files and databases
+content	experience	 Serving as a point of contact with vendors & housekeeping.
+content	experience	 Compiling reports and spreadsheets and preparing spreadsheets
+content	experience	 Setting appointments and arranging meetings.
+content	experience	 Maintaining calendars of HR management team.
+content	experience	 Blog & content writing & helping in developing websites.
+header	others	PERSONAL INFORMATION
+content	others	Husband’s name : Girish C.T.
+content	others	Gender : Female
+content	others	Marital status : Married
+content	others	Date of Birth : 4/12/1992
+content	knowledge	Languages Known : English, Hindi, Kannada, Tamil & Coorgi.
+content	others	Address : Bommanahalli Bangalore-68
+header	others	Declaration
+content	others	I hereby declare that the entries in this form are true to the best of my knowledge and belief.
+content	others	Further, if selected, I will abide by the rules and regulations of the organization and also the
+content	others	directions given to me from time to time.
+content	others	Place: Bangalore
+header	others	Date:
+content	others	(Jasmine)

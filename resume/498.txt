@@ -1,0 +1,60 @@
+header	others	MANOJ​ ​WAGH
+meta	others	Email:​ ​​manoj.wagh@live.com​​ ​|​ ​Contact​ ​No:​ ​+91-​ ​808​ ​786​ ​80​ ​69
+header	others	CARRIER​ ​OBJECTIVE:
+content	others	To​ ​utilize​ ​my​ ​knowledge​ ​&​ ​explore​ ​the​ ​same​ ​skillfully​ ​and​ ​efficiently​ ​so​ ​as​ ​to​ ​achieve​ ​individual​ ​as​ ​well
+content	others	as​ ​organizational​ ​goals​ ​&​ ​objective,​ ​to​ ​provide​ ​reliable​ ​and​ ​long​ ​term​ ​services​ ​to​ ​an​ ​organization.
+header	education	EDUCATION​ ​&​ ​CERTIFICATIONS:
+content	education	Bachelors​ ​of​ ​Engineering​ ​(Electronics​ ​and​ ​Telecommunication)
+content	education	:​ ​64​ ​%​ ​​(Aurangabad​ ​University​ ​–​ ​2013)
+content	education	Diploma​ ​of​ ​engineering​ ​(industrial​ ​electronics)
+content	education	​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​:​ ​69%​ ​​(Govt.​ ​Polytechnic​ ​Aurangabad​ ​–​ ​2008)
+content	education	SSC
+content	education	​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​:​ ​60%​ ​​(Aurangabad​ ​Board​ ​-​ ​2004)
+header	education	OTHER​ ​CERTIFICATION:
+content	education	● Configuring​ ​Analytics​ ​with​ ​PI​ ​AF​ ​(3​ ​week​ ​Online​ ​Course​ ​on​ ​​12/2/2016​)
+content	education	● CCNA​ ​(200-120)​ ​CISCO​ ​ID​ ​:​ ​CSCO12502218
+content	education	● Microsoft​ ​Certified​ ​Professional​ ​(70-270)​ ​MCP​ ​ID​ ​:​ ​SR5593228
+content	education	● Windows​ ​Server​ ​2003​ ​(70-290)​ ​MCP​ ​ID​ ​:​ ​SR5593228
+content	education	● Windows​ ​Server​ ​2003​ ​Network​ ​Infrastructure​ ​(70-291)​ ​MCP​ ​ID​ ​:​ ​SR5593228
+content	education	● Exchange​ ​Server​ ​(70-284)​ ​MCP​ ​ID​ ​:​ ​SR5593228
+content	education	● C​ ​and​ ​CPP​ ​from​ ​MCED​ ​with​ ​A​ ​grade
+header	experience	EXPERIENCE:
+content	experience	OSI-PI​ ​Consultant​ ​at​ ​Engineering​ ​Consultants​ ​Group​ ​-​ ​Pune
+content	experience	March​ ​2015​ ​-​ ​Present
+content	experience	Worked​ ​on​ ​various​ ​domains​ ​like​ ​Renewable​ ​Energy,​ ​Power​ ​Plants,​ ​Ports,​ ​Steel​ ​Industry​ ​(Iron​ ​Making),
+content	experience	Edible​ ​Refineries,​ ​Pulp​ ​and​ ​Paper​ ​industries​ ​for​ ​Real​ ​Time​ ​monitoring​ ​for​ ​equipment​ ​and​ ​system
+content	experience	integration​ ​with​ ​OSI​ ​PI.​ ​(All​ ​over​ ​India)
+content	experience	Have​ ​Experience​ ​to​ ​work​ ​on​ ​following​ ​components​ ​of​ ​OSI​ ​PI​ ​System,
+content	experience	➢ OSI​ ​PI​ ​Enterprise​ ​Server
+content	experience	➢ OSI​ ​PI​ ​Asset​ ​Framework
+content	experience	➢ OSI​ ​PI​ ​Notifications
+content	experience	➢ OSI​ ​PI​ ​System​ ​Management​ ​Tool
+content	experience	➢ OSI​ ​PI​ ​Processbook
+content	experience	➢ OSI​ ​PI​ ​CoreSight
+content	experience	➢ OSI​ ​PI​ ​Datalink
+content	experience	➢ Interfaces-​ ​OPC​ ​XML,​ ​RDBMS,​ ​PI​ ​to​ ​PI,​ ​Modbus,​ ​MaxDNA
+content	experience	➢ OPC​ ​Server​ ​(Kepware)​ ​installation​ ​and​ ​configuration​ ​for​ ​data​ ​collection​ ​directly​ ​from​ ​PLC’s​ ​like
+content	experience	SIMENS,​ ​Allen​ ​Bradley,​ ​GE​ ​Fanuc,​ ​and​ ​Yokogawa​ ​to​ ​OSI​ ​PI​ ​server.
+content	experience	➢ Worked​ ​on​ ​networking​ ​part​ ​of​ ​integration​ ​like​ ​network​ ​architecture​ ​design,​ ​network​ ​system
+content	experience	configuration​ ​like​ ​switches,​ ​firewall,​ ​MODBUS​ ​to​ ​Ethernet​ ​converter​ ​etc.
+content	experience	mailto:waghmanoj@live.com
+content	experience	Desktop​ ​Support​ ​Engineer​ ​at​ ​Orient​ ​Technologies​ ​Pvt.​ ​Ltd.
+content	experience	October​ ​2013​ ​-​ ​March​ ​2015​ ​(1​ ​year​ ​6​ ​months)
+content	experience	Worked​ ​at​ ​Client​ ​Site​ ​TBWES​ ​(Thermax​ ​Babcock​ ​&​ ​Wilcox​ ​Energy​ ​Solutions)​ ​As​ ​a​ ​system’s​ ​Engineer
+content	experience	primary​ ​responsibility​ ​was​ ​Managing​ ​and​ ​Maintaining​ ​all​ ​the​ ​IT​ ​Infrastructure,​ ​which​ ​includes​ ​Network
+content	experience	Environment​ ​(Router’s,Switches)​ ​,Mailing​ ​System​ ​(Lotus​ ​Notes),​ ​Windows​ ​Ststems​ ​(Servers,Clients).​ ​etc.
+content	experience	EXTRA​ ​CURRICULUM​:
+content	experience	● Servicing​ ​and​ ​repairs​ ​of​ ​records​ ​(N.A.I.​ ​Delhi) 11/09/2006​ ​to​ ​20/10/2006.
+content	experience	● Business​ ​skill​ ​development​ ​program​ ​(MSME) 13/09/2007​ ​to​ ​16/10/2007.
+content	experience	● Participated​ ​in​ ​national​ ​service​ ​scheme 04/03/2013​ ​to​ ​10/03/2013.
+content	experience	● Participated​ ​in​ ​national​ ​level​ ​paper​ ​presentation​ ​competition​ ​at​ ​PES​ ​college​ ​of​ ​engineering.
+header	others	PERSONAL​ ​DETAILS:
+meta	others	Date​ ​of​ ​Birth ​ ​​ ​​ ​​ ​​ ​​ ​:​​ ​​ ​​ ​30​th​​ ​May​ ​1989.
+meta	others	Marital​ ​status ​ ​​ ​​ ​​ ​​ ​​ ​:​ ​​ ​​​ ​Single
+meta	others	Languages​ ​Known ​ ​​ ​​ ​​ ​​ ​​ ​:​​ ​​ ​​ ​English,​ ​Hindi,​ ​and​ ​Marathi.
+meta	others	Current​ ​Address ​ ​​ ​​ ​​ ​​ ​​ ​:​​ ​​ ​​ ​205,​ ​Chaurang,​ ​Mahadev​ ​Nagar,​ ​Hadapsar,​ ​Pune,​ ​M.S.
+meta	others	Pin​ ​code​ ​:​ ​411028.
+content	others	I​​ ​​undersigned,​ ​do​ ​here​ ​by​ ​confirm​ ​that​ ​the​ ​information​ ​given​ ​above​ ​is​ ​true​ ​to​ ​the​ ​best​ ​of​ ​my​ ​knowledge.
+meta	others	Date:​ ​​ ​29​ ​Nov​ ​2017
+meta	others	Place:​ ​​Pune.
+meta	others	(​ ​M.S.Wagh.​ ​)

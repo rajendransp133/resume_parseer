@@ -1,0 +1,56 @@
+header	others	Resume
+meta	others	*********************************************************************************************
+meta	others	PRITI GUJE – GAIKWAD
+meta	others	1247 Guruwar Peth, Near Khandage Arcade, Email: priti.guje@gmail.com
+meta	others	Talegaon Station Road. Talegaon Dabhade. Mob: +91 87 96 271743
+meta	others	Dist. - Pune, MH Pin: 410 507 +91 70 28 661888
+header	others	OBJECTIVE:
+content	others	Seeking assignments with a premier organization, where my experience and specialties will be utilized in preparing a wide range in reputed Industry.
+header	experience	EXPERIENCE:
+content	experience	· WIPRO PUNE May 2013 – Oct 2016
+content	experience	Designation: Senior Associate (Band-B1)
+header	experience	ROLES & RESPONSIBILITIES
+content	experience	• Resolve customer problems via the telephone, the WebEx.
+content	experience	• Research customer issues in a timely manner and follow up directly with the customer with recommendations and action plans.
+content	experience	• Handle Escalation when the problem is too complex or falls out of specific area of expertise & get it resolved within SLA’s.
+content	experience	• Leverage internal technical expertise, including higher-level engineers, knowledge base, and other internal tools, to add to knowledge base in order to provide solutions to customer issues.
+content	experience	• Gain knowledge and expertise through hand-on experience, self-study, and through a variety of learning environments.
+content	experience	• Have good interpersonal communication and customer service skills in order to work successfully with customers in high stress and or ambiguous situations.
+content	experience	• Working on small volumes of Top Enterprise Accounts (highest priority customers) and Support Edge Premium cases (customers with a higher level of support agreement).
+header	experience	Other Responsibilities
+content	experience	• Organize and Coordinate router test and turn up calls.
+content	experience	• Schedule required resources as required by clients.
+content	experience	• Complete the activity and closing all the related tasks in system.
+content	experience	• Help new joiners to understand the process and product.
+content	experience	• Work as a backup if somebody on leave.
+header	knowledge	SKILLS:
+content	knowledge	• Exceptional interpersonal, verbal & written communication skills
+content	knowledge	• Strong Management skills
+content	knowledge	• Proactive & a Good Motivator
+header	education	EDUCATION QUALIFICATION:
+content	education	· S.S.C Mar 2003
+content	education	Manorama Memorial Girls High School, Kedgaon.
+content	education	(Pune Educational Board)
+content	education	· H.S.C Mar 2007
+content	education	Jawaharlal Vidyalaya Jr. College Kedgaon,
+content	education	(Pune Educational Board)
+content	education	· BA Mar2010
+content	education	Subhash Baburao Kul College,
+content	education	Kedgaon. (Pune University).
+content	education	· IATA/UFTAA Nov 2011
+content	education	IATA Pune.
+content	education	· MSCIT Mar 2012
+content	education	MSCB Pune
+content	education	· Certificate of Life Insurance Aug 2012
+content	education	Insurance Institute of India. Pune
+header	others	PERSONAL PROFILE:
+meta	others	· Name: Priti Guje-Gaikwad
+meta	others	· Sex: Female
+meta	others	· Date of Birth: 5th Jul 1987
+meta	others	· Nationality: Indian
+meta	knowledge	· Languages: English, Hindi & Marathi
+meta	others	· Hobbies: Painting, Cooking, Traveling and Listening to Music.
+meta	others	Hereby, I am undersign declare that all the above information is true as per my Knowledge.
+meta	others	*******************************************************************************************
+meta	others	Date: Signature:
+meta	others	[Priti Guje - Gaikwad]

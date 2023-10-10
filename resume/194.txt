@@ -1,0 +1,43 @@
+header	others	Curriculum vita
+meta	others	RahulV.Solanki
+meta	others	Date:17thDec..2018
+meta	others	 Contact:+919033459418 Email:rahulslk84@gmail.com
+meta	others	 Place:Ahmedabad
+header	others	CAREEROBJECTIVE
+content	others	Tobeproficientinmanagerialskillandusingtheskilltofacechallengesinthedynamiccorporate
+content	others	world.
+header	education	EDUCATIONALCREDENTIALS
+content	education	Exam School/College University/Board Specialization Batch %
+content	education	P.G.D.B.O.
+content	education	Post
+content	education	Graduation
+content	education	2014 72
+content	education	Masterof
+content	education	Public
+content	education	Administration
+content	education	I.G.N.O.U
+content	education	University
+header	knowledge	COMPUTERPROFICIENCY
+content	knowledge	 CanoperateOperatingSystemslikeWindowsXP,Windows7
+content	knowledge	 CCCcomputercertificate
+content	knowledge	 MicrosoftWord,PowerPoint,Excel,Tellly(Basics)
+header	knowledge	PERSONALINFORMATION
+meta	others	 Name:SolankiRahulVanrajbhai
+meta	others	 D.O.B.:26-08-1990
+meta	others	 Address:A703,KBRoyalPhoenix,SatyamevHospitalRoad,
+meta	others	NewChandkheda,Ahmedabad,382424
+meta	others	 Hobbies:ListeningMusic,Sports,Longdrive,Helpingpeoples
+meta	others	 Areasofinterest:Roamingwithfriends,egernesstoknownewthingsinlife,
+meta	others	Auditing,Accounting,ProcessOriented.
+meta	knowledge	 LanguagesKnown:Canread,writeandspeakEnglish,HindiandGujarati
+header	experience	Experience
+meta	experience	 Ihaveanexperienceof5yearsinmycarrier.
+meta	experience	 IhaveanexperinceofworkinginICICIBankltd.MehsanaBranchasaseniorofficer
+meta	experience	inbankingoperations.IhavejoinICICIBankin7
+meta	others	th
+meta	others	May,2014to30thJuly,2016.
+meta	others	 Currentlyiam workinginYesBankfrom 3rdAug,2016.
+meta	others	 IhavealsoworkedinNGOasaprogrammeandaccountassistantin2012.
+meta	others	Informationprovidedintheresume,aretruetomyknowledgeandIabidebythem.
+meta	others	ThankYou,
+meta	others	(RahulV.Solanki)

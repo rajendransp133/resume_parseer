@@ -1,0 +1,75 @@
+meta	others	S
+meta	others	Curriculum Vitae
+meta	others	S.K. Sunitha
+content	others	9 A-2, Sri Ranga Layout – I,
+meta	others	Cont. No. : 99441 51157
+content	others	Nallampalayam,
+meta	others	Email ID : sunith2004@rediffmail.com
+meta	others	Coimbatore – 641 006.
+meta	others	_________________________________________________________
+header	others	Professional Objectives:
+content	others	Intend to build a career with leading corporate of hi-tech environment with committed & dedicated people, which will help me to expose myself fully and realize my potential. Willing to work as a key player in challenging &creative environment.
+header	others	Academic Profile:
+content	others	· MBA -HR
+content	others	· B.com
+content	others	· Diploma in Commercial Practice
+header	knowledge	Technical Qualification:
+content	knowledge	· Passed Typewriting English Higher Grade.
+content	knowledge	· Knowledge in English Shorthand.
+header	knowledge	Additional Qualification:
+content	knowledge	· Passed Capital Market (Dealers) Module conducted by NSE.
+content	knowledge	· Passed Derivative Module conducted by NSE.
+content	knowledge	· Passed Depository Operational Module (DP) conducted by NSE.
+content	knowledge	· Passed Cash Market in BSE Segment conducted by the exchange.
+header	knowledge	Computer Skills:
+content	knowledge	· SAP, MS Office, Tally, Basic, Dbase, Cobol, Lotus & Wordstar.
+header	experience	Job Experience:
+content	experience	· Worked as a Logistics Assistant in M/s HCL Infosystems Ltd at Pondicherry from 29.11.2000 to 02.08.2002.
+content	experience	· Worked as an Accounts Assistant in M/s Sri Guru Electronics, Coimbatore from 06.01.2003 to 30.09.2004
+content	experience	· Worked as an Investor Relation Officer in M/s Karvy Stock Broking Limited from 18.10.2004 to 31.05.2006
+content	experience	· Worked as a Dealer in M/s Sharekhan Ltd from 09.06.2006 to 31.03.2008
+content	experience	· Presently Working as an Advisory Manager in M/s Sharekhan Ltd from 01.05.2009 2009 to till now.
+header	experience	Job Profile:
+content	experience	M/s HCL Infosystems Ltd:
+content	experience	· Clearing Transporters Bills.
+content	experience	· Preparation of Provisional requirements statements on a monthly basis to Accounts Department.
+content	experience	· Preparation of Legal requirements Chart & Monthly reports
+content	experience	· Responding customers Queries.
+content	experience	M/s Sri Guru Electronics:
+content	experience	· Maintenance of Leger, Petty Cash.
+content	experience	· Preparation of Monthly statement.
+content	experience	· Preparation of Bank Reconciliation Statement.
+content	experience	M/s Karvy Stock Broking Ltd:
+content	experience	· Knowledge Terminal Operation of NSE & BSE Trading.
+content	experience	· Payin & Payout of Shares.
+content	experience	· Preparation of Monthly statement.
+content	experience	· Preparation of Bank Reconciliation Statement.
+content	experience	M/s Sharekhan Ltd.,
+content	experience	· Achieving the targets as laid by the management with my Team Members.
+content	experience	· Cross selling the other Products.
+content	experience	· Terminal Operation of NSE, NSEFNO & BSE Trading (offline Both in NEAT & ODIN)
+content	experience	· Terminal Operation of NSE, NSEFNO & BSE Trading in Online
+content	experience	· Payin & Payout of Shares.
+content	experience	· Handled Other Backoffice and Investor related services.
+header	others	Personal Details:
+header	others	Date of Birth
+meta	others	:
+meta	others	25.01.1981
+header	others	Husband Name
+meta	others	:
+meta	others	G. Gowrishankar
+header	others	Nationality
+meta	others	:
+meta	others	Indian
+header	others	Religion
+meta	others	:
+meta	others	Hindu
+header	knowledge	Languages Known
+header	others	:
+meta	knowledge	Telugu, Tamil & English.
+meta	others	Declaration
+meta	others	I Hereby declare that the above said statements are true to the best of my knowledge.
+meta	others	Place : Coimbatore
+meta	others	Yours truly,
+header	others	Date :
+meta	others	(S. K. Sunitha)

@@ -1,0 +1,37 @@
+meta	others	POOJA TANVAR
+meta	others	M.NO-8488894279
+meta	others	EMAIL-ID- ptanvar599@gmail.com
+header	others	CAREER OBJECTIVE
+content	others	To work with an organization where to prove my ability for the best utilization of organization as a result there will be simultanious growth and exapansion of organization and my personal career.
+header	education	EDUCATION
+content	education	· M.com from Gujarat university,Ahmedabad in 2017.
+content	education	· B.com from Gujarat university,Ahmedabad in 2015.
+header	knowledge	COMPUTER SKILLS
+content	knowledge	· Tally ERP 9
+content	knowledge	· Ms Office
+content	knowledge	· CCC
+header	knowledge	LANGUAGE KNOWLEDGE
+content	knowledge	Gujarati,Hindi & English.
+header	experience	EXPERIENCE
+content	experience	Mapple Exim Pvt. Ltd, April 2016 to May 2017.
+content	experience	An Accountant.
+header	others	PERSONAL DETAIL
+meta	others	NAME : POOJA R TANVAR
+meta	others	FATHER NAME : ROHITKUMAR
+meta	others	DATE OF BIRTH : 18th MARCH 1995
+meta	others	NATIONALITY : INDIAN
+meta	others	RELIGION : HINDU
+meta	others	GENDER : FEMALE
+meta	others	MARITAL STATUS : UNMARRIED
+meta	others	PERMANENT ADDRESS
+meta	others	NAME : POOJA R TANVAR
+meta	others	C/O : ROHITKUMAR
+meta	others	AT : D 42 GANDHI PARK SOCIETY
+meta	others	VIRAT NAGAR ROAD
+meta	others	ODHAV.
+meta	others	PIN : 382350
+meta	others	DIST : AHMEDABAD
+meta	others	STATE : GUJARAT
+header	others	DECLARATION
+meta	others	I Hereby Declare that the above information which is true to the best of my knowldege.
+meta	others	POOJA R TANVAR

@@ -1,0 +1,79 @@
+meta	others	Milan R
+meta	others	BHAVANASUPRAJA
+meta	others	Email: bhavanasupraja@gmail.com
+meta	others	Mobile: +91-8143465982
+meta	others	+91-7396851051
+header	experience	PROFILE SUMMARY
+content	experience	· Having 1.2 years of experience in IT industry in development & maintanence of WebApplications.
+content	experience	· Experience in C#.NET,ASP.NET ,ADO.NET.
+content	knowledge	· Have basic Knowledge in MVC.
+content	experience	· Experience in WEB API.
+content	experience	· Experience in HTML ,CSS,JAVASCRIPT.
+content	experience	· Experience in MS SQL SERVER 2010 and MySQL.
+content	experience	· Ability to work well on own initiative and as part of team, with good communication skills.
+content	experience	· Motivated team player with ability to work independently.
+content	experience	· Having interest in learning new technologies.
+header	experience	PROFESSIONAL EXPERIENCE
+content	experience	· Currently working as a Software Engineer at SRIT INDIA PRIVATE LIMITED, Hyderabad From January 2017 to Till Date
+header	experience	ROLE AND RESPONSIBILITIES
+content	experience	· Coding (Server Side, Database related), Debugging.
+content	experience	· Involved in client side scripting using JAVA Script, JQuery.
+content	experience	· Developing WEBAPI Services
+content	experience	· Designed Stored Procedures.
+content	experience	· Interacted well with the testing team and resolved the issues in an efficient Way.
+content	experience	· Showing performance in the form of weekly updates.
+header	project	Project
+meta	others	:
+content	experience	ESIC Pragathi(Insurance).
+content	experience	Environment
+meta	others	:
+content	experience	ASP.NET,C#.Net,ADO.NET and My Sql,Javascript,WebAPI.
+content	experience	Application
+meta	others	:
+content	experience	Web Application
+content	experience	Team Size
+meta	others	:
+content	experience	9
+header	experience	Role
+meta	others	:
+content	experience	Project Maintenance,Bug fixing,Developing new requirements,L2 Support.
+content	experience	Client : Employee State Insurance Corporation(ESIC).
+header	others	Description:
+content	others	Employee State Insurance Corporation Administrating social insurance scheme that would protect the interest of workers in contingencies such as sickness, maternity, temporary or permanent physical disablement, death due to employment injury resulting in loss of wages or earning capacity. The Scheme also guarantees reasonably good medical care to workers and their immediate dependants.
+header	experience	Resposibilities:
+content	experience	· Requirement and Technical analysis.
+content	experience	· Developing WEB API services for Client requirement.
+content	experience	· Involved in Coding and Development activities for Benefit module.
+content	experience	· Writing the stored procedures and query optimization
+content	experience	· Status Reporting and Code Review.
+header	project	Project
+meta	others	:
+content	experience	ESIC IMP Portal
+content	experience	Environment
+meta	others	:
+content	knowledge	ASP.NET,C#.Net,ADO.NET and My Sql,Javascript,JQuery,AJAX,WebAPI.
+content	experience	Application
+meta	others	:
+content	experience	Web Application
+content	experience	Team Size
+meta	others	:
+content	experience	5
+content	experience	Role
+meta	others	:
+content	experience	Development and UI Designing.
+content	experience	Client : Employee State Insurance Corporation(ESIC)
+header	others	Description:
+content	others	ESIC is an arrange for outpatient medical care to IPs and their families at the clinics of approved Registered Medical Practitioners who are appointed and designated as IMPs (Insurance Medical Practitioners-Panel Doctors) in areas where ESI medical services are not within easy reach of beneficiaries.
+header	experience	Resposibilities:
+content	experience	· Understanding the Requirements and preparing the Low Level Design documents.
+content	experience	· Effective Communicator in Requirement discussions, Conference Calls, Team Meetings.
+content	experience	· Developing WEBAPI services for requirement.
+content	experience	· Developed stored procedures.
+content	experience	· Monitored day to day project activities & ensured intermittent deadlines were achieved as per client expectation.
+content	experience	· Created master pages to display required information on every page of the Application.
+content	experience	· Established database connectivity and data retrieval using ADO.NET.
+header	education	ACADEMIC SUMMARY:
+content	education	· Completed my B.techin the stream of Electrical engineering with an aggregate of 70.5% from Rise groups of Instiutions,Ongole, Andhra Pradesh. Passed out in the year of 2016
+content	education	· Completed my Intermediate with an aggregate of 88.5% fromSriSardaBalaKuteer.Passed out in the year of 2012
+content	education	· Completed my Secondary Eduction with an aggregate of 87.4%, Ongole. Passed out in the year of 2010
+meta	others	(Bhavanasupraja)

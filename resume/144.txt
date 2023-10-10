@@ -1,0 +1,76 @@
+header	others	CURRICULUM VITAE
+header	others	CAREER OBJECTIVE:
+content	others	Seeking to be part of a world-class growth oriented organization & contributing effectively to its development by delivering valuable hard work, sincerity, & dedication.
+header	others	PERSONAL DETAILS
+header	others	NAME
+meta	others	:
+meta	others	Ms. Swapna P. Panda.
+meta	others	ADDRESS
+meta	others	:
+meta	others	402, Richa Apartment, Barave road, Khadakpada,
+meta	others	Kalyan –west 421301
+meta	others	District – Thane.
+meta	others	DATE OF BIRTH
+meta	others	:
+meta	others	07th April 1986.
+header	others	LANGUAGES KNOWN
+meta	others	:
+content	others	English, Hindi, Marathi and Oriya.
+meta	others	PHONE NO.
+meta	others	:
+meta	others	MOB: 7738143781 / 9920778746
+meta	others	E-MAIL ID
+meta	others	:
+meta	others	sapnapanda@gmail.com
+meta	others	NATIONILITY : Indian
+meta	others	GENDER : Female
+meta	others	MARITAL STATUS : Single
+header	education	ACADEMICS QUALIFICATION:
+content	education	Course
+content	education	University/Board
+content	education	Year of Passing
+content	education	Class
+content	education	P.E.II (C.A. Inter)
+content	education	Institute of Chartered Accountants of India
+content	education	2008
+content	education	Second Class
+content	education	T.Y.B.COM.
+content	education	Mumbai University
+content	education	2006-07
+content	education	First Class
+content	education	H.S.C.
+content	education	Board of Maharashtra
+content	education	2003-04
+content	education	Distinction
+content	education	S.S.C.
+content	education	Board of Maharashtra
+content	education	2001-02
+content	education	First Class
+header	knowledge	COMPUTER SKILL:
+content	knowledge	· MS Office 2007 (Word, Excel, PowerPoint)
+content	knowledge	· Passed Maharashtra State Certificate in Ms-Office with FIRST CLASS
+content	knowledge	· Windows Operating System,
+content	knowledge	· Tally all version
+content	knowledge	· Beginner level knowledge of SAP
+header	experience	WORK EXPERIENCE:
+content	experience	· M/s Rajendra & Co. (1ST January 2008 to 30th November 2011)
+content	experience	· Statutory/Tax audit of a limited company includes following industries
+content	experience	· Manufacturing
+content	experience	· Service industries
+content	experience	· Diamond & Jewellery
+content	experience	· Textile
+content	experience	· Construction
+content	experience	· Statutory Audit includes various areas including Verification of Opening Balance, Fixed Assets, Investments, Bank reconciliation and Depreciation Check .Vouching of various books like Cash, bank, Journal, purchase and sales. It also includes physical verification of stock of various products. It also includes finalization of accounts, preparation of Balance sheet and CARO.
+content	experience	· Tax Audit work includes preparation of Form 3 CA/3 CB /3 CD. Verification of various clauses under 3 CD.
+content	experience	· Return Filing of various entities: (Income tax returns, TDS returns )
+content	experience	· Corporate Database (June 2007 to 31st December 2007)
+content	experience	· Entry of financial statements of companies listed on BSE & NSE from Annual Reports, Quarterly results and other sources. Also Analyzing on performance of the companies.
+header	others	HOBBIES:
+content	others	· Listening Songs, Watching Movies, Internet Surfing, Reading Novels
+content	others	· Traveling and making friends
+header	others	DECLARATION:
+meta	others	I hereby declare that the above-mentioned information is true to the best of my knowledge.
+meta	others	Thanking You,
+meta	others	Regards,
+meta	others	Swapna P Panda
+meta	others	(MOB: 7738143781 / 9920778746)

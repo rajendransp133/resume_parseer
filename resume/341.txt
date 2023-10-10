@@ -1,0 +1,57 @@
+meta	others	REBECCA FERNANDES
+meta	others	AKSHAT PRABHAKAR LAD
+meta	others	​​​​​​​​​​​​​
+meta	others	88/402, Manokamana bldg,
+meta	others	T.h Kataria Marg,
+meta	others	Mahim.
+meta	others	Mumbai-400016
+meta	others	Tel: 9870810137
+meta	others	Email: akshatlad16@yahoo.com
+header	others	Objective
+content	others	With commitment and hard work, to make a competitive difference in the organization through
+content	others	( Continuous learning ( Excellence ( Customer focus
+header	others	Personal
+meta	others	Age 24 years; Single
+header	education	Education
+content	education	· Passed T.Y.B.com examination from Chetana college,Mumbai, 2009.
+content	education	· Passed H.S.C examination from Chetana college,Mumbai, Mumbai, 2006.
+content	education	· Passed S.S.C examination from Saraswati Mandir High School, Mumbai, 2004.
+header	experience	Experience
+content	experience	Mumbai International Airport. Sahar Assistant.
+content	experience	Dec 2011-Till Date
+content	experience	( Acceptance of all Perishable & General Cargo as per Booking list.
+content	experience	( Documentation And System updation, Pre And Post Flight.
+content	experience	(Manifesting Cargo Flight wise.
+content	experience	(Compile And prepare Flight Reports i.e Arrival/Departure.
+content	experience	Tata Consultancy Services. Associate.
+content	experience	May 2010-Dec 2010
+content	experience	( Insurance Process (ING).
+content	experience	( Retirement Services Division (RSD)
+content	experience	(We look after the data plan and feed the data as per the applicable conditions.
+content	experience	(And finally resend it to our clients.
+content	experience	Mahindra & Mahindra Ltd.
+content	experience	Data Analyst.
+content	experience	Nov 2009 – Mar 2010.
+content	experience	( Human Resource Department.
+content	experience	( To prepare Data Structure of ‘Demographic Profiling’.
+content	experience	( To create Data Structure of Existing And Exited employees.
+content	experience	( To Analyse the reason behind employees resignation.
+header	education	Added Qualifications/Skills
+content	education	(Diploma in Computer Operation (DCO) 73%
+content	knowledge	(Ms Word, Ms Excel, Ms Powerpoint, Internet)
+content	education	(Tally ERP 9.0 73%
+header	knowledge	People Management Skills
+content	knowledge	( Presentation and Oration skills
+content	knowledge	( Team player
+content	experience	( Inter-personal skills
+meta	others	Religion
+meta	others	( Hindu / Maratha
+meta	others	Hobbies
+meta	others	( Listening Music
+meta	others	( Traveling
+meta	others	( Any creative/challenging work
+header	knowledge	Languages
+content	knowledge	( English
+content	knowledge	( Hindi
+content	knowledge	( Marathi
+meta	others	(Akshat P. Lad)

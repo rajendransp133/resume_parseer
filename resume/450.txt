@@ -1,0 +1,89 @@
+meta	others	Deepak Kumar
+meta	others	SAP MM/WM Consultant
+meta	others	Mob. : +91 9038066650
+meta	others	deepak.kumar_23@yahoo.com
+header	experience	Profile Summary
+content	experience	High performing SAP MM & WM consultant with experience in projects spanning rollout, upgrade and support projects. A very resourceful and result oriented functional consultant with strong analytical skills who can collaborate with customers, developers & other partners across regions to accomplish the task.
+header	experience	Experience
+content	experience	3 Years 6 months of Experience (Wipro Technologies)
+content	experience	SAP Skill Summary
+content	experience	· SAP MM
+content	experience	· SAP LE – WM, Shipping & Transportation.
+content	experience	· Data Archiving.
+content	knowledge	· Knowledge in Idocs and Batch Jobs.
+content	experience	· Experience in integration of various cross modules such as FI, SD and MDM with MM.
+content	knowledge	· Basic Knowledge in SAP SD & LSMW.
+content	experience	· Open SAP course in ‘Find your path to S/4 hana’
+header	experience	Project Experience
+content	experience	Philips Lighting (Bangalore, India & Eindhoven, Netherlands)
+content	experience	SAP MM WM Consultant, Development & Support Project 082014 - till date
+header	experience	Responsibilities
+content	experience	· Executed the Go-live support of a major SAP rollout project which was unique due to the Warehouse connection to an external AS/400 system identifying and implementing - solutions & enhancements for multiple issues while also liaising with ABAP team.
+content	experience	· Responsible for resolving business-critical issues as a part of incident management adhering to Service Level Agreements (SLA)
+content	experience	· Worked on various type of change request for customization change to resolve client’s critical issues across the globe as a part of change management.
+content	experience	· Experienced in requirement gathering, analysis and configuring CR.
+content	experience	· Designed Functional specification documents for new developments. Co-Ordinated with ABAP team for technical developments for CR execution.
+content	experience	· Preparation & subsequent execution of unit and regression testing.
+content	experience	· Hands on experience on Purchase Order Archiving.
+content	experience	· Good experience in EDI/IDOCs functionality such as IDOC processing, identifying and resolving errors, setting up partner profiles etc.
+content	experience	· Responsible to create various background jobs in order to automate the processes, data update etc. and thereby avoid manual intervention and memory consumption as well as save time consumption.
+content	experience	· Worked on stock comparison and various system inconsistency reports.
+content	experience	· Responsible for identifying solutions for repetitive issues as a part of Problem Management.
+content	experience	· Have worked in number ranges for supply chain relevant objects.
+content	experience	· Resolved post Go-Live, post SP upgrade and post release issues.
+content	experience	· Provided support on Year-end closures (YEC).
+content	experience	· Pro-actively up skilled team on the business processes. Also have provided training to the end user for carrying out business transaction more efficiently.
+content	experience	· Have created Knowledge Articles for solution re-use.
+content	experience	Service Improvement and Cost Saving Effort:
+content	experience	· Optimization such as correcting error messages in IDoc failure in various message types.
+content	experience	· Have reduced the failure frequency for batch jobs.
+content	experience	· Have reduced obsolete IDocs and batch jobs for reduction in cost.
+content	experience	· Removed various inconsistencies issues such as stock inconsistency, duplicate Requirement.
+content	experience	· Brain stormed & implemented multiple Service Improvement plans across MM, WM, IDOCs to save business cost & time.
+content	experience	a. One such change involves the printing of labels when goods were moved from one storage location to another storage location within the same plant. This result in automatic printing of labels for this material movement at warehouse that was not required resulting in costing paper wastage of worth 1900 Euro/Year.
+content	experience	b. Another change was to enable warehouse monitoring for several warehouses that enabled user to go through the open documents lying for a long time and take necessary action, which was a manual activity earlier by checking documents one by one, saving 25 hours per week.
+header	education	Academics
+content	education	EXAMS
+header	education	INSTITUTE
+header	education	BOARD/UNIVERSITY
+header	education	YEAR
+header	education	PERCENTAGE
+header	education	B.E
+header	education	(MECHANICAL
+header	education	AND PRODUCTION)
+content	education	SATHYABAMA UNIVERSITY,
+content	education	CHENNAI,
+content	education	TAMIL NADU.
+content	education	SATHYABAMA UNIVERSITY
+content	education	2013
+content	education	81.26%
+content	education	Intermediate
+content	education	(12th)
+content	education	D.A.V KAPILDEV PUBLIC SCHOOL,RANCHI,
+content	education	JHARKHAND.
+content	education	AISSCE
+content	education	2007
+content	education	75.83%
+content	education	(Total of 6 subjects)
+content	education	Board Examination
+content	education	(10th)
+content	education	ST.XAVIER’S SCHOOL,SAHIBGANJ,
+content	education	JHARKHAND.
+content	education	ICSE
+content	education	2005
+content	education	79.66%
+content	education	(Total of 6 subjects)
+header	others	Achievements
+content	others	· Performance Award for Delivery excellence in FY’17.
+content	others	· Appreciation from client globally for optimization.
+content	others	Trainings attended
+content	experience	· SAP MM by Wipro Technologies
+content	others	· SAP WM by Wipro Technologies
+content	others	Personal Details
+content	others	Date of birth : 23.06.1990
+content	knowledge	Languages : English, Hindi.
+content	others	Current Location : Kolkata, India
+content	others	Permanent address : House no. 3B,
+content	others	Habibpur – Pipe line Road,
+content	others	Sahebganj-816109,
+content	others	Jharkhand.

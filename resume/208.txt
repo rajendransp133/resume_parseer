@@ -1,0 +1,67 @@
+meta	others	PRATISTHA MAJUMDER
+meta	others	Age: 26, Gender: Female
+meta	others	E-mail: pratistha.majumder@bibs.co.in/pratistha1611@hotmail.com Contact No.: +91 96740069722
+meta	others	Address: 16/R, Mondal Temple Lane, New Alipore, Kolkata -700053
+header	education	ACADEMIC QUALIFICATION h
+content	education	Year
+content	education	Examination
+content	education	Institute
+content	education	Board/University
+content	education	Percentage
+content	education	2015
+content	education	MBA + PGPBM
+content	education	Bengal Institute of Business Studies
+content	education	V.U.
+content	education	75%
+content	education	2012
+content	education	B.Com (Hons.)
+content	education	South City Day College
+content	education	C.U.
+content	education	63%
+content	education	2009
+content	education	Higher Secondary
+content	education	Jodhpur Park Girls High School
+content	education	W.B.C.H.S.E.
+content	education	71%
+content	education	2007
+content	education	Secondary
+content	education	Jodhpur Park Girls High School
+content	education	W.B.B.S.E.
+content	education	61%
+header	experience	JOB EXPERIENCE
+content	experience	Genpact (Feb’16 to Aug’17)
+content	experience	Designation: Process Associate (F&AO)
+content	experience	Job Profile: a) Responsible for Monthly Bank Reconciliation (Cash, Borrowings & Cheque)
+content	experience	b) Keeping track of bank related open line item and following up with the concerned parties
+content	experience	for its closure
+content	experience	c) To perform AP/AR reconciliation during the MEC
+content	experience	d) Preparation of MJE (Manual Journal Entry) during the close as per the stakeholder’s
+content	experience	requirement
+content	experience	e) To prepare ad-hoc financial statements as per the CFR requirement
+content	experience	f) To ensure the reconciliation is being done as per the Blackline guidelines
+content	experience	g) Preparation of Daily Cash Dashboard (DTD transactions) with 100% accuracy
+content	experience	h) To provide cross training to other team members to ensure backup in place for business continuity
+content	experience	IT & Reporting Skills
+content	experience	· Hands on experience in SAP & JD Edwards v-8.12
+content	experience	· Hyperion Financial Module
+content	experience	· Account Reconciliation Tracker
+content	experience	· MS Office & Internet Awareness
+header	experience	SUMMER INTERNSHIP
+content	experience	MY SERVICE TAX Duration: April 2014 – June 2014
+content	experience	Purpose: Making existing and potential clients of the hotel and restaurant industry and goods transport agencies aware of and enlisting their names for the “Voluntary Compliance Encouragement Scheme” 2013
+header	experience	Methodology:
+content	experience	· Interacted with existing and potential clients to make them aware of the features of the scheme
+content	experience	· Conducted data analysis of account statements and made presentations in front of clients from different Industries
+header	experience	Learning Outcome:
+content	experience	· Learnt about the nuances of service tax norms in India
+content	experience	· Learnt to convince clients to confirm to service tax norms
+header	others	ACHIEVEMENTS
+content	others	· Winner of Theme Day (FMCG) as a member of Raspberry Ants organized by BIBS (2013)
+content	others	· Received a certificate from the University of Calcutta for securing First class in Graduation (2012)
+content	others	· Awarded multiple prizes for music competition including 2nd prize at Madhusudan Mancha and 3rd prize at Najrul Mancha (2005)
+content	others	· Awarded a trophy for donating the maximum amount of funds to improve the infrastructure of a Command Hospital (2002)
+header	others	EXTRA CURRICULAR ACTIVITIES
+meta	others	· Underwent a course on tally 9.0 version
+meta	others	· Participated in an outbound learning activity organized by BIBS
+header	others	OTHER INTERESTS
+meta	others	· Networking

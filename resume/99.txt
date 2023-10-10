@@ -1,0 +1,101 @@
+meta	others	Resume-Kavish Sarawgi
+meta	others	__
+header	education	ACADEMICS
+meta	education	Qualification College/ University Year Percentage
+content	education	B.E. (Comp. Science & Eng.)
+content	education	HCET Jabalpur/ RGPV, Bhopal
+content	education	2012
+content	education	70.19 %
+content	education	A.I.S.S.C.E.
+content	education	K.V., GCF-1 Jabalpur/ CBSE, New
+content	education	Delhi
+content	education	2008 62.80 %
+content	education	A.I.S.S.E. K.V., GCF-1 Jabalpur/ CBSE, New
+content	education	Delhi
+content	education	2006 73.20 %
+header	experience	WORK EXPERIENCE:
+content	experience	CapGemini 1 Year 6 Months (Mar ’16-Till date )
+content	experience	Tata Consultancy Services Ltd., Mumbai 3 year 2 months (Dec ‘12-Mar ‘16)
+content	experience	1.) Project Title: Providing End to end support for Oracle finance modules for a Norway client.
+content	experience	Period: Mar ‘16-till date
+content	experience	Role: Lead developer of the project
+content	experience	JD: Responsible for end-to-end support for all Oracle finance modules mainly AP, AR and GL.
+content	experience	Developed and supporting the inbound and outbound interfaces to import AP and AR invoices and
+content	experience	payments. In interfaces we are using advanced queuing concept not the conventional data loader method
+content	experience	to import data to OeBS system from other legacy systems.
+content	experience	2.) Project Title: Using SOA, developing an interface between Oracle & Digabit system for facilitating
+content	experience	Inbound and outbound interfaces for a Fortune Global Top-10 client Period: Aug ‘15-Mar ‘16
+content	experience	Role: Lead developer of the project
+content	experience	JD: Responsible for end-to-end ownership & delivery of business objectives, fulfilment of weekly
+content	experience	targets, front-end interfacing with the off-shore client & alignment of macro strategic goals with a grip
+content	experience	on the micro-level intricacies of getting 5 different interfaces-Items, Customer, Customer sites,
+content	experience	Superseded parts with Price & Availability, Sales order creation and Acknowledgement-to work
+content	experience	coherently using SOA services.
+content	experience	3.) Project Title: Providing End-to-End Oracle Support for a global fuel-dispenser equipment
+content	experience	manufacturer Period: Oct ‘14-Mar ‘16
+content	experience	Role: Lead developer of the team
+content	experience	JD: Responsible for end-to-end support for all oracle modules, mainly Oracle finance and SCM.
+content	experience	Customising the R.I.C.E components to the Oracle e-Business suits of application, includes modules like
+content	experience	Oracle payables, Receivables, Inventory, Order Management, Fixed Asset etc.
+content	experience	4.) Project Title: Oracle Implementation and Data conversion from Legacy Systems to Oracle Apps for a
+content	experience	fortune Global Top-10 client Period: Oct‘13-Oct ‘14
+content	experience	Role: Part of the end-to-end implementation team
+content	experience	JD: Worked towards complete, accurate & error-free migration of critical data for the client from a
+meta	others	________________________________________________________
+content	experience	P A N K A J M I S H R A
+content	experience	P A N K A J M I S H R A 2 @ H O T M A I L . C O M
+content	experience	3 / 5 0 2 , G A R D E N E S T A T E , M A N P A D A , T H A N E ( W E S T ) , M U M B A I
+content	experience	+91 88799 92240
+content	experience	legacy database to Oracle apps suite by means of data conversion concurrent programs; created
+content	experience	program for automating the process of validation of the exported data in the new DB from that in the
+content	experience	legacy and did the complete oracle implementation for the client.
+content	experience	5.) Project Title: A.P.E.X.- Invoice Testing & Interfacing with Oracle Payables Module for a Fortune
+content	experience	Global Top-10 client Period: Apr‘13-Oct‘13
+content	experience	Role: Part of the development & Support Team
+content	experience	JD: Worked on the OCR (Optical Character Recognition) module in which AP invoice are created and
+content	experience	validated using OCR and then exports to Oracle payables then to GL; worked with validation and Import
+content	experience	of AP invoices to Oracle and after invoice payments exported to GL; worked on PL/SQL packages.
+header	project	6.) Project Title: ILP (Initial Learning Program-) TCS’s Immersion Program of Dec.’12-March ‘13
+content	experience	JD: Part of the globally renowned TCS ILP program which involves getting accustomed to the
+content	experience	companies policies, ways of working & interfacing with clients, while simultaneously getting trained on
+content	experience	the intricacies & advanced modules of HTML, Java, PL/SQL & Informatica (BIPM)
+header	knowledge	SKILLS & CERTIFICATIONS
+content	knowledge	 Oracle Apps-Finance (Payables, Fixed Asset,
+content	knowledge	GL)
+content	knowledge	 Oracle Apps-SCM (Inventory, Order
+content	knowledge	Management)
+content	knowledge	 Oracle Reports & Forms
+content	knowledge	 SOA basics.
+content	knowledge	 PL/SQL & C/ C++
+content	knowledge	 Business Intelligence & Performance
+content	knowledge	Management through Informatica
+content	education	 Certified Green Belt in Lean Six Sigma
+content	experience	Practices-2014
+header	others	AWARDS & ACHIEVEMENTS
+content	others	 Awarded a certificate, trophy & recognized by the entire college governing board for being the Most
+content	others	Regular Student during graduation
+content	others	 Awarded 1st position & a prize of worth Rs1000 in the NFS competition held at the national level tech-fest ‘Taksh-da-Fest’11’ held at TIETC, Jabalpur in 2011
+content	others	 Awarded 1st position & a prize of worth Rs750 in the NFS competition held at the national level tech-fest ‘Inspiro 2k11’ at LNCT in 2010
+content	others	 Awarded the 1st position & a prize of worth Rs750 in NFS competition held at the cultural & technical
+content	others	festival held at HCET in 2011
+header	experience	EXTRA CURRICULAR ACTIVITIES
+content	experience	 Recd. letter of appreciation from the Global Top-10 off-shore client for consistent delivery of
+content	experience	committed objectives throughout the project , unmistakable work ethic & the tenacity to go beyond the
+content	experience	defined call of duty towards the fulfilment of the end result while working at TCS 2013-14
+content	experience	 Organized the Jabalpur leg of the Microsoft ‘Dream Spark Yatra’ involving participation of more than
+content	experience	1500+ students in 2010
+content	experience	 Organised & served as the quiz master for an Inter School Quiz Competition involving participation of
+content	experience	the top 100+ high school students pan-Madhya Pradesh at the Maharishi Regional Cultural Meet 2010
+content	experience	 Successfully participated in the craft & drawing competition held on the occasion of ‘World Earth Day’
+content	experience	at HCET in 2010
+header	others	PERSONAL DETAILS
+meta	others	Name : Pankaj Mishra
+meta	others	Date of Birth : 23rd May, 1990
+meta	others	Father’s Name : Mr B. D. Mishra
+meta	others	Mother’s Name : Mrs Shanti Mishra
+meta	others	Gender : Male
+meta	knowledge	Languages Known : English, Hindi
+meta	others	Nationality : Indian
+meta	others	P A N K A J M I S H R A 2 @ H O T M A I L . C O M
+meta	others	3 / 5 0 2 , G A R D E N E S T A T E , M A N P A D A , T H A N E ( W E S T ) , M U M B A I
+meta	others	+91 88799 92240

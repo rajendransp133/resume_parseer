@@ -1,0 +1,108 @@
+meta	others	DEEPAK PUNJABI
+meta	others	1 | P a g e
+meta	others	DEEPAK PUNJABI
+meta	others	 : +91 – 94267 60614
+meta	others	 : deepak.punjabi86@gmail.com
+header	experience	Profile Summary:
+content	experience	 A result oriented & dynamic HR Professional with 8+
+content	experience	years of affluent experience in core Human Resource
+content	experience	domain and various fundamental aspects of HRM
+content	experience	 A self-motivated team player with excellent analytical skills
+content	experience	with an ability to ensure optimum output, both
+content	experience	qualitatively & quantitatively
+content	experience	 Effective planning and organizational skills to successfully
+content	experience	manage multiple priorities and assignments within time
+content	experience	frames
+content	experience	 Keen eye for detail and excellence, making accuracy and
+content	experience	quality of deliverables seamless
+header	experience	Work Experience:
+content	experience	Organization: Talent Anywhere Services Pvt. Ltd., Vadodara
+content	experience	Duration: June 2015 – Till date
+content	experience	Job Title: Assistant Manager – Human Resource
+header	experience	Roles & Responsibilities
+content	experience	 Strategic Partner/Client Management:
+content	experience	o As an HR Business partner for the location, I’m responsible for managing the end to end talent
+content	experience	management. Design and implement HR Projects at organization level
+content	experience	o Launch development initiative and OD interventions for my project span
+content	experience	o Analyze statistical data and reports to identify causes of employee grievances
+content	experience	o Act as consultant for senior leadership on active HR issues or high-risk individuals
+content	experience	 Employee Champion
+content	experience	o Driving all Employee Engagements Initiatives/Activities
+content	experience	o Independently plan and execute employee engagement events/activities
+content	experience	o Regular HR connect and addressing day to day disciplinary and integrity issues
+content	experience	o Ensuring proactive employee communications on Organization’s process and policies
+content	experience	 HR Employee Partner
+content	experience	o Handled employee life cycle post on boarding. Recommended improvements to existing HR
+content	experience	policies and practices. Handled employee relations, troubleshoot employee issues and channelled
+content	experience	them with appropriate solution
+content	experience	o Providing end to end support to employees and Business managers to better understand and
+content	experience	utilize HR tools, processes and policies to enable them to deal with and handle employee issues
+content	experience	effectively
+content	experience	http://talentanywhere.com/global/
+meta	others	2 | P a g e
+content	experience	 HRIS/ HR Business Analytics
+content	experience	o Provided support to the Management and Business Functions specifically in the areas of people
+content	experience	metrics, reporting and predictive analytics among others. Expertise in PMS; KRA’s & KPI’s, goal
+content	experience	setting, yearly evaluations
+content	experience	o Evaluate monthly Target v/s Achievement performance reports. Validated HRIS, MIS reporting &
+content	experience	organograms, maintain management dashboards
+header	experience	 Talent Acquisition
+content	experience	o Responsible for the entire recruitment life-cycle for assigned clients. Contributed in streamlining
+content	experience	the recruitment process by maintaining an efficient and effective candidate database & HRMIS
+header	experience	 Performance Management System
+content	experience	o Driving evaluation and performance appraisals of lateral. Review and analyses business unit data
+content	experience	to identify trends and recommend industry appraisal, provide solutions to improve performance,
+content	experience	retention and associate experience
+content	experience	o Identifying the gaps in performance and Implementing Performance Improvement plans (PIP) for
+content	experience	employees
+content	experience	Organization: Yantraman Automac Pvt. Ltd., Vadodara
+content	experience	Duration: January 2015 – May 2015
+content	experience	Job Title: Manager - Human Resource
+header	experience	Roles & Responsibilities
+content	experience	 Handled entire HR Operations of 9 branches which includes recruitment, induction, payroll,
+content	experience	attendance, exit etc. Responsible to design and implement audit plan along with different
+content	experience	department
+content	experience	 Managed Payroll Process & Statutory Compliance. Provided accurate data report to accounts team
+content	experience	for the payment
+content	experience	 Managed Performance Management System, taking part in appraisal discussions and ensuring fair and
+content	experience	accurate appraisal cycle. Handling Retention & Compensation management along with performance
+content	experience	management.
+content	experience	 Work closely with the different departments on the policies & process formation & implementation
+content	experience	 Responsible to take care of statutory compliances. Responsible to handle the entire employee related
+content	experience	cases in court. Responsible to provide all the statutory reports to the respective government agencies
+content	experience	Organization: Rishabh Software Pvt. Ltd, Vadodara
+content	experience	Duration: October 2010 – December 2014
+content	experience	Job Title: Senior Executive - Human Resource
+header	experience	Roles & Responsibilities
+content	experience	 Responsible for complete HR Operations. Worked with cross functional teams in supporting and
+content	experience	resolving day to day employee queries and issues pertaining to employees
+content	experience	 Employee Relations: Worked in collaboration with HR BP to identify & address employee grievances.
+content	experience	Manage, coordinate and participate extra-curricular & different employee engagement activities like
+content	experience	sports events, cultural events
+content	experience	http://www.rishabhsoft.com/
+meta	others	3 | P a g e
+content	experience	 Payroll Process & Statutory Compliance: Managed attendance and leave management system to
+content	experience	provide accurate data report to accounts team for payroll process. Meet or exceed all operational
+content	experience	SLAs
+content	experience	 Talent Acquisition (Recruitment & Selection): Responsible for the entire recruitment life-cycle for both
+content	experience	IT and Non-IT positions. Contributed in streamlining the recruitment process by maintaining an
+content	experience	efficient and effective candidate database & HRMIS
+content	experience	 HRMIS & Data Analysis: Administered different HRMIS like Employee Management System, Leave
+content	experience	Management System, and Document Management System. Preparing various MIS reports /
+content	experience	dashboards for management presentation
+content	experience	 Statutory Compliance & Auditing: Responsible to handle all areas of statutory compliances and
+content	experience	internal and external HR audit including CMMI – Level 3 and ISO standards compliance
+content	experience	Organization: Indian Switchgears and Consultants
+content	experience	Designation: Accounts Assistance
+content	experience	Duration: October 2007 – April 2008
+header	experience	Roles & Responsibilities:
+content	experience	 Preparation & maintenance of all the records of Account Department
+content	experience	 Coordination with CA and Govt. authorities for necessary return certificates
+content	experience	 Assistance to Excise Department for transformation of manual work to computerized work
+content	experience	 Responsible to preserve daily cash balance
+content	experience	 Preparation of Salary and maintenance of overtime of workers
+content	experience	 Administration of PF and ESI of the workers
+content	experience	 Coordination with Debtors and Creditors regarding bills receivable & payable
+header	education	Summary of Academic Credentials:
+content	education	 MBA (Human Resources) from Gujarat University
+content	education	 Bachelor of Commerce with Finance & Accounting

@@ -1,0 +1,78 @@
+header	others	Personal Details:
+meta	others	Name : Shishir Deepak Joshi
+meta	others	Date of Birth : 23-08-1994
+meta	others	Specialization : MMS (Finance)
+header	others	Objective:
+meta	others	Seeking a responsible post with an opportunity to face professional challenges with emphasis on continuous learning and performing beyond expectation to support and enhance co-operative objectives of the company.
+header	education	Academic Qualifications:
+content	education	Degree
+content	education	Year
+content	education	University/AICTE
+content	education	Institute
+content	education	Subjects
+content	education	Percentage
+content	education	MMS
+content	education	(Pursuing)
+content	education	2016-18
+content	education	Mumbai
+content	education	Pillai
+content	education	Institute of Management Studies and Research
+content	education	Finance
+content	education	70%
+content	education	(FYMMS)
+content	education	B.Com
+content	education	2015
+content	education	Mumbai
+content	education	Pillai’s College of Arts & Science & Commerce
+content	education	Cost Accounting,
+content	education	Company Law,
+content	education	Management Accounting
+content	education	71%
+content	education	HSC
+content	education	2012
+content	education	Maharashtra State Board
+content	education	SIES, Nerul
+content	education	Mathematics, Accounts, Economics, OC, Hindi, English
+content	education	77%
+content	education	SSC
+content	education	2010
+content	education	Maharashtra State Board
+content	education	A.V.B. Phadke Vidyalaya
+content	education	Sanskrit, Mathematics, Science, , Marathi, Social Science
+content	education	87%
+header	education	Other Relevant Education:
+content	education	· CA-IPCC (1 group)
+content	education	· Tally
+content	education	· Advance Excel
+content	education	· Joined SAP
+header	experience	Work experience:
+content	experience	· Organisation
+content	experience	: C. K. Joshi & Co.
+content	experience	GNC & Associates
+content	experience	· Business
+content	experience	: CA Firm
+content	experience	· Designation
+content	experience	: Article
+content	experience	· Functional areas : 1. Tally Accounting
+content	experience	2. Taxation & Audit
+content	experience	3. Finalization of Accounts
+header	experience	Summer Internship:
+content	experience	Organization : Panvel Urban Co-Op Bank Limited, Panvel.
+content	experience	Designation : Intern (2 months)
+content	experience	Functional areas : 1. Deposit opening department
+content	experience	2. Bank Statements and Balance Sheet
+content	experience	3. Assist in preparing Audit Reports for 1 quarter
+content	experience	4. Loan documentation department
+header	others	Achievements:
+content	others	· Rank in MTS examination
+content	others	· Badminton state level participation
+content	others	· Cricket state level participation
+content	others	· Drama & Speech competition state prices
+header	others	Extra Curricular Activities:
+content	others	· Active volunteer for a NGO- ‘Vanvasi Kalyan Ashram’
+content	others	· Active participation in ‘Swaccha Bharat Abhiyan’
+content	others	· Member of Achievers Cricket Club, Panvel
+header	others	Contact Details:
+meta	others	· Address : P6, 35/04, IPCL Colony, Sec-15, New Panvel. 410206
+meta	others	· Contact No. : 7709039979
+meta	others	· E-mail Id : meshishirjoshi@gmail.com

@@ -1,0 +1,52 @@
+meta	others	KOMAL M. MEHTA
+meta	others	C-104, RAJYASH REEVANTA, PHONE: +919714520123
+meta	others	OPP, A.M.C PUMPING STATION, E-MAIL: komalbharatshah@gmail.com
+meta	others	G.B.SHAH COLLEGE ROAD,
+meta	others	VASNA,
+meta	others	AHMEDABAD.380 007
+header	others	OBJECTIVE
+content	others	To be a part of the Organization that leads to value addition and that provides overall professional and personal development.
+content	others	To build a successful carrier as a professionals through firm determination, discipline and dedication towards my work.
+header	education	EDUCATION
+content	education	· Professional Qualification :
+content	education	Passed PE -I Examination in November 2006.
+header	education	· Academic Qualifications :
+content	education	Passed M.Com – (English Medium) in April 2008
+content	education	Completed Graduation in Bachelor of Commerce from Nav Gujarat College of
+content	education	Commerce in April 2006 (English Medium)
+content	education	Higher Secondary & Secondary Education:
+content	education	H.S.C March 2003
+content	education	S.S.C March 2001
+header	experience	EXPERIENCE
+content	experience	· At Present, Working as Account Assistant in Payment Dept. Nirma Limited – Ahmedabad
+content	experience	· Worked as Accountant for the period from January’12 to September’14 in Accounts & Billing
+content	experience	Dept. SVS Chemical Corporation - Ahmedabad.
+content	experience	· Worked as Assistant for the period from January’11 to September’11 as Audit Assistant
+content	experience	Trusit Choksi (C.A) - Ahmedabad.
+content	experience	· Worked as Article Clerk for the period from February ’07 to August’10 as clerk
+content	experience	M. N. Pandya & co.(C.A) - Ahmedabad.
+header	experience	JOB PROFILE:
+content	experience	· Handling Accounting Functions in ERP Software
+content	experience	· Ledger Scrutiny
+content	experience	· Helping in Finalization of Accounts
+content	experience	· Party Ledger Reconciliation
+content	experience	· Preparation of VAT/Excise Returns & uploading the same to Government department
+content	experience	· Daily Bill Entry for payment purpose
+content	experience	· Verification of records for GST Related bills
+content	experience	· Monthly Salary payment on Attendance basis
+content	experience	· Preparation of Debit Note/Credit Note
+content	experience	· Bank Reconciliation
+content	experience	· Preparation of Income tax returns
+content	experience	· Attending query of Internal & Statutory Auditor and resolve accordingly
+header	knowledge	COMPUTER SKILLS:
+content	knowledge	Proficient with the use of ERP Software & MS-Office Well acquainted with the usage of internet.
+meta	others	.
+header	others	PERSONAL DETAILS:
+meta	others	Date of Birth: 9th November, 1987
+meta	others	Gender: Female
+meta	others	Marital Status: Married
+meta	knowledge	Languages Known: English, Hindi and Gujarati.
+meta	others	Nationality: Indian
+meta	others	STRENGTH:
+header	others	Soft Spoken, Good Listener, Excellent
+meta	others	Communication & Correspondence Skill, Honesty & Loyalty.

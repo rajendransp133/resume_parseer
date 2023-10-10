@@ -1,0 +1,65 @@
+meta	others	SANTANU KUMAR GHOSH
+meta	others	santanuece3@gmail.com
+meta	others	+917687841806 / +919123379706 Kolkata, West Bengal
+meta	others	Seeking a position in NETWORK ENGINEERING where my dedication, meeting goals, creativity and ability to follow through can be utilized for the better growth and beneficial for the company as well as myself.
+header	experience	PROFILE SYNOPSIS
+content	experience	· Undergoing CCNA & CCNP R&S Training on Real Time CISCO Router & Switches
+content	experience	· Well versed with LAN & WAN Implementation
+content	experience	· Good Hands-on knowledge on Real Time Routers & Switches
+content	experience	· Strong General Management, Negotiation, Inter -Personal Communication & Team Building Skill
+header	knowledge	KEY SKILLS
+content	knowledge	ROUTING , RIPV2, RIPV1, OSPF, EIGRP, STATIC ROUTING, TRUNKING, ACCESS LIST, NAT, PAT, ACL , FRAME RELAY, STP, VLAN, SWITCHING, RSTP, VTP, SUBNETTING (FLSM &VLSM), IP Addressing, DHCP, OSI Model, FIREWALL, NETWORK SECURITY, LINUX
+header	knowledge	TECHNICAL KNOWLEDGE
+content	knowledge	Learner with an attitude to make a good career in Networking
+content	knowledge	· Undertaking CCNA & CCNP Professional Training from an Institute
+content	knowledge	· Good knowledge of OSI and TCP/IP Model
+content	experience	· Configuration and Troubleshooting of CISCO 2600, 2900 series Routers
+content	knowledge	· Configuration and Troubleshooting of CISCO 2950, 3750 series Catalyst Switches
+content	knowledge	· Configuration of Routing Protocols-STATIC, RIPV1, RIPV2, EIGRP, OSPF
+content	knowledge	· Switching-VLAN, STP, VTP, DTP
+content	knowledge	· Route Summarization & Load Balancing
+content	knowledge	· Implementing LAN & WAN Connections using Switches and Routers
+content	knowledge	· Set up of Layer2 , Layer3 Switching
+content	knowledge	· Basic Knowledge of BGP
+content	knowledge	· Others-ACL, NAT, PAT, POP, FRAME RELAY, DHCP, DNS, FIREWALL
+content	knowledge	· Knowledge in Basic Commands of LINUX Administration.
+header	experience	PROFESSIONAL EXPERIENCE
+content	experience	METRO TELWORKS PVT LTD| Nov’17 – Present
+content	experience	RF-NETWORK ENGINEER (Network Optimization & Monitoring)
+content	experience	· Optimization Of The 2G, 3G & 4G Network for maintain KPI and its pre-post testing using TEMS, NEMO & XCAL(for JIO) software.
+content	experience	· Clearing alarm through local login/NMS on Alcatel Lucent Router & Switch, CISCO Switches.
+content	experience	· Deployment of new Routers and Switches as per customer requirement.
+content	experience	· Checking Out Proper Inter Cell & Intra Cell Handovers Of A Site.
+content	experience	· Defining Proper Source & Target Cells for Handovers.
+content	experience	· Making Power Point Presentation of Pre & Post Optimization RSCP & EC/NO Plots for 3G.
+content	experience	· Making Power Point Presentation of Pre & Post Optimization RSRP, RSRQ ,RS CINR& DL-UL Throughput Plots for 4G.
+content	experience	THE MINING & ENGG. CORP|Nov’16 – Nov’17
+content	experience	RF ENGINEER (drive testing & physical optimization)
+content	experience	· RF Drive Test For Optimization Of The 2G, 3G & 4G Network by using TEMS & XCAL(for JIO) software.
+content	experience	· Identifying & Removing The Cyclic & Sector Swap On Site.
+content	experience	· Checking Out Proper Inter Cell & Intra Cell Handovers Of A Site.
+content	experience	· Physical Optimization by Antenna down Tilt and Reorientation for Proper Coverage as per Clutter.
+content	experience	· Defining Proper Source & Target Cells for Handovers.
+content	experience	· Measurement of Physical Parameter like Latitude, Longitude, Azimuth, Tilt and Configuration.
+content	experience	· Making Power Point Presentation of Pre & Post Optimization RSCP & EC/NO Plots for 3G.
+content	experience	· Making Power Point Presentation of Pre & Post Optimization RSRP, RSRQ & RS CINR Plots for 4G.
+content	experience	· SCFT of SRAN & MORAN sites .
+header	project	PROJECTS
+content	project	· PROJECT NAME: VODAFONE 4G project of NOKIA, Kolkata Circle | Nov’-16 – Dec’16
+content	project	· PROJECT NAME: AIRTEL 2G,3G,4G project of Ericsson, Chennai Circle | Dec’16 – Jan’17
+content	project	· PROJECT NAME: VODAFONE 2G,3G,4G Project of NOKIA, ROB Circle | Jan’17 – Apr’ 17
+content	project	· PROJECT NAME: Reliance JIO 4G project of SAMSUNG, AP Circle | Apr’17 - Nov’17
+content	project	· PROJECT NAME: Vodafone / Bharti project of NOKIA ,Kolkata& ROB Circle |Nov’17-Present
+header	education	EDUCATION
+content	education	· B Tech in Electronics and Communication Engineering from Techno India Salt Lake, Kolkata in 2016 with 7.46 CGPA
+content	education	· Diploma in Electronics and Telecommunication Engineering from WBSCTE, Kolkata in 2013 with 74.30%
+content	education	· Senior secondary (PCM), WBCHSE in 2010 with 68.40%
+content	education	· Secondary, WBBSE in 2008 with 82.63%
+header	knowledge	LANGUAGE
+content	knowledge	English Bengali Hindi
+header	others	INTERESTS
+content	others	Music | Cooking | Indoor Games | News
+header	others	PERSONAL INFORMATION
+meta	others	· Date of Birth 4th Oct’1992
+meta	others	· Gender Male
+meta	others	· Address Vill-Mukundapur, PO-Panchgeria, PS-Debra, Dist.–Paschim Mednipur, 721156

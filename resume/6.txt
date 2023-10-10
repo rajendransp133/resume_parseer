@@ -1,0 +1,96 @@
+meta	others	VIGNESH​ ​R
+meta	others	vigneshramachandran92@gmail.com
+meta	others	+91-​ ​9940490101
+header	experience	Professional​ ​Summary
+content	experience	● Proficient in Web Application Development and Hybrid Mobile Application Development around
+content	experience	1.5​ ​years​ ​of​ ​Experience.
+content	experience	● Ability​ ​to​ ​provide​ ​technical​ ​support​ ​as​ ​UI​ ​Front-end​ ​Developer.
+content	experience	● Efficient Knowledge on Technologies like Javascript, JQuery, Angularjs, HTML5, CSS3,
+content	experience	Bootstrap.
+content	experience	● Knowledge​ ​on​ ​Designing​ ​in​ ​Adobe​ ​Photoshop​ ​and​ ​Sketch.
+content	experience	● Hands​ ​on​ ​Experience​ ​with​ ​the​ ​Apple​ ​OS.
+content	experience	● As a team member and Associate to Team lead, functionality and handling of team and members
+content	experience	and​ ​alignment​ ​of​ ​task​ ​and​ ​completion​ ​on​ ​a​ ​procured​ ​time.
+content	experience	● Published​ ​a​ ​paper​ ​on​ ​​INNOVATION​ ​OF​ ​SMART​ ​PHOTOGRAPHY​​ ​in​ ​​INTERNATIONAL​ ​JOURNAL
+content	experience	● Good​ ​analytical,​ ​problem​ ​solving​ ​skills​ ​and​ ​an​ ​efficient​ ​team​ ​player.
+content	experience	Academics
+content	experience	Master​ ​of​ ​Computer​ ​Applications​ ​from​ ​SRM​ ​Valliammai​ ​Engineering​ ​College,​ ​Anna​ ​University,
+content	experience	Tamil​ ​Nadu.
+content	experience	Bachelor​ ​of​ ​Science​ ​in​ ​(Visual​ ​Communication)​ ​from​ ​SRM​ ​Arts​ ​and​ ​Science​ ​College,​ ​Chennai,​ ​Tamil
+content	experience	Nadu.
+header	knowledge	Professional​ ​Skills
+content	knowledge	Business​ ​Domain UI​ ​Front-end​ ​Developer
+content	knowledge	Primary​ ​Skills HTML,​ ​CSS,​ ​Javascript,​ ​JQuery
+content	knowledge	Secondary​ ​Skills Angular​ ​JS,​ ​Handlebar​ ​JS
+content	knowledge	Tools Adobe​ ​Photoshop,​ ​Sketch,​ ​Zeplin
+content	knowledge	Operating​ ​Systems Windows,​ ​Mac​ ​Os.
+header	experience	Professional​ ​Experience
+content	experience	● Working​ ​as​ ​Software​ ​Developer​ ​on​ ​Front-end​ ​Development​ ​in​ ​Redcaso​ ​Solutions​ ​from​ ​July​ ​2016
+content	experience	to​ ​Till​ ​Date.
+content	experience	● Has​ ​5​ ​months​ ​of​ ​onsite​ ​experience​ ​as​ ​Software​ ​Developer​ ​at​ ​Mashreq​ ​Bank,​ ​Dubai.
+content	experience	Project Mashreq​ ​​Neo
+content	experience	Project​ ​Description Mashreq Neo is the mobile banking application which offers wide variety of
+content	experience	digital banking services to customers and allowing customers to do all the
+content	experience	banking​ ​related​ ​transactions,​ ​account​ ​creation,​ ​investments​ ​and​ ​forex.
+content	experience	Organization Redcaso​ ​solutions
+content	experience	Duration April​ ​2017​ ​-​ ​December​ ​2017
+content	experience	Location Dubai
+content	experience	Role Software​ ​Developer
+content	experience	Client Mashreq​ ​Bank,​ ​Dubai
+content	experience	Technologies​ ​Used HTML5,​ ​CSS3,​ ​Javascript,​ ​JQuery
+content	experience	Responsibilities ● Develop​ ​the​ ​front​ ​end​ ​code​ ​for​ ​onboarding​ ​and​ ​investments​ ​module.
+content	experience	● Designed​ ​the​ ​application​ ​with​ ​mobile​ ​compatibility​ ​and
+content	experience	responsiveness​ ​for​ ​all​ ​iOS​ ​and​ ​Android​ ​mobile​ ​device.
+header	project	Project Effers
+content	experience	Project​ ​Description The application is to maintain the discounts offered by the organization and
+content	experience	the retailers. It has specifications such as admin, retailer and company for their
+content	experience	respective users. This application provides necessary details over the users and
+content	experience	offers​ ​to​ ​maintain​ ​all​ ​process​ ​individually.
+content	experience	Organization Redcaso​ ​solutions
+content	experience	Duration January​ ​2017​ ​-​ ​March​ ​2017
+content	experience	Location Chennai
+content	experience	Role Software​ ​Developer
+content	experience	Technologies​ ​Used HTML5,​ ​CSS3,​ ​Javascript,​ ​JQuery
+content	experience	Responsibilities ● Communicated​ ​with​ ​client​ ​for​ ​requirements.
+content	experience	● Involved​ ​in​ ​development​ ​of​ ​admin​ ​and​ ​retailer​ ​process.
+content	experience	● Change​ ​and​ ​verify​ ​the​ ​browser​ ​compatibility​ ​and​ ​responsiveness.
+header	project	Project Givester
+header	project	Project​ ​Description The aim of the application is to buy/Sell used product. It has specifications
+content	experience	uploading the photo of product for sale. To maintain these process, admin
+content	experience	panel is developed. It will maintain the giveaways and users and will also
+content	experience	generate​ ​the​ ​reports.​ ​
+content	experience	Organization Redcaso​ ​solutions
+content	experience	Duration July​ ​2016​ ​-​ ​September​ ​2016
+content	experience	Location Chennai
+content	experience	Role Software​ ​Developer
+content	experience	Technologies​ ​Used HTML5,​ ​CSS3,​ ​Javascript,​ ​JQuery
+content	experience	Responsibilities ● Worked​ ​on​ ​Development​ ​of​ ​front​ ​end​ ​code.
+content	experience	● Preparation​ ​of​ ​unit​ ​test​ ​cases​ ​and​ ​executing​ ​it.
+content	experience	● Change​ ​and​ ​verify​ ​the​ ​browser​ ​compatibility​ ​and​ ​responsiveness.
+content	experience	Project QIB​ ​Brochure
+content	experience	Project​ ​Description The​ ​aim​ ​of​ ​the​ ​application​ ​is​ ​providing​ ​discount​ ​for​ ​employees​ ​working​ ​in
+content	experience	QIB.​ ​The​ ​Organization​ ​has​ ​motive​ ​to​ ​provide​ ​various​ ​offers​ ​to​ ​employees​ ​of
+content	experience	their​ ​organization.​ ​This​ ​web​ ​application​ ​will​ ​provide​ ​all​ ​information,​ ​offers​ ​to
+content	experience	the​ ​employees​ ​with​ ​all​ ​necessary​ ​details.
+content	experience	Organization Redcaso​ ​solutions
+content	experience	Duration October​ ​2016​ ​-​ ​December​ ​2016
+content	experience	Location Chennai
+content	experience	Role Software​ ​Developer
+content	experience	Technologies​ ​used Javascript,​ ​JQuery,​ ​HTML,​ ​CSS.
+content	experience	Responsibilities ● Involved​ ​in​ ​getting​ ​requirement​ ​from​ ​Client.
+content	experience	● Develop​ ​the​ ​front​ ​end​ ​code.
+content	experience	● Unit test the code, change and verify the browser compatibility and
+content	experience	responsiveness.
+header	others	​ ​​ ​Personal​ ​Data
+meta	others	Name Vignesh​ ​R
+meta	others	Date​ ​of​ ​Birth 06/11/1992
+meta	others	Sex Male
+meta	others	Father’s​ ​Name K.Ramachandran
+meta	others	Marital​ ​Status Single
+meta	others	Nationality Indian
+meta	others	Passport​ ​No N9869875
+content	knowledge	Languages​ ​Known English,​ ​Tamil
+meta	others	Address 113,​ ​Viralimalai​ ​main​ ​road,​ ​T/alai​ ​Post,​ ​Manaparai,​ ​Trichy.
+meta	others	I​ ​hereby​ ​declare​ ​that​ ​all​ ​the​ ​above​ ​details​ ​are​ ​true​ ​to​ ​the​ ​best​ ​of​ ​my​ ​knowledge​ ​and​ ​I​ ​bear​ ​the
+meta	otherse	responsibility​ ​for​ ​the​ ​correctness​ ​of​ ​those​ ​particulars.
+meta	others	Place: Chennai ​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​​ ​(Vignesh​ ​R)

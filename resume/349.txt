@@ -1,0 +1,36 @@
+header	others	CURRICULUM VITAE
+header	others	CURRICULUM VITAE
+meta	others	SOMNATH MUKHERJEE
+meta	others	20/1, Rabindra Path, Birati, Kolkata, 700051,
+meta	others	E-Mail: som.mukh.85@gmail.com
+meta	others	Mob: 7044091857/8902175779
+meta	others	Date of Birth: 18th March, 1985
+header	others	CAREER OBJECTIVE:
+content	others	Comprehensive learner with utmost implementation skill supported by basic knowledge in Electronics & Telecommunication Engineering. Experience of more than 4 years in Networking &Telecom with the executed work of
+content	experience	· Experiences in MICROWAVE installation and configuration IDU for CERAGON IP20 C.
+content	experience	· Managing the installation, commissioning, configuration and maintenance of a wide range of telecom equipments.
+content	experience	· Ensuring smooth operations and maintenance of the communication networks for providing operational support to communication clients.
+content	experience	· Installation, Commissioning & Alignment of Microwave Antennas for both 1+0 & 1+1 IDU’s (0.3m, 0.6m, 1.2m, 1.8m) for HUAWEI(OPTIX RTN 620) Equipment.
+content	experience	· Well experienced in use of Site Master to check V.S.W.R. & Power Meter Reading for Acceptance Test.
+content	experience	· Experienced for MW LOS Survey, RFI Survey & EMF Survey.
+header	experience	WORK EXPERIENCE:
+content	experience	· Continental Electric as a Trainee Project Engineer from
+content	experience	(1st November, 2011 to 30th June, 2013)
+content	experience	· Kohinoor Power (P) Ltd as Network Engineer(1st April 2014 to to July 2014)
+content	experience	· CERAGON NETWORKS INDIA PVT. LTD as microwave Field Engineer in RJIL 4G project (6th October, 2014 to 7th November, 2015).
+content	experience	· STRATIGIC MANPOWER SOLUTION LIMITED. as Deployment Engineer in RJIL 4G project.(9th November,2015 to till date).
+header	knowledge	TECHNICAL KNOWLEDGE:
+content	knowledge	· Telecom - Installation of HUAWEI indoor 3900 & outdoor 3900A BTS. Alignment of 0.3, 0.6, 0.9, 1.2 mw antenna. Installation of GSM antenna. EMF survey for the new site installation & LOS for microwave link.
+content	knowledge	· Perspective integration of MW process in GIS / NE instantiation in GIS, MW NBSO compliance , data compliance correctness , completeness and consistency, Ensuring MW equipment’s uptime and MW network operation KPIs.
+header	others	ACHIEVEMENTS:
+content	others	· Microsoft Certified IT Professional (MCITP) Certification No. : D453-4966
+content	others	· Completed CCNA (Cisco Certified Network Associate) course.
+header	education	ACADEMIC QUALIFICATION:
+content	education	· B.Tech (Electronics & Communication Engineering) with 70.30% from JIS College of Engineering under WBUT in 2011
+content	education	· Diploma (Electronics & Telecommunication Engineering) from Ramakrishna Mission Silpapitha, Belgharia with 73.5% under W.B.S.C.T.E in 2008
+content	education	· Higher Secondary Examination from Birati High School under W.B.C.H.S.E with 48 % in 2006.
+content	education	· Secondary Examination from Birati High School under W.B.B.B.S.E with 67% in 2001.
+meta	others	Date :
+meta	others	17.12.2018
+meta	others	Place : Kolkata
+meta	others	( SOMNATH MUKHERJEE )

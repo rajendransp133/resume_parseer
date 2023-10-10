@@ -1,0 +1,27 @@
+meta	others	Smq 90/2 airforce station Gurgaon
+meta	others	shona road
+meta	others	Gurgaon
+meta	others	122001
+meta	others	arjunj443@gmail.com
+meta	others	7042523844
+meta	others	J.Arjun
+meta	others	persuing B.C.A
+content	others	i have hound leadership qualities throughout my school days.
+content	others	iam hardworking because i can develop interest in anything that is thrown
+content	others	at me.
+content	others	iam a very reliable person.
+header	education	Education 10
+content	education	kendriya vidyalaya no.2 Delhi cantt
+content	education	2013 - 2014
+content	education	12
+content	education	kendriya vidyalaya No.2 delhi cantt
+content	education	2015 - 2016
+content	education	B.C.A(persuing)
+content	education	Amity University Gurgaon
+content	education	2016 - 2019
+content	others	trianee management Project made from front-end and back-end using html,css,php, JavaScript
+content	others	etc.
+content	others	employee
+content	others	recruitment
+content	others	Project focus on java and graphical user interface.
+content	education	12

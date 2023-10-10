@@ -1,0 +1,45 @@
+meta	others	AKSHAY R SHAH
+meta	others	E-mail:shahakshay31@yahoo.in (M)8905176623
+meta	others	ADDRESS
+meta	others	Residential Address:
+meta	others	C-1002 Hirabhai Tower,
+meta	others	Uttamnagar Garden,
+meta	others	Maninagar Ahmedabad -08
+header	others	OBJECTIVE
+content	others	To enjoy the work I do and make the best result of it by my skills. To utilize the resources available
+content	others	with me at maximum level. To maintain a good relation with all the people surrounding with me.
+header	education	ACADEMIC QUALIFICATION
+content	education	Examination
+content	education	Board
+content	education	Month/Year
+content	education	% Marks
+content	education	S.S.C (X) G.S.E.B 2010 72
+content	education	H.S.C(XII) G.S.E.B
+content	education	2012
+content	education	75
+content	education	B.COM Gujarat University
+content	education	2015
+content	education	69
+content	education	M.COM Gujarat University
+content	education	2017
+content	education	45
+header	experience	WORK EXPERINCE
+content	experience	 I have 2 years of work experience at MOTIF INDIA INFOTECH PVT. LTD
+content	experience	(Including 11 months experience as Team Leader) – (May 2015 TO June 2017)
+content	experience	 Presently I am working with Travel Designer Group since June 2017 as Contract Supportive
+content	experience	Executive.
+header	knowledge	COMPUTER SKILLS
+content	knowledge	 Ms-Office
+content	knowledge	 Internet
+header	others	PERSONAL DETAILS
+meta	others	Marital Status  Unmarried
+meta	others	Father’s Name  Rajesh Kumar H Shah
+meta	others	Nationality  Indian
+meta	knowledge	Languages Known  English, Hindi & Gujarati
+meta	others	Strength  Honesty, Hardworking, Positive attitude
+meta	others	Hobbies  Music, Gaming, Travelling
+meta	others	AKSHAY R SHAH
+meta	others	2010
+meta	others	S.S.C (X)
+header	experience	WORK EXPERINCE
+header	others	PERSONAL DETAILS

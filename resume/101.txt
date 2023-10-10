@@ -1,0 +1,122 @@
+header	others	RESUME
+meta	others	Pushpa Perumal Mob No: 9514181372
+meta	others	Email Id: Pushpa7924.pp@gmail.com
+header	others	OBJECTIVE:
+content	others	Seeking job opportunity to pursue my dream of working in a challenging environment to apply my skills, creativity and innovativeness which will help me to achieve my goal.
+header	education	EDUCATIONAL QUALIFICATION:
+header	education	Qualification
+content	education	Year Of Passing
+content	education	Institution
+content	education	University / board
+content	education	Marks (aggregate)
+content	education	SSLC
+content	education	2007
+content	education	Kendriya Vidyalaya
+content	education	Anna Nagar
+content	education	CBSE
+content	education	83.8
+content	education	12th
+content	education	2009
+content	education	Meenakshi Matriculation Hr. Sec. School
+content	education	State Board
+content	education	78.75
+content	education	UG – B.Sc (C.
+content	education	2012
+content	education	Queen Mary’s College (Autonomous)
+content	education	Madras University
+content	education	83.5
+header	knowledge	KEY COMPETENCIES:
+content	knowledge	· Good negotiating skills
+content	knowledge	· Good interpersonal skills
+content	knowledge	· Good communication skills
+content	knowledge	· Good exposure to Computer Applications
+content	knowledge	· Ability to learn new ideas
+header	knowledge	TECHNICAL SKILLS
+header	knowledge	· Development Language
+content	knowledge	: Core Java, JavaScript
+content	knowledge	· Database
+content	knowledge	: MS SQL server 2008, IBM Informix
+content	knowledge	· Markup Languages
+content	knowledge	: HTML
+content	knowledge	· Additional Tools
+content	knowledge	: MS SharePoint
+content	knowledge	· Domain Knowledge
+content	knowledge	: Retail
+content	knowledge	· OS
+content	knowledge	: Unix – Shell script and 4GL
+content	knowledge	· Other Skills
+content	knowledge	: Adobe Photo Shop
+header	experience	WORK EXPERIENCE:
+content	experience	Name of the Company
+content	experience	Infosys Technologies
+content	experience	Nature of Business
+content	experience	IT
+header	project	Project
+content	experience	Walmart Retail
+content	experience	Designation
+content	experience	System Engineer – Support Project
+content	experience	Duration
+content	experience	From Aug-2012 to Apr-2017
+header	experience	Job Responsibilities
+content	experience	· Involved in analysing the client requirements.
+content	experience	· Involved in developing the enhancements application with Java, J2EE.
+content	experience	· Involved in developing the business logic.
+content	experience	· Involved in developing User Interface.
+content	experience	· Involved in Monitoring all claims stored and processed correctly.
+content	experience	· Maintaining user access level to reports via application.
+content	experience	· Standard Reports
+content	experience	· Incident acknowledgement and escalating to concerned team source.
+content	experience	· Escalation if any issues, logging and tracking them to closure
+content	experience	· Incident Management.
+content	experience	· Supporting Major application of Walmart.
+content	experience	· 24/7 Support provided for the applications handled.
+content	experience	Additional Tools Learnt
+content	experience	· Remedy
+content	experience	· Autonomy Process Automation (HP)
+content	experience	· Message Queue
+content	experience	Name of the Company
+content	experience	Vetri Software India Pvt. Ltd. (HOV SERVICES)
+content	experience	Nature of Business
+content	experience	Coding and Auditing of the Healthcare forms. Usually HCFA and UB.
+content	experience	Designation
+content	experience	Processor – Quality Audit
+content	experience	Duration
+content	experience	From 31 March 2009 To 22-Jan-2011.
+header	experience	Job Profile & Responsibilities
+content	experience	· Processes customer health source documents by reviewing data for deficiencies; resolving discrepancies by using standard procedures or returning incomplete documents to the team leader for resolution.
+content	experience	· Maintains data entry requirements by following data program techniques and procedures.
+content	experience	· Verifies entered data by reviewing, correcting, deleting, or reentering data, combining data from both systems when account information is incomplete. Purging files to eliminate duplication.
+header	knowledge	STRENGTHS:
+content	knowledge	· Excellent Problem-Solving Skills.
+content	knowledge	· Hard Worker.
+content	knowledge	· Flexible.
+content	knowledge	· Good Team Player.
+content	knowledge	· Good Leadership Skills.
+content	knowledge	· Good Communication and Interpersonal Skills.
+header	others	PERSONAL DETAILS:
+meta	others	Father’s Name : V. Perumal
+meta	others	Date of Birth : 07 Dec 1990.
+meta	others	Marital Status : Single.
+meta	others	Nationality : Indian.
+meta	others	Residential Address : No:65, 2nd Street,
+meta	others	Collector Nagar,
+meta	others	Anna nagar west Extn,
+meta	others	Chennai – 600 101.
+meta	others	Language
+meta	others	Read
+meta	others	Write
+meta	others	Speak
+meta	others	English
+meta	others	·
+meta	others	·
+meta	others	·
+meta	others	Tamil
+meta	others	·
+meta	others	·
+meta	others	·
+meta	others	Hindi
+meta	others	·
+meta	others	·
+meta	others	·
+meta	others	I hereby declare that the details furnished above by me are true to the best of my knowledge and belief.
+meta	others	P.Pushpa

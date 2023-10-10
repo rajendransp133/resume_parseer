@@ -1,0 +1,72 @@
+meta	others	Seenu Sah.K
+meta	others	7/352 Pillayar Kovil street,Gandhi nagar,
+meta	others	Medavakkam,
+meta	others	Chennai – 600 100
+meta	others	Email:Seenu20sah@gmail.com
+meta	others	Mobile: +91-7200697082.
+header	others	Objective:
+content	others	To achieve a challenging position in the field, with my skills and abilities and to attain professional growth that would give an opportunity to bring out the best in me.
+header	education	Education Qualification:
+content	education	Courses
+content	education	Institution
+content	education	Percentage%
+content	education	Year of Passing
+content	education	B.COM
+content	education	Sri Sankara Arts and Science College, Enathur-Kancheepuram
+content	education	64.5%
+content	education	2015
+content	education	HSC
+content	education	Dr. P. S. Srinivasa Higher Secondary School, Kancheepuram
+content	education	53.58%
+content	education	2012
+content	education	SSLC
+content	education	Dr. P. S. Srinivasa Higher Secondary School, Kancheepuram
+content	education	44.8%
+content	education	2010
+header	experience	Professional Experience:
+content	experience	Two years experience in Business Processing Outsourcing (Telecom).
+content	experience	Apr16-Feb17 – Contract period (Magna Infotech),
+content	experience	Feb17-Jul18– Accenture private limited.
+content	experience	Organization
+content	experience	Designation
+content	experience	Duration
+content	experience	Accenture
+content	experience	Billing Analyst
+content	experience	Apr 2016 – Jul18
+header	experience	Billing Analyst Responsibilities:
+content	experience	· Ensure SLAs are met without fail.
+content	experience	· Taking care of day to day deliverables for the team
+content	experience	· Identifying and resolving process issues.
+content	experience	· Send error free invoices to customer.
+content	experience	· Contributing ideas related to the process.
+content	experience	· Ensure queries are resolved within the timeline.
+content	experience	· Sharing best Practices in the team.
+content	experience	· Presentation taken on the process.
+content	experience	· Responsible for conducting daily audits on billing activities to ensure quality control and eliminate revenue loss.
+content	experience	· Ability to develop and maintain an effective relationship with client and Customer. This role significantly impacts the meeting of the overall billing objectives for quality and timeliness
+content	experience	· Should have active participation in business and team meetings
+content	experience	· Processing EB tickets and orders on a daily basis.
+content	experience	· Invoice dispatching activity for every month.
+content	experience	· Manual tasks have been performed on monthly basis.
+content	experience	· Escalation and critical situations around the process were handled.
+content	experience	· Communicating with clients over call and resolving billing queries and disputes and getting sign off for identified
+content	experience	· Quality Check
+header	knowledge	Skill set:
+content	knowledge	· Operating System : Windows 9x/2000/XP, Vista, Windows 7
+content	knowledge	· Package : MsOffice (Excel, Word & Powerpoint)
+header	others	Achievements
+content	others	· Got Monthly award for my best performance.
+content	others	· Participated in the deal competition for Badminton events and also in deal events.
+content	others	Co-curricular Activities
+content	others	· Participated in fashion show and as well in all entertainment events in my organization.
+content	others	· Getting the access for the New Joiners for the client tools and as well for Organization like share drive access, Domain, ETC and also helping them in configuring them in their system.
+content	others	· I had lead a badminton team in behalf of my project.
+content	others	· Organized Mime and Fashion show for our 10th year celebration in front of our client and got recognized for that.
+header	others	Personal Details:
+meta	others	Father Name : Kumar Sah
+meta	others	Date of Birth : 17-04-1995
+meta	others	Gender : Male
+meta	knowledge	Languages Known : English, Tamil, Shavrashtra
+meta	others	Nationality : Indian
+meta	others	Place: Chennai
+meta	others	Date: (Seenu Sah K)

@@ -1,0 +1,151 @@
+meta	others	APPALANAIDU POTHALA
+meta	others	Mobile : +91-9291498840,7337043322 Email : kashi.appalanaidu@gmail .com
+header	others	CAREER OBJECTIVE :
+header	others	An energetic, self motivated, hard working Human Resource with an experience of 7+ years. A
+content	others	keen analyst with exceptional relationship skills and abilities in liaising with people and deft in
+content	others	managing day-to-day operations. Possess abilities to cement healthy professional relationships
+content	others	with clients for generating and expanding business leading towards accomplishing business and
+content	others	corporate goals.
+header	experience	CAREER GRAPH:
+content	experience	Name of the organization Designation Period
+content	experience	Dr Reddys Laboratories Limited Asst Manager
+content	experience	HR&Adm
+content	experience	Oct’2018 to till
+content	experience	MSN Laboratories Limited Senior Executive –
+content	experience	HR&Adm
+content	experience	April 2018 to Oct’2018
+content	experience	Mylan Laboratories Limited Senior Asst - HR
+content	experience	&Adm
+content	experience	Jan -2015 to 02nd April 2018
+content	experience	Ramoji Group – UKML Executive – HR &
+content	experience	Adm
+content	experience	Jan-2012 to Jan-2015
+content	experience	IVRCL Limited HR
+content	experience	Project Coordinator
+content	experience	1 Year
+content	experience	Responsibilities:
+content	experience	Recruitment: -
+content	experience	 Sourcing right candidates as per requirement, through different sources, like
+content	experience	job portals-Naukri, references.
+content	experience	 Recruiting candidates for the positions of Junior level, Middle level and Senior
+content	experience	level candidates.
+content	experience	 Job posting, Advertising vacancies & searching for potential candidates.
+content	experience	 Telephonic screening of applicants to assess Technical competence, Credentials.
+content	experience	 Maintain complete Recruitment Database including inflow by augmenting
+content	experience	relevant resumes on a periodic basis through various sources.
+content	experience	 Organizing various levels of technical interviews and coordinating with technical
+content	experience	panel on candidate assessment & taking care of salary negotiation, finalization
+content	experience	of offer, updating candidate details in HRMS and offer roll out.
+content	experience	 Developing Sourcing Strategy/ Plan for various requirements.
+content	experience	 Evaluate the profiles, shortlist and submission of right fit profiles to
+content	experience	management.
+content	experience	 Help the Team Manager in developing candidate database.
+content	experience	 Preparation and submission of MIS reports.
+content	experience	 Issuing offer letters and salary stackup to the shortlisted candidates
+content	experience	 Generating recruitment for approval
+content	experience	 After offering the candidate follow-up them for Pre - Employment Medical check
+content	experience	up & date of joining and holding their interest.
+content	experience	 Conducted walk-in interviews for various departments.
+content	experience	 Handling end to end activities of Outsourcing recruitment.
+content	experience	 Issuing Appointment letter to the new recruit employee
+content	experience	 Handling documentation at the time of joining formalities.
+content	experience	 Giving employee code, all things necessary to employee
+content	experience	 Preparing all documentation part during joining & to complete all formalities
+content	experience	with employee.
+content	experience	Time Office /Payroll: -
+content	experience	 Executed monthly payroll analysis before closing the payroll of the month
+content	experience	through the SAP (Enduser)
+content	experience	 Employee attendance, leaves, shift, overtime, and calculating working hours,
+content	experience	public holidays, and handling overall payroll grievances at the plant level.
+content	experience	 Updating of attendance and leaves data verification for the payroll processing.
+content	experience	 Ensure reimbursement of the allowances and benefits to the employees as per
+content	experience	the company policies.
+content	experience	 Preparing the Bank statements and deposit in Bank.
+content	experience	 Track and maintain monthly active and ex-employees’ strength.
+content	experience	 Resolve and clarify payroll queries received through Mail, Phone and through
+content	experience	Personal Interaction.
+content	experience	 Verification of the Monthly LOP’S and inform to the concerned HOD’s Through
+content	experience	the mail.
+content	experience	 Coordination with Corporate Payroll Team for the payroll process.
+content	experience	 Weekly once given the mails to the all employees regarding the updating of
+content	experience	attendance.
+content	experience	 Maintain the track of Over Time
+content	experience	 Making F&F Settlements of the left Employees for Every month.
+content	experience	MIS Reports:-
+content	experience	 Record and maintenance of resignations, transfers.
+content	experience	 Tracking of Offer letter , Transfer Letters
+content	experience	 Preparation of Monthly HR Reports.
+content	experience	Performance Appraisal :-
+content	experience	 Follow up and coordination with the HODS for appraisals and approval by
+content	experience	respective Reporting officers before the closing date and finalization of the
+content	experience	performance ratings
+content	experience	Employee Engagement :-
+content	experience	 Every Day sending birthday and congratulatory emails to the employees when
+content	experience	part of the employee relations.
+content	experience	 Conduct games Quarterly for refreshment
+content	experience	ESIC: -
+content	experience	 Submission of employee details in ESI portal and generating IP numbers.
+content	experience	 Generate monthly Esic Challan.
+content	experience	 Adding of family names in ESIC
+content	experience	 Cross checking of ESIC IP’S with corporate Data
+content	experience	 Issue the form -37
+content	experience	 Monthly submission of returns
+content	experience	 Submission of ESI Half Yearly returns at Local ESI office.
+content	experience	Contract Labour :-
+content	experience	 Ensuring full fill all the statutory Compliances as per the CL Act.
+content	experience	 Monitoring the Renewal of Labour Licence.
+content	experience	 Contract labour Time office Management
+content	experience	 Regular checking of Contract labour Man Moment at security gate vs Soft ware.
+content	experience	 Coordination with the dept heads for the labour as per the production
+content	experience	requirements.
+content	experience	 Monthly Contract Bills
+content	experience	Welfare Activities: -
+content	experience	 Maintained constant follow up with Canteen Contractors for supply of good
+content	experience	quality and hygienic food at plant and also ensured availability of food for all
+content	experience	employees including contract labour.
+content	experience	 Coordinating the canteen meeting every quarterly with all canteen members
+content	experience	 Prepare the minutes of meeting in canteen meeting and informed to vendor for
+content	experience	supply hygiene food.
+content	experience	 Prepare the menu and display in canteen notice board once in a week.
+content	experience	 Scheduled timings for checking of canteen kitchen.
+content	experience	 Prepare and checking of monthly Canteen bills.
+content	experience	Statutory Compliance
+content	experience	 PF Withdrawals, Transfer (Internal & External)
+content	experience	 Submission Of ER-I & ER-II Quarterly returns in a Local Employment Exchange office
+content	experience	 Submission of Form-III Annual Returns under Minimum wages Act.
+content	experience	 Submission of Bonus Returns under bonus Act 1965
+content	experience	 Maintain form -XII , XI under factories Act 1948.
+content	experience	 ESIC
+content	experience	 PT
+content	experience	 FORM F
+content	experience	 Annual &Half yearly Returns Under Factories Act 1948.
+header	others	PERSONAL DETAILS:
+meta	others	Permanent Address
+meta	others	S R Peta (P.O) , Kotananduru (M.D) , Tuni , East Godavari (Dist)
+meta	others	Present Address Jadcherla (V&MD) , Mahbubnagar (Dist), Telangana
+meta	others	Father’s Name Nooka Raju
+meta	others	Marital Status Single
+meta	others	DOB
+meta	others	Nationality
+meta	others	06.12.1987
+meta	others	Indian
+content	knowledge	Languages Known English, Telugu, Hindi
+meta	others	Hobbies
+meta	others	Keywords
+meta	others	Contact No
+meta	others	Email ID
+meta	others	Listening to Music & Playing Cricket
+meta	others	HR Generalist, Payroll Executive
+meta	others	9291498840 , 7337043322
+meta	others	Kashi.appalanaidu@gmail.com
+header	others	DECLARATION:
+meta	others	I hereby declare that the information furnished above is true to the best of my knowledge.
+meta	others	Date: (P APPALANAIDU )
+header	knowledge	Computer Skills:
+content	knowledge	 Packages MS-Office
+header	education	Educational Credentials :-
+content	education	 MHRM from AGL College Andhra University with 80% -2010
+content	education	 B.A From Govt Degree College – Tuni with 61% -2008
+content	education	 Intermediate from Govt Junior College with 69% -2005
+content	education	 SSC from Z P H School with 65% -2003
+content	education	 LLB From M R College – Andhra University with 55%- 2015

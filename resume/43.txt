@@ -1,0 +1,66 @@
+meta	others	IYYAPPAN J
+meta	others	#28/47 Amul Nagar,
+meta	others	Selvapuram,
+meta	others	Coimbatore � 641 026.
+meta	others	Mobile: +91 78456 47558
+content	others	Email: iyyappanj48@gmail.com
+header	others	CAREER OBJECTIVE
+meta	others	Seeking a challenging and rewarding opportunity with an organization of repute which recognizes my true potential and effectively utilizes/nurtures my excellent analytical and technical skills in IT sector.
+header	experience	PROFESSIONAL EXPERIENCE
+content	experience	Organization
+content	experience	: CSS Corp, Chennai.
+content	experience	Designation
+content	experience	: Technical support engineer
+content	experience	Duration
+content	experience	: August 2017 - Present
+content	experience	CSS Corp is a new age IT Services and Technology Support company that harnesses the power of digital and cloud to address customer needs.
+content	experience	Roles and Responsibilities
+content	experience	· Provided base level IT support to non-technical personnel within the business.
+content	experience	· Managed call flow and responded to technical support needs of customers.
+content	experience	· Installed software, modified and repaired hardware and resolved technical issues.
+content	experience	· Identified and solved technical issues with a variety of diagnostic tools.
+content	experience	· Resolved problems with malfunctioning products.
+content	experience	· Remained up-to-date on the latest technologies and solutions applicable to company products.
+content	experience	· Resolved customer issues in a clear, courteous and straightforward manner.
+content	experience	· Troubleshoot and maintained all networking devices and infrastructure across the enterprise including switches, routers and firewalls.
+header	others	Highlights
+content	others	· Learned the networking concepts within a short span of time and got adapted to the environment.
+content	others	· Maintaing Csat score more than 90% till date.
+content	others	· Completed CCNA Course
+content	others	Project Details
+content	others	Working on networking devices like routers, range extenders and USB adapters.
+header	knowledge	SKILL SET
+content	knowledge	IT: Networking � IP configuration, DNS, Troubleshooting, Advanced Networking.
+content	knowledge	Soft Skills: Quick learning, Adaptability, Customer service.
+header	education	ACADEMIC PROFILE
+content	education	B.E Electronics and Communication Engineering
+content	education	- April 2017
+content	education	Rathinam Technical Campus, Coimbatore
+content	education	CGPA: 6.48/10
+content	education	Higher Secondary (XII)
+content	education	- March 2013
+content	education	Perks M.H.S.S, Coimbatore
+content	education	Percentage: 76
+content	education	S.S.L.C (X)
+content	education	- March 2011
+content	education	Milton Matriculation School, Coimbatore
+content	education	Percentage: 90
+header	others	PERSONAL PROFILE
+header	others	Father
+meta	others	:Jaykumar N
+header	others	Date of Birth
+meta	others	:07-Jul-1996
+header	others	Nationality
+meta	others	:Indian
+header	others	Languages Known (Speak & Write)
+meta	others	:English and Tamil
+header	others	Permanent Address
+meta	others	: #28/47, Amul Nagar, Selvapuram, Coimbatore -641 026.
+header	others	Current Address
+meta	others	: #2/5, Gautham Men’s Hostel, Room No : 403, Vanilai Arasu Street, West Tambaram, Chennai - 600 045.
+header	others	DECLARATION
+meta	others	I hereby declare that the above written particulars are true to the best of my knowledge and belief.
+meta	others	Place: Chennai
+meta	others	yours sincerely,
+header	others	Date:
+meta	others	(J. Iyyappan)

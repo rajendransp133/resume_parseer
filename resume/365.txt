@@ -1,0 +1,90 @@
+header	others	RESUME
+meta	others	A. ANBU
+meta	others	Mobile: 9894192320, 7708330190
+meta	others	E-mail:- anbualagar@gmail.com
+header	others	OBJECTIVE
+header	others	To have a challenging career, interested in working under any circumstances and willing to learn new skills and grow with the company.
+header	experience	WORK EXPERIENCE
+content	experience	Kaleeswari Refinery Private Ltd
+content	experience	Mambakkam
+content	experience	February 2010 to till date
+content	experience	Approximately 2000 employees are working in the company with operations in chennai, Palani etc. Kaleeswari groups has consistently involved in the production of various products like branded Gold winner refined sunflower oil, Deepam lamp oil and other cosmetic products for more than 12 years.
+content	experience	Job Profile: Working as a R&D assistant in preparing personal care products and involved in Quality control.
+content	experience	· I prepare cosmetic products by processing various chemicals along with herbals and check there stability according to the formulations to arrive at the required solutions.
+content	experience	· Involved in various other activities of preserving the products according to there nature.
+content	experience	· I analyze the quality of the oil products by calculating USP, IV values and check the quantity as well, before being marketed.
+header	education	EDUCATIONAL QUALIFICATION
+content	education	Exam
+content	education	School / college
+content	education	Board / university
+content	education	Year of Passing
+content	education	Percentage (%)
+content	education	M.sc
+content	education	(Chemistry)
+content	education	K.N.G.Arts & Science College
+content	education	Tanjore
+content	education	Bharathidasan
+content	education	University
+content	education	2007-2009
+content	education	80
+content	education	B.sc
+content	education	(Chemistry)
+content	education	K.N.G.Arts & Science College
+content	education	Tanjore
+content	education	Bharathidasan
+content	education	University
+content	education	2004-2007
+content	education	80
+content	education	H.S.C
+content	education	A.A.S.S.G.Higher
+content	education	Secondary School.
+content	education	Madurai
+content	education	State Board
+content	education	2003-2004
+content	education	79.5
+content	education	S.S.L.C
+content	education	A.A.S.S.G.Higher
+content	education	Secondary School.
+content	education	Madurai
+content	education	State Board
+content	education	2001-2002
+content	education	89.4
+header	project	ACADEMIC PROJECT WORK:
+content	experience	Topic: SYNTHESIS AND CHARACTERISATION OF ABO3 (A=La,B=Ru,Ag,Cr) TYPE MATERIALS FOR METHANOL\BOROHYDRIDE OXIDATION
+content	experience	Place: ELECTRO CHEMICAL POWER SYSTEM DIVISION,
+content	experience	CENTRAL ELECTRO CHEMICAL RESEARCH INSTITUTE (CECRI),
+content	experience	KARAIKUDI
+header	others	SEMINARS ATTENDED
+content	others	· State Level Seminar in Green Chemistry, A.V.V.M Pushpam College, Tanjore.
+content	others	· One day Seminar in K.N.G. Arts & Science College ,Tanjore
+header	knowledge	COMPUTER SKILLS
+content	knowledge	· C, DCA
+content	knowledge	· MS OFFICE
+header	others	PERSONAL DETAILS
+meta	others	Name
+meta	others	:
+meta	others	A.ANBU
+meta	others	Husband’s Name
+meta	others	:
+meta	others	L.Bharanidharan
+meta	others	Date of Birth
+meta	others	:
+meta	others	10-05-1987
+meta	others	Permanent Address
+meta	others	:
+meta	others	No: 1/240A first floor,
+meta	others	Pillayaar koil 3rd cross street,
+meta	others	Medavakkam, chennai-600 100
+meta	others	Nationality
+meta	others	:
+meta	others	Indian
+header	knowledge	Languages Known
+meta	others	:
+meta	knowledge	English & Tamil.
+meta	others	Contact No
+meta	others	:
+meta	others	7708330190
+meta	others	I hereby declare that the details furnished above are true to the best of my knowledge and belief.
+meta	others	DECLARATION
+meta	others	Place: Chennai yours truly
+meta	others	Date:24.11.2011 A.ANBU

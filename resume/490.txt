@@ -1,0 +1,52 @@
+header	others	8/48 Bijoygarh,
+header	others	8/48 Bijoygarh,
+meta	others	P.O-Jadavpur,
+meta	others	Kolkata-700032
+meta	others	Mob: +919038877058
+meta	others	Email: roy.tulika@rocketmail.com
+content	others	TULIKA ROY
+meta	others	______________________________________________________________________________
+header	others	OBJECTIVES:
+content	others	· To work for an organization that will provide me a defined career path utilizing my full potential in the respective fields
+meta	others	______________________________________________________________________________
+header	project	TRAINING& PROJECT:
+content	project	· Successfully accomplished projects on the following under IGRS(Institute Of Geoinformatics And Remote Sensing).
+content	project	· Attribution and validation of the best access streets to address points for development of road network of the area.
+content	project	· Georeferencing of large number of unrectified images to rectified background image.
+content	project	· Signalling of tree,building,waterbody and road. ______________________________________________________________________________
+header	education	EDUCATION:
+content	education	· SECONDARY EXAMINATION (2005)
+content	education	WBBSE, West Bengal, India.
+content	education	Marks: 59.50%
+content	education	· HIGHER SECONDARY EXAMINATION (2008)
+content	education	WBCHSE, West Bengal, India.
+content	education	Marks: 70.20%
+content	education	· BACHELOR OF SCIENCE-GEOGRAPHY (2007-2010)
+content	education	CALCUTTA UNIVERSITY, West Bengal,India.
+content	education	Marks: 42%
+content	education	· POST GRADUATE CERTIFICATE IN GIS (GEOGRAPHIC INFORMATION SYSTEM) & REMOTE SENSING (2011)
+content	education	IGRS (INSTITUTE OF GEOINFORMATICS & REMOTE SENSING) , Kolkata, West Bengal.
+content	education	Marks:60.33%
+header	knowledge	· COMPUTER KNOWLEDGE & SKILLS:
+content	knowledge	· Knowledge of using Microsoft Office tools and Internet.
+content	knowledge	· Knowledge in software languages like C,SQL.
+content	knowledge	· Designing & mapping softwares like Arcgis,MapInfo & Erdas Imagine.
+content	knowledge	· EXTRACURRICULAR ACTIVITIES:
+content	knowledge	· Diploma in ARTS(Painting) under Rabindra Bharathi University.
+content	knowledge	· Learned Creative Dance from “Indrani Dutta-Kalaniketan”.
+content	knowledge	· Actively participated in various cultural fests at my school.
+header	knowledge	· PERSONAL STRENGTHS:
+content	knowledge	· Extrovert,positive thinking and firm determination.
+content	knowledge	· Hardworking,versatile and confident.
+content	knowledge	· Willingness to learn and explore new technologies.
+header	others	· PERSONAL DETAILS:
+meta	others	· Date of Birth: 28th December, 1989 (Age: 22)
+meta	others	· Gender: Female
+meta	others	· Proficient in languages : English, Hindi, Bengali
+meta	others	· Work Experience:As an intern from (14.3.2011-30.7.2011) and as faculty from(1.11.2011-19.12.2011) of GIS department at “STESALIT INFOTECH LTD,Kolkata”.
+meta	others	· Other interests: Reading Magazines,listening to music,dancing,social networking,interacting with people.
+header	others	DECLARATION:
+content	others	I hereby declare that the above information is true to best of my knowledge and belief.
+header	others	Date:
+meta	others	Place: Kolkata , West Bengal
+meta	others	(Signature)

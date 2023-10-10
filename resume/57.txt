@@ -1,0 +1,48 @@
+header	others	Curriculum Vitae
+header	others	PRATIKSHA PRAMOD POKHARKR
+meta	others	E-mail:- pratikshagawade1994@gmail.com
+meta	others	Contact: - 7756815438 / 8698945676
+meta	others	Personal Synopsis:-
+content	others	Motivated self starter with accounting qualification seeking position with accounting
+content	others	company leader and to obtain professional heights through skills and
+header	knowledge	Core knowledge
+header	experience	Experience:-
+content	experience	Worked in Just Dial Ltd. position as Account Executive.
+content	experience	Duration: 7th June 2016 to 31st Dec 2017
+header	knowledge	Key Skills:-
+content	knowledge	 Accounting Management
+content	knowledge	 Accounting Team Leadership
+content	knowledge	 Accounts receivables management
+content	knowledge	 Managing billings and collections
+content	knowledge	 Maintain Balance sheet
+content	knowledge	 Preparing Financial Status Reports
+header	education	Education Details:-
+content	education	 B.Com from Pune University with 55%
+content	education	 12th from Pune University with 57%
+content	education	 10th from Pune University with 59%
+content	education	Courses:-
+content	education	 Tally.
+content	education	 I.B.T. Certificats Cours
+content	education	 MS-CIT,
+header	knowledge	Languages:-
+meta	knowledge	Languages Marathi Hindi English
+meta	others	Writing Yes Yes Yes
+meta	others	Speaking Yes Yes Yes
+meta	others	Reading Yes Yes Yes
+header	knowledge	Strengths:-
+meta	knowledge	 I am honest, self-motivated and hardworking girl with positive attitude towords my
+meta	knowledge	career and my life.
+header	others	Hobbies:-
+meta	others	 Reading books on Different topics and cooking
+header	others	Personal Profile:-
+meta	others	Date of Birth: - 13th June 1994
+meta	others	Genders: - Female
+meta	others	Marital Status: - Married
+meta	others	Nationality: - Indian
+meta	others	Address: - A-30, Hanuman colony 01 Hutatma Chowk, Bhosari Pune-411039
+header	others	Declaration:-
+meta	others	I hereby declare that all information given above is true.
+header	others	Date:-
+header	others	Place:-
+meta	others	Yours Faithfully
+meta	others	(Pratiksha Pramod Pokharkar)

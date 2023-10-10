@@ -1,0 +1,95 @@
+meta	others	G. GOWTHAM
+meta	others	3, Mullai Nagar,
+meta	others	Koothapakkam,
+meta	others	Cuddalore – 607002.
+meta	others	E-Mail: architectgowtham@gmail.com
+meta	others	Mobile: +91-8940657958
+header	others	Objective
+content	others	To acquire a position that affords me the opportunity to bring my technical experience,
+content	others	problem solving skill, creative knowledge and willingness to learn to make an Organization
+content	others	successful.
+header	experience	Working Experience
+content	experience	 From August 2016 to till date - Working in Wipro limited as an officer in on-boarding
+content	experience	process (Carillion UK HRO & Payroll), Chennai.
+content	experience	 From December 2014 to January 2016, - Worked as Customer Support Associative (CSA)
+content	experience	in HDFC Bank Back Office Operation Department at Reliable Business Solution And
+content	experience	Services Pvt Ltd, Chennai
+content	experience	 From May 2014 to August 2014 - Worked as Customer Care Executive(CCE) in Samsung
+content	experience	(Home Appliances) Voice Process at Allsec Technologies Ltd, Chennai
+content	experience	Work Role and Responsibilities
+content	experience	ONBOARDING UK HRO & PAYROLL
+content	experience	 Overseeing on-board processing for leading UK construction and service Management
+content	experience	Company.
+content	experience	 Overseeing employee query resolutions within the agreed timelines.
+content	experience	 Creating and extending offer letter for graduate’s candidates joining Wipro UK,
+content	experience	extending offer to experienced hires.
+content	experience	 After accepting the offer by candidate sending acceptance acknowledgment email to
+content	experience	them.
+content	experience	 Pre-employment checks for graduates and experienced hire candidates.
+content	experience	 Creating employee number and hiring the candidate on oracle.
+content	experience	 Doing welcome call to candidate prior to joining date, preparing and sending welcome
+content	experience	letter.
+content	experience	 Organizing medical checks for new hires as per the requirements by clients.
+content	experience	 Arranging company car for the new and internal hires as requested in the job offer.
+content	experience	 Background verification checks for all candidates.
+content	experience	 Right to work document checks for new hires.
+content	experience	 Follow up with Line Managers for start date confirmation for new hires to on-board into
+content	experience	oracle and payroll.
+content	experience	 Handling the queries of internal and external employees.
+content	experience	 Meeting SLA, by making sure candidate has enough time to on-board.
+content	experience	 Creating and maintaining client report to submit to the client about status of candidate.
+content	experience	 Interacting with onshore recruiters about candidate via email, phone and building good
+content	experience	rapport.
+content	experience	Confirming with onshore recruiter about the oracle creation for candidate and work council like
+content	experience	line manager, training approver, career counsellor for candidate.
+header	experience	HDFC BANK BACK OFFICE CRITERIA
+content	experience	 Checking Two Wheeler Loan Eligibility For customer
+content	experience	 Checking Age Norms for Customer
+content	experience	 Checking CIBIL Match, Posidex Match and calculating BRE Score
+content	experience	 Based on KYC, checking Eligibility
+header	experience	SAMSUNG VOCIE PROCESS CRITERIA
+content	experience	 Solving the Customer Queries by Initial method as Troubleshooting
+content	experience	 Issue not solved then raising Service Request (SR),Technical service Engineer will
+content	experience	Directly go and resolve the Problem and satisfy the customer Needs
+content	experience	 Call Opening script and Call closing Script should be followed and Accountability and
+content	experience	Empathy is should be followed throughout in the call
+header	knowledge	Computer Proficiency
+content	knowledge	 MS Word, Excel, Power Point Presentation
+content	knowledge	 MS Outlook
+content	knowledge	Tools
+content	knowledge	 Citrix
+content	knowledge	 Base
+content	knowledge	 Peoplefluent
+content	knowledge	 Stellent
+content	knowledge	 Oracle
+header	knowledge	Professional skills
+content	knowledge	 Excellent Planning, Organizing and Leadership skills
+content	knowledge	 Good analytical and Problem solving skills
+content	knowledge	 Good communication and Marketing skills
+content	knowledge	 Hardworking and Adaptability
+content	knowledge	 Flexibility and Time Management
+content	knowledge	 Excellent Creativity
+header	education	Academic profile
+content	education	 Completed B.E Civil Engineering at Tagore Institute of Engineering &Technology, Attur
+content	education	(2010-2014 batch) with CGPA 79.95%
+content	education	 Completed 12th Standard (HSC)-Matriculation (2008-2010 batch) at Krishnasamy
+content	education	Memorial Matriculation Higher Secondary School, Cuddalore with 71.00%
+content	education	 Completed 10th Standard (SSLC)- Matriculation in 2008at St Joseph’s Matriculation
+content	education	Higher Secondary School, Cuddalore with 70.00%
+header	experience	Extra-curricular activities
+content	experience	 An active NSS volunteer in school level
+content	experience	 Participated in Many social service schemes and services
+content	experience	 Awarded as First prize in 100m running event & also in Foot Ball
+content	experience	 Participated and secured prizes in Dance Competitions
+content	experience	 Participated and won prizes in many drawing competitions in school level
+header	others	Personal Profile
+meta	others	Date of birth : 01-07-1992
+meta	others	Father’s Name : R. Gunasekaran
+meta	others	Nationality : Indian
+meta	knowledge	Languages Known : Tamil, English
+header	others	Declaration
+meta	others	I do hereby declare that the above written particulars are true and correct to the
+meta	others	best of my knowledge and belief.
+meta	others	(G. Gowtham)
+meta	others	Date :
+meta	others	Place :

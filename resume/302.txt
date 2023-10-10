@@ -1,0 +1,66 @@
+meta	others	Standard Resume
+meta	others	DEEPAK KUMAR
+meta	others	Email ID: deepak.kumar926@gmail.com
+meta	others	Linkedin : http://goo.gl/UMKUec
+meta	others	Mobile no : 9108482875
+header	others	PROFILE SUMMARY
+content	others	Technical Support Engineer with proven excellent product support, RHEL installations, troubleshooting and experienced in Linux , SQL/Oracle/Ingres Database, Bash scripting and statistical report analysis in an intensive app-integrated environment.
+header	education	EDUCATIONAL QUALIFICATIONS
+content	education	Qualification
+content	education	School/College
+content	education	Board/
+content	education	University
+content	education	Year of Passing
+content	education	Percentage/
+content	education	CGPA
+content	education	B.Tech (E&TC)
+content	education	KIIT University, Bhubaneswar
+content	education	KIIT University
+content	education	2015
+content	education	8.54
+content	education	12th
+content	education	A S Modern Sen. Sec. School, Khanna,PB
+content	education	CBSE
+content	education	2010
+content	education	66%
+content	education	10th
+content	education	Walia English Model High School,
+content	education	Khanna, Punjab
+content	education	PSEB
+content	education	2008
+content	education	82%
+header	experience	EXPERIENCE
+content	experience	· Currently working as a Technical Support Engineer in Mahindra Comviva from December 2015 with following roles.
+content	experience	· Monitoring the implementation and operation of defined controls and recommendations on an ongoing basis via Client team.
+content	experience	· RHEL Installation and administration of products installed under RHEL OS.
+content	experience	· Patch application up-gradation.
+content	experience	· Bash Scripting, Handling and querying with SQL, ORACLE and Ingres database.
+content	experience	· Incident management and adherence to strict SLA’s.
+content	experience	· Troubleshooting of Application and resolving issues with proper log analysis within SLA.
+content	experience	· Provide Technical, Performance and Statistical Reporting of the support systems.
+content	experience	· OAM and System Administration of all Projects assigned to team.
+content	experience	· L1/L2 level 24/7 support and work in rotational shifts.
+content	experience	· Android based Application support (MyMTN App).
+content	experience	· Skill transfer to domain members in the team & Understanding of assigned technology
+header	knowledge	TECHNICAL skills
+content	knowledge	· Basic C & C++
+content	knowledge	· SQL/ORACLE and Ingres DB
+content	knowledge	· LINUX, HA clusters.
+content	knowledge	· Shell Scripting
+content	knowledge	· Apache tomcat
+content	knowledge	· SMSGATEWAY
+content	knowledge	· Network troubleshooting
+content	knowledge	· Software Manual Testing
+content	knowledge	· Understanding of SDLC
+content	knowledge	· Wireshark
+header	others	projects AND WORKSHOPS
+content	others	· Project on “Solar Powered Water Pump System” in IIT Bhubaneswar Tech fest and was awarded first prize in January 2013.
+content	others	· Academic Project on “Design of low cost non invasive method of blood glucose level detector using an infrared sensor”.
+content	others	· Workshop on Microwave & Antenna by IEEE Antenna Propagation Society held at KIIT University.
+content	others	training
+content	others	· Industrial Training at TCIL-IT Chandigarh on Telecommunication Technology and live project on “Managing & Maintenance of GSM Network”.
+content	others	· Two weeks training and certification on DSP and Embedded System under Texas Instruments University program held at KIIT University in association with EdGate Technologies, Bangalore.
+header	others	Personal Details
+meta	knowledge	· Language Known : Hindi , English, Punjabi, Maithili
+meta	others	· Date of Birth : 13 August 1992
+meta	others	· Address : CEN-387, Ward No. 30, Uttam Nagar, Khanna, Ludhiana, Punjab -141401

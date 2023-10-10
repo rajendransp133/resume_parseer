@@ -1,0 +1,47 @@
+header	experience	WORK EXPERIENCE:
+header	education	PROFESSIONAL QUALIFICATIONS:
+header	education	EDUCATIONAL QUALIFICATIONS:
+header	education	OTHER QUALIFICATIONS:
+meta	others	Name: HEMLATA SONKAR
+meta	others	Address: UNITECH COMPUTER EDUCATION
+meta	others	Near F.C.I. Gate D.L.W. Road
+meta	others	Manduadih Varanasi.
+meta	others	Contact No.: 8354912120
+meta	others	PIN Code: 221103
+meta	others	E-mail: sonkar.hema@gmail.com
+header	others	CAREER OBJECTIVE:
+content	others	To work on a challenging job profile which provides an opportunity to enhance my
+content	others	skills and knowledge, this could provide me an insight into new aspects so that it
+content	others	would be helpful for my career.
+content	experience	Worked as Computer Teacher in “UNITECH COMPUTER EDUCATION” institute
+content	experience	from last 4 years.
+content	experience	 Pursuing M.C.A. from “Indira Gandhi National Open University (IGNOU)”
+content	experience	from 2016-till present.
+content	education	 Done B.C.A. from “Dhirendra Mahila P.G. College” affiliated to MGKVP in
+content	education	the year 2014.
+content	education	 Done XII from “GLENHILL SCHOOL” affiliated to CBSE Board in 2011.
+content	education	 Done X from “GLENHILL SCHOOL” affiliated to CBSE Board in 2009.
+content	knowledge	 .Knowledge in -
+content	knowledge	OFFICE PACKAGES, DESIGNING TEMPLATE, TALLY.
+meta	others	 CCC.
+meta	others	mailto:sonkar.hema@gmail.com
+meta	others	RESEARCH AND REPORT:
+meta	others	HOBBIES:
+header	knowledge	SKILLS:
+header	others	PERSONAL DETAILS:
+meta	others	REFERENCES:
+meta	others	 Done project on “Website Design” BCA 2011-2014.
+meta	others	 Reading
+meta	others	 Singing
+meta	others	 Painting
+header	knowledge	 Organizing Skills
+header	knowledge	 Management Skills
+meta	others	 Straight Forward
+header	knowledge	 Persuasive Skills
+meta	others	 Father’s Name : Mr. Lalman
+meta	others	 Mother’s Name : Mrs. Lalmani Devi
+meta	others	 Languages Known : Hindi and English
+meta	others	 Marital Status : Unmarried
+meta	others	To be furnished on Demand
+meta	others	Date : …….. ……. …….. Signature
+meta	others	Place: …………………….. (HEMLATA SONKAR)

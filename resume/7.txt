@@ -1,0 +1,53 @@
+meta	others	Sourav Kumar Das
+meta	others	Beleghata, Kolkata, West Bengal
+meta	others	Phone : 7998056783 Email :souravdas6439@gmail.com
+meta	others	Career Objective : To work for an organization which provides me the opportunity to Improve my skill and knowledge to growth along with the organization objective.
+header	knowledge	Key Skills : Tally ERP9.
+header	education	Educational Qualifications :
+header	education	Degree/Diploma/Certificate
+content	education	Board/University
+content	education	Course Details
+content	education	Major Areas of Study
+content	education	Grades
+content	education	Dates of Attendance
+content	education	Certificate of Undergraduate
+content	education	Himalayan
+content	education	University
+content	education	Bcom Honours
+content	education	Accounts and Finance
+meta	others	—
+meta	others	-
+meta	others	—
+meta	others	—
+meta	others	—
+content	education	THIRD
+content	education	66.6%
+content	education	2017
+content	education	SECOND
+content	education	64%
+content	education	2016
+content	education	FIRST
+content	education	62.4%
+content	education	2015
+content	education	Certificate in Higher Secondary Education
+content	education	WBCHSE
+content	education	41%
+content	education	2014
+content	education	Certificate in Secondary Education
+content	education	WBBSE
+content	education	51%
+content	education	2012
+header	others	Personal Details
+meta	others	Name : Sourav Kumar Das
+meta	others	Father’s Name : Sri Nirmal Kumar Das
+content	others	Father’s Occupation : Service
+meta	others	Postal Address : 4/6 Ram mohon Mallick Garden Lane
+meta	others	Kolkata, Pin. -700010
+meta	others	Date of Birth : 22/10/1996
+meta	others	Marital Status : Unmarried
+meta	knowledge	Languages known : English, Bengali, Hindi
+meta	others	Email : souravdas6439@gmail.com
+meta	others	I hereby declare that all the information furnished above is true and to the best of my knowledge.
+header	others	Date :
+meta	others	____________________________________
+meta	others	Place : Kolkata (SOURAV KUMAR DAS)

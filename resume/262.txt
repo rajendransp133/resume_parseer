@@ -1,0 +1,55 @@
+header	others	PERSONAL DETAILS
+meta	others	NAME: Ankita Pravin Mhatre
+meta	others	ADDRESS: 401/A, Krupa Complex, Katemanivali, Kalyan (E)
+meta	others	MOBILE NO.: 8976836152 EMAIL ID: mhatreankita93@gmail.com
+header	others	CAREER OBJECTIVE
+content	others	A dynamic, team-spirited and result oriented individual seeking to utilize analytical skills and experience to contribute your organization’s growth.
+header	education	EDUCATIONAL QUALIFICATION
+content	education	Degree
+content	education	Institute
+content	education	Board/University
+content	education	Year
+content	education	Result
+content	education	Secondary School Certificate
+content	education	Nutan Dyan Mandir High School
+content	education	Maharashtra State Board
+content	education	March 2011
+content	education	77.45%
+content	education	Higher Secondary Certificate
+content	education	CHM College
+content	education	Maharashtra State Board
+content	education	Feb. 2013
+content	education	75.50%
+content	education	T.Y. BAF
+content	education	CHM College
+content	education	Mumbai University
+content	education	Apr. 2016
+content	education	81.50%
+content	education	MCOM
+content	education	S.S.T College
+content	education	Mumbai University
+content	education	May 2018
+content	education	81%
+header	experience	WORK EXPERIENCE
+content	experience	· I am working with Cogencis Information Services Ltd. Our company provided financial solution to the investors and clients.
+content	experience	· I am started working as a Analyst from 9th February 2017 till this date.
+content	experience	· We reconcile the Balance sheet, Profit & Loss Statement and Cash Flow. Give the details about the share capital & shareholders of the company. And also provided the information about the subsidiary companies.
+content	experience	· Also Updated the companies EPS, Current Position, Board of Directors & Shareholders and some financial details through our companies product.
+content	experience	· In addition, our company provided the financial data of the IPO companies, Listed companies, Banking companies, Insurance companies.
+content	experience	· In our product, we show the ratios like current ratio, debt equity ratio, dividend payout ratio, liquid ratio, etc.
+header	project	MCOM 2nd Year FINAL PROJECTS
+content	experience	· Fundamentals of IPO (sem iii)
+content	experience	· Types of General Insurance (sem iv)
+header	knowledge	COMPUTER AND PROGRAMMING SKILLS
+content	knowledge	Complete MS-CIT examination.
+header	knowledge	ABILITIES
+content	knowledge	· Good Team Player
+content	knowledge	· Quick Learner, Multi-tasking
+content	knowledge	· Flexible and Adaptable. Proactive
+header	others	OTHER DETAILS
+content	knowledge	· Language know : Marathi, English, Hindi
+meta	others	· Material Status : Unmarried
+meta	others	· DOB : 23rd Dec, 1995
+meta	others	I hereby declare that the above-mentioned particulars are true to best of my knowledge and belief.
+meta	others	Place : Kalyan
+meta	others	Date : Ankita Mhatre

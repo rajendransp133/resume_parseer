@@ -1,0 +1,44 @@
+header	others	RESUME
+meta	others	DEEPIKA GUL ASWANI
+meta	others	Mail: deepikaaswani257@gmail.com Ramdev Apartment,405 Ulhasnagar-3
+meta	others	Mob No. : 9730671625 Opp – Near CHM College
+header	others	CAREER OBJECTIVE:
+meta	others	Streamed with the aim of creating own identity and independent and seeking a stable career in field and works towards betterment and growth of organization.
+header	education	ACADEMIC QUALIFICATION:
+content	education	Name Of Exam
+content	education	Board/University
+content	education	Name of school/college
+content	education	Year of Passing
+content	education	Percentage
+content	education	TYBCAF
+content	education	Mumbai
+content	education	RKT College
+content	education	2014
+content	education	50.17
+content	education	HSC
+content	education	Mumbai
+content	education	CHM College
+content	education	2011
+content	education	76.17
+content	education	SSC
+content	education	Mumbai
+content	education	Jaslok High School
+content	education	2009
+content	education	67.23
+header	knowledge	OTHER QUALIFICATIONS:
+content	knowledge	Tally ERP 9.0
+content	knowledge	Ms Office
+header	experience	WORKING EXPERIENCE:
+content	experience	In total 3 years of experience as an associate in Syntel.
+header	experience	ROLE:
+content	experience	Worked in Transfer Agency vertical for Luxembourg-IFAST Dealing team where institutional investors can subscribe, redeem, switch and transfer investments.
+content	experience	Also worked for Cofunds - an Investment platform in UK where investors can invest in ISA and Pension products.I was part of transfer’s team, however I worked in multiple other functional areas like Registration, Cash maintenance, Dealing to support process.
+content	experience	AREA OF INTEREST:
+content	experience	Banking and Insurance sector
+header	others	PERSONAL INFORMATION:
+meta	others	Father’s Name : Gul Shyamlal Aswani
+meta	others	Date of Birth : 03-September-1993
+meta	others	Sex : Female
+meta	others	Marital Status : Single
+meta	knowledge	Languages Known: English, Hindi and Sindhi
+meta	others	Nationality : Indian

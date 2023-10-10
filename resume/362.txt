@@ -1,0 +1,38 @@
+meta	others	RESUME
+meta	others	CHIRAG KISHOR THAKKAR
+meta	others	C/A/4, 4th floor, Om Laxmi Narayan Soc.,
+meta	others	Sant Gadge Maharaj Road,
+meta	others	Near Ganesh Talkies, Charai,
+meta	others	Thane (West) - 400601
+meta	others	Email Id.- chiragkishorthakkar@gmail.com
+meta	others	Mob No - 9892345433
+meta	others	CAREER OBJECTIVE :-
+meta	others	To Charter a Career in Finance, Taxation, Accounts and Consulting in a dynamic and challenging Business Environment enabling myself to add value in my learning ongoing basis.
+header	experience	WORKING EXPERIENCE :—
+content	experience	Working as an Accounts & Tax Executive in M/S Kiran Khimshiya & Co., from June11.
+content	experience	· Worked in M/S Kiran Khimshiya & Co., Chartered Accountants as an Article Trainee from March 2007 to September 2010.
+content	experience	- A brief summary of Job Profile wherein I was involved is given herewith:
+content	experience	· Involved in Statutory Audits, Tax Audits and VAT Audits of various individuals, firms & companies.
+content	experience	· Computation of Total income & Tax thereon, preparation & e-filling of IT returns of individuals, firms & companies.
+content	experience	· Preparation of VAT returns, Service Tax returns & TDS returns.
+content	experience	· Preparation of Financial Statements. (i.e.- B/S,P/L A/c etc.)
+content	experience	· Preparation of Bank Reconciliation Statements.
+content	experience	· Accounting of various individuals, firms & companies upto finalization.
+content	education	PROFESSIONAL QUALIFICATION :-
+content	education	· Completed CA Intermediate (PCC) in Nov 2009, from ICAI.
+content	education	· Attemted CA Final in May 2012, from ICAI.
+header	education	ACADEMIC QUALIFICATION :-
+content	education	· M.Com.Part - I from Mumbai University in the year 2010.
+content	education	· B.Com. from Mumbai University in the year 2009.
+content	education	· H.S.C from Maharashtra State Board in the year 2006.
+content	education	· S.S.C from Maharashtra State Board in the year 2004.
+header	knowledge	COMPUTER AWARENESS :-
+content	knowledge	· Completed I.T.T from ICAI.
+content	knowledge	· Working knowledge in MS-office & Tally ERP 9.0.
+header	others	PERSONAL DETAILS :-
+meta	others	Date of Birth : 15th April, 1988.
+meta	others	Religion : Hinduism, Gujarati
+meta	others	Nationality : Indian
+meta	others	Marital Status : Single
+content	knowledge	Language Known : English, Hindi, Marathi & Gujarati
+meta	others	Chirag Kishor Thakkar

@@ -1,0 +1,75 @@
+header	others	RESUME
+meta	others	CURRICULUM VITAE
+meta	others	KAKOLI ROY
+meta	others	e-mail : kakoliroy7@gmail.com
+meta	others	Mobile No: 9007305067/8961764835
+header	others	Objective:
+content	others	Looking for a challenging position in an organization, which will allow me to apply the best of my analytical and technical skills for company’s growth as well as my own growth.
+header	experience	Summary:
+header	education	degree/specialization
+content	education	Board/
+content	education	University
+content	education	Year of passing
+content	education	Madhyamik
+content	education	West Bengal Board
+content	education	2001
+content	education	Higher Secondary
+content	education	West Bengal Board
+content	education	2003
+content	education	B.A
+content	education	CALCUTTA University
+content	education	2006
+content	education	I.T O’ LEVEL
+content	education	JADAVPUR University
+content	education	2007
+header	education	Academic details:
+header	experience	work experience:
+content	experience	Company
+content	experience	1. ICICI One Source
+content	experience	2. HDFC Bank ltd.(ADFC SISTER CONCERN)
+content	experience	3. STANDARD CHARTERED BANK
+content	experience	4. SHAHA FINLEASE PVT LTD
+content	experience	Designation
+content	experience	1. AS A CUSTOMER CARE EXECUTIVE
+content	experience	2. AS A COLLECTION OFFICER in inflows of HDFC CREDIT CARD
+content	experience	3. AS A CREDIT CONTROLE OFFICER (SUPERVISOR)
+content	experience	4. AS A SUPERVISOR OF COLLECTION CALLING TEAM
+content	experience	Duration
+content	experience	1. 2-07-2007 TO 29-05-2008
+content	experience	2. 20-06-2008 TO 30—05-2009
+content	experience	3. 20-06-2009 TO 30-09-2010
+content	experience	4. 07-01-2011 till date
+header	experience	Roles and responsibilities
+content	experience	1. It was an inbound process. As a Customer Care Executive my
+content	experience	responsibilities were to cater Vodafone Rest of Bengal Circle. Where I had to resolve the queries of the customers.
+content	experience	2.In HDFC my job was to follow up with those customers who forgot to pay their monthly and current due amount. Make them understand about the rules and collect the payment as soon as possible, and meet the daily target given by my manager.
+content	experience	3. In S.C.B my job was to recover money from those customers who were really in financial crunch and as per the banks rule helped them to close their blocked accounts by settlement.
+content	experience	Due to consolidation I got the chance to go to Bangalore and
+content	experience	to work with the same concern but in bucket 60 DPD as a
+content	experience	Supervisor.
+content	experience	4. In SHAHA FINLEASE my job is to supervise the team regarding collection .Maintaining the daily M.I.S.
+content	experience	Handling client calls assist them about their inquiries.
+content	experience	Achieving the team target.
+header	others	Personal Details:
+header	others	Name:
+meta	others	KAKOLI ROY
+header	others	Father’s name:
+meta	others	Mr. NIKHIL BARAN ROY
+header	others	Mobile No:
+meta	others	+91-9007305067
+meta	others	+91-8961764835
+header	others	Residence No:
+meta	others	(033)2483-9825
+header	others	Permanent Address:
+meta	others	29,SANTIPATH SONTOSHPUR JADAVPUR KOLKATA-700075
+meta	others	E-mail : kakoliroy7@gmail.com
+meta	others	Present Address: 29,SANTIPATH SONTOSHPUR JADAVPUR KOLKATA-700075
+header	others	Marital Status:
+meta	others	Single
+meta	others	Date of Birth: 07-1-1985
+header	others	DECLARATION
+meta	others	I, KAKOLI ROY, hereby declare that all the above information are true and correct to the best of my knowledge
+meta	others	and belief.
+meta	others	PLACE: KOLKATA
+meta	others	Signature
+meta	others	(KAKOLI ROY)

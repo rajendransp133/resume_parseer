@@ -1,0 +1,65 @@
+meta	others	SNEHA ANKUSH KADAM
+meta	others	B-9, Swami Prasad Co-Op Hsg.soc, Bhandar Wada, Somwar Bazar, Malad-(W)-400064
+meta	others	Contact No.: 9730075338, email Id: - snehakdm9@gmail.com
+meta	others	_____________________________________________________________________________________
+header	others	OBJECTIVE
+content	others	 To secure a job that provides great opportunities & immense potential to learn.
+content	others	 To channelize my potential towards the growth & development of the organization & myself.
+header	education	YEAR COURSE BOARD/UNIVERSITY/COLLEGE GRADE
+content	education	2011 T. Y. Bcom (Banking &
+content	education	Insurance)
+content	education	Mumbai University/Viva College First Class
+content	education	2008 Higher Secondary
+content	education	Certificate
+content	education	Maharashtra State Board/ Viva College. Second Class
+content	education	2006 Secondary School
+header	education	Certificate
+content	education	Maharashtra State Board First Class
+header	education	ACADEMIC QUALIFICATION
+header	knowledge	SKILLS
+header	knowledge	SKILL AREA COMPONENTS
+content	knowledge	Computer Windows XP Microsoft Office 2003 & 2007, Tally ERP9, Spectrum.
+content	knowledge	Applications Microsoft Office
+content	knowledge	Soft Skills Communication, Organizing & Interpersonal , Team-Leadership
+header	knowledge	LANGUAGES
+content	knowledge	Speak/Read/Write : English, Hindi, Marathi
+header	others	PERSONAL EPITOME
+meta	others	Date of Birth : 08th April 1991
+meta	others	Sex : Female
+meta	others	Marital status : Single
+header	experience	WORK EXPERIENCE
+content	experience	Working with Zenium Group of Companies as an Accounts Executive since 1 yr (i.e. from March 17 to till
+content	experience	date)
+header	experience	Responsibilities :-
+content	experience	o Analyze Balance Sheet, P & L accounts and prepare Trial balance on monthly basis upto
+content	experience	finalization.
+content	experience	o Maintaining and checking all books of accounts includes Bank-books, General-Ledger,
+content	experience	Trial-balance.
+content	experience	o To Check and Ensureall entries of system.
+content	experience	o Workings of TDS, Service Tax, Sales Tax and GST & making online Payment for same.
+content	experience	o Recording of day to day transactions such as Sales ,Purchase & Expenses.
+content	experience	o Application for sales Tax Mandatory Declarations (e.g. C Form, H Form, F form)
+content	experience	o Administered online banking functions with RTGS/ NEFT process and also issuing
+content	experience	Cheques.
+content	experience	o Preparation of Salary for Staff.
+content	experience	Worked with New Bombay Roadlines Pvt Ltd as an Accounts Executive for 4 yrs (i.e. from March 2013 to
+content	experience	March 2017)
+header	experience	Responsibilities :-
+content	experience	o Maintaining and checking all books of accounts includes Bank-books, General-Ledger,
+content	experience	Trial-balance. Ensured and checked all entries of system. (Software-Tally ERP9, Bhor
+content	experience	Software Pvt. Ltd.)
+content	experience	o Analyze Balance Sheet, P & L accounts and prepare Trial balance on monthly basis.
+content	experience	o Administered online banking functions with RTGS/ NEFT process.
+content	experience	o TDS, Service Tax and Vat summary & making online Payment for same.
+content	experience	o Calculation of P.F, E.S.I.C, PT Monthly and online payment.
+content	experience	o Handling vessel Petty Cash expense on monthly basis.
+content	experience	Worked with Diya Associates as Account Assistant for 1 yrs & 2 month (i.e. from Jan 2012 To Feb 2013)
+header	experience	Responsibilities :-
+content	experience	o Preparation of Invoice in tally, purchase Bill.
+content	experience	o Journal Voucher entry in tally, Bank Reconciliation statement.
+content	experience	o Payment Follow-up with the party
+content	experience	o Preparation of petty cash vouchers & making entry
+content	experience	o Maintenance of books of accounts.
+meta	others	Thanking You,
+meta	others	Sneha Kadam,
+meta	others	Place: Malad

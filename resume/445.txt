@@ -1,0 +1,89 @@
+meta	others	CURRICULUM VITAE
+meta	others	CURRICULUM VITAE
+meta	others	Name : Sunil Suresh Dalvi
+meta	others	Phone : 9082664920
+meta	others	Address : B-24, Hindukush Society
+meta	others	Shastri Nagar, Old Dombivali Road
+meta	others	Dombivali (West)- 421 202
+meta	others	Email : asunil.dalvi12@gmail.com __________________________________________________________________
+header	others	Objective & Summary
+content	others	I am seeking a challenging position for Accounting domain, where I can make significant contributions towards a company’s immediate and future goals.
+header	experience	Experience 1 :
+content	experience	Current Organization : Bharat Diamond Bourse
+content	experience	Duration : 21 Jun, 2018 To 14 Sep, 2018
+content	experience	Designation : Accounts Executive
+header	experience	Responsibilities:-
+content	experience	• All Entries related to accounts like purchase, sales, receipt, payment, contra, journal, GST etc. in
+content	experience	Tally 9. ERP.
+content	experience	· Bank Reconciliation in Tally 9. ERP
+content	experience	· Making Vendor Cheques, Collection & Payment Report
+content	experience	· Handling Petty Cash & Report to Company
+content	experience	· Debtors Follow up for payment
+header	experience	Experience 2 :
+content	experience	Previous Organization : K.S. Jaroli & Co. ( CA Firm)
+content	experience	Duration : 1st Dec, 2016 To 15 Jun, 2018
+content	experience	Designation : Accountant
+header	experience	Responsibilities:-
+content	experience	• All Entries related to accounts like purchase, sales, receipt, payment, contra, journal, Vat, Cst, GST etc. in Tally 9. ERP.
+content	experience	• Bank reconciliation in Tally 9. ERP.
+content	experience	• Vouching and Verification of Books of Accounts for audit purpose.
+content	experience	• Handling of Petty cash and reporting to Company.
+content	experience	• Follow up for Debtors related queries
+content	experience	• Clear Payment of Creditors related queries
+content	experience	• Online payment of Tax Challans, Internet Banking.
+content	experience	• TDS working & GST working
+content	experience	• Knowledge of GST
+header	experience	Experience 3 :
+content	experience	Previous Organization : M/s. WAMAN HARI PETHE SONS PVT. LTD.
+content	experience	Duration : 13th November, 2012 To 28th November, 2016
+content	experience	Designation : Accountant
+header	experience	Responsibilities:-
+content	experience	• Maintaining Daily Cash Reconciliation Statement
+content	experience	• Maintaining Daily Credit Card Reconciliation Statement
+content	experience	• Maintaining Daily Cheque In Hand Reconciliation Statement
+content	experience	• Petty Cash Handle
+content	experience	• Daily Bill Preparation & Voucher Entries in Tally 9.0 (ERP)
+content	experience	( Receipt, Journal, Contra, Payment, Sales, Purchase )
+content	experience	• Bank Reconciliation in Tally ERP 9.0
+content	experience	• Handling of Petty cash and reporting to Company
+content	experience	• Vouching and Verification of Books of Accounts for audit purpose.
+content	experience	• All entries related to accounts like Purchase, Sales, Payment, Receipt, Contra, Journal etc.
+header	experience	Experience 4 :
+content	experience	Previous Organization : M/s Ritz Hotel, Churchgate
+content	experience	Duration : 08th November, 2010 to 31st August, 2012
+content	experience	Designation : Jr. Accountant
+header	experience	Responsibilities:-
+content	experience	· Maintaining income accounts for various client in Tally Package
+content	experience	· Checking Credit Card payment & settlement, doing Credit card summary & settlement in excel.
+content	experience	· Daily Bill preparation & entries in Tally 9.0 (ERP) ( Receipt, Journal, Contra, payment )
+content	experience	· Daily preparation of Income Journal
+content	experience	· Follow up with other Department for Income Accounts
+content	experience	· Follow up for Debtors Receivable related queries
+header	experience	Experience 5 :
+content	experience	Previous Organization : M/s T.V.S Raghavan & Co ( C.A), Dombivali
+content	experience	Duration : 15th January 2009 to 30th April 2010.
+content	experience	Designation : Audit Assistant
+header	experience	Responsibilities:-
+content	experience	· Maintaining accounts in Tally
+content	experience	· Actively involved in various audit of Trust School in checking of Receipts & Payments, Posting, Bank Reconciliation Statement.
+content	experience	· Daily Client follow up and General Office Correspondence.
+header	education	Summary of Qualification
+content	education	· B.COM from Mumbai University in 2007-2008 with 54.29%
+content	education	· H.S.C. from Mumbai Board in 2004-2005 with 60.67%
+content	education	· S.S.C. From Mumbai Board in 2002-2003 with 60.80%
+header	knowledge	Other Qualification
+content	knowledge	· MS-CIT
+content	knowledge	· English Typing (30 wpm)
+content	knowledge	· MS-Office 2003
+content	knowledge	· Tally 9.0, Tally 9.ERP
+content	knowledge	· D.T.P.
+header	others	Personal Profile
+meta	others	Date of Birth : 22nd December, 1987
+meta	others	Gender : Male
+meta	others	Nationality : Indian
+meta	others	Marital Status : Married
+meta	others	Strength : Hardworking & Quick Learner
+content	knowledge	Language : English, Hindi & Marathi
+meta	others	I hereby declare that the information furnished above is true the best of my knowledge.
+meta	others	Date:
+meta	others	Place: ( Sunil Suresh Dalvi )

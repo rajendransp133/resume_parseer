@@ -1,0 +1,64 @@
+meta	others	Sneha Uppal
+meta	others	F-601, Aurum Elementto,
+meta	others	Porwal Road, Lohegaon,
+meta	others	Pune, Maharashtra – 411 047
+meta	others	Hand phone: +91 95958 59592
+meta	others	Email: sneha.uppal17@gmail.com
+content	others	Career Objective – Seeking a position in either customer service, sales or back office that will effectively utilize the acquired expertise, creative talents and commitments to excellence. Desire a position with a career growth potential.
+header	education	Qualifications:
+content	education	Serial no.
+content	education	Course
+content	education	Institute Name
+content	education	1
+content	education	Bachelor in Arts, 2nd year - external candidate
+content	education	Pune University
+content	education	3
+content	education	Higher Secondary Certificate (H.S.C.)
+content	education	Maharashtra State Board
+content	education	4
+content	education	Secondary School Certificate (S.S.C.)
+content	education	Maharashtra State Board
+content	education	Level of Experience:
+content	education	Serial no.
+content	education	Company
+content	education	Designation
+content	education	Year
+content	education	1
+content	experience	Tech Mahindra Business Services
+content	experience	Customer Relations Advisor
+content	experience	18th Oct ’15 – Currently Working
+content	experience	2
+content	experience	Mphasis Ltd.
+content	experience	Unit Manager (Team Leader)
+content	experience	18th Oct ‘07 – 30th Sep ‘14
+content	experience	3
+content	experience	WNS Global Services
+content	experience	Quality Analyst
+content	experience	24th Jan ‘05 – 01st Oct ‘07
+header	knowledge	Languages known:
+content	knowledge	Language
+header	knowledge	Speak
+header	knowledge	Read
+header	knowledge	Write
+content	knowledge	English
+meta	others	·
+meta	others	·
+meta	others	·
+meta	others	Hindi
+meta	others	·
+meta	others	·
+meta	others	·
+meta	others	Marathi
+meta	others	·
+meta	others	·
+meta	others	·
+header	knowledge	Transferable skills:
+content	knowledge	· Adept at using Microsoft Office Suite (Word, Excel & PowerPoint)
+content	knowledge	· Strong communication skills on email and over the phone
+content	knowledge	· Good people and performance management skills
+header	others	Overall career achievements:
+content	others	· Grew organically from a trainee customer service executive to a Quality Analyst with WNS Global Services.
+content	others	· Grew by internal job postings from customer service executive to quality coach to an operations team leader managing a team of 15 full time employees for 3 years with Mphasis Ltd.
+content	others	Personal attributes:
+content	others	· Usually tend to my three-year-old son when time permits.
+content	others	· My favourite past time would be to listen/watch latest Hindi music videos.

@@ -1,0 +1,46 @@
+meta	others	S. RAVI KUMAR
+meta	others	E-Mail: raviskumar91@gmail.com
+meta	project	Mobile: 9841901362
+header	others	Objective
+content	others	To Learn and function effectively in an organization and be able to deliver to the bottom-line. To constantly upgrade my knowledge and skills and make a difference in whatever I do.
+header	education	Education
+content	education	2011 : Pursuing MBA Finance from Pondicherry University, Loyola College.
+content	education	2011
+content	education	Bachelor of Commerce – First Class – 64%
+content	education	DRBCCC Hindu College, Pattabiram. - Affiliated to Madras University.
+content	education	2008
+content	education	Higher Secondary XII-73%
+content	education	Jaya Matric Higher Secondary School, Thiruninravur,
+content	education	2006
+content	education	S.S.L.C – 62%
+content	education	Vivekananda Vidyalaya Matric School, Thiruninravur,
+header	knowledge	Technical Skills
+content	knowledge	Tally 9.0 ERP, MS office
+header	others	Achievements
+content	experience	Have Participated in Various Sports and athletic events and won prizes in school and college.
+header	experience	Work Experience
+content	experience	Agility Logistics Pvt Ltd, Chennai. From August 2011 to till date.
+header	experience	Responsibilities (Accounts Payable)
+content	experience	· Verification of invoices for the payment due date.
+content	experience	· Compiling the details of invoices pending for payment.
+content	experience	· Obtaining approval from the approving authority for payment release.
+content	experience	· Preparing and sending payment advice to the bank.
+content	experience	· Handling payment related queries received from vendors.
+header	others	Personal Information
+header	others	Date of Birth
+content	others	28.05.1991
+header	others	Nationality
+content	others	Indian
+header	others	Languages Known
+content	others	Tamil & English (Speak and write)
+header	others	Residential Address
+content	others	Plot No: 162, Eswaran Nagar, 87, Veppambattu, Thiruninvarur-602024
+header	others	Leisure Interests
+content	others	Listening to music, Playing Cricket, Gardening.
+header	others	Declaration
+content	others	I do hereby declare that the particulars of information and facts stated herein above are true, correct and complete to the best of my knowledge and belief.
+header	others	Place:
+content	others	Chennai
+content	others	Yours Faithfully,
+header	others	Date:
+meta	others	(S. RAVI KUMAR)

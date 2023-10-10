@@ -1,0 +1,173 @@
+meta	others	RAVI KANCHAN SHARMA
+header	others	Curriculum Vitae
+meta	others	Debasish Hira
+meta	others	Mobile: +91-9007003511
+meta	others	E-Mail:debasishhira1990@gmail.com
+content	others	Want to pursue a challenging and responsible career where my knowledge and skills can be best used for the development of the organization and in an environment which can enable the growth of my career and my knowledge, my hard work and knowledge are my assets.
+header	experience	Professional Snapshot
+content	experience	· A dynamic professional with 6 years of experience in IT,Security, Network, ISP in Telecom domain, Project Management and Coordination.
+content	experience	· Knowledge in Network Security (Cisco ASA,Juniper and Palo Alto),Blue Coat Proxy,Routing, Switching, OSPF, BGP, ISIS and MPLS. Troubleshoot and configure Cisco ASR 9000 and 900 series ,Juniper ACX 2200 ,ZTE M6K series router and ZTE 8900 series,5900,3900 switches.
+content	experience	· Expertise in IP planning, managing and executing projects including installation, operation and maintenance.
+content	experience	· Hands on experience in coordinating for the swift ramping up of projects through effective monitoring and analysis and vendor Management of project status.
+content	experience	· Gained exposure in Network administration planning and Client support.
+content	experience	· Proficient in managing overall project while ensuring high quality standards maintaining network availability.
+header	knowledge	Network SKILL
+content	knowledge	· TECHNOLOGY Worked on:
+content	knowledge	· NETWORKING: Routing •Switching •OSPF • BGP • ISIS
+content	knowledge	· tool: HUAWEI M2000,Tufin,Qualys
+content	knowledge	· Router,switch & FIREWALL worked on:
+content	knowledge	· CISCO: ASR 9000 and 900 Series,2900 Series
+content	knowledge	· Juniper: ACX 2200 Series
+content	knowledge	· ZTE: M6000,8900,5900,3900 Series
+content	knowledge	· Firewall: CISCO ASA,PALO ALTO, Juniper.
+header	experience	ORGANIZATIONAL EXPERIENCE (Present Employer)
+content	experience	Employer: Price Waterhouse Coopers Pvt. Ltd
+content	experience	Duration: 2nd November to Till date
+header	project	Project Details: US IT
+content	experience	Profile: Security Consultant
+content	experience	· Responsible for Firewall rule request Process, Management and approvals using HPSM9.
+content	experience	· Blue Coat Web-filter Policy Making, URL Re-categorization, Unblock URL using Exception Rule, AD Group creation.
+content	experience	· Responsible for VPN Extranet request approvals and Policy decision making.
+content	experience	· Rule Checking and making in Palo Alto Firewall for URL Filtering and RFC Implementation.
+content	experience	· Firewall Governance Rule making.
+content	experience	· Firewall and Router Audit via Tufin Tool and remediate it in archer.
+content	experience	· Integrated the Firewall and Router audit in RSA Archer to address the complexity and cascading impact of rapidly changing cybersecurity risks, establish and track reliable quantitative and qualitative data to inform an executive-level discussions of cyber security and cyber risk.
+content	experience	· Reported monthly metrics to PwC territory CISOs including Firewall Rule Request,URL Unblock Request,VPN Extranet Group Request and DLP.
+meta	others	.
+content	experience	ORGANIZATIONAL EXPERIENCE (Previous Employer)
+content	experience	Employer: Reliance SMSL Limited
+content	experience	Duration: 4th April 2016 to 10th October 2016
+content	experience	Project Details: Reliance JIO 4G
+content	experience	Profile: Senior Executive in Mumbai
+header	experience	Roles and Responsibilities:
+content	experience	· Configure, Integrate and Troubleshooting ASR(901,903,920O & 920I ),9000 Series router
+content	experience	· Configure, Integrate Juniper ACX 2200
+content	experience	· Configure, Integrate RAD ETX-203AX
+content	experience	· Troubleshooting Security and ASA Firewall related issue.
+content	experience	· Troubleshooting the protocol related issue like ISIS,BGP and cooperative with TAC team
+content	experience	· Perform the different type of activity and troubleshoot for the same such as IOS bug and upgrade, RSP card, FAN module, Router chassis, CRC and making the configuration file.
+content	experience	· Work with Integration NOC for resolving Integration issues at sites.
+content	experience	· Support Reliance all over Mumbai network.
+content	experience	· Cooperate with CISCO NOC Team for critical Issues and troubleshooting for the same
+content	experience	· Troubleshooting Customer backlog link down, packet loss etc.
+content	experience	· Configuration in Router for WAP and Troubleshoot for the same.
+content	experience	· Need to support field Engineer to Integrate New Router and point to point up
+content	experience	· Cooperate with field Network Engineer if any kind of problem occur visit the field if any critical issue like configuration issue and IP conflict issue and protocol related issue.
+content	experience	ORGANIZATIONAL EXPERIENCE (Previous Employer)
+content	experience	Employer: ZTE Telecom India Pvt LTD. (On Team Lease Services Ltd Payroll)
+content	experience	Duration: 24th August 2015 to 31st March 2016
+content	experience	Project Details: BSNL Project
+content	experience	Profile: Engineer in Guwahati and North-East circle
+header	experience	Roles and Responsibilities:
+content	experience	· Commissioning, Installation and Configuration ZTE M6K PE, CE Router,8900 Series PE,CE Switch,5900 and 3900 Series Switch.
+content	experience	· Troubleshooting Security and Juniper Firewall related issue
+content	experience	· Troubleshooting and configuring entire network of Assam,NE1,NE2 and planning the IP for the same.
+content	experience	· New link commissioning, configuration, port mapping, link monitoring day wise activity.
+content	experience	· Troubleshooting and end to checking from switch to HLR,SGSN, Media Gateway,BSC and RNC
+content	experience	· Upgrade ZTE Routers and switch IOS from FTP and creating vlan in switch for each and every BTS and tagging with port
+content	experience	· Configuration of LACP and VRRP.
+content	experience	· Support field team members and commissioning the sites
+content	experience	· Taking configuration backups of the routers and switches in weekly
+content	experience	· Troubleshooting Customer backlog link down, packet loss etc
+content	experience	· Troubleshooting protocol related issue such as BGP &OSPF
+content	experience	· Monitoring the Entire Circle network through NMS.
+header	experience	ORGANIZATIONAL EXPERIENCE (Previous Employer)
+content	experience	Employer: CISCO (on Conexxiontech Pvt Ltd payroll)
+content	experience	Duration: 1st Feb 2015 to 14th August 2015
+content	experience	Project Details: Reliance 4G, Kolkata
+content	experience	Profile: Network L1 Field Engineer.
+header	experience	Roles and Responsibilities:
+content	experience	· Configure, Integrate and Troubleshooting ASR(901,903,920 O & 920 I )router using Telnet and Console &visit the field if required
+content	experience	· Work with Integration NOC for resolving Integration issues at sites.
+content	experience	· Troubleshooting Customer backlog link down, packet loss etc.
+content	experience	· Configuration in Router for WAP and Troubleshoot for the same.
+content	experience	· Need to support field Engineer to Integrate New Router and point to point up
+content	experience	· Troubleshooting protocol related issue such as BGP &ISIS and up the Protocol.
+content	experience	· Cooperate with field Network Engineer if any kind of problem occur visit the field if any critical issue like configuration issue and IP conflict issue and protocol related issue.
+content	experience	· Upgrade Cisco Routers IOS and taking configuration backups of the routers .
+content	experience	· Support Reliance all over Kolkata &ROB network.
+content	experience	· Cooperate with CISCO NOC Team for critical Issues.
+header	experience	ORGANIZATIONAL EXPERIENCE (Previous Employer)
+content	experience	Employer: CMC Ltd
+content	experience	Duration: 16th Aug 2013 to 30th Jan 2015
+content	experience	Project Details: Reliance 4G, Kolkata
+content	experience	Profile: Team Member.
+header	experience	Roles and Responsibilities:
+content	experience	· Client interaction for requirement gathering, Network analysis and understanding of technical and functional specifications.
+content	experience	· Total Network Set UP of the different offices, warehouses/CPD offices of Kolkata & ROB Circle and looking after the issues for the same.
+content	experience	· Implementation, configuration and troubleshooting of Cisco 2900 and 1921 series Router and 2960 switches for Different location.
+content	experience	· Provide the access through Active directory and troubleshooting for the same and Configure the SAP server for the user
+content	experience	· Configuration of VLAN,Static and Default routing on Core Network Devices
+content	experience	· Planning for network requirement of different locations across ROB and monitoring the performance of the network.
+content	experience	· Installation and configuration of cisco WAP.
+content	experience	· Logistics management and vendor alignment, coordination for installation from vendors like TATA&Sify for VSAT,ADSL,LL
+content	experience	· Installation the set up of Citrix Receiver & certificate for the same & troubleshooting all the issues of Citrix such as log in issue, session expired issue.
+content	experience	· Look after the issue of active directory and do the needful to join a system into domain.
+content	experience	· IP phones installation and add the extension with user.
+content	experience	ORGANIZATIONAL EXPERIENCE (Previous Employer)
+content	experience	Employer: Huawei India Pvt Ltd (On Renovision Automation Pvt Ltd Payroll)
+content	experience	Duration: 11th October 2011 to 31st May 2013
+content	experience	Project Details: Huawei O&M for TATA GSM project.
+content	experience	Profile: OMCR Technician
+header	experience	Roles and Responsibilities:
+content	experience	· Alarm Monitoring, troubleshooting the TATA DOCOMO Network over M2000 software.
+content	experience	· Operation & Maintenance M2000 software upgradation the software as per the requirement
+content	experience	· Take the Back up of BSC through Comment Line Interface from M2000 software.
+content	experience	· Network surveillance & monitoring through OMCR console terminal and proper timeline.
+content	experience	· Monitoring, troubleshooting the GB link, MTP3 link, Abis, Ater link over M2000 software & do the needful with port details of BSC & MSC if it is getting down.
+content	experience	· Checking the login issue of M2000 software and all BSC and connectivity from one site to others over MTP3 link.
+content	experience	· Checking the sites and link visibility through Huawei NMS log in .
+content	experience	· Handle Phone calls (incident, escalation, request for information)
+content	experience	· Handle the Transmission Network task from OMCR Console.
+content	experience	· Software loading (new version) to Huawei 3900 ,3900Afor site.
+content	experience	· Trouble ticketing report management &escalate .
+content	experience	· Planning and Scheduling of SW Upgrades to ensure timely upgrades .Competence development of the SW Management
+header	education	Academic Qualification
+content	education	Degree/Certificate
+content	education	Qualification
+content	education	Institute
+content	education	Board /
+content	education	University
+content	education	Year
+content	education	% / DGPA
+content	education	Graduation
+content	education	B.TECH
+content	education	IN
+content	education	ELECTRONICS
+content	education	&COMMUNICATION
+content	education	ENGINEERING
+content	education	BIRBHUM INSTITUTE OF ENGG. & TECH.
+content	education	Suri, Birbhum, West Bengal
+content	education	WBUT
+content	education	2011
+content	education	7.74(DGPA)
+content	education	12th
+content	education	HIGHER SECONDARY
+content	education	BALIA HIGH SCHOOL
+content	education	Balia, Nadia, , West Bengal
+content	education	WBCHSE
+content	education	2007
+content	education	74.00
+content	education	10th
+content	education	MADHYAMIK EXAMINATION
+content	education	BALIA HIGH SCHOOL
+content	education	Balia, Nadia, , West Bengal
+content	education	WBBSE
+content	education	2005
+content	education	67.75
+header	education	Certification
+content	education	CISCO Certified Network Associate CCNA
+content	education	Cisco ID: CSCO13045271
+header	others	Personal Details
+meta	others	Name: Debasish Hira
+meta	others	Father’s Name: Debaprasad Hira
+meta	others	Date of Birth: 8th Jan 1990
+meta	others	Gender: Male
+meta	others	Current Location: Mumbai, India
+meta	others	Maratial Status: Single
+meta	knowledge	Languages Known: English, Hindi, and Bengali
+meta	others	Permanent Address: VILLAGE+POSTOFFICE-SILINDA, CITY-CHAKDAHA, DIST-NADIA,
+meta	others	PIN-741223, STATE-WEST BENGAL
+header	others	Declaration:
+meta	others	I hereby declare that the above mentioned information is correct & complete to best of my knowledge & belief
+meta	others	Place: Mumbai Signature: Debasish Hira

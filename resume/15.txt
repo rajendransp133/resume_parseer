@@ -1,0 +1,65 @@
+meta	others	Curriculam Vitae
+meta	others	E-mail: ar.vicky92@gmail.com
+meta	others	Cell No.09840212178
+meta	others	A.R.VIGNESHWARAN
+header	others	OBJECTIVE:
+content	others	Around 5 Years of Experience in Finance & Accounting domain. Majority of the course work done in Charge Back. I look forward to applying my enhanced knowledge and enthusiasm in the field within Finance Sector.
+header	others	CORE COMPETENCIES:
+content	others	· Capability of handling high work pressure during Process Demand peak Season.
+content	others	· Remarkable ability to understand the implication of new information for both current and future problem solving & decision making.
+content	others	· Proven ability of leading and directing the efforts to achieve a high standard of customer service.
+header	education	ACADEMIC QUALIFICATIONS:
+content	education	Pondicherry University and Loyola College (Distance). Chennai, India Master Business Administration June 2016 Secured 56%
+content	education	Sri Ramakrishna mission Vivekananda college Chennai, India Bachelor of Commerce May 2013 Secured 70%
+content	education	Sri Ramakrishna mission Higher Secondary School (MAIN) Chennai, India
+content	education	12th Standard April 2010 Secured 75%
+header	others	ACHIEVEMANTS:
+content	others	1. Star of the month 2015.
+content	others	1. Process Excellent Award in 2016.
+content	others	1. Spot light ward 2017.
+content	others	1. Star of the Quarter 2018.
+header	experience	CURRENT ORGANISATION: WIPRO LTD. Aug 2013 – Till Date
+content	experience	DESIGNATION: SENIOR OFFICER
+content	experience	In Accounts Payable Vendor File Maintenance
+content	experience	· Provide administrative support to Accounts payable team and Invoice processing Team. Responsible for Vendor creation, moderation, re-creation and De-creation.
+content	experience	· Interact with clients through E–Mails and act immediately to client’s emergency requests.
+content	experience	· Maintaining the records of the Vendors, Customers, and Subcontractors.
+content	experience	· Checking the authenticity of Records with the Government Website and Maintained vendor Insurance Certificates, Licenses and W-9 files.
+content	experience	· Maintaining the Vendor, Subcontractors Bank Account information and controlling the Mode of payment and check for necessary approval for the payments.
+content	experience	· Preparing Vendor File Maintenance Quality check Report and Invoice Quality check Report on monthly Basis.
+content	experience	· Responsible for the purchase of raw materials for Client locations and the Creation of PO. Provide Administrative support as necessary to Accounts payable team and Invoice processing Preparation.
+header	experience	In Charge Back Process
+content	experience	· Receiving queries from bank on behalf of customer payments through Credit cards.
+content	experience	· Identification of Fraudulent transactions, Fraud and Dispute case analysis.
+content	experience	· Working directly with merchants and cardholders to resolve customer service issues or fraudulent/unauthorized activities.
+content	experience	· Contacting merchants and cardholders to validate the authenticity of charges.
+content	experience	· Performs proper review and Investigate disputed card transactions by collecting sufficient information to explore every opportunity to identify recovery opportunities in order to mitigate losses.
+content	experience	· Meeting Team standards for quality and performance/productivity making monetary adjustments to Customers accounts and other risk/income matters.
+content	experience	· Assisting with daily system balancing and reconciliation, account reconciliation.
+content	experience	· Ensuring incoming retrieval requests & chargeback are processed in accordance with Visa and MasterCard regulations.
+content	experience	· Dealing with High-Risk Disputes which involves High Dollar Amount and Premier Customers.
+content	experience	· Compliance with MasterCard and VISA time frames for disputes processing.
+content	experience	· Answering Customer queries regarding disputes, If the Customer dispute is valid, we make the reimbursed.
+content	experience	· Creating reports for Reimbursement.
+content	experience	· Responsible for providing high quality customer service by responding to telephone inquiries, customer requests and problems related to credit card fraud and dispute claims.
+content	experience	· Cross trained on other providers Discover,PayPal and American Express card disputes.
+content	experience	· Preparing Quality check Report on monthly Basis.
+header	knowledge	TECHNICAL QUALIFICATION:
+content	knowledge	· Finished DCA (MS-office) Studied at IIC (Lions club).
+content	knowledge	· Finished Tally Studied at BSS.
+header	others	PERSONAL DETAILS:
+meta	others	Father’s Name: Mr. A.S. Ravi Chandran
+meta	experience	Date of Birth: 04-12-1992
+meta	others	Sex: Male
+meta	others	Marital Status: Single
+meta	others	Nationality: Indians
+content	knowledge	Languages Known: English, Tamil, and Telugu.
+meta	others	Address: No: 5 / 10, Thadi Rathinam Street,
+meta	others	West Saidapet,
+meta	others	Chennai - 600 015.
+header	others	DECLARATION:
+content	others	I hereby declare that the above mentioned details are true to the best of my knowledge and belief.
+content	others	Thanking you and looking forward for a favorable reply.
+meta	others	Place: Chennai
+meta	others	Signature
+meta	others	(A.R.Vigneshwaran)

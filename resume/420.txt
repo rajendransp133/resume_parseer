@@ -1,0 +1,38 @@
+header	others	RESUME
+meta	others	Argharoop Saha
+meta	others	12A Bhupen Roy Road,
+meta	others	Behala,
+meta	others	Kolkata - 700034
+meta	others	Mobile: 8013360943 / 9748380458
+meta	others	Email: argharoop@gmail.com /
+meta	others	argharoop2010@gmail.com
+header	others	CAREER OBJECTIVE
+content	others	To get elevated in the field assigned, by exploring my skill and working hard as true to my conscience for the upliftment of the organization as well as my personal growth.
+header	experience	EXPERIENCE
+content	experience	Wipro BPO Solutions Ltd. - October 2016 to present
+header	education	ACADEMIC QUALIFICATION
+content	education	Degree
+content	education	Institution
+content	education	University/Board
+content	education	Year of Passing
+content	education	Percentage
+content	education	B.Com(Accountancy Honours)
+content	education	Dinabandhu Andrews College
+content	education	Calcutta University
+content	education	2015
+content	experience	49.2
+content	experience	XII
+content	education	NIOS
+content	education	NIOS
+content	education	2012
+content	education	62.5
+content	education	X
+content	education	National Gems H.S. School
+content	education	CISCE
+content	education	2010
+content	education	75
+header	knowledge	SOFTWARE PROFICIENCY
+content	knowledge	· Packages : MS Office
+content	knowledge	· Operating Systems : Windows XP, 7,8,10, Linux Ubuntu
+header	knowledge	CERTIFICATION
+content	knowledge	· Completed GRAD Course from CMC

@@ -1,0 +1,58 @@
+meta	others	Deepak Maharana
+meta	others	Dedicated person interested in pursuing a job that allows me to use my skills to benefit the company
+meta	others	Kaikondrahalli
+meta	others	Bangalore, 570035
+meta	others	7204870100, 7892632649
+meta	others	deepak.maharana01@gmail.com
+header	experience	Experince:
+content	experience	Wipro Technology, Bangalore — Network Engineer
+content	experience	JULY 2015 - PRESENT,
+header	education	Education
+content	education	Disha College of Management and Technology
+content	education	Berhampur University, Odisha— BCA (Bachelor in Computer Application)
+content	education	March 2012 - March 2015
+content	education	Kukudakhandi Science College, kukudakhandi — 12th
+content	education	March 2009 - March 2012
+header	project	PROJECTS
+content	experience	— NABARD (Cooperative Banks)
+content	experience	—DELL EMC (SMARTS )
+header	experience	Resposibilities:
+content	experience	· Supports and manages LANs, WANs, Internet and Intranet systems.
+content	experience	· Conducts regular audits to ensure all frameworks and processes that have been integrated into the system are working properly, efficiently and in accordance with the goals, objectives and standards of First Bank of Indianapolis.
+content	experience	· Updates and monitors security systems of network infrastructure.
+content	experience	· Designs and implements data integrity measures as well as daily system backups.
+content	experience	· Maintains data security and ensures integrity, protection of all client information.
+content	experience	· Orients business units and other application users on changes in network configurations.
+content	experience	· Configuration, Maintenance and Troubleshooting of various Cisco router, Switches and firewalls for clients
+content	experience	· Bandwidth management(QOS)
+content	experience	· Clearing port security violations in switch
+content	experience	· Access/permission management at ASA and Checkpoint firewall
+content	experience	· Creating objects in ASA firewall
+content	experience	· Upgrading software image (IOS) of cisco device.
+content	experience	· All network and security device Backups through TFPF
+content	experience	· Troubleshoot and resolve critical /high impact branch and DC level network issues Implementing Access list & VLAN configuration in Switches
+content	experience	· Troubleshooting hardware failures and traffic management issues
+content	experience	· Troubleshooting switching issues.
+content	experience	· Coordination with various vendors, end user support department and onsite engineers.
+content	experience	· Escalating & following up with internal teams for Unresolved Incidents/ Issues.
+content	experience	· Handling Isolation cases from level 1 engineer.
+meta	others	.
+header	knowledge	Skills:
+content	knowledge	· Routing and Switching.
+content	knowledge	· Configuration of Cisco Routers ( 800 1700 1800 2600 2800 / 3600 series),
+content	knowledge	· Routing Protocols(RIP,RIPv2, EIGRP, OSPF,BGP)
+content	knowledge	· TCP/IP, DNS, DHCP, WINS
+content	knowledge	· Troubleshooting and fault-finding services for network problems. VLAN, ACL, SNMP, OSI layers.
+content	knowledge	· Linux fundamentals
+content	knowledge	· C, C++, HTML, Core JAVA, Python, Selenium ,QTP Automation Testing
+header	others	Strength and hobbies
+content	others	· Positive Attitude, Quick Learner, Self Motivated, Coaching , Punctuality , Organization Skills
+header	education	Certification
+content	education	· Cisco Certified Network Associate (CCNA)
+meta	education	· CSCO13296683
+meta	others	Declaration:
+meta	others	Hereby I declare that the above furnished details are true to the best of my knowledge and belief.
+meta	others	Place: Bangalore
+meta	others	Yours Sincerely,
+meta	others	Deepak Maharana
+content	others	Sensitivity: Internal & Restricted

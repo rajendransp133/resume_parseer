@@ -1,0 +1,74 @@
+meta	others	GAYATHRI KANNABIRAN
+meta	others	No: 12 A, G-1,Bhabha Flats,
+meta	others	Mobile: +91-9500445075
+meta	others	LIC colony, 3rd Cross Street
+meta	others	Email ID: Gayathrikannabiran0@gmail.com
+meta	others	Pammal, Chennai 600075.
+header	others	Objective
+content	others	Looking forward for a platform to utilize my gained experience, which would benefit my career and enhance my skills to reflect on the organization.
+header	experience	Professional Summary
+header	experience	Organization:
+content	experience	Capgemini India Pvt. Ltd
+header	experience	Designation:
+content	experience	Process Associate – F & A – OTC
+header	experience	Year:
+content	experience	October 2016 – December 2018
+content	experience	Roles and Responsibilities in Capgemini
+content	experience	· Handling Disputes Management process under Accounts Receivable
+content	experience	· Analysing the customer query and provides the best solution to resolve the query
+content	experience	· Researching and resolving the issues and follows up till the resolution.
+content	experience	· Ensure 100% to deliverables on timely manner.
+content	experience	· Have been a SPOC for three Apac regions to manage the urgent emails
+content	experience	· Handled the New Zealand regions volume individually and achieved the CSL
+content	experience	· Managing all types of Invoice Adjustment on customer’s dispute
+content	experience	· Maintain and validate customer information on the database.
+content	experience	Highlight in the Present Organization
+content	experience	· Have obtained a star of the month award for the four consecutive months
+content	experience	· Taken the cross country training, to know about all the work flows in the process
+content	experience	· Have trained the other agents in the expertise topic
+content	experience	· I managed my team to give the productivity count
+content	experience	· Have received the capgemini “pat on back reward for the effective support to achieve CSL
+content	experience	· Have been a part of operation calls that happens every week
+content	experience	· Extended support to other regions at the time of need.
+header	experience	Achievements
+content	experience	· Have been recognized as the “Extra Miler” in the process
+header	knowledge	Technical Skills
+content	knowledge	· Experience in using Excel
+content	knowledge	· Exposed to 1Source(Invoice Adjustment Platform).
+header	education	Academics
+content	education	· B.COM - Honours (2013-2016)
+content	education	SDNB Vaishnav College for Women
+content	education	76% Aggregate
+content	education	· HSC. (2012-2013)
+content	education	Sri Sankara vidhyalaya matriculation higher secondary school Chennai. 88% Aggregate
+content	education	· SSLC (2010-2011)
+content	education	Sri Sankara vidhyalaya matriculation higher secondary school Chennai 81%Aggregate
+header	knowledge	Key strength
+content	knowledge	· Strong verbal and written communication.
+content	knowledge	· Ability to capture and transfer knowledge
+content	knowledge	· Social with peers and able to amend with any group
+header	others	Personal Profile
+meta	others	Name
+meta	others	:
+meta	others	Gayathri kannabiran
+meta	others	D.O.B
+meta	others	:
+meta	others	11 Nov 1995
+meta	others	Gender
+meta	others	:
+meta	others	Female
+meta	others	Father’s Name
+meta	others	:
+meta	others	Kannabiran
+header	knowledge	Linguistics Skills
+meta	others	:
+meta	knowledge	English, Tamil
+meta	others	Interests
+meta	others	: Music
+meta	others	Nationality
+meta	others	: Indian
+meta	others	Declaration
+meta	others	I hereby declare that the information furnished above is true to the best of my knowledge and belief.
+meta	others	Date:
+meta	others	Place: Chennai
+meta	others	Gayathri kannabiran

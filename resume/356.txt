@@ -1,0 +1,39 @@
+meta	others	Name:-Sanghavi Meet Bhupendra
+meta	others	Email ID:-adimesan007@gmail.com
+meta	others	Mobile No.:-+91-9724668709
+header	education	Education
+content	education	Course/Class
+content	education	School/College
+content	education	Percentage
+content	education	Year
+content	education	B.Com
+content	education	JG College of Commerce
+content	education	63.80%
+content	education	2015-18
+content	education	Class XII
+content	education	Nelson High School
+content	education	71.73%
+content	education	2015
+content	education	Class X
+content	education	Nelson High School
+content	education	65.5%
+content	education	2013
+header	others	Achievements
+content	others	Sports
+content	others	· Participated in Badminton Competition Organized By Gujarat Government(2016).
+content	others	· Participated in Badminton Competition Organized By Gujarat Government(2017).
+content	others	· Participated in Tennis Competition Organized By Gujarat Government(2016).
+header	education	Academic
+content	education	· Secured 19th rank at city level inNavkar Olympiad Competition(2015).
+header	experience	Work Experience
+content	experience	· Currently Working with N.K.SteelSince 2 Years As A Accountant & Auditor.
+content	experience	Extra-Curricular Activities
+content	experience	· Awarded the Certificate of Tally ERP.9 By Aptech Institute.
+content	experience	· Awarded the Certificate of Entrepreneurship Development Program conducted by National Institute for Entrepreneurship and Small Business Development (NIESBUD).
+content	experience	· Represented the college as a team leader in Treasure Hunt competition organized by Sal Institute of Management.
+content	experience	· Represented the College in JOSH Competition Organized by NIEM.
+content	experience	· Served as a member of college sports committee.
+content	experience	· Participated in Badminton competition organized by Gujarat University.
+content	experience	· Participated in Tree Plantation activity organized by the college.
+content	experience	· Member of NSS Committee of College.
+content	experience	· Participated in Non-Verbal Communication Presentation in College Under the Guideline of Professor.

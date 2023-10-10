@@ -1,0 +1,35 @@
+meta	others	SAURABH TRIPATHI CK 49/103,BHULETAN
+meta	others	VARANASI,221001
+meta	others	trisaurabh09@gmail.com
+meta	others	+91-7887248174, +91-9450102205
+header	experience	CAREER OBJECTIVE:-
+content	experience	Want to become a good professional and will always try to do my best in tasks given to me.
+header	education	EDUCATIONAL QUALIFICATION:-
+content	education	YEAR
+content	education	QUALIFICATION
+content	education	BOARD/UNIVERSITY
+content	education	MARKS(%/CGPA)
+content	education	2017
+content	education	GRADUATION(B.COM HONS)
+content	education	BANARAS HINDU UNIVERSITY
+content	education	73%(7.75CGPA)
+content	education	2013
+content	education	INTERMEDIATE(COMMERCE)
+content	education	U.P. BOARD
+content	education	68.40%
+content	education	2011
+content	education	HIGH SCHOOL
+content	education	U.P. BOARD
+content	education	56.16%
+header	others	PROFESSIONAL QUALIFICATION:-
+content	others	“Under Graduate Diploma in Computer Application”(U.G.D.C.A.) with 70.3%(7.48CGPA) from “Banaras Hindu University” in year 2017.
+header	education	CERTIFICATE COURSE:-
+content	education	“Course On Computer Concept”(CCC) with Grade “C” AS “DIRECT APPLICANT” from“National Institute of Electronics and Information Technology”(NIELIT) in March 2017.
+meta	others	HOBBIES:-
+meta	others	Reading Newspapers, Teaching, Listening Music, Playing Cricket & Chess, Helping Poor Peoples upto my capability & Participating in Political Debates.
+header	others	PERSONAL DETAILS:-
+meta	others	S/O:- SURENDRA TRIPATHI & GIRIJA TRIPATHI
+meta	others	D.O.B.:- 09/01/1996
+meta	others	MARITAL STATUS:- Not Married
+meta	others	DATE:-
+meta	others	PLACE:- [SAURABH TRIPATHI]

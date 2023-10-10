@@ -1,0 +1,56 @@
+meta	others	VENKATESH.P
+meta	others	KANAKA STREET,
+meta	others	NEAR GANESH TEMPLE,
+meta	others	RADIO PARK,
+meta	others	+91 9060690008,+91 8660309387
+meta	others	BALLARI - 583 102.
+meta	others	venkatesh.sns@gmail.com
+header	others	Career objectives
+meta	others	A high spirited guy who thinks positively towards anything that comes my way and is committed and dedicated towards the goals, determinations and objectives.
+header	experience	Work Experience
+content	experience	Zilla Panchayath Gov. Contract Basis
+content	experience	BALLARI From jan-2016 to May-2017
+content	experience	Designation: Programmer Consultant + DEO
+content	experience	Murahari Hardware
+content	experience	BALLARI from Nov-2017 to Till Date
+content	experience	Designation: Accountant
+header	experience	Job Profile
+content	experience	1) Preparation of Beneficiary Reports of housing Dept.
+content	experience	2) Online Housing CEO Log in and submission reports with higher authorities RGRHCL Dept in Bangalore.
+content	experience	3) Preparation of monthly Salary & Reports 7 Taluk of Ballari.
+content	experience	4) Submission Statistical data of Housing of Ballari District to Chief Programming Officer (CPO).
+content	experience	5) Site Visiting .
+content	experience	6) Contractors whose submitted RA Bill, Being check by me and passing for payment.
+content	experience	7) Collating and formatting data to be presented to a leader.
+content	experience	8) Data entry and retrieval.
+content	experience	9) Submission of Ledger Statement through E-Mail, and collecting Bill Funds.
+header	knowledge	Key skills and achievements
+header	knowledge	Languages Known
+content	knowledge	Kannada, English, Telugu, Hindi.
+content	knowledge	IT
+content	knowledge	Excel, Microsoft Word, PowerPoint, Microsoft, Tally ERP9, Nudi.
+header	education	Education
+content	education	2012 {2015 VSKUB
+content	education	B.Com
+content	education	Veerashaiva Vidhya Vardhaka Sangha Bellary
+content	education	B.com Commerce
+content	education	Completed in 2015-16
+content	education	2010 {2011 St John’s PU College
+content	education	Commerce
+content	education	PUC
+content	education	Commerce in Kannada in 2011-12
+content	education	1999 {2009 St Joseph’s Boy’s High School
+content	education	1st Standard To 10th Standard
+content	education	Secondary School Leaving Certificate
+content	education	Completed in 2009-10
+header	others	Personal Profile
+meta	others	Name : VENKATESH.P
+meta	others	Father’s Name : SATHYAVARDHANACHAR.P
+meta	others	Mother’s Name : NIRAMALA.P
+meta	others	Date of Birth : 07/01/1994
+meta	others	Nationality : Indian
+header	others	Declaration
+meta	others	I hereby declare that the above-furnished information is true and
+meta	others	Genuine to the best of my knowledge and belief.
+meta	others	Place:
+meta	others	Date: (VENKATESH.P)

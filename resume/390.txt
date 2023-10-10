@@ -1,0 +1,66 @@
+header	others	CURRICULUM VITAE
+meta	others	KAJAL SINGH
+meta	others	: kajalprakashsingh@gmail.com
+meta	others	: +91-7044950060
+header	others	CAREER OBJECTIVE:
+content	others	Seeking for opportunities and secure a position where I can efficiently contribute my skills and abilities for the growth of the organization and my professional career. The words of my strength are, “learn something from everything”.
+header	education	ACADEMIC PROFILE:
+content	education	Name of the
+content	education	Degree
+content	education	Name of the Institution
+content	education	Board/ University
+content	education	Year of Passing
+content	education	% of marks obtained
+content	education	B. Tech(Computer Science & Engineering
+content	education	Thandra Papraya Institute of Science and Technology
+content	education	J.N.T.U, Kakinada
+content	education	2012-2016
+content	education	73.00%
+content	education	Class XII
+content	education	Shree Jain Vidyalaya For Girls
+content	education	WBCHSE
+content	education	2012
+content	education	57.71%
+content	education	Class X
+content	education	Naihati Saraswati Balika Vidyalaya
+content	education	WBBSE
+content	education	2010
+content	education	63.37%
+meta	others	`
+header	knowledge	TECHNICAL SKILLS:
+content	knowledge	· Programming Languages :C, JAVA-(J2SE, J2EE),
+content	knowledge	· Operating Systems :Windows 7, XP, 8.
+content	knowledge	· Databases : DBMS &RDBMS, SQL, MySQL.
+content	knowledge	· Web Technologies : Html 5, CSS3, Java Script, PHP, Bootstrap.
+content	knowledge	· IDE Software’s :Net beans.
+header	experience	WORK HISTORY:
+content	experience	Wipro Technologies: I have worked in Wipro Technologies as L1 support (Technical Support Analyst). Worked on ticket creation, interaction management and incident management for the issues reported by end users via email or call. Basically, a service desk analyst is the first point of contact for the project, resolve the issues (FCR) which is in scope and escalate/route which is not in scope.
+content	experience	Tool Used:
+content	experience	1. Service Manager Application Support Instance (SM9): -For creating tickets (Interaction or Incident), creating Knowledge bases, escalating the tickets etc.
+content	experience	2.SQL Management Studio: -For checking or fetching data for few applications by using SQL queries.
+content	experience	3.MS Access: -For checking job roles and fetching the data from the database for some applications.
+content	experience	4.MS Excel: -For sending daily reports and maintaining the track of everyday activity.
+content	experience	Duration: 12 months
+header	others	Personal traits:
+content	others	· Quick learning & decision-making ability.
+content	others	· Team building, leadership and monitoring ability.
+content	others	· Utilize the available resources with lots of ease with optimum utility.
+content	others	· Positive attitude and ability to motivate.
+header	others	ACHIEVEMENTS:
+content	others	· Won 1st prize in paper presentation competition held by ABVP.
+content	others	· Won 2nd prize in paper presentation on “Big Data”.
+content	others	· Participated in Android workshop conducted by Computer Society of India.
+content	others	· Participated inAugmented Reality workshop conducted by GMRIT.
+content	others	· Participated in NSS camp.
+content	others	· B Tech project on Voice Control of Home Appliances using Android.
+content	others	· Have done certification in Web Designing/Development from Aptech.
+header	others	personal PROFILE:
+content	others	Name : KAJAL SINGH
+content	others	Father’s Name : PRAKASH SINGH
+content	others	Date of Birth : 7thMarch 1994
+content	others	Nationality : Indian
+meta	knowledge	Languages Known : English, Hindi, Bengali
+content	others	Gender : Female
+content	others	Interest : learning languages, painting
+content	others	Location:-Kolkata Signature
+content	others	Date: -

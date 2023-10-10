@@ -1,0 +1,45 @@
+header	others	Resume
+meta	others	Akshita Shetty
+meta	others	Email id – akshitashetty1995@gmail.com
+meta	others	Address – Mulund (West)
+meta	others	Phone – 8108550963
+header	experience	Work Experience :
+content	experience	Work Experience: (8 Months)
+content	experience	Organization: Satish Shetty & Associates(CA Firm)
+content	experience	Work as an Accountant
+content	experience	Duration : October 2016
+content	experience	Organisation: IndusInd Bank
+content	experience	Designation : Executive - Operations
+content	experience	From : 15th Nov 2016
+content	experience	To : 26th August 2018
+content	experience	Duties:
+content	experience	· Quality analysis :
+content	experience	· Document Verification of Account Opening Form and KYC documents
+content	experience	· Quality check of all Retail Saving and Current products according to KYC Policy.
+content	experience	· MIS:
+content	experience	· Provide Reports on daily and Monthly basis categorizing the document verification status.
+content	experience	· Providing other managerial based Adhoc reports for Better Analysis.
+content	experience	· Query/ Issue Resolution
+content	experience	· Resolving the queries in hold cases through Iworks system
+content	experience	· Checking through Anti Money Laundering system
+content	experience	· Cross check of applicant’s existing status in the bank and initial funding in Finacle
+content	experience	· Quality check of Identification, Address and Signature proofs of applicants in various systems .
+header	education	Qualifications:
+content	education	· Completed B.A.F from SM Shetty College (Mumbai University) in April 2016 (74%).
+content	education	· Completed H.S.C from VPM Junior College (Maharashtra Board) in Feb 2013 (74%).
+content	education	· Completed S.S.C from Navodaya English High School (Maharashtra Board) in March 2011 (89%).
+header	knowledge	Technical Skills:
+content	knowledge	· Basic knowledge of computer application (Ms Word, Excel, Powerpoint)
+content	knowledge	· Tally ERP9
+content	knowledge	· Functional Knowledge of Finacle
+content	knowledge	· Functional Knowledge of Iworks System.
+header	others	Personal Details:
+meta	others	· Personal Details:
+meta	others	Father’s Name : Prabhakar Shetty
+meta	others	Date of Birth : 28 November 1995
+header	knowledge	Languages Known : English, Hindi, Marathi and Tulu
+meta	others	Marital status : Single
+meta	others	Gender : Female
+header	others	Nationality : Indian
+meta	others	I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above-mentioned particulars.
+meta	others	Akshita Shetty

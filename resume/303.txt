@@ -1,0 +1,75 @@
+meta	others	KISHOR KUMAR.C
+meta	others	s/o CHALAPATHY.K
+meta	others	PITCHAHALLI (vil) GKHALLI(P)
+meta	others	KGF-563121
+meta	others	Cell :9742284104
+meta	others	MAIL ID: kshrc98.kkc@gmail.com
+meta	others	Father name: CHALAPATHY.K
+meta	others	Date of birth: AUG-08-1988
+meta	others	Sex : MALE.
+meta	others	Nationality : Indian.
+content	others	Marital status: Unmarried.
+header	others	OBJECTIVE
+content	others	Interested to work in a challenging and learning atmosphere, which should give me an opportunity to deliver the best out of me. My greatest asset is my sincerity, honesty, which keeps me going.
+header	experience	PROFESSIONAL RECORD
+content	experience	2007-2010:Diploma in MECHANICAL Engineering from
+content	experience	AE&CS Pavan polytechnic, kolar.
+content	experience	2006-2007: Hardware and Net working from Jason institute.
+content	experience	2004-2006: Refrigiration and air conditioning Engineering -
+content	experience	Jason institute KGF.
+content	experience	2003-2004:S.S.L.C BEML High school BEML Nagar.
+header	knowledge	SOFTWARE EXPOSURE
+content	knowledge	· Windows 2000/XP
+content	knowledge	· MS office tools
+content	knowledge	· SAP
+content	knowledge	· CAM2 MEASURE 4
+content	knowledge	· Oracle.
+header	experience	EXPERIENCE
+content	experience	· M/s IFB AUTOMOTIVE PVT LTD.
+content	experience	K.I.A.D.B industrial Area White Field Bangalore
+content	experience	Designation: - Receiving Quality.
+content	experience	Duration :- 9 months (01/06/2010 to 07/03/2011)
+content	experience	· M/s HINDUSTAN AERONAUTICS LIMITED(BC)
+content	experience	Designation :- Technical Trainee (Machine Shop Quality)
+content	experience	Duration :- 1 year ( 17/03/2011 to 16/03/2012)
+content	experience	· M/s DECCAN HYDRAULICS(PVT) LTD BANGARPET
+content	experience	Designation :- Quality Engineer (Quality Dept)
+content	experience	Duriation :- 17-03-2012 to 19-11-2016.
+content	experience	· M/s Tata Consultency Service – Banglore.
+content	experience	Designation :- SenierEngineer (FAI Inspector)
+content	experience	Duriation :- 21-11-2016 to till date.
+content	experience	· Listening music,
+content	experience	· Playing cricket
+content	experience	· Travelling.
+header	knowledge	KNOWLEDGE IN
+content	knowledge	. First Article Inspection of all kinds of parts.
+content	knowledge	. Receiving quality .
+content	knowledge	. Aware of G D & T.
+content	knowledge	. CAD drawing readability.
+content	knowledge	. Hands on experience on FARO Arm Type CMM (CAM2Measure4).
+content	knowledge	. Responsible for In process and Final Inspection.
+content	knowledge	. Inspection of Jigs & Fixtures.
+content	knowledge	. Maintaining of IMTE.(Instruments Measuring &
+content	knowledge	Testing Equipments).
+content	knowledge	. Monitoring & Maintainence of Standard Room.
+content	knowledge	. Follow up of 8-D reports to customer rejections.
+content	knowledge	. Return part analysis for rejected parts from customer.
+content	knowledge	. Co-ordinating with Third Party Inspector for clearence of psrts.
+content	knowledge	. Daily conducting Internal Review Meetings to Communicate & Solve the Rework, Rejections & Customer complaints.
+content	knowledge	. ISO/ TS16949 Quality Department Document Preparation.
+content	knowledge	. Painting quality.
+content	knowledge	. PDI Quality.
+content	knowledge	. Maintaining of 5S Activities.
+content	knowledge	. Monitoring Daily SAP pending activities related to quality.
+header	knowledge	LANGUAGES KNOWN
+content	knowledge	· Read - Kannada, English, & Hindi & Telugu.
+content	knowledge	· Write - Kannada, English.
+content	knowledge	· Speak - Kannada, English,Hindi, Telugu & Tamil.
+header	others	CUSTOMERS HANDLED
+content	others	. ASHOK LEYLAND LIMITED,VOLVO,BEML,TATA MOTORS,SDFI,
+content	others	.AMW.KOMATSU INDIA PVT LTD, L&T KOMATSU, AVETECH.
+header	others	DECLARATION
+content	others	I here by declare that the above information furnished above is true to the best of my knowledge.
+meta	others	Date:
+meta	others	Place: Kishor Kumar.c
+meta	others	(KISHOR KUMAR.C)

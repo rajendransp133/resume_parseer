@@ -1,0 +1,98 @@
+meta	others	SAJIV GEORGE JAMES - CURRICULUM VITAE
+meta	others	SAJIV GEORGE JAMES
+meta	others	Allapatt House, Old Tirumala, Alleppy, Kerala – 688011, INDIA
+meta	others	Ph: +91(0)477–2252295, Mob: +919995498178, email: sajiv.gj@gmail.com
+meta	others	1
+content	experience	Human Resources Executive
+content	experience	An accomplished HR Executive with over 10.6 years of experience and expertise as a Business Partner HR in areas like Employee Relations, Employee engagement, HR policy and procedures to the different business verticals of a US based MNC.
+content	experience	Aspiring for a Senior HR position with an organization of repute, were my learning’s and expertise can be utilized, and which can offer opportunities and challenges for learning.
+header	knowledge	Strengths
+content	knowledge	· Leadership skills with ability to plan and prioritize and think strategically.
+content	knowledge	· Patient, sincere and committed towards work
+content	knowledge	· Go-getter attitude.
+content	knowledge	· Well versed with Ms Excel, PowerPoint.
+content	knowledge	· Data Analysis and interpretation.
+header	experience	Professional Experience
+content	experience	Organization
+content	experience	Location
+content	experience	Current designation
+content	experience	Period
+content	experience	Sutherland Global Services
+content	experience	Kochi, India
+content	experience	Associate manager – hr
+content	experience	2006 - 2017
+content	experience	Key Responsibilities & Areas of Expertise
+content	experience	1. Recruitment & Selection
+content	experience	· Conduct interviews along with the Line managers and place approved permanent/temporary staff in coordination with the Division.
+content	experience	· Prepare and submit weekly status report to monitor the progress of the recruitment process & other HR initiatives.
+content	experience	2. Employee Relations, Welfare Administration & Grievance handling
+content	experience	· Conduct joining formalities and induct new joiners on HR policies and procedures.
+content	experience	· Co-ordinate with Corporate HR and external vendors for Statutory Compliance, Welfare Administration and compiling HR Reports sought by the Management.
+content	experience	· Ensure resolution to employee concerns/grievances, related with Payroll, Discipline, Performance ,people connect etc
+content	experience	· Drive initiative to enhance Employee Engagement and re-calibrate the action plan based on the results of employee feedback surveys.
+content	experience	· Regular interactions with all level of employees to know & understand employee expectations through Skip levels, 1:1 etc.
+content	experience	· Responsible for counseling & mentoring employees and to provide guidance on performance and disciplinary issues.
+content	experience	· Plan, organize and execute organization wide, program wide fun events and festival celebrations.
+content	experience	· Involve in disciplinary hearing, preparing and issuing show-cause notice, warning / termination letters and solve grievance amicably to effectively implement the HR policies and procedures of the company.
+header	experience	3. Learning Management, Training & Development
+content	experience	· Coordinating training programs both, internal and external.
+content	experience	· Maintaining training records, keeping track of training schedules, participant and trainer feedback and coordinating action plan.
+content	experience	· Streamlining TNA/I (Training Need Analysis/Identification) based on training requirements specified in appraisal reports.
+header	experience	4. Performance Management & Competency Mapping
+content	experience	· Coordinating Interim & final confirmatory appraisals & annual performance appraisals for all employees.
+content	experience	· Preparing statistical reports on individual & unit performance based on the appraisal scores.
+content	experience	· Compilation of scores and preparation of training needs.
+header	experience	5. Employee Retention and Attrition Management
+content	experience	· Formulate, implement and review Retention Plans for the based on,
+content	experience	· Detailed Attrition analysis.
+content	experience	· Reviewing exit interviews data points
+content	experience	· Employee Satisfaction surveys – Boomerang, Gallup & Hay Group survey.
+content	experience	· Feedback from other channels like – skip meetings, one to one discussions etc.
+content	experience	· Conduct weekly meetings with business heads and frontline managers to discuss the various challenges faced by the front line managers and provide solutions with the support of the business heads and to implement these solutions in the different business verticals under my alignment.
+content	experience	6. General Administration & MIS
+content	experience	· Tracking leaves and daily attendance, preparation of employee letters (salary, NOC etc), updating employee information in HRIS.
+content	experience	· Employee health insurance administration by coordinating with external vendor.
+content	experience	· Maintaining trackers/reports & culling out MIS/HRIS reports on daily/weekly/monthly basis.
+header	experience	7. Employee separation
+content	experience	· Handling End of Service processes, Conducting Exit Interviews, diagnosing the cause of attrition and recommend suitable HR initiatives to improve Organizational health & improve retaining ability.
+header	experience	Accomplishments:
+content	experience	· Implementation of retention plans has helped to drastically bring down attrition in the 0-90 days tenure , with the introduction of Nesting orientation and new hire handholding, TM on ones with the new hires once in a two weeks etc
+content	experience	· Could bring in changes in work culture based on employee feedback - As per the exit survey feedback.
+content	experience	· Could bring down the number of executive escalations - Employee concerns were properly addressed and closed, including people issues.
+header	experience	Industrial Training
+content	experience	· Industrial training experience with Le Meridian, Dubai in Front Office & Food & Beverage Service departments.
+content	experience	· Attended ODC’S organized by the Taj Group, The Atria, & Hotel Ashok, Bangalore.
+header	project	Projects
+content	experience	· Collective bargaining in industry – Excel glass Alleppey.
+content	experience	· Market Feasibility Study for a proposed hotel in a new location.
+content	experience	· Financial Viability of the Proposed Hotel & Break even analysis within a stipulated time.
+header	education	Education
+content	education	· 2005 - Masters in HRM, Christ College Bangalore (Pondicherry University).
+content	education	· 2002 - Degree in Hotel Management, Bangalore University.
+content	education	· 1998 - 10+2, Varkey International Private School, Dubai, UAE.
+content	education	· 1996 - SSLC (Class 10), Gulf Model School, Dubai, UAE.
+header	others	Personal Details
+header	others	Date Of Birth
+meta	others	:
+meta	others	October 30th, 1980
+meta	others	Height
+meta	others	:
+meta	others	6 Ft 4 Inches
+header	knowledge	Languages Known
+meta	others	:
+meta	knowledge	English, Malayalam
+meta	others	Passport No.
+meta	others	:
+meta	others	N 2704855 issued at Cochin
+meta	others	Driving License
+meta	others	:
+meta	others	Four Wheeler
+meta	others	Marital Status
+meta	others	:
+meta	others	Single
+meta	others	Father’s Name
+meta	others	:
+meta	others	Joseph James
+meta	others	E-Mail
+meta	others	:
+meta	others	sajiv.gj@gmail.com

@@ -1,0 +1,75 @@
+meta	others	SUMA.G
+meta	others	Cell: +91-9642268541,+91-7386442596
+meta	others	Email id: suma.gali14@gmail.com
+meta	others	Flat No:302, Mirra Residency 2, Plot No: 42 & 43, Aurabinda Colony, Opp: Dr Reddy Labs, Miyapur-500049, HYD
+header	others	CAREER OBJECTIVE:-
+content	others	Seeking a challenging position as accounts payable specialist to gain more knowledge in same stream and growing along with the organization and achieve planned goal on or before TAT Time.
+header	education	EDUCATION: -
+content	education	· Post Graduation Diploma in Management, in Finance (2014-2016)(Vishwa Vishwani School of business)
+content	education	· Bachelors in Commerce (2011-2014) (GVR&S degree college for women’s)
+header	experience	WORK EXPERIENCE: -
+content	experience	GE Energy Apex Accounts Payable– I am having 20 months of experience in Accounts payable Departments. As I have taken initiations of a team (Training, and resolving people issues), CST and Holds resolution Team (Handling Escalations & Issues related to Invoice and payments)
+content	experience	Company : Genpact from 30th April 2016 to 1st Jan 2018
+content	experience	Process : GE APEX (Accounts Payable Excellence)
+content	experience	Designation : Process Associate (PA)
+content	experience	Application : SAP (Fico end user)&Oracle
+header	experience	JOB DESCRIPTION: -
+content	experience	· Working on SAP Fico version (Gui720) and Oracle ERP’s.
+content	experience	· Processing of PO’s, NON PO’s and Pre Approved Invoices.
+content	experience	· Route invoices for appropriate approvals
+content	experience	· Resolve open invoices and issues with vendors.
+content	experience	· Working on Expedite requests which are raised by the buyer on behalf of the supplier.
+content	experience	· Raising Debit memos when required to knock off the duplicate payments.
+content	experience	· Handling Problem tickets raised by Buyers and Vendors.
+content	experience	· Worked with the internal audit team.
+content	experience	· Detecting the errors committed by internal team in the form of auditing and re-correcting it.
+content	experience	· Maintaining the error report.
+content	experience	· Working on supplier’s emails and business escalations.
+content	experience	· Place the invoices on the block.
+content	experience	· Coordinating with business users in resolving technical issues.
+content	experience	· Resolving supplier queries through calls, mails and problem tickets.
+content	experience	· Set appointments with vendors by phone to discuss the issues related to payments, refunds and Discount issues.
+content	experience	· Perform month end analysis.
+header	experience	MAINTAIN ACCOUNTS PAYABLE DEPARTMENT OF GE BUSINESS ACCOUNTS AS FOLLOWS: -
+content	experience	· GE Measurement and control (MCS) (SAP).
+content	experience	· GE Oil and GAS (Oracle and SAP).
+content	experience	· GE Power and Water (Oracle and SAP).
+content	experience	· GE Vectogray (Oracle)
+content	experience	· GE Industrial Solutions (SAP)
+content	experience	· GE Electricals (Oracle)
+content	experience	· GE Power Max (SAP)
+content	experience	· GE Repairs (SAP)
+header	experience	CORE COMPETENCIES: -
+content	experience	· Team player
+content	experience	· Polite telephone manner
+content	experience	· Problem solving
+content	experience	· Keen attitude and adaptability
+content	experience	· Analytical Skills
+header	knowledge	TECHNICAL SKILLS: -
+content	knowledge	· MS Office
+content	knowledge	· Oracle
+content	knowledge	· SAP – End user
+content	knowledge	· knowledge of key accounting principles and procedures
+header	others	AWARDS AND ACHIEVEMENTS: -
+content	others	· Appreciations from clients through Calls and Emails
+content	others	· Taken additional responsibility in work station apart from work by participating in Events conducted in organization.
+content	others	· Gave Lean Idea for betterment of process.(relates to betterment of process).
+header	others	AREA OF INTEREST:
+content	others	· Taking new challenges and responsibilities.
+header	others	PERSONAL PROFILE:
+header	others	Marital Status
+meta	others	: Married
+header	others	Gender
+meta	others	: Female
+header	others	Nationality
+meta	others	: Indian
+header	others	Date of Birth
+meta	others	: 14thFeb 1994
+header	knowledge	Languages Known
+meta	knowledge	: English, Telugu and Hindi
+header	others	Permanent Address
+meta	others	: Narasaraopet, Guntur(Dist),A.P(State).
+header	others	DECLARATION:
+meta	others	I hereby declare that the above mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above mentioned particulars
+header	others	Date :
+meta	others	Place : Signature (SUMA G)

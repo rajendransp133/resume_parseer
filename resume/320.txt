@@ -1,0 +1,164 @@
+header	others	RESUME
+meta	others	Syed Imtiyaz Ahmed
+meta	others	H.No. 9-4-77A122b
+meta	others	1st floor, Alhasnath colony,
+meta	others	Tolichowki, Hyderabad.
+meta	others	Email: imtiyaz4india@gmail.com
+meta	others	Cell: 8686807144
+header	others	CAREER OBJECTIVE
+content	others	Looking for a responsible position in a reputed organization, which recognizes and encourages my performance and gives me an opportunity to grow vertically along with it.
+header	education	EDUCATIONAL QUALIFICATION:
+content	education	1) B.sc computers from St.Francis degree college 2007
+content	education	2) Intermediate from Narayana junior college 2004
+content	education	3) S.S.C from S.Square high school. 2002
+header	experience	Experience:
+content	experience	1. Working as a Resolution Expert in Dell International services since (28/7/2014 – 9/11/2017)
+content	experience	2. Worked as a Process Associate in Genpact India Limited from (05 Dec 2011 – 22/7/2014)
+content	experience	3. Worked as a Tele Caller in Indian Institute of Advanced Cad Technology (Jan 2010 – Aug 2011).
+header	experience	Current Organization Roles and Responsibilities:
+content	experience	1. Probing and understanding the issue very well.
+content	experience	2. Provide remote assistance.
+content	experience	3. Troubleshoot applications, hardware resources and windows.
+content	experience	4. Installing, Client applications, antivirus, MS office, windows etc.,
+content	experience	5. Diagnose after troubleshooting.
+content	experience	6. Keep a note of the key steps which resolve the issue.
+content	experience	7. Escalate to the next level if the issue is unresolved.
+header	knowledge	STRENGTH:
+content	knowledge	· Hardworking nature.
+content	knowledge	· Positive attitude.
+header	others	Weakness:
+content	others	· I Believe people easily.
+content	others	· Cannot lie instantly.
+header	others	PERSONAL PROFILE:
+meta	others	Date of Birth : 10-06-1989
+meta	others	Father’s Name : Syed Yousuf
+meta	others	Occupation : Govt, Employee in Revenue Department
+meta	others	Nationality : Indian
+meta	others	Religion : Muslim
+meta	others	Gender : Male
+meta	others	Marital status : Un-married
+meta	knowledge	Languages Known: English, Hindi, Telugu and urdu
+meta	others	(SYED IMTIYAZ AHMED)
+meta	others	Date:-
+meta	others	Place:- Hyderabad
+meta	others	RESUME
+meta	others	Syed Imtiyaz
+meta	others	Ahmed
+meta	others	H.No. 9
+meta	others	-
+meta	others	4
+meta	others	-
+meta	others	77
+meta	others	A
+meta	others	122b
+meta	others	1
+meta	others	st
+meta	others	floor, Alhasnath colony,
+meta	others	Tolichowki, Hyderabad.
+meta	others	Email: imtiyaz4india@gmail.com
+meta	others	Cell:
+meta	others	8686807144
+header	others	CAREER OBJECTIVE
+content	others	Looking for a responsible position in a reputed organization, which
+content	others	recognizes and encourages my performance and gives me an opportunity
+content	others	to grow
+content	others	vertically along
+content	others	with it.
+header	education	EDUCATIONAL QUALIFICATION:
+content	education	1)
+content	education	B.sc computers from St.
+content	education	Francis degree college
+content	education	2007
+content	education	2)
+content	education	Intermediate from Narayana junior college
+content	education	2004
+content	education	3)
+content	education	S.S.C from
+content	education	S.Square high
+content	education	school.
+content	education	200
+content	education	2
+header	experience	Experience
+meta	others	:
+content	experience	1.
+content	experience	Working as
+content	experience	a
+content	experience	Resolution Expert
+content	experience	in Dell International services
+content	experience	since (28/7/2014
+meta	others	–
+content	experience	9/11/2017
+meta	others	)
+content	experience	2.
+content	experience	Worked as a
+content	experience	Process Associate
+content	experience	in Genpact India Limited from (05
+content	experience	Dec 2011
+meta	others	–
+content	experience	22/7/2014)
+content	experience	3.
+content	experience	Worked as a
+content	experience	Tele Caller
+content	experience	in
+content	experience	Indian Institute of Advanced Cad
+content	experience	Technology (Jan 20
+content	experience	10
+meta	others	–
+content	experience	Aug 2011).
+content	experience	Current
+content	experience	Organization
+content	experience	Roles and
+header	experience	Responsibilities
+meta	others	:
+content	experience	1.
+content	experience	Probing and understanding the issue very well.
+content	experience	2.
+content	experience	Provide remote assistance.
+content	experience	3.
+content	experience	Troubleshoot applications, hardware resources and windows.
+content	experience	4.
+content	experience	Installing
+content	experience	, Client applications, antivirus, MS office
+content	experience	, windows etc.,
+content	experience	5.
+content	experience	Diagnose after troubleshooting.
+content	experience	6.
+content	experience	Keep a note of the key steps which
+content	experience	resolve
+content	experience	the issue.
+content	experience	7.
+content	experience	Escalate to the
+content	experience	next level if the issue is unresolved.
+content	experience	docPropsthumbnail.emf
+header	others	RESUME
+content	experience	Syed Imtiyaz Ahmed
+content	experience	H.No. 9-4-77A122b
+content	experience	1
+content	experience	st
+content	experience	floor, Alhasnath colony,
+content	experience	Tolichowki, Hyderabad.
+content	experience	Email: imtiyaz4india@gmail.com
+content	experience	Cell: 8686807144
+content	experience	CAREER OBJECTIVE
+content	experience	Looking for a responsible position in a reputed organization, which
+content	experience	recognizes and encourages my performance and gives me an opportunity
+content	experience	to grow vertically along with it.
+header	education	EDUCATIONAL QUALIFICATION:
+content	education	1) B.sc computers from St.Francis degree college 2007
+content	education	2) Intermediate from Narayana junior college 2004
+content	education	3) S.S.C from S.Square high school. 2002
+header	experience	Experience:
+content	experience	1. Working as a Resolution Expert in Dell International services
+content	experience	since (28/7/2014 – 9/11/2017)
+content	experience	2. Worked as a Process Associate in Genpact India Limited from (05
+content	experience	Dec 2011 – 22/7/2014)
+content	experience	3. Worked as a Tele Caller in Indian Institute of Advanced Cad
+content	experience	Technology (Jan 2010 – Aug 2011).
+header	experience	Current Organization Roles and Responsibilities:
+content	experience	1. Probing and understanding the issue very well.
+content	experience	2. Provide remote assistance.
+content	experience	3. Troubleshoot applications, hardware resources and windows.
+content	experience	4. Installing, Client applications, antivirus, MS office, windows etc.,
+content	experience	5. Diagnose after troubleshooting.
+content	experience	6. Keep a note of the key steps which resolve the issue.
+content	experience	7. Escalate to the next level if the issue is unresolved.

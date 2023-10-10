@@ -1,0 +1,73 @@
+header	others	RESUME
+header	others	RESUME
+meta	others	Dipak. N. Suthar
+header	others	CAREER OBJECTIVE
+meta	others	· To be a part of an efficient team and serve in an organization which offers challenging tasks, creative environment and a bright career.
+header	others	CORRESPONDENCE DETAILS
+meta	others	Address
+meta	others	: Gopal nagar
+meta	others	, Nana Chiloda (Naroda)
+meta	others	Ahmedabad-380022.
+meta	others	Telephone
+meta	others	:
+meta	others	CellPhone
+meta	others	: 9638096350
+meta	others	Email Address : dipak_suthar1985@yahoo.in
+header	others	PERSONAL DETAILS
+meta	others	Date of Birth
+meta	others	:
+meta	others	1st Sep, 1985
+meta	others	Marital Status
+meta	others	:
+meta	others	Single
+meta	others	Gender
+meta	others	:
+meta	others	Male
+header	knowledge	Languages Known
+meta	others	,
+content	knowledge	Gujarati, Hindi, English
+header	education	ACADEMIC RECORDS
+content	education	Name of Examination
+content	education	Board/
+content	education	University/Institute
+content	education	Year of Passing
+content	education	% Marks
+content	education	M.Com
+content	education	Gujarat University
+content	education	April, 2008
+content	education	62
+content	education	B.Com
+content	education	Gujarat University
+content	education	April, 2006
+content	education	58
+content	education	H.S.C.
+content	education	G.H.S.E.B.
+content	education	March, 2003
+content	education	62
+content	education	S.S.C
+content	education	G.S.E.B
+content	education	March, 2001
+content	education	71
+header	knowledge	COMPUTER EXPOSURE
+content	knowledge	· Fundamentals of Computer, M. S. Office, Internet , Tally 7.2 & 9, and Busy win3.5 , ERP
+header	experience	EXPERIENCE DETAILS
+content	experience	· Worked as Asst. Accountant in sandip desai & Co., Chartered Accountants in Ahmedabad, India from April 2009 to Dec 2010.
+content	experience	· I have joined as. Asst. Accountant from January 2011 and promoted to Sr. Executive (Account & finance) in July 2017 in Proflex system (A div of M & B Engineering Ltd.) The group is primarily engaged in roofing & Pre-Engineering building
+header	experience	ROLE
+content	experience	· Fund Transfer
+content	experience	· TDS calculation & Prepare Return
+content	experience	· Collection Report
+content	experience	· Provision for monthly p & L
+content	experience	· Purchase Entry
+content	experience	· Party payment
+content	experience	· Party Ledger Reconciliation
+content	experience	· Service tax calculation & Return
+content	experience	· Bank reconciliation
+meta	experience	· MIS report
+meta	others	AREAS OF INTEREST
+meta	others	· Finance and Accounts
+meta	others	· Taxation
+meta	others	Place:Ahmedabad
+meta	others	Dipak Suthar
+meta	others	Dipak Suthar
+meta	others	1 | Page

@@ -1,0 +1,75 @@
+header	others	CURRICULUM VITAE
+meta	others	MD.ABDULLAH
+meta	others	C/o-Heera General Store
+meta	others	Beside Madina Masjid
+meta	others	Hindpiri, Ranchi
+meta	others	JHARKHAND
+meta	others	Mob :- 8102553509,9386044209
+meta	others	E-mail :- md_abdullahran@yahoo.in
+meta	others	–––––––––––––––––––––––––––––––––––––-
+header	others	OBJECTIVE : -
+content	others	Togive my every best to the organization working with, coping with full
+content	others	Potent and efficiency.
+header	others	PERSONAL DATA:-
+meta	others	Father’s Name
+meta	others	:
+meta	others	MD.SALMAN AKHTAR
+meta	others	Nationality
+meta	others	: Indian
+meta	others	Date of Birth
+meta	others	: 18th jan 1989
+meta	others	Sex
+meta	others	: Male
+meta	others	Religion
+meta	others	: Muslim
+meta	others	Marital Status
+meta	others	: Unmarried
+meta	others	Height
+meta	others	: 5’ 11”
+content	others	Hobbies
+content	others	: Love to play Cricket
+header	knowledge	Language Known
+content	knowledge	: English,Hindi,Urdu and
+content	others	Bengali
+content	others	Mother Tongue
+content	others	: Hindi
+header	education	ACADEMIC QUALIFICATION:-
+content	education	Examination
+content	education	University/Board
+content	education	Year
+content	education	Division
+content	education	Matriculation
+content	education	J.A.C
+content	education	2004
+content	education	2nd
+content	education	Intermediate
+content	education	J.A.C
+content	education	2006
+content	education	2nd
+content	education	Graduation
+content	education	Ranchi University
+content	education	2010
+content	education	2nd
+content	education	Pursuing ICWAI from Ranchi Chapter of Cost Accountants. (Group-A)
+header	education	COMPUTER QUALIFICATION:-
+content	education	· D.C.A ( Diploma in computer Application )
+content	education	· TALLY 9.0
+header	experience	WORKING EXPERIENCE:-
+content	experience	· Worked as a Marketing Executive in TATA INDICOM
+content	experience	(Postpaid Service) For 3 months.
+content	experience	· Worked as an Inbound CCE with RELIANCE BPO
+content	experience	Since 29-Dec-2008 Till 04-Nov-2009
+content	experience	· Worked as an Inbound Supervisor with RELIANCE
+content	experience	BPO since 05-Nov-2009 Till 07-Feb-2010
+content	experience	· Worked as a CCE in DEALER HELPLINE DESK RBPO
+content	experience	Since 08-Feb-2010 Till 30-Apr-2011
+header	experience	DECLARATION:-
+content	experience	I, Md.Abdullah, hereby do declare that the
+content	experience	Information furnished above is true to the best of my knowledge
+content	experience	and belief and hence forth any false interpretation is subject to
+content	experience	cancellation of my candidature.
+content	experience	Place
+content	experience	: Ranchi
+content	experience	Signature:-
+content	experience	Date
+meta	others	:

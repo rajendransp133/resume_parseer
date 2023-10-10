@@ -1,0 +1,71 @@
+meta	others	Karan Jindal_Draft 1
+meta	others	PRANEETA MOHANTY
+meta	others	Email: praneetamohanty@gmail.com
+meta	others	Phone: +91 7028873845
+header	experience	Mainframe Professional more than two years of expériences
+content	experience	· An enthusiastic professional highly motivated and possessing good leadership skills having bachelors of engineering degree in Electronics & Communication Engineering.
+content	others	· Good time management, communication, decision making, leadership and planning skills with the ability to learn quickly and multi-task in a fast paced environment.
+content	experience	· Eager to learn new technologies and methodologies.
+content	experience	Employment Chronicle
+content	experience	Designation
+content	experience	Company Name
+content	experience	DuratioN
+content	experience	DB2 DBA
+content	experience	Wipro Technologies
+content	experience	Feb’2017-Present
+content	experience	System Administrator
+content	experience	Wipro Technologies
+content	experience	Sep’2015-Jan’2017
+header	knowledge	Technical Proficiency
+content	knowledge	Operating Systems: OS/390, Z/OS, Windows 2000/XP/NT
+content	knowledge	Language: JCL, COBOL, SQL
+content	knowledge	Data base: DB2
+content	knowledge	Tools: DB2 Admin, Omegamon,OPC,CA7, HMC, NETVIEW
+content	knowledge	Skill: Knowledge about mainframe environment such as MVS,
+content	knowledge	JCL, COBOL, DB2, IMS, CICS, VSAM
+content	experience	Projects Contour
+content	experience	Royal Sun Alliance
+content	experience	Duration: February 2017 till date
+content	experience	Technology: Mainframe
+content	experience	Description: RSA insurance group (trading as formerly Royal and Sun Alliance) is a British multinational
+content	experience	General insurance company headquarter in London, UK. RSA has major operations in the UK and
+content	experience	Ireland, Scandinavia and provides Insurance products and services in more than 140 countries
+content	experience	through a network of local partners. It has 17 Million customers.
+header	experience	Roles and responsibilities:
+content	experience	· Production Support for all DB2 related applications On call OOH
+content	experience	· Database Performance monitoring and tuning
+content	experience	· Object Creation/alteration and Granting access
+content	experience	· Running Offline/Online utilities for data maintenance
+content	experience	· Hands on experience in troubleshooting production DB2 issues
+content	experience	· Monitoring and managing DB2 thread and locking issues
+content	experience	· Proactively monitoring and performing daily maintenance activities
+content	experience	Rhenish West-Phalian Poweplant
+content	experience	Duration: September 2015 to January 2017
+content	experience	Technology: Mainframe
+content	experience	Description: RWE is German electric utilities company based in Essen, North-Rhine Westphalia. The
+content	experience	Energy Company supplies electricity and gas to more than 20 and 10 Million customers respectively.
+header	experience	Roles and Responsibilities:
+content	experience	· System monitoring and Console Monitoring
+content	experience	· Resolving tickets in a stipulated time
+content	experience	· Dealing with various JCL issues
+content	experience	· Coding in existed module
+content	experience	· Very limited support to scheduling activities based on production services approval
+content	experience	· Coordinating with other support team
+content	experience	· Internal shift handover/ turnover
+content	experience	· Day/Night checklist
+content	experience	· Spool management
+content	experience	· CICS transaction monitoring
+content	experience	· IMS transaction monitoring
+content	experience	· Recycling CICS and IMS through automation
+content	experience	Credentials
+header	education	Academic:
+content	education	· B.Tech from Silicon Institute of Technology in electronics and telecommunication with 7.95 CGPA in 2015
+content	education	· Higher Secondary from Stewart Science College, CHSE in 2010
+header	project	Projects and training:
+content	project	· Topic: “Implementation of Efficient Sample Rate Converter for a Software Defined radio”
+content	project	· Objective: To implement a sample rate converter block of a Software defined radio using CIC filters as decimators and design effective methods to compensate the pass band droop of the filter output.
+header	others	Personal Vitae
+content	others	Date of Birth: 18th Novemeber 1992
+content	knowledge	Languages Known: English, Hindi & Odia
+content	others	Permanent Address: Quarter no-02, Reserve Police line, Buxi Bazar, Cuttack
+content	others	References: Will be pleased to furnish upon request

@@ -1,0 +1,58 @@
+meta	others	JAIMIN SHAH
+meta	others	Mo: +91 81609 36190
+meta	others	E-mail: jaiminshah234@gmail.com
+header	others	CAREER OBJECTIVE
+content	others	Seeking A Responsible Position with an Opportunity for Professional Challenge and Growth to Support
+content	others	and Enhance Co-Operative Objectives of the Company
+header	experience	EXPERIENCE DETAILS
+content	experience	Sep’16 to till date with Agros Impex (India) P Ltd, Gandhinagar as Jr. Account
+content	experience	officer in Finance Dept. Group Company of FTA HSRP Solutions Pvt. Ltd
+content	experience	From 1st June’2016 to 31st Aug’2016 I am working with DPS Bearings (P) Ltd,
+content	experience	Chhatral as a Senior Accountant.
+content	experience	Nov’11 to 31st May-2016 with Sintex Industries Ltd, Kalol as an Accountant in
+content	experience	Homoeopathy dept. known as Healwell International Ltd is Group Company of
+content	experience	Sintex Industries Ltd.
+content	experience	Day to day activities for cash handling and banking reconciliations
+content	experience	Maintaining various books of accounts like cashbook, bankbook, sundry creditors,
+content	experience	sundry debtors, Journal ledger, purchase & sales register.
+content	experience	Preparation aging & MIS for management information.
+content	experience	Attending the queries of internal & external auditors.
+content	experience	Responsible for Petty cash handling.
+content	experience	Preparing sales Invoices in Tally 7.2 & ERP 9 (Release 4.93)
+content	experience	Preparing Monthly & Annual Tax working data, challans and VAT, CST
+content	experience	entries.
+content	experience	Maintaining Purchase and Sales inventory.
+content	experience	Preparing Quarterly TDS challans & Filling TDS returns.
+content	experience	Preparing VAT & CST data like 201-201A-201B & CST 3B-Purhase detail and Sales
+content	experience	details and filling monthly and annual return of VAT & CST.
+content	experience	Preparing “C” Form Data & “F” Form data for management information
+content	experience	Preparing Service Tax data return filing & service tax payment.
+header	education	ACADEMIC
+content	education	Qualification University Result Grade Passing Year
+content	education	Examination
+content	education	Board
+content	education	Bachelors in Gujarat
+content	education	51.11 %
+content	education	2011
+content	education	Commerce University
+content	education	H.S.C G.S.H.S.E.B. 66.29%
+content	education	2006
+content	education	S.S.C G.S.H.S.E.B. 48.28% 2004
+header	knowledge	COMPUTER KNOWLEDGE
+content	experience	Operating System : Windows XP.
+content	knowledge	Internet Tools : MS-Internet Explorer, Mozilla Firefox, Google Crome
+content	knowledge	Software using : M.S.Office & Tally ERP 9
+header	others	EXTRA CURRICULAR ACTIVITIES
+content	others	Socializing with People, Spiritual books, Web Surfing
+header	others	PERSONAL DETAILS
+meta	others	Date of Birth : 9th May, 1988
+meta	others	Address : 7/8/7-Kuber Narsi No Madh,
+meta	others	Near Old Chora,
+meta	others	Kalol (N.G.) 382 721
+meta	others	Dist: - Gandhinagar
+meta	others	Contact No : +91 81609 36190
+meta	others	Marital Status : Single
+content	knowledge	Languages : English, Hindi, Gujarati.
+meta	others	Nationality : Indian
+content	knowledge	Languages known: English, Hindi, Gujarati
+meta	others	Hobbies : Writing Poems, Reading & Playing Cricket.

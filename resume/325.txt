@@ -1,0 +1,78 @@
+header	others	Curriculum Vitae
+header	others	Curriculum Vitae
+meta	others	Mrs.Shashikala,
+meta	others	#84, 2nd stage,
+meta	others	Vinayaka Layout,
+meta	others	Vijayanagar,
+meta	others	B’lore-40
+meta	others	Mob : 98809-19218
+meta	others	shashikala.an@gmail.com
+header	others	Objective
+content	others	To obtain a position that allows me to utilize my extensive skills, expertise to pursue a challenging career in a progressive team environment.
+header	others	High Lights
+content	others	Dedicated, efficient and responsible professional.
+content	others	Able to work with and maintain relations with staff and clients on all levels.
+header	education	Educational Qualifications
+content	education	Graduation
+content	education	: B. Sc (PCM)
+content	education	(Batch: 1994-1997)
+content	education	B.A In Hindi (Dakshin Bharath Hindi Prachar Sabha)
+header	education	Additional Qualification
+content	education	: 1 Year Diploma course at NIIT
+content	education	(Batch : 2001)
+header	experience	Work Experience
+content	experience	1. 1-Dec-2011 till Date :
+content	experience	Interactive Marketing Private Limited :
+content	experience	Role : Assistant Manager Operations - Sales
+header	experience	Responsibility :
+content	experience	· Managing the operations of inbound and outbound call center.
+content	experience	· Sales analysis.
+content	experience	2. 16th August 2004 till date
+content	experience	BHARTI AIRTEL LIMITED (AIRTEL BROADBAND AND TELEPHOE SERVICES):
+content	experience	The largest private sector integrated telecommunications services group in India in terms of the number of customers.
+content	experience	Current Profile in Bharti : Process Auditor.
+header	experience	Responsibility:
+content	experience	· Measuring the quality of login, resolution & Closure.
+content	experience	· Instrumental in driving the respective functions to fill the identified gaps in process and take corrective actions.
+content	experience	· Collaborated with the functional heads in filling the gaps identified.
+content	experience	From 10-Dec-09 to 21-Nov-10: Self-service Spoc for south hub.
+content	experience	· Managing the Website related issues.
+content	experience	· To enhance the website performance for a better customer experience.
+content	experience	From 1-Oct-07 to 09-Dec-09: Escalation Desk Team Leader
+content	experience	Responsibility: Taking care of
+content	experience	1) Top Management Escalation desk for south hub that includes login and working on mail tracker.
+content	experience	2) TRAI, DOT cases & Consumer Forum cases.
+content	experience	And
+content	experience	Co-coordinating with the Functional heads for process correction/Process Implementation across south hub and at national level.
+content	experience	From 16-Aug-04 to 30-Sep-07
+header	experience	Responsibility:
+header	experience	· Inbound call center-handling the customers Complaint / Request
+content	experience	· Briefing the team daily on process change and product launch.
+content	experience	· Analyzing issues of the calls received & sending issues to the manager every week to solve those issues.
+content	experience	2. December 18th 2003 till June 18th 2004
+content	experience	Spanco Telesystems & Solutions (Outsource for Tata Tele Services)
+header	experience	Responsibility:
+content	experience	· In bound call center – Attending to customers query, requests & complaints
+content	experience	3. 5th June 2003 to 15th October 2003
+content	experience	Smart Visions:
+header	experience	Responsibility:
+content	experience	· To handle Petty Cash
+content	experience	· To maintain production data
+content	experience	· To interact with clients for payments and order placing
+header	others	Fields of Interest
+meta	others	· Listening to music
+meta	others	· Cooking
+header	others	Personal Details
+meta	others	Husband’s Name
+meta	others	:
+meta	others	Chandrashekar S.
+meta	others	Date of Birth
+meta	others	:
+meta	others	March 1st 1977
+header	knowledge	Linguistic Skills
+meta	others	:
+meta	knowledge	English, Hindi and Kannada
+meta	others	I hereby state that the above-mentioned statements are true to best of my knowledge.
+meta	others	Place: Bangalore
+meta	others	Date:
+meta	others	(Shashikala)

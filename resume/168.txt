@@ -1,0 +1,112 @@
+header	experience	Microsoft Word - REENA.CV
+header	experience	CURRICULUM - VITAE
+header	experience	OBJECTIVE
+content	experience	To pursue a progressive career in today`s competitive environment
+content	experience	where I can apply my knowledge and skills for the growth of
+content	experience	organization.
+header	experience	PROFICIENCY FORTE
+content	experience	� Handling and maintain the employee grievance, joining
+content	experience	formalities, new joiner communication mail, bank
+content	experience	accounts, ID cards, issuing payslips, termination mails,
+content	experience	Bonafide certificates, Experience certificate etc.,
+content	experience	� Doing Payroll for 800 employees.
+content	experience	� Handling statutory Compliances like PF, ESI, and PT.
+content	experience	� Handling and maintain performance management
+content	experience	system.
+content	experience	� Processing TDS for employees. Preparing and furnishing
+content	experience	form16.
+content	experience	� Preparing and furnishing client’s Audit documents,
+content	experience	Agreements, SCF with Deutsche bank.
+content	experience	� Preparing invoice for payment through software.
+content	experience	� Negotiating and Finalizing Insurance policies.
+content	experience	� Handling and maintaining of time sheet, employees
+content	experience	data base of 800 employees.
+content	experience	� Assisting recruitment process. Conducting HR
+content	experience	interviews to check the candidate’s suitability for the
+content	experience	requirement. Final documents verification and BGV
+content	experience	process to place suitable employees.
+content	experience	� Negotiating salary with the candidate, checking
+content	experience	effective date of joining.
+content	experience	� Excellent maintenance of client relationship, frequent
+content	experience	meeting with client to resolve immense issue.
+meta	others	REENA JULIET H
+header	others	ADDRESS :
+meta	others	14/56 Plot No 8 Agatheswarar Kovil
+meta	others	street, Polichalur-Pallavaram,
+meta	others	Chennai – 600 074.
+meta	others	MOBILE NO.:
+meta	others	+919940136155, +919940218322
+meta	others	EMAIL: reenajuliet13@gmail.com
+header	others	PERSONAL PROFILE :
+meta	others	FATHER`S NAME-Mr. Henry G
+meta	others	DATE OF BIRTH-23rd Apr-1986
+meta	others	SEX-FEMALE
+content	others	NATIONALITY-INDIAN
+header	knowledge	LANGUAGES KNOWN
+content	knowledge	� English
+content	knowledge	� Tamil
+content	knowledge	� Telugu
+header	knowledge	STRENGTH
+content	knowledge	� Confident, Patient and able
+content	knowledge	to Co-operate and Handle
+content	knowledge	different and difficult
+content	knowledge	situations.
+header	experience	CAREER SCAN:
+content	experience	Offering Offering Offering Offering 03030303++++ years of experienceyears of experienceyears of experienceyears of experience in Human Resource department as Senior HRin Human Resource department as Senior HRin Human Resource department as Senior HRin Human Resource department as Senior HR
+content	experience	Since November’14: : : : Blue Ocean Personnel & Allied ServicesBlue Ocean Personnel & Allied ServicesBlue Ocean Personnel & Allied ServicesBlue Ocean Personnel & Allied Services Pvt Limited, Pvt Limited, Pvt Limited, Pvt Limited, ChennaiChennaiChennaiChennai as as as as Senior HR Senior HR Senior HR Senior HR (Client: Isuzu,
+content	experience	Nokia, Vodafone & IMOP)
+content	experience	Key Result Areas:
+content	experience	� Excellence in handling of white collar employees.
+content	experience	� Preparing and finalizing payroll sheet for every month, sharing payslip promptly to all employees.
+content	experience	� Finalizing monthly statutory process like PF, ESI.
+content	experience	� Maintained and furnished monthly Employees data like headcount reports, Salary data base,
+content	experience	Invoice details & Increment records.
+content	experience	� Finalizing TDS sheet after processing TDS declaration of employees, quarterly payment details to
+content	experience	process TDS.
+content	experience	� Monthly Insurance process for employees, further follow up to process claims.
+content	experience	� Analyzing documents of selected candidates, verifying BGV process.
+content	experience	� Conducting final HR interview, Negotiating and finalizing CTC to on board employees on required
+content	experience	effective date.
+content	experience	� Sharing approval to process infra & ID card for new joiners.
+content	experience	� Generate E Mail id’s through company domain, share the same to employees.
+content	experience	� Analyzing market trend and employees requirement, addressing & resolving the same to the best
+content	experience	� Frequent client visit to optimize smooth relationship.
+content	experience	� Handling and maintain the probation & confirmation, full and final settlement, leave &
+content	experience	attendance.
+content	experience	� Pan India employees Grievance handling.
+content	experience	� As per client requirement preparing offer letter, pay sheet & Increment copies, sharing the same
+content	experience	promptly to employees.
+content	experience	� Identifying and make necessary changes in HR policy for the betterment of project.
+content	experience	� Preparing & Furnishing details for yearly audit.
+content	experience	� Conducting review meeting to develop effective man power in project.
+content	experience	� Monthly invoice would process and upload in the portal for payment.
+content	experience	� Generating monthly Purchase Order & Work Completion Certificate.
+content	experience	� Processed Supply Chain Finance at Deutsche Bank.
+header	experience	PREVIOUS EXPERIENCE:
+content	experience	June’14 to October’14June’14 to October’14June’14 to October’14June’14 to October’14: : : : Sutherland Global ServicesSutherland Global ServicesSutherland Global ServicesSutherland Global Services, , , , ChennaiChennaiChennaiChennai as as as as Revenue Analyst.Revenue Analyst.Revenue Analyst.Revenue Analyst.
+content	experience	Key Result Areas:
+content	experience	• Audit and reconciles data in a timely manner.
+content	experience	• Prepared and maintained record of financial transaction to close revenue cycle process.
+content	experience	• Verified and processed approximately 60% of audit revenue.
+content	experience	• In few cases had a conversation with Fedral, State & Third party representatives of US to secure
+content	experience	additional information pertaining to close the unclosed accounts.
+content	experience	• Received best performer award for closing monthly revenue cycle process on stipulated time
+content	experience	period.
+content	experience	November’13 to April’14: Stella Maris College, Chennai as Administrative Staff. November’13 to April’14: Stella Maris College, Chennai as Administrative Staff. November’13 to April’14: Stella Maris College, Chennai as Administrative Staff. November’13 to April’14: Stella Maris College, Chennai as Administrative Staff.
+content	experience	Key Result Areas:
+content	experience	o Compute & Finalize pay bill to claim arrears, Income tax return & Increment certificate.
+content	experience	o Issuing Transfer & Bonafide certificate for students.
+content	experience	o Maintained & Furnished monthly time sheet for Government aided staffs.
+content	experience	o Maintained complete data base of both Government & Management staffs.
+content	experience	o Issuing Offer, Increment & Relieving.
+content	experience	o Processed other admin related activities.
+header	education	ACADEMIC CREDENTIALS:
+content	education	Accomplished Postgraduate Diploma in Human Resources management, Loyola College –
+content	education	Pondicherry University in the year 2010.
+content	education	Accomplished Bachelor of Commerce, Stella Maris College – Madras University in the year 2006.
+content	education	Accomplished 10th & 12th from ST. Theresa Girls Convent (2003).
+header	knowledge	IT SKILLS:
+content	knowledge	� Course coveredCourse coveredCourse coveredCourse covered : : : : Windows 2000, Windows XP, Windows
+content	knowledge	Vista, Linux, MS DOS
+content	knowledge	� Office PackageOffice PackageOffice PackageOffice Package : Microsoft Word, Excel, PowerPoint, Access
+content	knowledge	� Payroll software :Payroll software :Payroll software :Payroll software : Greytip Greytip Greytip Greytip

@@ -1,0 +1,81 @@
+header	experience	Sweety
+header	others	Profile Summary
+content	others	Priyanka Sarkar
+content	others	Cell: 7406488748
+content	others	Email: priyanka17sarkar@gmail.com
+header	others	Career Objective :
+header	others	To be in a challenging position, where I can grow along with the organization and effectively utilize my experience in Recruitment to contribute in achieving the objectives of the organization
+header	experience	Professional Summary:
+content	experience	Around 6.0 Years of experience. 6 years E2E Recruitment in contract , permanent staffing and Leadership hiring and mass hiring.
+content	experience	1-Company Name: Hewlett Packard Enterprise(Currently DXC Technologies)
+content	experience	Duration: Aug 2015 to July 2018
+content	experience	Designation: Recruiter-BPS ,Finance ,IT
+content	experience	2-Company Name: Magna Infotech Ltd (Division of Quess Corp) Recruited for Clients
+content	experience	Duration: Jun 2013 to Aug 2015
+content	experience	Designation: Senior Consultant-IT /Non IT
+content	experience	Clients Worked for: FAI, Societe Generale, JP Morgan, Altisource, Fiserv, Goldman Sachs, Wells Fargo, AON Hewit, ANZ, Qualcom,Renault Nissan,Lennox International, KLA Tencor,Volvo,Nokia,RR Donnelley ,Tektronix
+content	experience	3-Company Name: Maven Workforce Pvt Ltd,Bangalore
+content	experience	Duration: Dec 2012 to June 2013
+content	experience	Designation: Team Member-Talent Acquisition-IT/NON IT
+content	experience	Clients worked for : Accenture TCS,HP ICICI ,BIRLA SUNLIFE,TATA AIG,ING Vysya
+content	experience	4-Company Name:Global Job Shop,Bangalore
+content	experience	Duration: June 2012 to Dec 2012
+content	experience	Designation: Recruitment Executive-IT/NON IT
+content	experience	Clients worked for : Arctern,Paramantra, Clear Water,Galaxy International,INOX
+header	experience	Job Responsibilities in DXC:
+content	experience	· Getting the requirements from HMs and blocking their calender to understand the requirement.
+content	experience	· Sourcing, Screening profiles through various job boards and internal database Mapping and shorlisting the Resumes as per business Needs using different channels and sources
+content	experience	· Lining up the shporlisted ones by HMs for interiviews
+content	experience	· Taking Feedback from the HM and if selected then processing the offer
+header	experience	Other Roles:
+content	experience	· Handling agency profilesand conducting drives.
+content	experience	· Also worked for Vanilla skills for junior and sub junior positions for drives and successfully closed the positions
+content	experience	· Preparing PPT and presenting in weekly global meetings on current reqs challenges and solutions
+content	experience	· Do market intelligence for bidding projects and reqs yet to be approved
+content	experience	· Proactively target passive external talent through LinkedIn, Social Media, Internal Tools(Taleo), Networking & Referral Gathering.
+content	experience	· Keeping the candidate warm throughout process until hiring decision is made
+content	experience	· Completing the CSW on taleo and maintaining trackers on client and personal basis.
+header	experience	Job Responsibilities in Magna Infotech,Maven Workforce and Global Job shop(Consultancies)
+content	experience	· Understanding the requirement shared by the client
+content	experience	· Sourcing candidates through various job sites portals( Naukri,Monster),job posting, Mass Mailing, Employee Referrals, Training institutes , as well as from internal database for the given requirements
+content	experience	· Screening the candidates for availability, interest level, salary range, relocation, technical knowledge and basic qualification
+content	experience	· Process the confirmed profiles to the TL/Team manager to be submitted to the client
+content	experience	· Obtaining feedback from the clients for the profiles shared
+content	experience	· Documenting and maintaining profiles using in Sonar recruitment tool
+content	experience	· Candidates shortlisted from client’s end are scheduled for interview. Following up with the shortlistedc candidates on interview date and make sure they attend the interview
+content	experience	· Preparing trackers for shortlisted candidates in client format
+content	experience	· Negotiating with the selected candidates on the CTC and date of joining according to the client’s feasibility.
+content	experience	· Updating the details of selected candidates of ANZ in Taleo
+content	experience	· Creating offers for selected Candidates in ‘Radar’ recruitment tool
+content	experience	· Creating Legal Rights to Work (LRW) for selected candidates and process it with the client, Creating Cost and sanction checks for the selected candidates
+content	experience	· Following up with the candidates till the date of joining
+content	experience	· Collecting necessary documents from the selected candidates required for joining formalities and maintaing its tracker
+content	experience	· Ensuring smooth onboarding and document compilation for selected candidates
+content	experience	· Handling the client(ANZ) and candidates @ the time of walk-ins by obtaining feedback of each candidate and ensuring proper arrangements done properly in Magna
+content	experience	· Handling weekend drives alone on Saturdays full day
+content	experience	· Internal Recruitments: Understanding the requirements for the internal projects. Planning and prioritizing the requirements which initially include basic understanding of required skill set and then servicing them based on business criticality
+content	experience	· HR interviews, Salary and Notice Period negotiation, reference check, rolling out offer letter.
+content	experience	· Maintaining the database of all the candidates, shortlisted, interviewed, offered and declined
+content	experience	· Responsible to collate and prepare weekly monthly report of complete interview process along with pipeline and joiner’s data
+content	experience	· Handled walk-in’s conducted as Single point of contact.
+header	others	Awards and Recognition:
+content	others	· Received “Star of the quarter” award with highest selections and margin in several months in Magna Infotech
+content	others	· Certified for highest number of selections in bulk Hiring in DXC
+content	others	· Appreciated for making resources to join in a weeks time in several occasions while working for C2H in Magna Infotech
+content	others	· Providing on the job training in recruitment to the PIP team on a daily basis
+content	others	· Received Above and beyond cerfication in Magna for making the highest revenue and profit
+content	others	· Received many email appreciations from Zonal and vertical Heads for closing niche positions and meeting SLAs
+header	education	Educational Qualification:
+content	education	· MBA (Human Resources) from IIAM (2009-11)
+content	education	· B.com from Utkal University(2006-2009)
+content	education	· XII from Ravenshaw University (2004-2006)
+content	education	· X from DAV Public School, CBSE Board (2004
+header	others	Personal Details:
+meta	others	· DOB: 17th January, 1989
+meta	knowledge	· Languages Known: English, Hindi,Bengali,Odia
+meta	others	· Current Location: Electronic City, Bangalore
+meta	others	· Marital Status:Married
+header	others	Declaration:
+meta	others	I hereby declare that the above mentioned are true to the best of my knowledge.
+meta	others	Place : Bangalore Priyanka Sarkar
+header	others	Date :

@@ -1,0 +1,37 @@
+meta	others	Dhananjay Arun Vishe
+meta	others	B wing-02, Shree Om Ganesh Appartment, Shivaji Nagar,
+meta	others	Railway Station Road, Vasind (West) 421601.
+meta	others	Mob: 8381072554
+meta	others	dhananjayvishe2@gmail.com
+header	others	CAREER OBJECTIVE:
+content	others	To work in a firm with a professional work driven environment where I can utilize and apply my knowledge, skills which would enable me as a fresh graduate to grow while fulfilling organizational goals.
+header	education	BASIC ACADEMIC CREDENTIALS:
+content	education	Graduation: Year 2015 - 2018
+content	education	· Bachelor of Commerce from university of Mumbai, overall passing with 5.10GPA and scoring ‘B’ grade.
+content	education	Intermediate: Year 2015
+content	education	· From Board of Mumbai passing with 62.00%.
+content	education	Matriculation: Year 2013
+content	education	· From Board of Mumbai passing with 76.91%.
+header	knowledge	COMPUTER SKILLS & OTHERS:
+content	knowledge	· Windows, MS office, MS word, MS Excel, MS PowerPoint.
+content	knowledge	· Tally ERP 9.
+header	experience	EXTRA-CURRICULAR ACTIVITIES:
+content	experience	· Have participated in NSS Camp and social service activities during 2016 and 2017.
+content	experience	· Team leader of 7 students for team leading task in cultural festival.
+header	others	PERSONAL DETAILS:
+header	others	· Name
+meta	others	: Dhananjay Arun Vishe
+meta	others	· Gender
+header	others	: Male
+meta	others	· Date of Birth : 18th October,1996
+header	knowledge	· Language Known
+meta	knowledge	: English, Hindi & Marathi
+meta	others	· Marital Status
+meta	others	: Single
+header	others	· Nationality
+meta	others	: Indian
+header	others	· Interest & Hobbies
+meta	others	: Reading, Music, Adventure sports and Travelling.
+header	others	DECLARATION:
+meta	others	I hereby declare that all the statements made above are true & correct to the best of my knowledge & belief, I will produce my original documents as and when required.
+meta	others	Dhananjay Arun Vishe

@@ -1,0 +1,145 @@
+meta	others	PRITHVI BHAT N.R Address:
+meta	others	Padma Nilaya, #212, 8th Main 3 E Cross,
+meta	others	NGEF Layout, Sadananda Nagar
+meta	others	Bangalore-560038
+meta	others	Email ID: prithvibhatnr.7@gmail.com
+meta	others	Mobile: +91 9535790774
+header	others	PROFESSIONAL OBJECTIVE:
+content	others	To give my best at entry level to learn and work efficiently for the overall development of my skills and for the company.
+header	experience	SYNOPSIS:
+content	experience	· Worked as Intern in GIMMB Techworks Pvt Ltd for 5 months, involved in
+content	experience	Software Development with skill set in Object Oriented Analysis/Design,
+content	experience	Java and ASP .NET Development.
+content	experience	· Proven ability to effectively plan, coordinate and meet the deadlines of a
+content	experience	project with quality standards. Ensured robust code development and
+content	experience	identifies areas of improvement in code development.
+content	experience	· Delivered project on time with quality standards under different
+content	experience	development process like Incremental Model, Agile process.
+header	experience	PROFESSIONAL EXPERIENCE:
+content	experience	Company: GIMMB TECHWORKS Pvt Ltd
+content	experience	Period: From Jan 2018 to May 2018.
+content	experience	Position: Web Developer Intern.
+header	education	EDUCATIONAL QUALIFICATION:
+content	education	Class/Course
+content	education	Name of Institute
+content	education	Board/University
+content	education	Year of Passing
+content	education	Marks%
+content	education	MCA
+content	education	Dr. Ambedkar Institute of Technology, Bangalore
+content	education	Visweswaraya Technological University
+content	education	2018
+content	education	68.70
+content	education	BCA
+content	education	Sri Mahaveera College,
+content	education	Moodbidri
+content	education	Mangalore University
+content	education	2015
+content	education	65.22
+header	knowledge	TECHNICAL SKILLS:
+header	knowledge	Language
+content	knowledge	Java, Data structures, HTML, C#, ASP.NET MVC, CSS, Java Script
+header	knowledge	Tools & IDE
+content	knowledge	Eclipse, Visual Studio, Net Beans, SSMS,WAMP
+header	knowledge	Database
+content	knowledge	Oracle 11g, SQL,PL/SQL
+header	knowledge	Operating Systems
+content	knowledge	Microsoft Windows
+header	experience	INTERNSHIP DETAILS :
+content	experience	· Project Title: “ Events Erica”
+header	project	Project Title
+content	experience	Events Erica
+content	experience	Duration
+content	experience	Jan 2018 - May 2018
+content	experience	Operating Systems
+content	experience	Windows 10
+content	experience	Technologies
+content	experience	Asp.Net MVC, Ajax, JQuery, HTML5, JavaScript, CSS3, PL/SQL
+content	experience	Tools
+content	experience	Visual Studio, SSMS
+header	experience	Role
+content	experience	Developer
+content	experience	Location
+content	experience	Bangalore
+content	experience	· Description: A main project which is in development stage at present is done as part of my 6th semester MCA Internship. This application is developed for Gimmb Techworks Pvt Ltd. It is a multi in one event management web application. Using this application user can create events or book tickets for different types of events like classes and workshops, Arts and Culture, Sports, Food, Kids, Technology, Live shows, Health and Wellness, and Trekking. User can select the event according to their preference. It shows the detailed blog of a particular event of all the places. And Event Organisers can host their event just by registering themselves.
+content	experience	ACADEMIC PROJECTS:
+header	project	· Project Title: “ Point of Sale System”
+content	experience	Project Title
+content	experience	Point of Sale System
+content	experience	Duration
+content	experience	Aug 2017 - Dec 2017
+content	experience	Operating Systems
+content	experience	Windows XP
+content	experience	Technologies
+content	experience	C#, HTML5, JavaScript, CSS3, PL/SQL
+content	experience	Tools
+content	experience	Visual Studio, SSMS
+header	experience	Role
+content	experience	Developer
+content	experience	Location
+content	experience	Bangalore
+content	experience	· Description: A mini project was done as part of 5th semester MCA. The Point Of Sale System is a standalone system application. Point of sale is put into plan to develop a software system for shopkeepers and supermarkets to maintain his stocks and his transactions.
+content	experience	· Project Title: “ Newspaper Subscription And Management”
+header	project	Project Title
+content	experience	Newspaper Subscription and Management
+content	experience	Duration
+content	experience	Feb 2017 - May 2017
+content	experience	Operating Systems
+content	experience	Windows XP
+content	experience	Technologies
+content	experience	PHP, HTML5, JavaScript, CSS3,SQL
+content	experience	Tools
+content	experience	WAMP, Notepad++
+content	experience	Role
+content	experience	Developer
+content	experience	Location
+content	experience	Bangalore
+content	experience	· Description: A mini project was done as part of 4th semester MCA. The Newspaper subscription and management system is a web based application. It helps the subscriber to subscribe to their favorite newspaper online.
+content	experience	· Project Title: “Institution Management System”
+header	project	Project Title
+content	experience	Institution Management System
+content	experience	Duration
+content	experience	Aug 2015 - Dec 2015
+content	experience	Operating Systems
+content	experience	Windows XP
+content	experience	Technologies
+content	experience	Java, Servlets, JSP, HTML5, JavaScript, CSS3,Oracle Database 11g
+content	experience	Tools
+content	experience	Net Beans, Tomcat Server, SSMS
+header	experience	Role
+content	experience	Developer
+content	experience	Location
+content	experience	Bangalore
+content	experience	· Description: A mini project was done as part of Java course. In this mini project using above mentioned languages we have developed an automation system for institute to carry out work such as to maintain enquiries, admissions.
+content	experience	· Project Title: “Fuel Monitoring System of Police Department”
+header	project	Project Title
+content	experience	Fuel Monitoring System of Police Department
+content	experience	Duration
+content	experience	Dec 2014 - Apr 2014
+content	experience	Operating Systems
+content	experience	Windows XP
+content	experience	Technologies
+content	experience	C#, SQL,
+content	experience	Tools
+content	experience	Visual Studio, SSMS
+content	experience	Role
+content	experience	Developer
+content	experience	Location
+content	experience	Mangalore
+content	experience	· Description: Automation system for Police Department to maintain vehicles, Employee and petrol bunk details.
+header	education	CERTIFICATIONS:
+content	education	· Completed certified Core Java and J2EE course at AgileTec, Mangalore
+header	experience	ACCOLADES:
+content	experience	· Attended NCC-“CATC Camp” at JNV, Balehonnur.
+content	experience	· Presented a paper during the Manglore University Level-Inter Collegiate Paper Presentation Competition on “CHEMISTRY TOPICS” at Sri Mahaveera College, Moodbidri and secured First place.
+content	experience	· Presented a paper during the Manglore University Level-Inter Collegiate Paper Presentation Competition on SCIENCE TOPICS” at Sri Mahaveera College and secured Second place.
+content	experience	· Passed the Special Music/Dance/Talavadya Examination conducted by Karnataka Secondary Examination Board in “JUNIOR and SENIOR GRADE INSTRUMENTAL” with FIRST Class.
+header	others	PERSONAL PROFILE
+meta	others	Father’s Name : Raghuveer Bhat N.V
+meta	others	Date of Birth : 19-07-1993
+meta	knowledge	Languages Known : English, Hindi, Kannada and Konkani.
+meta	others	Nationality : Indian.
+meta	others	I hereby declare that the information given is true to the best of my knowledge.
+meta	others	Place: Bangalore
+meta	others	Date: 25/10/2018 PRITHVI BHAT N.R
+meta	others	3

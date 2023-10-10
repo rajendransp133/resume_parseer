@@ -1,0 +1,52 @@
+meta	others	Maheshkumar Dinkarrao Jagtap
+meta	others	ETL Developer Email ID: maheshdj2013@gmail.com
+meta	others	FIGMd India Pvt. Ltd. Mobile: 08180079678 / 09765475747
+header	others	Career Objective:
+content	others	· Seeking a challenging position that has strong emphasis on technologies and high growth opportunities; Work with a firm that prides itself on innovation, growth and excellence foremost area of interest in Software Development.
+header	experience	Profile Summary:
+content	experience	1. A result oriented professional with over 3.5+ years of IT experience in MSBI Development.
+content	experience	1. Proficiency in developing SQL with relational databases like SQL Server.
+content	knowledge	1. Skilled in Business Intelligence tools like SQL Data Tool 2008R2/2012/2015 Integration Services (SSIS), Reporting Services (SSRS) and SQL Server Analysis Services
+content	experience	1. Have extensively worked in developing ETL program for supporting Data Extraction, transformations and loading.
+content	experience	1. Good experience in creating SQL Server database objects like tables, views, procedures and functions for a project and strong with relational database design concepts.
+content	experience	1. Experience in writing MDX queries for Querying OLAP cubes.
+content	experience	1. Strong analytical skills with a knack for problem solving.
+content	experience	1. Highly skilled, motivated team player with excellent communication and inter-personal skills.
+content	experience	1. Ability to learn new technologies in short span and implement independently.
+header	experience	Professional Experience:
+content	experience	Aug’14 – Present: FIGMd India Pvt. Ltd. (Former Savy Software Pvt. Ltd.) as ETL Developer
+content	experience	Savy Software Pvt. Ltd. is a leading IT company with health care domain which help healthcare organizations leverage the power of information technology to improve the lives of billions of people throughout the world. Responsibilities include working with the clinical analytics team on the measurement of provider performance, quality improvement initiatives, and various ad-hoc requests. Data is coming from various sources like SQL Server, Oracle, and flat files. The entire ETL process consists of source systems, staging area, Data warehouse and Data mart.
+content	experience	Project : IRIS REGISTRY
+content	experience	Role : ETL Developer
+header	experience	Description:
+content	experience	The IRIS registry is a registry built for the ophthalmology hospitals in the USA. The registry is used to extract clinical data related to ophthalmology from the clients (hospital) database. This data is then stored and various quality checks are carried out. Once the data quality is confirmed reports are generated based on this data. These reports are used by the doctors of the hospitals to submit to the AAO and CMS as the part of PQRS submission, from which they are granted incentives based on their performance which is delivered through those reports.
+content	experience	Project : AAN REGISTRY
+content	experience	Role : ETL Developer
+header	experience	Description:
+content	experience	The AAN registry is a registry built for the neurology hospitals in the USA. The registry is used to fetch clinical data related to neurology from the clients (hospital) database. This data is then stored and various quality checks are carried out. Once the data quality is confirmed reports are generated based on this data. These reports are used by the doctors of the hospitals to submit to the AAN and CMS as the part of PQRS submission, from which they are granted incentives based on their performance which is delivered through those reports.
+content	experience	Responsibilities:
+content	experience	1. Understand Client requirement and Create Data Model for Datawarehouse
+content	experience	1. Design and Implement database Schema for the Datawarehouse.
+content	experience	1. Design and Implement ETL for the Datawarehouse using SSIS
+content	experience	1. Design and Implement SSAS Datawarehouse using SSAS
+content	experience	1. Performed the data extraction, transformation and report generation phase.
+content	experience	1. Generated reports through SSRS on Dashboard.
+content	experience	1. Extracted data from RTF, XML file formats using XML Source and XML Tasks.
+content	experience	1. Performed scheduling through the job scheduler.
+content	experience	1. Wrote the SQL queries, Functions, Stored Procedures and Views.
+content	experience	1. Worked independently and completed assigned project responsibilities under limited supervision and aggressive deadlines.
+header	knowledge	Technical Skills:
+content	knowledge	1. Database : SQL Server .
+content	knowledge	1. Programming Language : T-SQL, MDX, DAX.
+content	knowledge	1. BI Tool : SQL Data Tool 2008/2012
+content	knowledge	1. ETL Tool : SQL Server Integration Services (SSIS)
+content	knowledge	1. Scheduling tool : IRIS Job Scheduler and AQUA job scheduler.
+content	knowledge	1. Operating Systems : Windows.
+content	knowledge	1. Version Control : Subversion (SVN)
+header	education	Educational Qualification:
+content	education	· Bachelor of Engineering (Computer Science): from Dr. Babasaheb Ambedkar Marathwada University, Aurangabad in 2012 with 61.62 %
+header	others	Personal Details:
+meta	others	· Date of Birth : 05th July, 1990
+meta	others	· Address : Flat No.09, Meghdoot Apartment, Near Nilayam Theatre,
+meta	others	Sadashiv Peth, Pune.
+meta	others	411030

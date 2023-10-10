@@ -1,0 +1,47 @@
+meta	others	Karthik Raja Yelaganamoni
+meta	others	ykarthikraja@gmail.com (+91 9566113625)
+header	others	PROFILE SUMMARY
+meta	others	________________________________________________________________________________________________________
+meta	experience	Senior Analyst with 3 years of experience in Data Analytics. Experienced in understanding and providing business solutions
+meta	experience	through analytics. Strong proficiency in Python, R, SQL, Tableau and Excel. Primary experience in Modeling and Data
+content	experience	Visualization techniques
+meta	others	______________________________________________________________________________________________________________
+content	experience	Latent View Analytics Pvt Ltd Chennai, India [Nov’15 – Present]
+content	experience	Churn Predictions for a leading provider of Education materials & Learning solutions company
+content	experience	• Built a classification model to predict churn at a subscription level by considering important features
+content	experience	• Introduced few featured engineered variables from existing variables resulting in boosted up accuracy of the model
+content	experience	• Avoided few common issues like Data Leakage
+content	experience	• Used H2O framework in R to build the models
+content	experience	• Techniques used – Logistic Regression, Random Forest & Gradient Boosting Algorithms
+content	experience	Reliability Analysis of components for leading US retail client
+content	experience	• Constructed a failure analysis for all parts of various products
+content	experience	• Using historical failures data, fit the data into Weibull, lognormal distribution functions for all the parts and find a better
+content	experience	distribution for Reliability calculation
+content	experience	• Leveraging the equations, predicted product’s life & actively helped manage spare part inventories
+content	experience	• Built a web application where clients can check part associations and recommend anticipatory maintenance
+content	experience	• Automated the entire process for several other products
+content	experience	• Tools used – R & RShiny
+content	experience	Digital Marketing analysis for a US largest retailer
+content	experience	• Created a data cube by extracting data from multiple data sources and developed Tableau dashboards tracking the
+content	experience	conversion funnel
+content	experience	• Developed an ETL structure using SQL
+content	experience	• The Tableau dashboards developed by connecting SQL tables provides Marketing KPI’s at a channel level across
+content	experience	geographies on a weekly basis
+content	experience	• Created multiple filters and navigations in the dashboard that follow a Top Down Approach
+content	experience	• Had been SPOC for the project maintaining smooth workflow throughout the project execution
+meta	others	______________________________________________________________________________________________________________
+header	knowledge	Technical Skills:
+content	knowledge	• Business Tools: Python, R, Advanced Excel, VBA, and MS PowerPoint.
+content	knowledge	• Databases: Teradata & MS SQL Server
+content	knowledge	• BI and Reporting Tools: R Shiny and Tableau
+content	knowledge	• Others: Google Analytics & Omniture (Adobe tool)
+meta	others	______________________________________________________________________________________________________________
+meta	others	______________________________________________________________________________________________________________
+header	education	EDUCATION
+content	education	B. Pharm (Hons.), from BITS Pilani, Pilani Campus (Rajasthan): 2011-2015
+meta	others	______________________________________________________________________________________________________________
+header	others	Extra-Curricular Activities
+content	others	• Participated in a solo dance video that went viral on twitter, Facebook & YouTube with over 80K+ views
+content	others	• Winner in short film video making during College fest (BITS APOGEE)
+content	others	• Other Skills: Proficient in video editing & Photoshop
+content	knowledge	• Languages Spoken: English, Hindi, Telugu

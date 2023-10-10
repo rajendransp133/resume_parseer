@@ -1,0 +1,70 @@
+header	others	RESUME
+meta	others	Email Id : waqarmujawar@yahoo.com
+meta	others	Contact no. : 91-9029284834
+meta	others	91-9773555414
+header	others	Name
+meta	others	:
+meta	others	MUJAWAR WAQAR FAIZ AHMED.
+header	others	Career Objective:-
+content	others	Aim to be associated with a progressive organization that gives me scope to
+content	others	apply my knowledge and skills along with my hard work and patience, and to
+content	others	be involved as a part of a team that dynamically works towards the growth of
+content	others	organization and to take up any challenging and fulfilling assignment in Aviation.
+header	education	Academic Qualification:-
+content	education	· Passed X from Maharashtra Board with 71.06% in year 2005.
+content	education	· Passed XII from Maharashtra Board with 62.33% in year 2007.
+header	education	Technical Qualification:-
+content	education	Successfully completed 2 Years and 6 months in A.M.E. in Heavy Aircraft and Jet Engine from Indian Aerospace and Engineering (I.A.E.) approved by D.G.C.A. Government of India, Equivalent to I.C.A.O. type 2 rating.
+header	experience	Working Experience:-
+content	experience	6 months on job training in AIR INDIA in Line maintenance Division (on A310, B747-400, B777-200 and B777-300 Aircrafts)
+content	experience	Computer No: - E – 08048858
+content	experience	A.M.E. Exams Passed:-
+content	experience	Paper I
+meta	others	:
+content	experience	Aircraft Rules & Regulations with 81%.
+content	experience	Paper II
+meta	others	:
+content	experience	General Engineering with 77%.
+header	experience	PERSONAL DETAILS
+meta	experience	Father Name
+meta	others	:
+meta	others	Mujawar Faiz Ahmed.
+meta	others	Date of Birth
+meta	others	:
+meta	others	22nd November1989
+meta	others	Gender
+meta	others	:
+meta	others	Male
+meta	others	Marital Status
+meta	others	:
+meta	others	Unmarried
+meta	others	Nationality
+meta	others	:
+meta	others	Indian
+header	knowledge	Language known
+meta	others	:
+meta	knowledge	English, Hindi, Marathi, Urdu.
+meta	others	E-mail I.D
+meta	others	:
+meta	others	waqarmujawar@yahoo.com
+meta	others	Permanent Address :
+meta	others	Raees Palace, B-wing, 204, Kismat colony. Kausa-Mumbra, Thane-400612.
+meta	others	Contact No.
+meta	others	:
+meta	others	91-9029284834
+meta	others	91-9773555414
+header	others	Passport Details
+meta	others	:
+meta	others	Number
+meta	others	- H 8838345
+meta	others	Place of Issue
+meta	others	- MUMBAI
+meta	others	Issue
+meta	others	- 12 March 2010
+meta	others	Expiry
+meta	others	- 11 March 2020
+header	others	Declaration:-
+meta	others	I hereby declare that all the detail given above are true to the best of my knowledge belief.
+header	others	Date:
+meta	others	Place: MUMBAI
+meta	others	(Mujawar Waqar)

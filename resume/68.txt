@@ -1,0 +1,77 @@
+meta	others	ANKIT GUPTA
+meta	others	A-39, 2nd Floor, Sector-22, Noida – 201301 (U.P)
+meta	others	Mob. 09451967878, 09454799334
+meta	others	e-mail - ankitgupt01@gmail.com
+header	others	CAREER OBJECTIVE
+content	others	Seeking a position to utilize my skills and abilities for your organization that offers me professional growth while being resourceful, innovative and flexible.
+content	others	SYNOPSIS
+content	others	Overall 2 Years of work Experience in the field of banking and financial services and customer relations.
+header	experience	PROFESSIONAL EXPERIENCE
+content	experience	Organization: DHANLAXMI BANK LTD.
+content	experience	Designation: Relationship Officer
+content	experience	Time: May 2011 to Till Date
+content	experience	· Investment and advisory services for all products of the bank.
+content	experience	· To market liability products to the existing and new customers.
+content	experience	· Draft, analyze and maintain financial statements and reports.
+content	experience	· Advise on the proper investments to the clients.
+content	experience	· To focus on and develop various business segments as per the sales strategy.
+content	experience	· To uphold the brand image and ensure compliance with all internal and external regulations.
+content	experience	· To achieve the branch business goals through TPP like LI, GI & Mutual Funds.
+content	experience	· To maintain the brand image and ensure for Customer Relation Services.
+content	experience	· To manage the team of Sales Executives and doing joint calls with them.
+content	experience	· To ensure and maintain levels of productivity as prescribed.
+content	experience	Organization: SBI LIFE INSURANCE CO. LTD
+content	experience	Designation: Unit Manager
+content	experience	Time: May 2010 to September 2011
+content	experience	· Achieving unit business goals through quality recruitment and training of insurance advisors.
+content	experience	· Develop business segments as per company strategy with compliance.
+content	experience	· To uphold the brand image and ensure compliance with all internal and external regulations.
+content	experience	· To recruit team of Insurance Advisors as per the corporate strategy.
+content	experience	· To maintain the brand image and ensure for Customer Relation Services.
+content	experience	· Doing joint calls with Insurance Advisors to generate the business.
+content	experience	· To ensure and maintain levels of productivity as prescribed.
+content	experience	· Advising Clients to proper use of their funds as per the need and risk.
+content	experience	· To Formulate and implement Distribution Plan for the Unit for achieving business targets of sales unit and lead, motivate and train the unit and the advisors.
+content	experience	Organization: ICICI BANK LTD
+content	experience	Designation: Sales officer Time: Jan 2010 to May 2010
+content	experience	· To provide excellent personalized service to the clients with in the TAT scheduled by the bank to the utmost satisfaction of the clients.
+content	experience	· Adhering to RBI guidelines and reporting as per requirement and schedule to compliance and audit.
+content	experience	· Opening and checking of new a/c forms adhering to the guidelines laid of KYC and AML norms.
+content	experience	· Strictly adhering to know your customer norms to avoid eventual fraudulent transaction.
+content	experience	· Advising clients to properly use their funds and increasing revenue of the bank by selling TPP like Mutual Fund & Insurance.
+content	experience	· To market liability products to the existing and new customers.
+content	experience	· To focus on and develop various business segments as per the sales strategy.
+content	experience	· Achieving branch business goals through sales products of the bank.
+header	knowledge	KEY STRENGTHS
+content	knowledge	· Multi-task oriented
+content	knowledge	· Excellent at follow-up and detail
+content	knowledge	· Optimistic
+content	knowledge	· Quick learner
+content	experience	· Dedicated towards work
+header	others	ACHIEVEMENTS
+content	others	· Winner of “King of GI” at Dhanlaxmi Bank in August 2011
+content	others	· Appreciation Letter from DWS Mutual Funds for the excellent performance
+content	others	· Won Top Gear Contest of Life Insurance in ICICI Bank
+content	others	· Recognized as a Best Performer of the branch in ICICI Bank in March 2010
+content	others	· Appreciation Letter from Regional Head, in April 2010
+content	others	· Awarded “Regional Head Trophy” in ICICI Bank, in April 2010
+content	others	· 6 Months Industrial Training Exposure in Hotel JayPee Palace, Agra 2006
+header	education	QUALIFICATION
+content	education	· NCFM
+content	education	AMFI (Advisory Module) (2009)
+content	education	· PG Diploma in Banking & Finance
+content	education	NIIT IFBI, Lucknow (2009)
+content	education	· BHMCT
+content	education	IHM, Meerut (2008)
+content	education	· Intermediate
+content	education	R.B.N.Inter College, Faizabad (2004)
+content	education	· High School
+content	education	R.B.N.Inter College, Faizabad (2002)
+header	others	TECHNICAL SKILLS
+content	experience	Certification course in Computer fundamentals of 1 Year at ICT FAIZABAD, Proficiency in MS Office, Open Office, Adobe PageMaker, Internet & Windows
+header	others	PERSONAL DETAILS
+meta	others	Father Name
+meta	others	Mr. D. K. Gupta
+meta	others	Date of Birth
+meta	others	15th June 1987
+meta	others	ANKIT GUPTA

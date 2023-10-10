@@ -1,0 +1,79 @@
+meta	others	SATTAM DAS
+meta	others	Email Id: sattam123@gmail.com
+content	others	Phone: 9609652375
+header	experience	Personal Summary
+meta	experience	 1.8 years of experience in Appian BPM.
+content	experience	 2 years of IT experience.
+content	experience	 Appian Analyst Credential certified BPM practitioner.
+content	experience	 Pegasystems Certified System Architect (CSA) 7.1 BPM practitioner, excellent hands-on.
+content	experience	 Well versed with SAIL terminologies and experience in designing user input forms, Tempo
+content	experience	reports, CDT structure.
+content	experience	 Good experience in designing and developing Appian-BPM based applications
+content	experience	 Was part of the BPM COE team in Mphasis
+content	experience	 B.Tech in Computer Science & Engineering with 8.2 DGPA.
+header	experience	Technical Competencies
+content	experience	 BPM products : Appian 16.2, Pega PRPC 7.1
+content	experience	 Web Technologies : HTML, XML, Javascript, Struts, CSS, Apache Tomcat, ASP.NET, JSP
+content	experience	 Databases : Oracle SQL, MySQL developer, Oracle 10g
+content	experience	 Languages : Java, J2EE, C#, C++, Python
+content	experience	 Frameworks : Struts, .NET, BPM frameworks
+header	project	Projects
+content	experience	1. Order fulfillment System
+header	project	Description:
+content	experience	Task is to design a system for a leading telecom giant which will process wholesale
+content	experience	orders received from an upstream system to a downstream application. Develop the system
+content	experience	such as it will receive orders and the orders will go through multiple validations before
+content	experience	feeding to the downstream systems. Designing high level process flows with complex
+content	experience	business logics. Developing tempo reports which consists of complex functionality.
+content	experience	Role: Developer
+content	experience	Technologies: Appian 16.2.
+header	experience	Responsibilities:
+content	experience	 Gathering and understanding Client requirements and implementing them
+content	experience	accordingly.
+content	experience	 Demonstrated portal report, tempo report, records and dashboard features of
+content	experience	Appian.
+content	experience	 Developed Task reports where users could view the order details. This task report
+content	experience	also has filters according to the task status.
+content	experience	 Created complex process flows for different kinds of telecom orders.
+content	experience	 Worked on Change Request Solutions.
+content	experience	 Configured security for process model, reports and records.
+content	experience	 Attended UAT calls and made instant changes as per the user requirements.
+content	experience	 Provide full lifecycle support to clients from initial client interaction and
+content	experience	requirements analysis through design, coding, testing, debugging, implementation
+content	experience	and integration.
+content	experience	 Received appreciation from the client on a daily basis for developing a scalable
+content	experience	system.
+content	experience	 Deployed many enhancement which led us to several new business wins.
+content	experience	2. Order fulfillment Systems Support
+header	experience	Description:
+content	experience	Task is to provide production support for already existing system developed by our
+content	experience	team. These Order fulfillment systems consist of different kind of telecom orders which includes
+content	experience	creating several tasks which needs to be completed by the assigned group, tracking it’s progress and
+content	experience	updates. Monitoring all the Orders and keeping track in SQL database.
+content	experience	Role: Appian Production Support
+content	experience	Technologies: Appian 16.2
+header	experience	Responsibilities:
+content	experience	 Providing Production Support for Order fulfillment System Developed by team.
+content	experience	 Involved in maintaining and analyzing performance of the system.
+content	experience	 Suggesting scope of improvement in system based on user feedback and registered
+content	experience	tickets.
+content	experience	 R & D and enhancement of existing system.
+content	experience	 Finding root cause and deploying changes accordingly.
+content	experience	3. Customer on-boarding solution (Internal)
+header	experience	Description:
+content	experience	This application facilitates efficient tracking and monitoring of different processes that are
+content	experience	involved in the on-boarding of the institutional customers of Financial Institutions, thereby enabling
+content	experience	acceleration of the entire process. The system facilitates processes like capturing client information
+content	experience	and documents, reviewing and approving the info, tracking KYC, etc.
+content	experience	Role : Developer and Infrastructure Management
+content	experience	Skill/Tool : Appian 16.2
+content	experience	Roles and Responsibilities:
+content	experience	 Created UIs according to BRS collected by senior business analyst.
+content	experience	 High level process analysis and design for the application.
+content	experience	 Implemented validations and created business rules as per the requirements.
+content	experience	 Involved in Appian 16.2 server setup over the intranet, and also managing server
+content	experience	infrastructure and maintenance as and when required.
+meta	others	Date of birth: 08/04/1992.
+content	knowledge	Languages Known: English, Hindi and Bengali.
+meta	others	I hereby declare that the above mentioned details are true to the best of my knowledge.
+meta	others	Sattam Das.

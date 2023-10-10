@@ -1,0 +1,86 @@
+meta	others	Contact: +918818964559
+meta	others	Email: msumit35@gmail.com
+meta	others	To work with a professionally managed IT Organization which offers me the opportunity to work in an
+meta	others	environment that would challenge my technical skills and offers professional growth. I would like to
+content	others	learn more Microsoft technologies and involve in planning, designing and development to improve my
+header	knowledge	skills.
+content	knowledge	• Overall 1 years 9 months of IT experience in web based application development using Asp.net
+content	knowledge	C#, MVC4, Ado.Net, MS SQL Server, Entity Framework, Windows Service, HTML,CSS,
+content	knowledge	JavaScript/jQuery.
+content	knowledge	• Versed in waterfall development techniques.
+content	knowledge	• Proficient in coding and developing new programs.
+content	knowledge	• Ability to learn quickly any skills/concepts.
+header	knowledge	Programming Languages: C#.Net
+content	knowledge	Microsoft Technologies: Asp.Net, MVC, ADO.Net
+content	knowledge	Web Technologies: HTML, CSS, Javascript, Jquery
+content	knowledge	RDBMS & Tools: SQL Server 2008
+content	knowledge	Web Server: IIS 7.0
+content	experience	• Worked in Cognizant Technology Solutions as Programmer from Sept’2015 to Jun’2017.
+content	experience	Sumit Mahajan
+header	others	OBJECTIVE
+header	experience	CAREER SUMMARY
+header	knowledge	TECHNICAL SKILLS
+header	experience	WORK SUMMARY
+header	project	Project Title: US Hospitality Client
+content	experience	Technical Environment: C#, Asp.Net MVC, SQL Server 2008, Javascript/Jquery, Web Api
+content	experience	Duration: May’2016 – Jun’2017
+header	experience	Description:
+content	experience	This project is an Online Ordering Application which gives the client Enterprise Digital Platform
+content	experience	for sales and Branding. It is scalable, reliable and secure architecture to support business. It has
+content	experience	some necessary modules such as Registration, Payment Service, Cart, Survey etc. There are also
+content	experience	administrative facilities such as configure Menus, deals, vouchers etc.
+header	experience	Responsibilities:
+content	experience	• Responsible for enhancements of functionality and fixing issues.
+content	experience	• Developing the program as per the client requirements.
+content	experience	• Worked remotely with the team to complete the project.
+content	experience	• Created windows service for Email notification, update order status.
+header	project	Project Title: US Hospitality Client
+content	experience	Technical Environment: C#, Asp.Net, SQL Server 2008, SharePoint, Javascript
+content	experience	Duration: Feb’2016 – May’2016
+header	experience	Description:
+content	experience	The purpose of this project is to create an application for internal organization. This application
+content	experience	is built in SharePoint that helps us to update the financial numbers and to be up to date. This is
+content	experience	basically used on year end to update the revenue and sales of the company. In addition, there is
+content	experience	news feed where all can see the information about the organization.
+header	experience	Responsibilities:
+content	experience	• Responsible for enhancing the functionalities.
+content	experience	• Site migration from SharePoint 2007 to 2010.
+content	experience	• Performed unit testing.
+content	experience	• Performed various validations.
+header	experience	PROFESSIONAL EXPERIENCE
+header	others	ACHIEVEMENTS
+content	others	Successfully completed training in Dot Net Technology.
+content	others	Company Name: Cognizant Technology Solutions
+content	others	Project Done: Bus Ticket Reservations System
+content	others	Pursued Bachelor of Computer Applications from ‘The Bhopal School of Social Sciences College’.
+content	others	Following are the percentage I received during the course of study:
+header	education	Degree Year University/Board Specialization CGPA/Result (%)
+content	education	B.C.A 2015 Barkatullah
+content	education	University
+content	education	Computer
+content	education	Applications
+content	education	66.5
+content	education	H.S.C 2012 M.P Board Commerce +
+content	education	Maths
+content	education	69
+content	experience	S.S.C 2010 M.P Board - 77
+header	project	Project Title : Weather Information System
+content	experience	Functionality : Gives Temperature of particular cities, User Friendly
+content	experience	API used : Used APIs from Wonder Underground
+content	experience	Key Learning : use APIs from online, Language independent
+content	experience	• Secured 3rd position in Inter College Exposition of our college (2013).
+content	experience	• Secured 1st position in Shot Put in Inter School Competition twice (2011-12).
+header	project	MINOR PROJECT:
+header	education	EDUCATIONAL QUALIFICATION
+content	education	Training
+meta	experience	Name : Sumit Mahajan
+meta	others	Father’s name : Mr Ravindra Mahajan
+meta	others	Mother’s name : Mrs Sangita Mahajan
+meta	others	Date of Birth : 30 September 1994
+meta	others	Nationality : Indian
+meta	knowledge	Language Known : English, Hindi
+meta	others	I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the
+meta	others	responsibility for the correctness of the above mentioned particulars.
+meta	others	Place: Bhopal Date:
+header	others	PERSONAL DETAILS
+header	others	DECLARATION

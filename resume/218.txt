@@ -1,0 +1,98 @@
+meta	others	RAMNATH SHANBHAG �
+meta	others	666
+meta	others	RRAAMMNNAATTHH SSHHAANNBBHHAAGG
+meta	others	E1-6, C-10, SECTOR-2, PHASE-II, ADARSH APARTMENTS, NERUL, NAVI-MUMBAI, PIN: 400706
+meta	others	Contact: 9819462727; Email: ramnath_sh@rediffmail.com, shramnath@hotmail.com
+meta	others	SSeerrvviiccee DDeelliivveerryy PPrroojjeecctt MMaannaaggeemmeenntt PPrroocceessss TTrraannssiittiioonn && MMiiggrraattiioonn
+meta	others	Offering 16 years of pioneering success with technical & managerial expertise for global clients in delivering optimal results and
+meta	others	business value across high-growth environments
+header	experience	EXECUTIVE SUMMARY
+content	experience	 Technically sophisticated and business savvy IT management professional with continued career progression &
+content	experience	documented history of bridging technical and managerial acumen in turning around of information technology coupled
+content	experience	with insightful exposure to Software Development, Customer Support, IT Delivery & Operations, Process
+content	experience	Management & Optimization, Transition, Transformation & Migration, Continuous Improvement, Lean
+content	experience	Implementation, Reporting & Communication, Strategic Management.
+content	experience	 Highly skilled in providing end-to-end Customer Service Delivery Solutions using ITIL methodology, along with
+content	experience	strong capabilities in implementing the service delivery process covering capacity management, service level
+content	experience	management, information security management, release process, resolution process, relationship process, control
+content	experience	process as well as maintaining quality, productivity and KPI’s related to SLA.
+content	experience	 Strong people management skills, capable of managing members having distributed skill sets, ensuring judicious
+content	experience	utilization of resource as well as ensure skill upgrade, competence management, career planning, mentoring of the
+content	experience	team members and behavioural aspects of the team
+content	experience	 An assertive manager and a key decision maker with well-honed skill set in collaborating with cross-functional teams
+content	experience	and deploying technology to build successful solutions; capable of leading and managing multi-sited project teams
+content	experience	while ensuring judicious resource allocation and utilization
+header	knowledge	Technical Proficiencies:
+content	knowledge	Hardware HP UNIX Servers (HP PA & IA superdomes, hp 9000 L-class, A class, RX & RP series etc) HP C-class Blade servers IBM PSeries EVA4k EVA5k ~ Hitachi ASM 500
+content	knowledge	Software HPUX 11.11/11.23/11.31 ~ SUN Solaris Red Hat Linux4 ORACLE SQL*PLUS PL/SQL 2.2 ~
+content	knowledge	DEC-RDB (Ver. 6.1) ~ MS-SQL ~ WINDOWS
+content	knowledge	Tools Remedy ~ Peregrine Service Center Maestro VERITAS Net backup Ignite Micromuse
+content	knowledge	Netcool/Omnibus Omnibackup WhatsUpGold ~ Big Brother
+content	knowledge	Methods ITIL ~ Lean Technology
+content	experience	Key Achievement:
+content	experience	 Successfully implemented lean management for better performance and wastage removal.
+content	experience	 Migrated Big Brother monitoring to Micromuse Netcool/ISM.
+content	experience	CAREER GLIMPSE
+content	experience	ATOS INDIA PVT LTD OCT’06-JUN’14
+content	experience	Manager
+content	experience	 Infrastructure Management support and Service Delivery for clients distributed across the globe providing support in
+content	experience	24x7 model across different markets following offshore strategy to save costs and delivery quality service with defined
+content	experience	SLA.
+content	experience	 Formulate and define cost effective short/long term budgets and corporate strategies to achieve pre-set targets while
+content	experience	adhering to the quality of the products/projects delivered and customer satisfaction level.
+content	experience	 Strictly ensuring adherence to ITIL procedures & guidelines using CSDM based on ITIL.
+content	experience	 Adept in Bid Management & taking care of Creation of BIDs, Service Order and Change Control Note.
+content	experience	 Formulate plan to gather & define business requirements while managing the risks to improve business processes and
+content	experience	translating the requirements into systems solution by preparing functional specifications.
+content	experience	 Conceptualize & implement strategies to enhance operational efficiency and ensured adherence to all the set parameters
+content	experience	to enhance the efficiency of various aspects of the service delivery cycle.
+content	experience	666
+content	experience	 Documented all major activities for effective reference and use; monitored IT policies, IT service management process and
+content	experience	catalysed realignments to make the system more effective. Effectively handled Incident management, Configuration
+content	experience	management and Change management.
+content	experience	 Ensure strict observance of set quality standards and monitor delivery as per Project Plan.
+content	experience	 Tactically plan and analyze the basic requirements while setting up the technical infrastructure of the project and
+content	experience	reviewing the project proposals.
+content	experience	 Ensure technical solutions are designed for performance, reliability, scalability, maintainability, supportability, business
+content	experience	continuity & business agility while leveraging industry’s best practices.
+content	experience	 Identify training needs of the organization & tailored programs as per specific requirement of organization.
+content	experience	 Oversaw all phases of project execution; approved engineering/design changes, troubleshot and resolved complex
+content	experience	technical problems, consistently met project deadlines and highest possible quality standards.
+content	experience	 Organize various training sessions for the team to enhance their performance.
+content	experience	 Deftly identify, resolve/isolate areas of obstructions to catalyse project delivery within defined time & cost parameters.
+content	experience	 Entrusted with the onus of monitoring day-to-day operational aspects of projects, executing project work plans, revising
+content	experience	the same as appropriate to meet changing needs and requirements.
+content	experience	 Propagate Quality Circle movement and developed quality culture in the work force to achieve quality leadership in the
+content	experience	industry.
+content	experience	 Drawn up plans for performing all tasks and actions with proper safety of personnel, plant, and environment.
+content	experience	 Conduct various orientation programs for entrants and training programs for the team members to update them about
+content	experience	new changes/techniques.
+content	experience	AFFILIATED COMPUTER SERVICES INC (ACS), BANGALORE NOV’03-OCT’06
+content	experience	Systems Engineer
+header	experience	Highlights:
+content	experience	 Adroitly administered HP-Unix, Red hat Linux & Netcool/Omnibus (NMS/EMS) and trouble shoot issues.
+content	experience	 Successfully designed & implemented Micromuse Netcool architecture and administration.
+content	experience	ALLTEL INFORMATION PVT LTD JULY’00-OCT’03
+content	experience	Operation Production Analyst
+header	experience	Highlights:
+content	experience	 Installation customized & tuned HP-Unix operating system & Third party products as well as IGNITE-UX software
+content	experience	 Significantly worked on User administration, security implementation& Process automation through Maestro, cron.
+content	experience	 Developed UNIX shell scripts using Korn shell, awk and sed - to ease the administration tasks.
+content	experience	OVER THE COUNTER STOCK EXCHANGE OF INDIA (OTCEI) MAY’98-JUNE’00
+content	experience	Systems Officer
+header	education	ACADEMIA
+content	education	MBA (Information Technology), 2008
+content	education	Sikkim Manipal University
+content	education	BE (Computer Engineering), 1996
+content	education	Mumbai University, Datta Meghe College of Enginerring
+content	education	Diploma in Computer Technology, 1993
+content	education	B.T.E Board, Bharthi Vidyapeeth College of Technology
+header	education	Trainings/Certifications:
+content	education	 ITIL V3 Foundation Certified
+content	education	 Certified HPUX System Administrator (CSA)
+content	education	 System and Network Administration (SNA-II)
+header	others	PERSONAL DOSSIER
+meta	others	Date of Birth: 29th July 1972;
+meta	knowledge	Languages Known: English, Hindi, Marathi, Konkani, and Kannada
+meta	others	Passport No: Z4125124 (Valid Till 2027)
+meta	others	References: Available on request

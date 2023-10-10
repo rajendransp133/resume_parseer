@@ -1,0 +1,39 @@
+meta	others	Maninder Grewal
+meta	others	Hyderabad I (7337591911) I manindergrewal023@gmail.com
+header	others	PROFESSIONAL PROFILE
+content	others	· Human resource professional with experience developing and executing recruiting plans within both agency and in-house settings.
+content	others	· Manage all phases of full-cycle recruiting, from initial sourcing and screening through offer negotiations, placement and onboarding.
+content	others	· Creatively source high-caliber candidates by leveraging recruiting software, social media, and cold calling and employee referrals.
+content	others	· Involved in other Hr functions as well such as process improvement projects.
+header	experience	PROFESSIONAL EXPERIENCE
+content	experience	HR Associate • Lava International • Sep 2016-Present
+content	experience	Partner with hiring managers to discern workforce needs; define job parameters; outline desired qualifications; and source, screen, interview and select best-option candidates for Sales and Sales Operations positions.
+content	experience	Recruiting Management: Handling Sales and Sales Operation hiring for East and South India for Lava. Have successfully completed the sales hiring planned as per expansion plan within 6 months of joining meeting deadline to ensure the on-time resource fulfilment. Involved in another mass hiring project at the moment in the sales domain. Matched the right candidates to the right jobs, winning commendation from VP for recruiting quality workers.
+content	experience	HR Support: Valued for versatile skill-set as a “floater” within HR department, filling in when needed to assist with payroll inputs, administration, new-hire orientation and other HR functions.
+content	experience	Talent Acquisition Specialist • Sutra Services • Jan 2015 – Aug 2016
+content	experience	Hired by leading search firm to land new corporate accounts and expand existing customer relationships while managing recruiting projects.
+content	experience	Talent Acquisition: Delivered recruitment solutions for hundreds of vacancies across all organizational levels and an array of job functions for companies including Lime road, 1MG, Healthkart, ADFG and Nykaa.
+content	experience	Top-Ranked Results: Distinguished as one of the top-grossing recruiters. Ranked among top 3 recruiters consistently for earning high recruiting revenues.
+content	experience	Account Growth: Won and managed some of company’s largest accounts. Fostered lasting client relationships as a trusted hiring partner with a 98% job-fulfilment rate and one of the lowest fall-off rates throughout tenure.
+header	education	EDUCATION
+content	education	· Won star award for recruitment in Lava International for (2016-2017)
+content	education	· Awarded best account manager for three quarters during the tenure with Sutra HR (2015-2016)
+content	education	· Always been among the top 5 highest revenue grossers for SutraHr.
+content	education	· Awarded make a difference award from Bishop Society for the relief work initiatives during floods in Bihar.
+content	education	· Awarded the scroll of honor for academics during the postgraduate course.(2014)
+content	education	· University topper consistently for 3 years during graduation from Bishop Cottons.(2010)
+content	education	· State level Badminton player won various accolades for Army school Ranikhet.
+header	knowledge	SKILLS& ABILITIES
+content	knowledge	· Talent Acquisition and Management
+content	knowledge	· On boarding
+content	knowledge	· Employee relations
+content	knowledge	· Human Resource Management
+content	knowledge	· Behavioural Assessments
+content	knowledge	· Process Improvement
+header	education	ACADEMIC PROFILE
+content	education	Army Institute of Management, Noida
+content	education	· MBA – Major Human Resources and Minor Marketing
+content	education	· CGPA – 8
+content	education	Bishop Cottons Christian College, Bangalore
+content	education	· BSc-Biotechnology
+content	education	· CGPA – 8.5

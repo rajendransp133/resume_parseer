@@ -1,0 +1,46 @@
+meta	others	DEEPTI SEHGAL
+header	others	OBJECTIVE
+content	others	Intend to work in a challenging and productive environment with prospects of learning and where knowledge and creativity can lead to growth.
+header	experience	WORK EXPERIENCE
+content	experience	01. Currently working with Aadharshila Vidyapeeth, as Administrative Officer from
+content	experience	April, 2011. Profile includes coordination between the Staff and the Management.
+header	experience	Responsibilities:
+content	experience	· Working as part of the Administrative Team, supporting the Administrative Department, responsible for the day to day task and administrative duties of the office as incharge.
+content	experience	· To facilitate development of office operations manually; training new administrative personnel.
+content	experience	· Processing pupil admissions in accordance with admission policy of DoE.
+content	experience	· Coordinate recruitment events, resourcing of candidates and appropriately advertising for recruiting place-able staff.
+content	experience	· Correspondence communication with DoE and CBSE.
+content	experience	· Opened, sorted and distributed incoming messages and correspondence.
+content	experience	· To communicate with multiple department to coordinate meetings.
+content	experience	· To draft Meeting Agendas between management and staff, executing follow up for meeting.
+content	experience	· Updating processing & filing of all the documents.
+content	experience	· Providing reports, as required, reporting to senior management.
+content	experience	· Organizing workshops educational / professional & events for staff and students.
+content	experience	02. Worked with Aadharshila Vatika as a Pre-School Coordinator from April, 2008 to March, 2010.
+content	experience	03. Worked with Himalaya Foundation School as Teacher from April, 2006 –March 2008.
+header	education	ACADEMIC CREDENTIALS
+content	education	01. B.A. from Delhi University in 2004.
+content	education	02. Senior Secondary from CBSE in 2001.
+content	education	03. Higher Secondary from CBSE in 1999.
+header	education	PROFESSIONAL CREDENTIALS
+content	education	01. B.Ed. from Jammu University.
+content	education	02. Knowledge of Application Software like MS Office (Word, Excel, Powerpoint), Internet.
+content	knowledge	SYNOPSIS
+content	knowledge	· Possess leadership skills with the ability to mentor, motivate the team.
+content	knowledge	· Sincere and Loyal towards work.
+content	knowledge	· Ability to work with team
+content	knowledge	· Ability to motivate others
+content	knowledge	· Positive Attitude
+content	knowledge	· Ability to face challenges.
+header	others	HOBBIES
+content	others	· Reading
+content	others	· Travelling
+header	others	PERSONAL DETAILS
+meta	others	Date of Birth : 08.08.1984
+meta	others	Contact Address : VP-55 C, Maurya Enclave, Pitampura, Delhi
+meta	others	Email : deeptisehgal08@gmail.com
+meta	others	Contact No. : 9971720041
+meta	knowledge	Linguistic proficiency : English, Hindi
+meta	others	Package : 5.6 Lacks
+meta	others	Total Experience : 12 Years.
+meta	others	DEEPTI SEHGAL

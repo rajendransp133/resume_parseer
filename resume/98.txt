@@ -1,0 +1,127 @@
+meta	others	A few points to note
+header	others	Resume
+meta	others	Viswanathan S
+meta	others	Email: sviswanathanchennai@gmail.com
+meta	others	Phone: 91 – 9840205601
+header	experience	Experience Summary
+content	experience	I am an associate with Infosys Limited (Consultant of SLN Enterprises) for the last 4 years and 3 months as Project Management Administrator. I have started my career with Exide-Automark Pvt Ltd, Chennai as Account Assistant in July 1991.
+content	experience	Carrying 10+ years for experience in Administration
+content	experience	Various Organization I have worked till date
+content	experience	· Exide-Automark Pvt Ltd., Chennai
+content	experience	· Mandradiar & ShethFoods Pvt., Ltd., Chennai
+content	experience	· Infosys Technology Ltd., Mahindra world City, Chennai
+content	experience	Having good knowledge in Administrative work
+header	experience	Organization Worked
+content	experience	· Exide-Automark Pvt Ltd., Chennai
+content	experience	· Mandradiar&ShethFoods Pvt., Ltd., Chennai
+content	experience	· Infosys Technology (SLN Enterprises)
+header	experience	Technologies Worked
+content	experience	· Microsoft Visual Source Safe Administrator
+content	experience	· Microsoft Outlook Administrator
+content	experience	· Microsoft Project Plan 2010
+content	experience	· Remedy Tracking Administrator
+header	experience	Current Role Description
+content	experience	Project Management Officer-Finacle Product
+content	experience	Product Team Size : 650
+header	experience	Earlier Role Description
+content	experience	· Account Assistant in Exide-Automark
+content	experience	· Marketing & Purchase & Sales in Exide-Automark
+content	experience	· Administrative In charge – Mandradiar & ShethFoods
+content	experience	· Administrative Supervisor – Mandradiar & ShethFoods
+header	education	Education Summary
+content	education	Degree and Date
+content	education	Institute
+content	education	Major and Specialization
+content	education	Master of Business Administration,
+content	education	2008
+content	education	TNOU – Anna University Campus
+content	education	Human Resource Management
+content	education	Bachelor of Commerce ,
+content	education	1997
+content	education	University of Madras
+content	education	Commerce
+header	experience	Experience Profile
+content	experience	Organization: Infosys Technologies
+content	experience	Duration : May 2007 till date
+content	experience	About Organization: Infosys Technologies is a leading Information Technology (IT) company which provides end-to-end business solutions that leverage technology. Infosys serves the client globally and as one of the pioneers in strategic offshore outsourcing of software services, it has leveraged the global trend of offshore outsourcing. Infosys helps large global corporations and new generation technology companies in building new products or services and in implementing prudent business and technology strategies in the contemporary dynamic digital environment.
+content	experience	Services offered by Infosys are:
+content	experience	· Application Development & Maintenance,
+content	experience	· Corporate Performance Management,
+content	experience	· Enterprise Quality Services
+content	experience	· Infrastructure Services
+content	experience	· Packages Application Services
+content	experience	· Product Engineering
+content	experience	· Systems Integration
+header	experience	Role Description:
+content	experience	· Project Administration and Steering Committee Member
+content	experience	· Training Coordinator and Certification Administrator
+content	experience	· Interview Coordinator
+content	experience	· Accounts Manager (Non-Project Activities)
+content	experience	· Employee Allocation – Tracking and Monitoring
+content	experience	· Space Allocation Council Anchor(SPOC) for Infosys, Mahindra City Delivery Unit
+content	experience	· Software Tools Administrator – Version Control Tools
+content	experience	· Supporting HR department to ease their work
+content	experience	· Employee Social Events Coordinator
+content	experience	· Mahindra City Delivery unit Food Committee Member - Food Quality Assurance Team
+content	experience	· Internal Tools Maintenance – Support tools for Product Development
+content	experience	Organization: Mandradiar & ShethFoods
+content	experience	Duration : Feb 2003 – Apr 2007
+content	experience	About Organization: Mandradiar & ShethFoods Private Limited.
+content	experience	The Concern is doing Manufacturer of Ready to Cook, Ready to Eat and Masala Products for the global Market. Manufacturer Supplier Exporter and Local supply of: Bengal Gram Flour, Wheat Flour, Ragi Flour, Mango Pickle, Chilly Pickle, Lime Pickle, Mix Pickle, Spicy Pickle, Garam Masala, Curry Powder, Chicken Masala, Chilli Powder, Turmeric Powder, Asofoetida Powder , Rasam Masala Powder, Sambar Masala Powder, Curry Levies Masala Powder, Apalams etc.
+content	experience	The concern has won recognition as Best FMCG Company in the year 2007 by a survey conducted by “Sai Ram Institute of Management Studies”. Our Chairman has been recognized by the Rotary Club as the best Entrepreneur.
+header	experience	Role Description:
+content	experience	· Preparation of Incentive Statement/Reports of field force
+content	experience	· Responsible for assigning task to field force to ensure good Customer Relationship
+content	experience	· Preparation of Sales Reports viz., Invoices, Commission Statements
+content	experience	· Preparation of Purchase Orders, Purchase Requisition Note
+content	experience	· Preparing monthly Stock Projection Report to maintain proper Inventory
+content	experience	· Sales & Collection Target follow-up
+content	experience	· Inter departmental Communication and co-ordination anchor
+content	experience	Organization: Exide-Automark
+content	experience	Duration : Jul 1991 – Jan 2003
+content	experience	About Organization:
+content	experience	Automark Private Limited is an authorised service station and No.1 dealer for Exide Batteries for selling since 1959 onwards in line Automotive Battery, Tubular Battery, Invert battery and UPS Battery.
+content	experience	Exide –Automark from a company to a solution provider. After all who can provide all these benefits together with its wide range of products, the ability and competence to guide a user to select the right battery for a particular application, skilled and experienced engineers for erection commissioning and assured professional assistance throughout the service life of a battery.
+header	experience	Role Description:
+content	experience	· Cash Book & Cash Maintenance
+content	experience	· Purchase and Sales Ledger
+content	experience	· General Ledger
+content	experience	· Petty Cash Ledger & Maintenance
+content	experience	· Sundry Debtor & Creditor Reporting
+content	experience	· Communicating with Distributors for Procurement
+content	experience	· Customer Management
+header	experience	Employment Summary
+content	experience	Dates
+content	experience	Organization
+content	experience	Designation
+content	experience	Role
+content	experience	Jul 1991
+content	experience	Exide-Automark Ltd
+content	experience	Account Assistant
+content	experience	Accounts Management
+content	experience	Sep 1998
+content	experience	Exide-Automark Ltd
+content	experience	Marketing Supervisor
+content	experience	Purchase and Sales
+content	experience	Feb 2003
+content	experience	Mandradiar & ShethFoods
+content	experience	Administrative Office
+content	experience	Administrative In charge
+content	experience	Jun 2006
+content	experience	Mandradiar & ShethFoods
+content	experience	Administrative Supervisor
+content	experience	Administrative Supervisor
+content	experience	May 2007
+content	experience	Infosys Technologies
+content	experience	Project Administrator
+content	experience	Project Tools Administration
+content	experience	Jun 2010
+content	experience	Infosys Technologies
+header	project	Project Management Officer
+header	project	Project Management Office
+header	others	Personal Details
+header	others	Date of Birth
+content	others	23 March 1972
+header	others	Nationality
+meta	others	INDIAN
+meta	others	Page 1 of 4

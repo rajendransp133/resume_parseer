@@ -1,0 +1,98 @@
+meta	others	CHETALI DEENDAYAL GUPTA
+meta	others	Email: guptachetali123@gmail.com
+meta	others	Contact: 8652360545
+header	others	Objective
+content	others	A responsible position in a reputed organization that provides careers advancements and
+content	others	Opportunities under challenging work environment.
+header	education	Academics
+header	education	Qualification
+content	education	College / Institution
+content	education	Board/university
+content	education	Percentage
+content	education	Year of Completion
+content	education	MCA
+content	education	K J Somaiya Institute of Management Studies and Research
+content	education	University Of Mumbai
+content	education	79.45
+content	education	2016
+content	education	BSc-IT
+content	education	Ramniranjan Jhunjhunwala college
+content	education	University Of Mumbai
+content	education	77.48%
+content	education	2014
+content	education	H.S.C.
+content	education	Ramniranjan Jhunjhunwala college
+content	education	University Of Mumbai
+content	education	72.67%
+content	education	2011
+content	education	S.S.C.
+content	experience	Hindi Bal Vidya Mandir School
+content	education	University Of Mumbai
+content	education	92%
+content	education	2009
+header	knowledge	Technical Skills
+content	knowledge	Programming Languages
+content	knowledge	C, C++, Java, C#
+content	knowledge	Web Technologies
+content	knowledge	HTML, PHP, JavaScript, CSS
+content	knowledge	Data Base
+content	knowledge	Oracle, MySQL, MS Access,MS Sql server
+content	knowledge	Operating Systems
+content	experience	Windows XP/7/8/10
+content	knowledge	Domain
+content	knowledge	Retail, Banking
+content	knowledge	Framework/Application/Architecture
+content	knowledge	Hibernate, Oracle Retail Price Management ,Oracle Retail Merchandise System, Oracle SOA
+content	knowledge	Tool
+content	knowledge	SQL server Management Studio 2008,Oracle Sql Developer,Visual studio 2008/2010,IBM UNICA 9.1.0/11 ,IBM eMessage, WCA
+header	experience	Professional Summary
+content	experience	 2.2 years of experience in SQL developer,oracle 9i-10g tool, Aginit(Netezza), Unica’s campaign & E-message management marketing tool.
+content	experience	· Constantly working towards developing skills in the latest Emerging technologies.
+content	experience	· A good team member, who coordinates and cooperates with team, so that the collective goals of the team can be achieved within a time frame.
+content	experience	· Self-motivated, systematic, quick learner, dedicated, flexible and excellent team player.
+header	experience	Work Experience
+content	experience	1. SOLUTION CONSULTANT | CUSTOMER CENTRIA (Nov 2018-Till date)
+content	experience	· No Project assigned
+content	experience	2. ASSOCIATE ANALYST-CAMPAIGN SOLUTIONS | HANSA CUSTOMER EQUITY (Nov 2017 – Oct 2018)
+header	project	· Project : TATASKY Project
+content	experience	· Duration: Feb 2017 to Oct 2018
+content	experience	· Role Played: Associate Analyst
+content	experience	· Skill Used: MS SQL server, SSIS, SSRS, IBM UNICA
+content	experience	· Discussion with client on day to day basis to understand and gather business requirements related to campaign management and database migration
+content	experience	· Develope Campaigns using IBM Unica Campaigns Management Tool version 9.1.0/MS SQL Server– This involves understanding of the Campaign constructs,ensuring the creation of relevant campaign flows and the execution of the same.
+content	experience	· Completely responsible for ensuring 100% accuracy in Campaigns – This involves undertaking complete Quality check processes to ensure error free data rollout.
+content	experience	· Develop campaign responses to further analyse campaign effectiveness by different team.
+content	experience	· Data exploration for Campaign Planning.
+content	experience	· Complete knowledge of the Database being used and Good command over Oracle and SQL.
+content	experience	· Quality Check of the final data before Rollout.
+content	experience	· If requires, schedule and automate campaigns using SQL agent,SSIS and for reporting use SSRS also.
+header	project	· Project : Axis Bank Project
+content	experience	· Duration: Nov 2016 to Jan 2017
+content	experience	· Role Played: Associate Analyst
+content	experience	· Skill Used: SQL,IBM UNICA,IBM eMessage
+content	experience	· The project involved development of campaigns using IBM UNICA.
+content	experience	· Analyzing quality of data using SQL
+content	experience	· Send SMS/EMAIL to customer using eMessage, WCA and procedures.
+header	project	3. PROJECT TRAINEE | MASTEK (DEC 2015 – JUNE 2016)
+content	experience	· Project : Price Integrity Project
+content	experience	· Duration: Dec 2015 to June 2016
+content	experience	· Role Played: Developer
+content	experience	· Platform Used: PL/SQL, JDeveloper, ODI,ORPM
+content	experience	· The project involves modification of the existing system because of discrepancy in price of retail product between different databases.
+content	experience	· It involved lot of analysis to understand the current system and to identify main cause of discrepancy using PL/SQL, JDeveloper, ODI and ORPM.
+header	education	Certification:
+content	education	· SQL and Relational Database certification from IBM Cognitive Classes.
+header	others	Extra Activity:
+content	others	· Participated in women’s cricket match in Mastek.
+content	others	· Participated in Classical Dance in Mastek.
+header	others	Personal Description:
+meta	others	Name
+meta	others	Chetali Deendayal Gupta
+meta	others	Date Of Birth
+meta	others	10th July 1993
+meta	others	Nationality
+meta	others	Indian
+header	knowledge	Languages Known
+meta	knowledge	English, Hindi and Marathi
+meta	others	Hobbies
+meta	others	Travelling, Music, Sports, Reading.

@@ -1,0 +1,83 @@
+meta	others	Joseph Lurdu Antoine, A.
+meta	others	e-mail:antojoe11@gmail.com
+meta	others	Phone: +91 9994243078
+header	others	OBJECTIVE:
+content	others	To work in a challenging environment, adapt myself in different fields, and contribute to the development of the concern.
+header	experience	EXPERIENCE:
+content	experience	Company:
+content	experience	Integra Software Services, Puducherry
+content	experience	Designation:
+content	experience	Project Management Executive
+content	experience	Duration:
+content	experience	August-2011 to Till Date
+content	experience	Job Responsibility: Provided delivery management to ensure customer satisfaction and reference-ability
+content	experience	Developed project plans and assumed responsibility for project profit and loss.
+content	experience	Monitored project activities and advised staff of issues due to resource availability.
+content	experience	Clients Handled:
+content	experience	Houghton Mifflin Harcourt, Cambridge University Press (ELT-US), Pearson (ELT US).
+header	education	EDUCATIONAL QUALIFICATION:
+content	education	Course
+content	education	Name of the Institution
+content	education	Board/
+content	education	University
+content	education	Year of passing
+content	education	CGPA/ Percentage
+content	education	B.Tech
+content	education	(Electronics & Communication Engineering)
+content	education	Perunthalaivar Kamarajar Institute of Engineering and Technology ,
+content	education	Karaikal.
+content	education	Pondicherry University
+content	education	2011
+content	education	CGPA : 6.72
+content	education	Higher Secondary
+content	education	Don Bosco Higher Secondary School, Puducherry.
+content	education	Tamil Nadu
+content	education	State Board
+content	education	2007
+content	education	76.5%
+content	education	Matriculation
+content	education	Don Bosco Higher Secondary School, Puducherry.
+content	education	Tamil Nadu
+content	education	State Board
+content	education	2005
+content	education	87.8%
+header	knowledge	TECHNICAL SKILLS:
+content	knowledge	· Programming languages
+meta	others	:
+content	knowledge	C, C++, Multisim, Matlab.
+content	knowledge	· Operating Systems
+meta	others	:
+content	knowledge	Microsoft Windows XP, Windows 7.
+content	knowledge	· Illustrators : Adobe Photoshop.
+content	knowledge	· Packages : Microsoft office.
+header	others	EXTRA CURRICULAR ACTIVITIES:
+content	others	· Attended Workshop on Tiny OS, conducted by VIT, Vellore.
+header	others	PERSONAL TRAITS:
+meta	others	· Inter personal skills
+meta	others	· Leadership qualities.
+meta	others	· Team worker.
+meta	others	HOBBIES AND INTERESTS:
+content	others	· Playing Football.
+meta	others	PERSONAL PROFILE:
+meta	others	Name
+meta	others	:
+meta	others	Joseph Lurdu Antoine, A.
+meta	others	Father’s name
+meta	others	:
+meta	others	Arpoudam Annoussamy, R.
+meta	others	Date of Birth
+meta	others	:
+meta	others	11th Sept 1989
+meta	others	Nationality
+meta	others	:
+meta	others	Indian
+header	knowledge	Languages known
+meta	others	:
+meta	knowledge	English, Tamil, French.
+meta	others	Residence Address
+meta	others	:
+meta	others	#125 , Belkis street,
+meta	others	Muthialpet, Puducherrry-605 003.
+meta	others	Station: Puducherry
+meta	others	Date: 27/6/2012
+meta	others	[JOSEPH LURUDU ANTOINE]

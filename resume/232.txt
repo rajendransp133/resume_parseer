@@ -1,0 +1,50 @@
+meta	others	MAMILLA SARIKA
+meta	others	ADDRESS:
+meta	others	YUVA GIRLS HOSTEL,
+meta	others	Venkanna Nagar Colony,
+meta	others	Opp pillar No. 23,
+meta	others	Beside Pulla Reddy College, Mehdipatnam, Hyd – 500028
+meta	others	e-mail: mamillasarika2014@gmail.com
+meta	others	mobile: 8297244504
+meta	others	___________________________________________________________________________
+header	others	Career Objective:
+content	others	To achieve a challenging career in the field of Engineering and strive for excellence learning in a progressive environment, enhancing my skills and contributing my part to the overall growth of an organization to scale to newer heights.
+header	experience	Attitude and Work Culture:
+content	experience	Willing to perform and learn the things for enriching knowledge, working skills to enable me to perform better in the work assigned.
+header	education	Educational Qualification:
+content	education	Course
+content	education	Name of the Institution
+content	education	University/Board
+content	education	Year of Completion
+content	education	MBA (HR & Marketing)
+content	education	Kingston P.G College, Hyderabad
+content	education	Osmania University
+content	education	2016
+content	education	B.Sc
+content	education	Saahiti Degree College, Yellandu
+content	education	Kakatiya University
+content	education	2014
+content	education	Intermediate (MCCS)
+content	education	Saahiti Degree College, Yellandu
+content	education	Kakatiya University
+content	education	2012
+content	education	S.S.C
+content	education	A.H.S Govt school, Relakayalapalli
+content	education	Board of Secondary
+content	education	2010
+header	experience	Job Experience:
+content	experience	· Worked as Customer Care Executive( Sales,SME) in BPO domain worked at Vertex Customer Management India Pvt ltd – Tata sky Outbound process - (Oct’14-Jan’17)
+content	experience	· Worked as Customer care executive in Data wind innovations Pvt ltd for 6 months for Telugu and Kannada process - (Jan’17 – June’17)
+content	experience	· Working as Business Development Associate & HR Executive at BizMobia software services from June’17 till date
+header	others	Personal Profile:
+meta	others	Name : Mamilla Sarika
+meta	others	Father’s Name : Mamilla Venkateswarlu
+meta	others	Date of Birth : 20-05-1993
+meta	others	Nationality : Indian
+meta	others	Religion : Hindu
+meta	others	Marital status : Un-Married
+meta	knowledge	Languages known : English, Telugu & Hindi
+header	others	Declaration:
+meta	others	I Mamilla Sarika do hereby assure you that I will do my best in justifying the confidence and responsibilities shouldered on me. I shall be grateful to you and looking forward for an opportunity if provided at your convenience.
+meta	others	Date: Signature
+meta	others	Place: Hyderabad (Mamilla Sarika)

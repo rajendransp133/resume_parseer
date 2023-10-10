@@ -1,0 +1,44 @@
+meta	others	Microsoft Word - Jaydeep CV
+meta	others	Jaydeep Kumar Agarwal
+meta	others	Phone: +91 8599960900, 8777287266
+meta	others	Email:agarwal.jay7@gmail.com
+meta	others	Communication Address: 14/1, SovaramBsak Street, Burra Bazar, Kolkata-700007
+header	education	Education
+content	education	EducationalQualifications
+content	education	Examination Board/University Year Division
+content	education	ICMAI INTER 2017
+content	education	B.Com (H) Ranchi University, Ranchi 2011 1st
+content	education	Class–XII Jharkhand Academic Council, Ranchi 2008 2nd
+content	education	Class–X Jharkhand Academic Council, Ranchi 2006 2nd
+header	experience	Experience
+content	experience	PARAKH & CHOWDHURY (CA Firm)
+content	experience	Accountant (including Audit Assistant)November 2012-at present
+content	experience	Handled Statutory Audit of Various Private Limited Companies, Partnership Firms & Individuals
+content	experience	Ledger Scrutinyand checking of VAT Return, CST Return, Pending C Form & F Form.
+content	experience	Maintenance of Books of Accounts, Preparation & Filling of Income Tax Return, TDS Return, Service Tax Return.
+content	experience	Tax Planning & Ledger Scrutiny of Companies, Finalization of Accounts.
+content	experience	Reconciliation of Bank Account.
+content	experience	AnalysisofFinancialStatementsto understand thebusinesstrends
+content	experience	Preparation of Audit Report, Tax Audit Report.
+content	experience	Preparation of Individual Accounts, Company Accounts & Trusts and filling of their Return.
+content	experience	Worked in Tally ERP, Oracle, MS-Excel, Word.
+content	experience	Review Of Legal & Statutory Compliance.
+content	experience	Filing of GST Returns
+content	experience	Majorclientshandled:
+content	experience	Adani Wilmar Limited
+content	experience	Golden Valley Agrotech Private Limited
+content	experience	Shree Bhatter Silver Private Limited
+content	experience	ExtraCurricularActivities
+content	experience	Teaching Costing and Accountancy .
+content	experience	Travelling Places and knowing different Cultures
+header	others	PersonalDetails
+meta	others	Name Jaydeep Kumar Agarwal
+meta	others	DateofBirth: 05th May, 1991
+meta	others	Father Name Mr.Ashok Agarwal
+meta	others	Moher Name Mrs.Sarda Devi
+meta	others	Religion Hindu
+meta	others	Nationality Indian
+meta	knowledge	Language: HindiandEnglish
+meta	others	PermanentAddress: New Kashidih Bagan Area No. 03, H.No.32, Sakchi, Jamshedpur-831001
+meta	others	Date:12/03/2018
+meta	others	Place: Kolkata (Jaydeep Kumar Agarwal )

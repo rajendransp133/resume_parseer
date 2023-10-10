@@ -1,0 +1,114 @@
+meta	others	CV Template
+meta	others	Resume
+meta	others	Sowjanya Kancheti
+meta	others	Sowjanya Kancheti
+meta	others	Management Technology Consulting LLC
+meta	others	Email: sowjikancheti@gmail.com
+meta	others	Contact No- +91-7893389669
+header	experience	Experience Summary
+content	experience	I am an associate with Management Technology Consulting LLC for the last 5 years. My main area of experience has been project delivery of various sizes and domains. My technological forte is Microsoft Dynamics CRM 2011, 2013, 2015, 2016, d365, C#. Good Command on MSCRM Form & Ribbon Customizations, System Workflows & Custom Workflows, Plugins.
+header	knowledge	Technology
+content	knowledge	Below is a list of important hardware, software products, tools and methods that I have worked with.
+content	knowledge	Programming Languages
+meta	others	:
+content	knowledge	MS Dynamics CRM 2011, 2013, 2015, 2016, D365, C#
+content	knowledge	Web Designing Tools
+meta	others	:
+content	knowledge	HTML, HTML5, XML, Java Script.
+content	knowledge	Development Tools
+meta	others	:
+content	knowledge	MS Visual Studio 2008, 2010, 2012.
+header	experience	Career Profile
+content	experience	Dates
+content	experience	Organization
+content	experience	Role
+content	experience	September 10th, 2012-till date
+content	experience	Management Technology Consulting LLC, Hyderabad
+content	experience	CRM Developer
+header	education	Educational Qualifications
+content	education	Degree and Date
+content	education	Institute
+content	education	Major and Specialization
+content	education	% of Marks
+content	education	Master of Computer Applications (MCA), 2011
+content	education	Koneru Lakshmaiah College Of Engineering, Vijayawada ,Nagarjuna University
+content	education	Computers
+content	education	72.2%
+content	education	Bachelor of Science (BSc), 2008
+content	education	Priyadarshini Degree&P.G College,Khammam, Kakatiya University
+content	education	Computers
+content	education	68.2%
+content	education	Intermediate (+2), 2005
+content	education	Sri Chaitanya Junior College, Vijayawada, board of intermediate, Andhra Pradesh
+content	education	Maths, Physics, Chemistry
+content	education	71.5%
+content	education	SSC, 2003
+content	education	Public School, Khammam Secondary School Certificate
+content	education	Maths
+content	education	64.1%
+content	education	Training / Continuing Education Summary
+content	education	Program or Course
+content	education	Coverage
+content	education	Dates
+content	education	Intern Trainee for .NET Job Oriented Training
+content	education	.Net Course
+content	education	02-2012 to 08-2012
+header	others	Assignment 1
+content	others	The details of the various assignments that I have handled are listed here, in chronological order.
+header	project	Project
+content	experience	EMAIL TO CASE
+content	experience	Customer
+content	experience	MTC Product
+content	experience	Description
+content	experience	Email to Case is an add-on to MSCRM 2012. When an email receives to a user specified Queue a case will be automatically created against to that email with the mapping of sender as customer and email attachments as notes. It is also capable to filter with custom workflow input parameters, to which email needs to create cases. Sends auto email replay with the case status information.
+content	experience	Role
+content	experience	CRM Developer
+content	experience	Tools & Solution Environment
+content	experience	MSCRM Custom & System workflows, C#
+content	experience	Website Link
+content	experience	http://www.dynamicsexchange.com/etc.aspx
+content	experience	Assignment 2
+header	project	Project
+content	experience	Country House Wedding Venues (CHWV)
+content	experience	Customer
+content	experience	PREACT
+content	experience	Description
+content	experience	This project involves Enquiry and booking management, Along with availability & rate requests for individual venues. Sending that available dates, Booking venues and rates to customer by mail
+content	experience	Role
+content	experience	CRM Developer
+content	experience	Tools & Solution Environment
+content	experience	MS CRM customizations, JavaScript, plugins, Custom and system workflows
+content	experience	Responsibilities:
+content	experience	Involved in writing Plugins and custom Workflows.
+content	experience	Assignment 3
+header	project	Project
+content	experience	Activity Timer
+content	experience	Customer
+content	experience	MTC Product
+content	experience	Description
+content	experience	This Project can be manually started to override the fixed time with the actual call duration of the activity entities based on setting page selected activities data will be stored in one custom entity and based on that entity we will show and hide the activity timer on forms
+content	experience	Role
+content	experience	CRM Developer
+content	experience	Tools & Solution Environment
+content	experience	MS CRM, JavaScript, Html
+content	experience	Responsibilities:
+content	experience	Involved in writing Java Scripts, Web pages (HTML Page).
+content	experience	Assignment 4
+header	experience	Project
+content	experience	WindowsFix
+content	experience	Customer
+content	experience	ShortHills
+content	experience	Description
+content	experience	This project windows installation and providing services to their customers. This is completely handled by Business Process Flow. In CRM design, material and color of the windows will be maintained. Customers will book windows as per there need. Services and installations are also handled by the CRM. Payments details will be send to customer by emails.
+content	experience	Role
+content	experience	CRM Developer
+content	experience	Tools & Solution Environment
+content	experience	VS 2012, C#.NET, MSCRM 2016, JavaScript
+content	experience	Responsibilities:
+content	experience	Â· Involved in writing Plugins and designing Business Process Flow
+header	others	Personal Details
+meta	others	Date of Birth
+meta	others	08-07-1988
+meta	others	Nationality
+meta	others	Indian
+meta	others	Page 1 of 1

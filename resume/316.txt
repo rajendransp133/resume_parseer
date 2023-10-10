@@ -1,0 +1,96 @@
+meta	others	Sabareesh Sivakumar
+meta	others	Vatchala M
+meta	others	263 Melashanmugapuram Second Street,
+meta	others	Tuticorin - 628 003.
+meta	others	Mobile: 97868 02478
+meta	others	Email: vatchalamariappan@gmail.com
+meta	experience	________________________________________________________________________________________________
+header	others	Objective
+content	others	Willing to work as a key player in an organization which progress dynamically and enhances my skills. To be dedicated in my work and learn from every endeavor for the amelioration of the firm and myself.
+header	education	Education:
+header	education	Qualification
+content	education	Name of University
+content	education	% of marks
+content	education	MBA
+content	education	IGNOU, New Delhi
+content	education	B
+content	education	B.Sc., Computer Science
+content	education	MS University, Tirunelveli
+content	education	66.26
+content	education	HSC
+content	education	Holy Cross Girls Hr Sec School, Tuticorin
+content	education	86.25
+content	education	SSLC
+content	education	Holy Cross Girls Hr Sec School, Tuticorin
+content	education	89.2
+header	experience	Experience Summary:
+content	experience	Employer
+content	experience	Designation
+content	experience	Duration
+content	experience	Geojit BNP Paribas Financial Services Ltd, Tuticorin
+content	experience	Accounts Admin
+content	experience	Sep 2010 to Till Date
+content	experience	Streta Corporate Solutions, Chennai
+content	experience	Helpdesk Support
+content	experience	Mar 2008 to Jul 2010
+content	experience	Mountain Spinning Mills Ltd, Tuticorin
+content	experience	System Admin
+content	experience	Oct 2004 to Jan 2008
+header	knowledge	Technical Skills:
+content	knowledge	Operating System
+content	knowledge	Programming Languages
+content	knowledge	Software
+content	knowledge	Windows, Unix, Linux
+content	knowledge	JAVA, Visual Basic
+content	knowledge	WinSCP, Putty, Active Directory
+header	experience	Career Profile :
+content	experience	Since Sep 2010 to Till Date Geojit BNP Paribas Financial Services Ltd
+content	experience	Title : Accounts Admin
+content	experience	Period : Sep 2010 to till date
+content	experience	Geojit Financial Services Ltd is one of the leading financial services company in India. The company is involved in the business of brokerage services, depository operations, distribution of financial products, portfolio management services, overseas operations and commodity futures. The company is the largest DP brokers and the first to start online trading in the country.
+header	experience	Responsibilities :
+content	experience	· Controlling credit and ensuring debtors pay on time
+content	experience	· Reconciliation of direct debits and finance accounts of share trading clients
+content	experience	· Ensuring all payments amounts & records of clients are accurate
+content	experience	· Preparation of statutory accounts
+content	experience	· Working with journals, sales & purchase ledgers and spreadsheets
+content	experience	· Controlling credit and ensuring debtors pay on time
+content	experience	· Reconciliation of direct debits and finance accounts
+content	experience	· Ensuring all payments amounts & records are accurate
+content	experience	· To manage accounts payable (bill payments, salaries, petty cash etc.) and receivable through cash cheque voucher in a timely manner
+content	experience	· To establish and maintain fiscal files and records to document transactions
+content	experience	· To maintain and reconcile cash / financial accounts
+content	experience	· To enforce credit control
+content	experience	· To allocate cash to different departments / divisions and ensure that the direct staff complies with it
+content	experience	Since Mar 2008 to Jul 2010 Streta Corporate Solutions
+content	experience	Title : Team Member - Helpdesk Support
+content	experience	Period : Mar 2008 to Jul 2010
+header	experience	Responsibilities :
+content	experience	· Serve as the first point of contact for customers seeking technical assistance over the phone or email
+content	experience	· Perform remote troubleshooting through diagnostic techniques and pertinent questions
+content	experience	· Determine the best solution based on the issue and details provided by the user
+content	experience	· Maintain accurate inventory of all hardware and software resources and parts
+content	experience	· Direct unresolved issues to the next level of support personnel
+content	experience	· Following standard service desk procedures
+content	experience	· Record events and problems and their resolution in logs
+content	experience	· Work with outside vendors as needed
+content	experience	· Providing support for the servers by ticketing systems
+content	experience	· Providing Day-to-Day support
+content	experience	Operating System : UNIX, RHEL, Windows XP / 2003 server
+content	experience	Since Oct 2004 to Jan 2008 Mountain Spinning Mills Ltd
+content	experience	Title : System Admin
+content	experience	Period : Oct 2004 to Jan 2008
+header	experience	Responsibilities :
+content	experience	· Regularly evaluated servers and successfully maintained uptime of 97%
+content	experience	· Monitored and updated user groups and permissions, using Active Directory
+content	experience	· Implemented more frequent backups to increase environment security
+content	experience	· Installing the software and printers
+content	experience	· Perform regular file archival and purge as necessary
+content	experience	· Perform periodic performance reporting for capacity planning
+content	experience	· Good in verbal and email communication skills
+header	others	Personal Details:
+meta	others	Father’s Name : C. Mariappan
+meta	others	Sex : Female
+meta	others	Nationality : Indian
+meta	others	Marital Status : Single
+meta	knowledge	Languages : English, Tamil

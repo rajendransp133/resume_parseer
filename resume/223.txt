@@ -1,0 +1,50 @@
+meta	others	Jayprakash Gudda Poojary
+meta	others	Bachelor of Commerce
+meta	others	Contact No.: -9004516190
+meta	others	E-mail:-poojaryjayprakash@gmail.com
+meta	others	Present Address:
+meta	others	B/12,Chadha Apartment,
+meta	others	Telly Gally, AndheriEast,
+meta	others	Mumbai-400069.
+header	others	CAREER OBJECTIVE
+content	others	To work in a firm with a professional work driven environment where I can utilize and apply my knowledge, skills which would enable me as a fresh graduate to grow while fulfilling organizational goals.
+header	education	BASIC ACADEMIC CREDENTIALS
+content	education	Qualification
+content	education	Board/University
+content	education	School/College
+content	education	Year
+content	education	Percentage
+content	education	B.Com
+content	education	Mumbai University
+content	education	Bhavans College
+content	education	2017
+content	education	72.85%
+content	education	H.S.C
+content	education	Maharashtra State Board
+content	education	Bhavans College
+content	education	2014
+content	education	72.35%
+content	education	S.S.C
+content	education	Maharashtra State Board
+content	education	S.R.W.S High School
+content	education	2012
+content	education	76.91%
+header	knowledge	INTERPERSONAL SKILL
+content	knowledge	· Ability to rapidly build relationship and set up trust.
+content	knowledge	· Confident and Determined.
+content	knowledge	· Ability to cope up with different situations.
+content	knowledge	· Good team player and positive attitude.
+content	knowledge	· Flexibility and Adaptability to work in any environment.
+header	others	PERSONAL DETAILS
+meta	others	· Father’s Name :- Gudda Koraga Poojary
+meta	others	· Date of Birth :- 20thSeptember 1996
+meta	knowledge	· Language Known :- English, Hindi, Marathi, Tulu & Kannada
+meta	others	· Marital Status :- Single
+meta	others	· Interest & Hobbies :- Internet browsing ,Sports, Travelling and Listening music.
+header	experience	EXPERINCE
+meta	experience	· Working for C.A.RATHI since September 2017 as account assistant.
+header	knowledge	SKILLLS
+meta	knowledge	· Tally
+meta	knowledge	· MS office
+header	others	DECLARATION
+meta	others	I do hereby declare that the above information is true to the best of my knowledge.

@@ -1,0 +1,63 @@
+header	others	RESUME
+meta	others	PERSONAL PROFILE:
+meta	others	NAME: SUCHETANA SEN
+meta	others	FATHER’S NAME: SUMAN SEN
+meta	others	ADDRESS: 20/1b/1 Baishnabghata Road, Kolkata-700047
+meta	others	CONTACT NUMBER: 9804662562
+meta	others	E-MAIL ADDRESS: suchetanasen11@gmail.com
+meta	others	DATE OF BIRTH: 26th November 1996
+meta	others	BLOOD GROUP: B+
+header	education	ACADEMIC QUALIFICATION:
+header	education	DEGREE/ CERTIFICATE
+header	education	QUALIFICATION
+header	education	INSTITUTE
+content	education	BOARD/UNIVERSITY
+content	education	YEAR
+content	education	MARKS OBTAINED/CGPA
+content	education	10TH
+content	education	SECONDARY SCHOOL EXAMINATION
+content	education	B.D. MEMORIAL INTERNATIONAL
+content	education	CBSE
+content	education	2013
+content	education	7.0
+content	education	12TH
+content	education	A.I.S.S.C.E
+content	education	B.D. MEMORIAL INTERNATIONAL
+content	education	CBSE
+content	education	2015
+content	education	379
+content	education	GRADUATION
+content	education	B.COM TAXATION HONOURS
+content	education	JOGOMAYA DEVI COLLEGE
+content	education	CALCUTTA UNIVERSITY
+content	education	2015-2018
+content	education	399
+header	knowledge	LANGUAGES KNOWN:
+content	knowledge	1. ENGLISH (reading, writing and speaking)
+content	knowledge	2. BENGALI (reading, writing and speaking)
+content	knowledge	3. HINDI (reading and speaking)
+header	knowledge	COMPUTING SKILLS:
+content	knowledge	Microsoft Office (MSWORD, MSEXCEL, MSACCESS, POWERPOINT)
+header	knowledge	STRENGTHS:
+content	knowledge	· Strong analytical and communication skills
+content	knowledge	· Punctuality
+content	knowledge	· Flexibility and adaptability
+content	knowledge	· Positive attitude
+content	knowledge	· Calm and composed in situation of conflict
+content	knowledge	· Hardworking and open to learning
+header	others	AREAS OF INTEREST:
+content	others	· Interacting with new people
+content	others	· Acting
+content	others	· Art and Craft
+content	others	· Travelling
+header	others	CAREER OBJECTIVE:
+content	others	To seek a challenging an responsible position in a large and professional
+content	others	Organization where i will have the opportunity to make a positive contribution
+content	others	to business growth. To attain the peak of success with my hard work and
+content	others	Potential in shortest possible time. To yield better work prospective to the
+content	others	organization, and a competitive working environment to my subordinates with
+content	others	full encouragement and whole-hearted participation.
+header	others	DECLARATION:
+content	others	I Pledge and Announce that all the above Information are True To the Best of My Knowledge.
+content	others	PLACE: Yours Truly
+content	others	DATE: Suchetana Sen

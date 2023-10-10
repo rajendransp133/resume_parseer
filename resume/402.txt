@@ -1,0 +1,85 @@
+meta	others	Microsoft Word - SRAVANI TALASIRI
+meta	others	SRAVANI TALASIRI
+meta	others	Permanent Address:
+meta	others	 : +91-8605053357 HSC 2-113,Chiramana(V&P), A.S.Peta(M)
+meta	others	 : sravanitalasiri@capgemini.com Nellore(D), Andhra Pradesh 524308.
+header	others	OBJECTIVE
+content	others	To work for an organization which demands best of my professional ability and helps me in broadening and enhancing
+content	others	current skills and knowledge.
+header	education	ACADEMIC PROFILE
+content	education	SL.no Education Board/University School/College Percentage
+content	education	/CGPA
+content	education	Year
+content	education	of Passing
+content	education	1 BTech(ECE) RGUKT RGUKT 8.44 2015
+content	education	2 Intermediate RGUKT RGUKT 8.86 2011
+content	education	3 SSC Board of Secondary
+header	education	Education
+content	education	Z.P.H.S Chiramana 92.33% 2009
+content	education	C.G.P.A => Cumulative Grade point Average (on a scale of 10)
+header	experience	WORK EXPERIENCE
+content	experience	Organisation : Capgemini India Pvt.Ltd Pune Duration : October,2015 Onwards
+content	experience	Position : Senior Software Engineer
+header	experience	Career Summary :
+content	experience	 As a Senior Software Engineer with deep expertise in COBOL and DB2 programming , have 2.2
+content	experience	years hands on expertise in Banking Domain.
+content	experience	 Proficient in coding and developing new programs within ETA.
+content	experience	 Skilled in requirement analysis and project documentation i.e Technical,Functional,UTP,UTR.. etc).
+content	experience	 Supported QA, Integration and User acceptance testing.
+header	others	Awards :
+content	others	 Winner of She Rocks HIGH FIVE award in recognition of stupendous contribution.
+content	others	 Received STAR OF THE MONTH award in recognition of extra mile efforts.
+header	project	PROJECT DETAILS : PROJECT1
+header	project	Title : ECS-DPL-REAGE
+content	project	Client : Discover Financial Services ,US Role : Developer
+content	project	Duration : January 2016 –October 2017 Team size : 03
+content	project	Platform/OS Used : Mainframes Database Used : DB2
+content	project	Language(s)/Tools Used : COBOL-DB2,JCL,DB2,File Manager, Endevor
+content	project	Description : ECS (Enterprise collection systems) is a third party agency , who helps customers to clear their
+content	project	debts. EICE offers DFS delinquent customers with different payment programs. If Customer opts for a payment
+content	project	program he/she will be rewarded with Reaging [Setting back delinquency to ‘0’] based on certain criteria
+content	project	specified by business depending on Type of Payment program.
+content	project	Responcibilities : - Analyzed the existing ECS flow and current payment programs processing.
+content	project	- Created HLD and Component Designs for the impacted modules and new modules.
+content	project	- Enhancement & Development of the existing /new modules.
+content	project	- Completed rigorous Unit testing along with the creation of daily reports[UTP& UTR].
+content	project	- Provided support in Integration and Production Assurance testing.
+content	project	- Worked on incidents raised post production install & corrected as required.
+header	project	PROJECT 2
+content	project	Title : ECS-LABELS-AUTOMATION
+content	project	Client : Discover Financial Services ,US Role : Developer
+content	project	Duration : September 2017-On going Team size : 03
+content	project	Platform/OS Used : Mainframes Database Used : DB2
+content	project	Language(s)/Tools Used : COBOL-DB2,JCL,DB2,File Manager, Endevor
+content	project	Description : ECS (Enterprise collection systems) is a third party agency , who helps customers to clear their
+content	project	debts. Labels indicates business requirements. Lables can be applicable to customer in any level
+content	project	(account/Party/Portfoilio) .Based on business requirement and requests received labels gets applied to specified
+content	project	level. This processing should be time and file triggered not include in batch.
+content	project	Responcibilities : - Analyzed the existing ECS flow.
+content	project	- Created HLD and Component Designs for the impacted modules and new modules.
+content	project	- Enhancement & Development of the existing /new modules.
+content	project	- Completed rigorous Unit testing along with the creation of daily reports[UTP& UTR].
+header	knowledge	TECHNICAL QUALIFICATIONS
+content	knowledge	 Languages : COBOL, JCL.
+content	knowledge	 Databases : DB2, SQL.
+content	knowledge	 Operating Systems : Mainframe, Windows XP/7/8/10, Linux(Ubuntu & Fedora).
+content	knowledge	 Tools : Endevor, TSO and File Manager(FM).
+header	others	ACADEMIC ACHIEVEMENTS
+content	others	 Procured DEESHARATNA CERTIFICATE for securing 5th rank in Rotary Club Talent Test (Dist
+content	others	level) for Navodaya Class held on 2004.
+content	others	 Received PRATIBHA PURASHKAR AWARD 2008-2009 from ZPTC SPSR Nellore for excellence in
+content	others	10th standard.
+content	others	EXTRA CURRICULAR ACTIVITIES
+content	others	 Secured 78.6% and received “CERTIFICATE OF EXCELLENCE” in the 3rd National Creativity
+content	others	Aptitude Test conducted by NCAT-2014. ADEMIC ACHIEVEMENTS
+header	others	PERSONAL QUALITIES
+content	others	 Ability to work in team as well in group.
+content	others	 Ability to produce best result in pressure situation.
+content	others	 Self-determination and Smart working nature.
+content	others	 Curiosity towards new activities.
+header	others	PERSONAL INFORMATION
+content	others	Date Of Birth : 08-06-1993
+content	others	Father’s name : Mr. SREENIVASULU TALASIRI
+header	others	DECLARATION
+content	others	I hereby declare that all the information furnished above is true to the best of my knowledge.
+meta	others	Sravani Talasiri

@@ -1,0 +1,101 @@
+meta	others	Nitika Sharma
+meta	others	Email:nitika92sharma@gmail.com
+meta	others	Mob: +91-9538571606, 9038259580
+header	experience	PROFILE SUMMARY
+content	experience	· Overall 5+ years of working experience in IT industry (Wipro Technologies) with exposure to various domain.
+content	experience	· Good Experience in Data Visualization, Data Analysis, Developing Sql query, Business intelligence.
+content	experience	· Good experience in writing SQL queries, analysis of data using BI tool.
+content	experience	· Good understanding of business requirement and transformation of requirement into SQL queries.
+content	experience	· 2+ Years experience in creating tableau dashboards.
+content	knowledge	· Good knowledge of tableau concepts like Parameter, logical calculations, dual axis chart and other different types of visualization in tableau.
+content	experience	· Created interactive tableau dashboards using actions, parameters and various types of charts like bubble chart, tree map, word cloud, bar chart etc.
+content	experience	· Involved in creating Dashboards, reports as needed using Tableau Desktop and Tableau Server
+content	experience	· Good in creating report schedules on Tableau server
+content	experience	· Sound knowledge of tableau admin part like granting access to users, changing permissions. Row level security etc.
+content	experience	· Created incremental refreshes for data sources on Tableau server
+content	experience	· Good in building complex logical calculations in tableau.
+content	experience	· Extensive knowledge in various reporting objects like Facts, Attributes, Hierarchies, filters, Calculated fields, Sets , Groups, Parameters , dashboard actions in Tableau.
+content	experience	· Good knowledge of Excel formulas as lookup sums if, pivot, index, match etc.
+content	knowledge	· Extensive knowledge in Structured query language and scheduling code using nohup command.
+content	experience	· Good experience in guiding new members in team. Experienced in transferring knowledge to offshore as well as onsite resources
+content	experience	· Quick and passionate leaner and can easily grab new analytical technologies or tools.
+content	experience	· Ready to explore new analytical technologies. Excellent ability to adapt to upgrade and change new analytical skills.
+header	education	EDUCATIONAL BACKGROUND
+content	education	DEGREE
+content	education	PASSING YEAR
+content	education	BORAD/UNIVERSITY
+content	education	M.Tech
+content	education	2016
+content	education	Birla institute of Technology and Science
+content	education	B.SC
+content	education	2012
+content	education	Guru Nanak Dev University
+content	education	12th
+content	education	2009
+content	education	P.S.E.B
+content	education	10th
+content	education	2007
+content	education	P.S.E.B
+header	experience	PROFESSIONAL EXPERIENCE
+content	experience	ORGANISATION
+content	experience	DESIGNATION
+content	experience	LOCATION
+content	experience	FROM
+content	experience	TO
+content	experience	Wipro Technologies
+content	experience	Data Analyst & SQl developer
+content	experience	Kolkata
+content	experience	Aug-2013
+content	experience	May-2015
+content	experience	Wipro Technologies
+content	experience	Data Analyst , SQl Developer, tableau developer
+content	experience	Bangalore
+content	experience	June-2015
+content	experience	Till Date
+header	knowledge	TECHNICAL SKILLS
+content	knowledge	Primary Skill Set: SQl, SQl code development, Basic Unix commands, Data Analysis, Excel, Tableau.
+content	knowledge	Languages: SQl, Exposure to Putty and Winscp environment. Good in scheduling Bteq file using Nohup command etc.
+content	knowledge	Reporting Tools: Tableau, Excel
+header	project	PROJECTS SUMMARY
+content	experience	Company: WIPRO TECHNOLOGIES (August 2015-till date )
+content	experience	Project: Apple GBI (till date)
+content	experience	Client: Apple Singapore
+content	experience	Description: Apple is one of the most renovate manufacturing company in the world. Objective is to analyze apple data and create interactive tableau dashboards for business users to help them taking business actions.
+content	experience	Environment: SQL, Tableau.
+content	experience	Role: Data Analyst, Tableau developer, SQL Developer
+header	experience	Responsibilities:
+content	experience	· Identify data sources and work with the team to transform the data for reporting purposes.
+content	experience	· Writing SQl queries to fetch required data
+content	experience	· Design & Develop Tableau reports & dashboards for different types of analysis of Apple products, services. Worked on various analyses . Some of them are new apple product launch analysis. How different channel are working, performance of different partners, which iPhone color is more popular.
+content	experience	Company: WIPRO TECHNOLOGIES (June 2015-August-2015)
+content	experience	Project : Sales Analytics
+content	experience	Description: Project is about build an analytical solution to identify the path from commit to revenue. Objective is to define the complete process so as to institutionalize & standardize it across Organization.
+content	experience	Environment: SQL, Tableau.
+content	experience	Role: Data Analyst, Tableau developer, SQL Developer
+header	experience	Responsibilities:
+content	experience	· Design & Develop Tableau reports & dashboards for Sales Analytics
+content	experience	· Identify data sources and work with the team to transform the data for reporting purposes.
+content	experience	Company : WIPRO TECHNOLOGIES (Jan 2013-May 2015)
+content	experience	Project : Sears Holding Corporation
+content	experience	Client : Sears USA
+content	experience	Description : Sears is a retail company in USA. Basically, I worked on the SYWR program launched by Sears. SYWR is shop your way rewards program launched on Nov 2009. Shop your way rewards help loyal members to earn some cash back and other bonus offer. My role in this project is to develop SQl code as per the business requirement given by client and prepare the excel report for the requirement and analyze the data and provide some useful key insights
+content	experience	Environment : Teradata database, Putty, Winscp, Excel
+content	experience	Role : Data Analyst, SQL Developer
+header	experience	Responsibilities:
+content	experience	· Expertise in writing Teradata SQl queries. Well aware of SQl commands like Rank, partition etc.
+content	experience	· Implemented a business requirement using SQl code and provided some key insights.
+content	experience	· Created Volatile table, temporary table, and permanent table using SQl as per the requirement.
+content	experience	· Worked on various implementations involving Decile, percentile, rank functions.
+content	experience	· Prepared excel reports using functions VLOOKUP, match, left, mid, sum if, Pivot etc.
+content	experience	· Well aware of Tableau concepts as calculated field, creating parameter, bar chart, funnel chart, aggregated functions etc.
+content	experience	· Worked on various complex business requirements and handled huge data.
+header	others	ACHIEVEMENTS:
+content	others	· Got excellent rating in my project for my dedication and excellent work
+content	others	· Won various appreciations in Wipro in the category of “Passionate worker” and “Inspirational Performance”
+content	others	· Won seconds prize in Badminton in Wipro analytics championship .
+header	others	PERSONAL DETAILS:
+meta	others	· Date of Birth : 11 Nov 1991
+meta	others	· Nationality : Indian
+meta	knowledge	· Languages Known : English, Hindi and Punjabi.
+meta	others	· Location Preference : Bangalore, NCR (Delhi) and Chandigarh.
+meta	others	· Interests : Playing badminton, listening music, Dancing

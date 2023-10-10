@@ -1,0 +1,47 @@
+meta	others	Abin Sabu
+meta	others	Email : abinsabu143@gmail.com
+meta	others	Mobile: +91-08197874797
+meta	others	+91-8606559961
+header	others	PERSONAL DETAILS
+meta	others	DOB : 24/04/1994
+meta	others	Gender : Male
+meta	others	Address : D2 Karv Dreams Electronic City, Bangalore
+meta	others	Marital Status : Single
+meta	others	Nationality : Indian
+header	knowledge	LANGUAGE SKILLS
+content	knowledge	Read And Write : English, Hindi & Malayalam
+content	knowledge	Speak : English & Malayalam
+header	others	ACHIEVEMENTS
+content	others	· NCC Certification A,B, &C
+content	others	· Headed NIC Camp in Orissa 2011
+header	knowledge	Key Strengths
+content	experience	· Problem solving skill
+content	experience	· Self Confidence
+content	experience	· Multitasking
+content	experience	· Flexibility & Adaptability
+content	experience	· Tolerance: Stress tolerance
+content	experience	· Learning agility: Quick learner
+header	others	CAREER OBJECTIVE
+content	others	Seeking challenging career in an organization to get a position of responsibility, using my skills and efficiency to communicate my ideas and views and commit myself for achieving organizational objectives with the team effort and my positive attitude and performance.
+header	education	EDUCATION
+content	education	SSLC
+content	education	NSBHSS Board of Examination 2010 – 83 %
+content	education	Higher secondary
+content	education	NSBHSS Board of Examination -2012
+content	education	Commerce with Mathematics -92%
+content	education	Bachelors of Commerce
+content	education	NSS Hindu College ,Mahatma Gandhi University - 2015
+content	education	Finance and Taxation – 73%
+header	education	TRAININGS & CERTIFICATIONS
+content	education	· Diploma in Professional Accounting
+content	education	· 150 hrs Internship in GST for JCC & Associates,
+content	education	· Goods & Service tax (GST) Accounts assistant course
+content	education	· Computer Training Certificate by ICAI
+content	education	· Communication & Soft Skill Training by ICAI
+header	experience	EXPERIENCE
+content	experience	July 2016 – Dec 2016
+content	experience	· Audit Assistant in M.M Zachariah & Co ( Chartered Accountants, Kottayam,Kerala)
+content	experience	Jan 2017 –Sep2017
+content	experience	· Audit assistant in Pratesh Joseph Job ACA ( Chartered Accountants ,Changanachery,Kerala)
+header	others	Declaration - I hereby declare that the above information is true to the best of my knowledge and belief and nothing has been concealed or distorted
+content	others	Place: Bangalore Date:

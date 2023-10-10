@@ -1,0 +1,84 @@
+header	others	CURRICULUM VITAE
+header	others	CURRICULUM VITAE
+header	others	Name
+meta	others	NADIA A. KHAN
+header	others	Address
+meta	others	105 B, Saurabh Apts., B Wing, Next to Nagori Dairy Pooja Nagar, Mira Road (East), District Thane 401107
+header	others	Personal Details
+header	others	Date of Birth
+meta	others	29th November, 1984
+meta	others	Interests
+meta	others	Travelling & Reading
+meta	others	Marital Status
+meta	others	Single
+header	others	Phone
+content	others	09820430247
+header	education	Educational Qualification
+content	education	Education
+content	education	B.Com, Mumbai University, October 2005.
+content	education	HSC, Mumbai Board, March 2002.
+content	education	SSC, Mumbai Board, March 2000.
+content	education	Computers
+content	education	Diploma in Ms Office, From St. Angelo’s Computer Educational Ltd, Mumbai, 2002.
+header	knowledge	Languages Known
+content	knowledge	English, Hindi, Marathi, Urdu.
+header	experience	Professional Experience.
+content	experience	Organization
+content	experience	Rochem Separation Systems (I) Pvt ltd., Mumbai (Manufacturers of Navy Based and Wastewater Recycling Systems)
+content	experience	Designation
+content	experience	Accounts Executive
+content	experience	Tenure
+content	experience	November 2005 to June 2009
+header	experience	Job Profile
+content	experience	· Journal Entries Relating to sales & purchase department and stock including imports
+content	experience	· Preparing Pay Orders, Vouchers Bills.
+content	experience	· Preparing of TDS Returns
+content	experience	· Assist in matters relating to import duty deductions/ exemptions
+content	experience	· Preparation of Bank reconciliation statements
+content	experience	· Checking and making payment of Performa invoices
+content	experience	· Maintenance Of records / files
+content	experience	· Coordinations with marketing department for Receivables management
+content	experience	· Preparing debit / credit notes
+content	experience	· Verification of invoices supporting documents
+content	experience	· Handling Company’s Expenses and its respective Branch expenses
+content	experience	· Handling Staff Advance and Checking of expense incurred by them
+content	experience	· Handling all Expenses relating to staff with respect to Travel, Telephone and credit card
+content	experience	· Working in ERP Systems in addition to Tally 9 and simultaneously updating in both systems, Bank Reconciliation & payment entries, calculation and simultaneous payment of custom Duties for all imports on regular basis
+content	experience	· Co-coordinating with Internal Auditor’s on Daily Basis to solve their Queries
+content	experience	· Other Day to day accounting work
+header	experience	Organization
+content	education	Falah English High School
+content	experience	Thane
+content	experience	Designation
+content	experience	Class Teacher of IV STD
+content	experience	Tenure
+content	experience	August 2009 to January 2010
+content	experience	· Training students based on the syllabus, ensuring discipline in the class room and motivating students to complete their assignments.
+header	experience	Organization
+content	experience	VETA (Vivekananda English Training Academy)
+content	experience	Designation
+content	experience	English Trainer
+content	experience	Tenure
+content	experience	January 2010 till date
+header	experience	Job Profile
+content	experience	· Handling batches from very Basic to Advance level.
+content	experience	· Up gradation of students from Basic to Advance level.
+content	experience	· Responsible for making students the hang of the language.
+header	others	References
+meta	others	Mr. Akbar Ali
+meta	others	Mr. Louis D’costa
+meta	others	Sr. Trainer
+meta	others	General Manager
+meta	others	Veta English Training Academy
+meta	others	Rochem Separation Systems,
+meta	others	Mumbai.
+meta	others	Mumbai
+meta	others	Mobile – 09819678177
+meta	others	Mobile – 09821254054
+header	others	Date:
+content	others	Sub: Application for a suitable opening in your organization.
+content	others	Dear Sir / Madam,
+content	others	Having learnt of suitable openings in your organization, I am enclosing, herewith, my resume for your kind perusal.
+content	others	I look forward to an opportunity to present my credentials in person.
+content	others	Yours sincerely,
+content	others	NADIA A. KHAN

@@ -1,0 +1,72 @@
+meta	others	Dilip Kumar Vadapalli
+meta	others	Mukkara Narayana Reddy
+meta	others	Email: narayanareddy.allu@gmail.com
+meta	others	Phone No: 9025253827
+content	others	Career Objective:
+content	others	Seeking a challenging position where my experience will have a valuable application with a desire to learn new concepts, and satisfy the organization.
+header	experience	Summary:
+content	experience	· Over 1+ years of Experience in IT Industry in Java (J2EE) using Core Java and Advanced Java well acquainted with software development life cycle.
+content	experience	· Project experience using JSP, Spring MVC.
+content	experience	· Project experience using JSP, JDBC.
+content	experience	· Developing applications in MVC architecture using Springs framework.
+content	experience	· Good exposure to Web server Tomcat.
+content	experience	· Excellent team member possessing good communication and interpersonal skills.
+content	experience	· I would take up assignments with enthusiasm and challenges, playing positive role in the Team and Ability to Interact with Individuals at all levels.
+header	knowledge	Key Skills:
+header	knowledge	Languages
+header	knowledge	: Java (Core java).
+header	knowledge	Operating Systems
+content	knowledge	: Windows 7/8/10/XP
+header	knowledge	Server Components
+content	knowledge	: Servlets, JSP
+header	knowledge	Frame works
+content	knowledge	: Spring (MVC)
+header	knowledge	Server Technology
+content	knowledge	: Apache Tomcat
+header	knowledge	Database Connectivity
+content	knowledge	: JDBC.
+header	knowledge	RDBMS
+content	knowledge	: My SQL.
+header	knowledge	Internet Technologies
+content	knowledge	: HTML, XML.
+content	knowledge	IDE/Tools : Eclipse.
+header	experience	Work Profile:
+content	experience	· Working as a Software Engineer in W3Softech India Private Limited , Hyderabad from Feb 2017 to till date.
+header	education	Educational Summary:
+content	education	· B.Tech (Electrical and Electronics Engineering) in Saveetha School Of Engineering in 2016 with 78.0%.
+header	project	Current Project:
+header	project	Project #1
+content	experience	Name
+content	experience	City Road Share
+content	experience	Environment
+content	experience	Java, Spring.
+content	experience	Duration
+content	experience	April 2017 to till date.
+content	experience	Role
+content	experience	Developer
+header	experience	Description:
+content	experience	City Road Share is a social networking site through which people can meet up for sharing their ride with in the city. City Road Share has vehicle sharing and ride sharing. The main intension of this site is, if you have a vehicle then split cost and reduce traffic and pollution by offering vehicle pools and if you don’t have a vehicle, use the system to find a vehicle pool. Through this Ride Sharer can share his ride with Ride Seeker and Ride seeker can share his ride with Ride Sharer. By sharing a ride we can save gas, money, reduce auto emission. CRS main motto is to control Pollution, parking problems, traffic and road maintenance. It contains mainly three modules Ride Sharer (provider), Ride Seeker (requestor), Administrator.
+content	experience	Responsibilities:
+content	experience	· Involved in writing Business logic for user module.
+content	experience	· Involved in Developing Pages using JSP.
+content	experience	· Developed Controller classes.
+content	experience	· Developed DAO Classes.
+content	experience	· Design and Development of Tables in Mysql Database.
+header	others	Personal Information:
+header	others	Father Name
+meta	others	: M.Pandu Ranga Reddy
+header	others	D.O.B
+meta	others	: 13th October 1994.
+header	others	Gender
+meta	others	: Male
+header	others	Marital status
+meta	others	: Single
+header	others	Hobbies
+meta	others	: Net surfing, Listening to Music.
+header	knowledge	Known Languages
+meta	knowledge	: Telugu, English, Hindi.
+header	others	Declaration:
+meta	others	I hereby declare that the information furnished above is true to the best of my Knowledge.
+meta	others	Place: Hyderabad
+header	others	Date:
+meta	others	M.NARAYANA REDDY

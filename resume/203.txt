@@ -1,0 +1,66 @@
+meta	others	Khushbu Jain
+meta	others	Narayan Complex Mob: - +91-7387575599, +91-8989622317
+meta	others	Opp. PNB Bank, Near D-mart Email: - khushbujain09@rediffmail.com
+meta	others	Hinjewadi, Pune-411057
+header	others	CAREER OBJECTIVE
+content	others	· To obtain a challenging growth oriented positions in a progressive company where my skills & knowledge are effectively utilize to contribute an organization success.
+header	experience	WORK EXPERIENCE
+header	experience	1. Process Specialist (Accountant)
+content	experience	March 2016 to Current (2.7 Years Experience)
+content	experience	Infosys BPM, Pune
+content	experience	· Invoice processing (PO invoice, Non-PO invoice and pre-approved invoice)
+content	experience	· Handling payment (Wire, Check and USD).
+content	experience	· Handling payment queries and working with GL team to get AP open items closed.
+content	experience	· Performing month end closing activities.
+content	experience	· Working on Hold report (Aging Invoice).
+content	experience	· Supporting TL during weekend/monthly reporting to management & SOP updating.
+content	experience	· Managing the team in absence of TL.
+content	experience	· Handling Vendor queries.
+content	experience	· TnE Audit and posting.
+header	experience	2. Account Assistant
+content	experience	Jan 2013 to Jan 2016 (3 Years Experience)
+content	experience	Sanskar Hero Motors, Indore (M.P.)
+content	experience	· Handledand managed all day-to-day transaction records in Tally ERP 9.
+content	experience	· Maintained customer & sub Dealer Ledgers,
+content	experience	· Bank reconciling,
+content	experience	· Maintained records of all financer.
+content	experience	· Track records of stocks & maintain inventory.
+content	experience	· Create bill for customer on Soft rack software & DMS.
+header	others	ACHIVEMENT
+content	others	· Award For Contribution Towards Go-Live
+content	others	· I-Star Award
+content	others	· Individual Extra Miler Award
+header	knowledge	SKILLS
+content	knowledge	· Ms-office
+content	knowledge	· SAP, OEMS
+content	knowledge	· Oracle
+content	knowledge	· DMS (Dealer Management System), Soft rack software, Tally ERP 9
+header	education	EDUCATIONAL QUALIFICATION
+content	education	Course
+content	education	University / Board
+content	education	Passing Year
+content	education	MBA
+content	education	(Finance + HR)
+content	education	DAVV, Indore
+content	education	2011
+content	education	B.Sc.
+content	education	(Computer Science)
+content	education	Vikram University
+content	education	Ujjain
+content	education	2008
+content	education	SSC (12th)
+content	education	M.P. Board
+content	education	2005
+content	education	HSC (10th)
+content	education	M.P. Board
+content	education	2003
+header	education	TRAINGING & CERTIFICATIONS
+content	education	· Office Assistant training under Prakash Chandra Jain & CO. (Chartered Accountants), Indore (M.P.)
+content	education	Duration:30days
+content	education	Learning: Manage the Accounts and Auditing.
+header	others	PERSONAL DETAILS
+meta	others	Date of Birth - 05-May-1988
+meta	knowledge	Language Known - Hindi, English
+meta	others	Passport - Confirmed
+meta	others	Permanent Address - Sabhyata Garments Pragati Chauraha,
+meta	others	Dalauda, Dist. Mandsaur, (M.P.)

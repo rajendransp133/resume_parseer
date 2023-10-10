@@ -1,0 +1,159 @@
+meta	others	admin
+meta	others	Network Engineer
+meta	others	VOONA BIDYA SAGAR
+meta	others	Mob No. : +91-8904276228
+meta	others	Email ID: bidyasagar.voona@gmail.com
+header	others	OBJECTIVE:
+content	others	To be a part of a progressive organization which can provide me dynamic work sphere to extract my inherent skills as a professional use and develop my aptitude to further organization’s objectives and also attain my career targets in the progress.
+header	experience	PROFESSIONAL SUMMARY:
+content	experience	· Having 6 years of experience on Network domain in different areas like Network monitor, design plan, installation & configuration. Troubleshoots of LAN/WAN, Routing Protocols.
+content	experience	· Experience in Configuration & Trouble shoot of Cisco Routers & Routing Protocols RIP, EIGRP, OSPF, BGP, and MPLS with Redundancy, Redistribution, Load balancing, IOS up gradation, Password Recovery& Backup.
+content	experience	· Experience in configuring and Trouble shoot of WIRELESS infrastructure using CISCO WLC.
+content	experience	· Experience in Configuration & trouble shoot of Cisco Catalyst Switch, VLAN, VTP, STP, HSRP, Ether Channel, LACP, PAgP, Dot1q trunking.
+content	experience	· Expertise in Catalyst Switches 6509,4506,4507,2960,3750,3550,Nexus 7k,5k,2k & Cisco Routers 3700, 2800, 2900, 903, 7200 ,7600 series Modules.
+content	experience	· Expertise in PIX/ASA Firewalls 5520, 5550, and Checkpoint R76, R77, Fortigate firewall, Riverbed and RADIUS, TACACS+.
+content	experience	· Operating Systems: Microsoft Windows 2003, 2008 Server, Windows XP, & Windows 7.
+content	experience	· Quick adaptability to latest technologies.
+header	education	TECHNICAL CERTIFICATION & TRAINING:
+content	education	· Cisco Certified Network Associate Routing and Switching (CCNA R & S),
+content	education	CISCO ID-CSCO12366361
+header	knowledge	NETWORK MONITORING TOOL:
+content	knowledge	· NETFLOW TRACKER.,CA SPECTRUM,SOLAR WIND,CISCO PRIME ,LMS,Ishite
+header	knowledge	TICKETING TOOL:
+content	knowledge	· SERVICE NOW,SM7,CA SDM
+header	education	ACADEMIC DETAILS:
+content	education	· B.Tech in Electronics &Communication Engineering from Biju Pattnayak University of Technology (Odisha) 2012.
+content	education	· Intermediate in Science from CHSE (Odisha) 2008
+header	experience	PROFESSIONAL CAREER PROFILE:
+content	experience	Company
+content	experience	KPIT TECHNOLOGIES LIMITED.
+content	experience	Period
+content	experience	July 2017 to Till date.
+content	experience	Designation
+content	experience	Technology Leader
+content	experience	Platform
+content	experience	Routing/Switching/Security
+content	experience	Dept.
+content	experience	IT
+header	experience	Responsibilities
+content	experience	· Providing L2 /L3Support & troubleshooting for a campus as well as enterprise network.
+content	experience	· Installation, configuration, troubleshoots of Cisco ,Maipu,HP routers switches,WLC and Wireless access points,
+content	experience	· Responsible for design & implementation of Routing protocols such as EIGRP, OSPF & BGP & troubleshooting.
+content	experience	· Responsible for configuration and troubleshooting of Site to site and SSL VPN related issue.
+content	experience	· VLAN Configuration, manage & Troubleshooting of VTP & STP issues.
+content	experience	· Monitoring LAN, WAN, MPLS and link with documentation and reporting.
+content	experience	· ISP coordination for High latency, link down & link flapping issues.
+content	experience	· Configuration changes to internal Network firewall (Cisco PIX/ASA), Checkpoint R77, and R76, Fortigate Firewall as Configuration requested in Request Tickets and Changes.
+content	experience	· Configuration changes and providing operational support for Fortigate 300C and 500E model firewall and forti analyzer.
+content	experience	· Migrating the internet traffic to the local ISP through the Scan safe proxy servers in the Cisco Cloud for all branch locations, pertaining to the decommissioning of ISA
+content	experience	· Coordination with Security audit team in order to provide solution for detected Vulnerability.
+content	experience	· Providing solution for Network device hardening process as per guideline.
+content	experience	· Coordination with Stake holders and respective OEM to identify appropriate network devices which is suitable for customer network infrastructure before procurement.
+content	experience	· Coordinating and troubleshooting of bluecoat proxy and F5 related issues,
+content	experience	· Installation and configuration of TACACS+, ACL, NAT & QOS.
+content	experience	· Implementation / Troubleshooting of DHCP.
+header	experience	Description:
+content	experience	Responsible for the installation, configuration and management of a broad range of network equipment: Cisco routers, Catalyst switches, Wireless Access points ,Controllers Administered networks composed of VLANs .Initiated and analyzed MPLS traces to resolve T1/E1 connectivity errors.
+content	experience	Company
+content	experience	GETRONICS SOLUTION INDIA PRIVATE LIMITED
+content	experience	Period
+content	experience	August 2015 to July 2017
+content	experience	Designation
+content	experience	Network Analyst
+content	experience	Platform
+content	experience	Routing/Switching/Security
+content	experience	Dept.
+content	experience	IT
+header	experience	Responsibilities
+content	experience	· Providing L2 Support & troubleshooting for a campus as well as enterprise network.
+content	experience	· Installation, configuration, troubleshoots of Cisco routers, catalyst switches &Wireless access points,
+content	experience	· VLAN Configuration, manage & Troubleshooting of VTP & STP issues.
+content	experience	· Responsible for design & implementation of Routing protocols such as EIGRP, OSPF & BGP & troubleshooting.
+content	experience	· Responsible for configuration and troubleshooting of Site to site and SSL VPN related issue.
+content	experience	· Monitoring LAN, WAN, MPLS and link with documentation and reporting
+content	experience	· Monitoring WAN links & Network health checkup.
+content	experience	· ISP coordination for High latency, link down & link flapping issues.
+content	experience	· Configuration changes to internal Network firewall (Cisco PIX/ASA), Checkpoint R77, and R76 as Configuration requested in Request Tickets and Changes.
+content	experience	· Reviewing the health reports of all Riverbed fetched out from the Riverbed Central Management Console (CMC).
+content	experience	· Migrating the internet traffic to the local ISP through the Scan safe proxy servers in the Cisco Cloud for all branch locations, pertaining to the decommissioning of ISA
+content	experience	· Coordinating and troubleshooting of bluecoat proxy related issue.
+content	experience	· Installation and configuration of TACACS+, ACL, NAT & QOS.
+content	experience	· Implementation / Troubleshooting of DHCP.
+content	experience	· Documenting network changes and updating topology diagrams accordingly.
+content	experience	Work Location
+content	experience	Bangalore
+header	experience	PROFESSIONAL CAREER PROFILE:
+header	experience	Description:
+content	experience	Responsible for the installation, configuration and management of a broad range of network equipment: Cisco routers, Catalyst switches, Wireless Access points ,Controllers Administered networks composed of VLANs .Initiated and analyzed MPLS traces to resolve T1/E1 connectivity errors.
+content	experience	Company
+content	experience	IBM NETSOL
+content	experience	Period
+content	experience	Jan 2015 to July 2015
+content	experience	Designation
+content	experience	Network Engineer.
+content	experience	Platform
+content	experience	Routing/Switching
+content	experience	Dept.
+content	experience	IT
+header	experience	Responsibilities
+content	experience	· Providing L1/L2 Support & troubleshooting for a campus as well as enterprise network.
+content	experience	· Installation, configuration, troubleshoots of Cisco routers, catalyst switches &Wireless access points,
+content	experience	· VLAN Configuration, manage & Troubleshooting of VTP & STP issues.
+content	experience	· Responsible for design & implementation of Routing protocols such as EIGRP, OSPF & BGP & troubleshooting.
+content	experience	· Monitoring equipment for Hardware/Software failure& upgrade
+content	experience	· Monitoring LAN, WAN, MPLS and link with documentation and reporting
+content	experience	· Monitoring WAN links & Network health checkup.
+content	experience	· Escalation for downloading & uploading issues.
+content	experience	· ISP coordination for High latency, link down & link flapping issues.
+content	experience	· Configuration changes to internal Network firewall (Cisco PIX/ASA) as Configuration requested in Request Tickets and Changes.
+content	experience	· Installation and configuration of TACACS+, ACL, NAT & QOS.
+content	experience	· Implementation / Troubleshooting of DHCP.
+content	experience	· Coordinating with global team on proxy related issue.
+content	experience	· Coordinate with staff members to obtain networking systems and services.
+content	experience	· Identify, resolve problems and assist users as per requirement.
+content	experience	· Ensuring that the calls are closed within the SLA Period
+content	experience	Work Location
+content	experience	Bangalore
+header	experience	PROFESSIONAL CAREER PROFILE:
+header	experience	Description:
+content	experience	Working with a team of engineers on various day-to-day Network projects & including network management With Management Suite for Software distribution, Installing and troubleshooting of DHCP, DNS & WINS. Project planning of Servers, workstations and hubs, for WAN/LAN supports.
+content	experience	Company
+content	experience	HCL Infotech Ltd
+content	experience	Period
+content	experience	July 2012 to DEC 2014
+content	experience	Designation
+content	experience	Network Support Engineer.
+content	experience	Platform
+content	experience	Infrastructure operation
+content	experience	Dept.
+content	experience	IT
+header	experience	Responsibilities
+content	experience	· Provide Technical Supports to the Clients as per the SLA.
+content	experience	· Responsible for daily, weekly, and monthly reports. .
+content	experience	· Installation of Switches, Routers, Networked Camera, RFID Reader to the existing network referring TIA standard.
+content	experience	· Device and Network health check, validating infrastructure compliance.
+content	experience	· Testing of the BCP application with all the lane equipment.
+content	experience	· Provide necessary support to the software team in installing the BCP software and integrate the BCP software with the different lane equipment.
+content	experience	· Coordinating with the vendor on the faulty hardware issues.
+content	experience	· Ensure all the devices are running with 100% uptime
+content	experience	· Detect, Root cause analysis, and troubleshoot system level
+content	experience	· Maintaining good documentation to my team-lead as a team player.
+content	experience	· Installation, updating and managing the anti-virus Symantec and MacAfee on the server, desktops & Laptops.
+content	experience	· In case of any upgrade/addition of network points, the same has to be documented and communicated to Touch Services Lead and Helpdesk.
+content	experience	Work Location
+content	experience	Mumbai
+header	others	PERSONAL DETAIL:
+meta	others	Full Name
+meta	others	Bidya Sagar
+meta	others	Date of Birth
+meta	others	20th May 1991
+meta	others	Address
+meta	others	#303,1st cross ,8th main
+meta	others	Muni reddy layout
+meta	others	Mahadevapura Extn.
+meta	others	Bangalore-560048.
+header	knowledge	Languages Known
+meta	knowledge	English, Hindi, Oriya & Telugu.
+meta	others	Place:-Bangalore
+meta	others	Date: - (Voona Bidya Sagar)
+meta	others	4

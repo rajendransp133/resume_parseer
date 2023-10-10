@@ -1,0 +1,47 @@
+meta	others	`
+meta	others	PAWAN BHARAT MANGLE
+meta	others	: S.N 57/1/1, Plot no 8, Kalbhore Nagar,
+meta	others	Near Karmambhumi, Lohegaon-Wagholi road,
+meta	others	Lohegaon Pune-411047, +91-7387928937
+meta	others	· : manglepa1@gmail.com
+header	others	SUMMARY
+content	others	Science Graduate with Higher Second class in bachelor’s degree. Versatile and analytic individual with a practical hands-on approach aimed at achieving results to benefit the company in terms of high revenues and increased customer base. Excellent presentation skills and a strong ability to quickly establish rapport with people from diverse backgrounds.
+header	experience	WORK EXPERIENCE
+content	experience	· Affinity Express Pune (Pagination)
+content	experience	Feb 2017 – May 2017
+header	experience	Worked for Designing Process
+content	experience	· Eaton Technologies Pimpri Pune (Purchase Assistant)
+content	experience	Jan 2018 –Till Date Worked for Purchase to Payment process.
+header	knowledge	SKILLS
+content	knowledge	· Good interpersonal and communication skills, organization, Presentation Skills.
+content	knowledge	· Graphics Designing Illustrator and In design tools.
+content	experience	· Good Communication Skills, Proficient in Spanish language .
+content	knowledge	· Tableau Data analysis , R Language analysis, Sql Server management.
+content	knowledge	· Worked on Oracle and SAP ERP.
+content	knowledge	· Sourcing & Procurement, Requisition to Purchase order, Invoice management.
+header	project	PROJECT’S
+content	experience	· Object Counter Using micro controller 8051 and infrared led sensors.
+content	experience	Description: The objective of project, to increase the counting speed of objects and counting on led display successfully.
+content	experience	· Purchase order and Invoice Receipts interface
+content	experience	Description : Worked with ERP consultant and finance team.
+header	others	ACHIVEMENTS
+content	others	· Appeared Service Selection Board.
+content	others	· Completed Pune Half marathon.
+content	others	· Volley ball team captain and cross-country player for inter college events.
+content	others	· Implemented business intelligence tools for self improvement & Business process improvement.
+content	others	· E star awarded for fixing the repeating errors for invoices coordinating with suppliers and buyers by using Root cause analysis.
+header	education	EDUCATION
+content	education	· PG Diploma in Supply Chain Management Symbiosis Pune .
+content	education	· Diploma in IT NIIT Pune.
+content	education	· Bachelors Electronics science, Physics and Mathematics,
+content	education	Fergusson college Pune, 55.42%, October 2015
+content	education	· Higher secondary certificate,
+content	education	K.V BEG Kirki, Pune, 59.80%, June 2011
+content	education	· Secondary School Certificate,
+content	education	Don Bosco High School Panaji, 63.16%, June 2008
+header	others	HOBBIES
+content	others	· Drawing & designing.
+content	others	· Reading books & News paper
+content	others	· Trekking and traveling.
+meta	others	NOTICE PERIOD–1 months
+meta	others	Reference –

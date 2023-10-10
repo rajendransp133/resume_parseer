@@ -1,0 +1,63 @@
+meta	others	AKANKSHA BHAN
+meta	others	E-Mail: aksbhan24@gmail.com
+meta	others	Phone: +91-9830799468
+meta	others	Scaling new heights of success with hard work & dedication and leaving a mark of excellence on each step; targeting for assignments that involves analytical capabilities & professional growth in finance sector with leading organization of repute in IT/Finance companies
+meta	others	Location Preference: Delhi NCR
+header	experience	PROFILE SUMMARY
+content	experience	M.Com with 5.3 years of experience in Accounts Payable
+content	experience	Displayed skills in Invoicing & Accounts Payable Process; thereby ensuring optimum accomplishment of customer’s needs
+content	experience	Hands-on experience in managing Vendor Management with key focus on customer satisfaction by ensuring optimal utilization of resources
+content	experience	Expertise in preparing Spread Sheets and accounting reports in accordance with business plans of the company; generating reports for apprising management of the progress
+content	experience	Efficient organizer, motivator, team player & a decisive leader with the skills to motivate teams to excel and win
+header	knowledge	CORE COMPETENCIES
+content	knowledge	• Accounts Payable Processes & Management
+content	knowledge	• Invoices/Expense Reports/Payment Transactions
+content	knowledge	• Records Organization & Management
+content	knowledge	• Spreadsheets & Accounting Reports
+content	knowledge	• Vendor Negotiations & Management
+header	experience	ORGANISATIONAL EXPERIENCE
+header	experience	My Company Profile:
+header	experience	Genpact is a global professional services firm that makes business transformation real. Genpact Drives drive digitalled innovation and digitally-enabled intelligent operations for our clients, guided by our experience running thousands of processes for hundreds of Global Fortune 500 companies.
+content	experience	Since November-13 Genpact INDIA Pvt. Ltd. (Management Trainee)
+header	experience	Key Result Areas:
+content	experience	Accounts payable career span of 5 years in Genpact Kolkata as a Process Developer with accountability for the processing of up to 2000 invoices per month & handling daily A/P processes, managing vendor/supplier relations, and oversee the timely, accurate processing of invoices.
+content	experience	Currently handling a 10-member team serving for locations across the globe.
+content	experience	Proven track record of ensuring that finances are accurate and up to date.
+content	experience	Assisted with handling accounts payable procedures daily.
+content	experience	Charge expenses to accounts
+content	experience	I also perform additional activities which include reporting, helpdesk, payment proposals, Reconciliation & Debit balance and presentations preparation
+header	knowledge	KEY SKILLS:
+content	knowledge	Accounts Payable Processes & Management
+content	knowledge	Invoices/Expense Reports/Payment Transactions
+content	knowledge	Records Organization & Management
+content	knowledge	Spreadsheets & Accounting Reports
+content	knowledge	Vendor Negotiations & Management
+content	knowledge	Ability to perform complex mathematical calculations
+content	knowledge	Understanding of accounting practices
+content	knowledge	Proficient in verbal and written communication.
+content	knowledge	Domain knowledge and customer contact
+header	knowledge	AREAS OF EXPERTISE:
+content	knowledge	Receiving and verifying invoices
+content	knowledge	Accounts payable listing maintenance
+content	knowledge	Interactions with customers
+content	knowledge	Backup reports preparation
+content	knowledge	People management
+header	experience	Accomplishments:
+content	experience	Offered the responsibility of leading a new transition after working for only 7 months.
+content	experience	I was given the full responsibility of 1 location (India) & have been cross trained in majority of the activities performed for other locations such as Australia, Singapore, Indonesia & Hong Kong.
+content	experience	I was the Process Trainer & IT SPOC for my APAC team & have received 2 Customer Gold rewards & 8 Genpact rewards
+header	education	ACADEMIC DETAILS
+content	education	2013
+content	education	Post-Graduation (M.COM) from Calcutta University
+content	education	2011
+content	education	Graduation B.COM, Shivanath Shastri College
+content	education	2008
+content	education	12th Ballygunge Shiksha Sadan (WBBHSE)
+header	knowledge	IT SKILLS
+content	knowledge	Design / Computer Skills: SAP, Tally9, MS-Office
+header	others	PERSONAL DETAILS
+meta	others	Date of Birth: 24th Feb 1991
+meta	others	Address: B7/1202 SRS Royal Hills Faridabad Sector-87 Haryana-121002
+content	knowledge	Languages Known: English, Hindi, Bengali
+meta	others	CTC DETAILS
+meta	others	Current CTC – 3.0 Lakhs

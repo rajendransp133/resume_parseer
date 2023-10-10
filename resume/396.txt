@@ -1,0 +1,84 @@
+meta	others	S. VIDHYA
+meta	others	E-mail ID: s.vidhyajan8@gmail.com
+meta	others	51, Kamarajar Street,
+meta	others	Mobile No: +91-9551012088
+meta	others	Periyar Nagar, Thiruvanmiyur,
+meta	others	Chennai - 600 041
+header	others	CAREER OBJECTIVE:
+content	others	To acquire a challenging position where I can effectively contribute my skills as a technical expertise, possessing competent skills.
+header	education	EDUCATIONAL QUALIFICATION:
+header	education	QUALIFICATION
+header	education	EDUCATIONAL
+content	education	INSTITUTION
+content	education	BOARD/UNIVERSITY
+content	education	YEAR OF PASSING
+content	education	PERCENTAGE %
+content	education	Bachelor of Computer Application (B.C.A)
+content	education	D. B. JAIN COLLEGE
+content	education	AFFLIATED BY MADRAS UNIVERSITY
+content	education	2010
+content	education	76%
+content	education	HR SECONDARY
+content	education	St. RAPHEALS GIRLS HIGHER SECONDARY SCHOOL
+content	education	STATE BOARD
+content	education	2007
+content	education	68%
+content	education	SSLC
+content	education	CORPORATION HIGH SCHOOL
+content	education	STATE BOARD
+content	education	2005
+content	education	75%
+header	knowledge	TECHNICAL SKILLS:
+content	knowledge	· HTML-Hyper Text Markup Language
+content	knowledge	· C++ Scripting (basic)
+content	knowledge	· Visual basic
+content	knowledge	· Oracle(basic)
+content	knowledge	· Typing (Lower)
+header	knowledge	STRENGTHS:
+content	knowledge	· Positive thinking
+content	knowledge	· Self confident
+content	knowledge	· Ability to work in Extreme Environments
+header	project	PROJECT DETAILS:
+header	project	Project Title
+content	experience	Bank Account
+content	experience	Platform
+content	experience	Turbo C++
+content	experience	Role
+content	experience	Designed, Developed and Tested
+header	experience	EXPEREINCE:
+content	experience	· Organization
+content	experience	: Precious Preparatory School
+content	experience	Designation
+content	experience	: Teacher and I did office work also
+content	experience	Duration
+meta	others	:
+content	experience	Part time from May 2009-May 2010, Full time from June 2010 – April 2011
+header	experience	Role and Responsibility :
+content	experience	Worked as a Computer Science Teacher and managed Administration.
+content	experience	· Current Organization
+content	experience	: IGP ENGINEERS PVT.LTD
+content	experience	Designation
+content	experience	: Documentation Executive in Quality Department
+content	experience	Duration
+content	experience	: May 2011-Till Present
+content	experience	Role and Responsibility : Preparing test certificate & verifying reports, handling domestic
+content	experience	import and export
+header	others	PERSONAL PROFILE:
+meta	others	Date of Birth
+meta	others	:
+meta	others	08.01.1990
+meta	others	Gender
+meta	others	:
+meta	others	Female
+meta	others	Nationality
+meta	others	:
+meta	others	Indian
+header	knowledge	Languages known
+meta	others	:
+meta	knowledge	Tamil, English
+meta	others	DECLARATION:
+meta	others	I hereby declare that the information furnished above is true to the best of my knowledge and conscience.
+meta	others	Yours faithfully,
+meta	others	PLACE: CHENNAI
+meta	others	DATE:
+meta	others	(VIDHYA)

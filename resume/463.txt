@@ -1,0 +1,177 @@
+meta	others	DEVTANU CHAKRABORTY
+meta	others	Mobile: 09272088430 ~ E-Mail: devtanuchakraborty@gmail.com
+meta	others	Seeking managerial assignments in Operations Management in a dynamic environment that focuses on building relationships with clients and promotes customer satisfaction while achieving organizational and personal goals.
+header	experience	PROFILE SNAPSHOT
+content	experience	· Over 13 years of experience in Operations & Team Management, Sales & Retention, Revenue Generation & MIS in BPO sector both International and Domestic.
+content	experience	· Proficient at managing & leading teams for running successful process operations & experience of developing procedures, service standards for business excellence
+content	experience	· Adept at providing value added customer service, ensuring quality and service norms by mentoring / guiding the team members with excellent training and development
+content	experience	· Excellent interpersonal, communication and organizational skills with proven abilities in leadership skills, team management and customer relationship management
+header	experience	CORE COMPETENCIES
+header	experience	Operations / Process Management
+header	experience	Sales & Retention Management Training & Mentoring
+content	experience	Revenue Generation
+content	experience	MIS Reporting
+content	experience	Team Management
+header	experience	ORGANISATIONAL EXPERIENCE
+content	experience	Oct’18 – Till Date with Aegis Customer Support Services PVT LTD.
+content	experience	Manager Operations – Pay-tm Market Place
+header	experience	Operations Management
+content	experience	· To manage 250 FTE along with 3 Assistant Managers , 14 team leaders to ensure that projects are managed efficiently and effectively as per service level agreement
+content	experience	· Manage Business KPI’s to ensure no impact on PNL for the process.
+content	experience	· Prepare and conduct weekly and monthly review with client
+content	experience	· Formulating & implementing procedures for daily operations and internal reporting systems for monitoring quality.
+content	experience	· Forecasting workload and scheduling staff to meet anticipated workload within scheduled turnaround time thereby enhancing efficiency.
+content	experience	· Interacting with clients through e-mails and daily Conference Calls to review and resolve operational issues as well as implement new process & procedure changes.
+content	experience	· Preparing weekly/ monthly and quarterly reports and maintain employee performance database tracker with a view to monitor efficiency of employees.
+header	experience	Process Management
+content	experience	· Mapping client’s requirements and coordinating in developing, implementing and transitioning processes in line with the guidelines specified by the client.
+content	experience	· Administrating process improvement initiatives through system changes, process re-alignment/ redefining & efficiency management.
+content	experience	· Monitoring the overall functioning of processes, identifying improvement areas and implementing adequate measures to maximize customer satisfaction level.
+content	experience	· Creating & implementing workflows to facilitate structured support in all areas and issues.
+content	experience	· Maintaining coordination with Infrastructure & IT Dept. for the floor issues, monitoring Operations Monitor System and analysing various reports viz. process dashboards reports.
+content	experience	· Transitioned new hires from training to the Floor and helped them demonstrate excellent performance.
+header	experience	People Management
+content	experience	· Identifying and implementing strategies for building team effectiveness by promoting a spirit of cooperation between team members.
+content	experience	· Driving team towards a customer-centric delivery of services, team management and up gradation/training etc.
+content	experience	· Planning targets, monitoring them and ensuring achievement of overall targets on a daily, weekly & monthly basis as well as conducting appraisal and one-to-one interviews.
+content	experience	· Determining training needs of employees through competency mapping and arranging suitable training program to enhance their skills.
+content	experience	· Creating and sustaining an environment that fosters development opportunities and motivates high performance through effective management and career development.
+content	experience	· Appropriately using Rewards & Recognition to energize and team members. Leave planning, Managing Compensatory Offs, Unscheduled Leave Initiating Disciplinary procedure in conjunction with HR and Reporting manager.
+content	experience	· Monitoring, identifying and resolving performance/behaviour/attendance issues using performance management techniques.
+content	experience	· Ensuring a high-quality customer experience, analysing CSAT (Customer Satisfaction), elevating customer satisfaction, while adhering to the SLAs and work processes.
+content	experience	· Monitoring agent calls, analysing performance and providing valuable feedback as well as charting out plans for improvement in quality and service standards.
+content	experience	Sep’15 – Sep’18 with Hinduja Global Solutions
+content	experience	Assistant Operations Manager – IDEA Cellular
+header	experience	Key Responsibilities:-
+content	experience	· To manage a group of 150 FTE along with 11 Team Leaders and 11 subject matter experts to ensure KPI’s are managed as per service level agreement.
+content	experience	· Manage Business KPI’s to ensure no impact on PNL for the process.
+content	experience	· Prepare and conduct weekly and monthly review with client and circle teams.
+content	experience	· Hiring of Team Leader and support staff as operation panel.
+content	experience	· Managing value adds for the process in terms of new prospect generation and upselling revenue generation.
+content	experience	· Planning of Roster basis forecast and manpower available.
+content	experience	· Performance appraisal for all Post-paid LOB support staff.
+content	experience	· Managing Monthly, Quarterly and Yearly Advisor performance management as per HR and Quality grids.
+content	experience	· Feedback to Direct Reportees on Weekly and monthly basis regarding their performance and behaviour.
+content	experience	· Focusing on Bottom Quartile for different metrics and providing effective training and feedback to help them in meeting Client targets.
+content	experience	· Generate sales revenue equal to the total business billing
+content	experience	· Worked on saving cost to company on transport where in different steps were taken to save impact on PNL
+content	experience	· Planning of urgent OT requirement with WFM on client’s and process requirement.
+content	experience	Jun’14 – Aug’15 with Mphasis Ltd.
+content	experience	Unit Manager – Customer Service IDEA Cellular
+content	experience	· Lead a team of 25 individuals for servicing Platinum Segment Customers.
+content	experience	· Maintaining Various Client KPI’s and KRA’s month on month.
+content	experience	· Mentoring team members on areas of opportunities to assist them in meeting their performance goals.
+content	experience	· Maintaining Leave Planner for controlling absenteeism.
+content	experience	· Generate sales revenue equal to the total business billing
+content	experience	· Taking care of the skill set Roster (Leave quota alignment) with CWFM Team.
+content	experience	· To manage daily and monthly Service level’s
+content	experience	· Prepare glide path and action plan to achieve operational KPI’s
+content	experience	· Lead weekly client calls with circle Spocs.
+content	experience	· Prepare and present Weekly internal and Monthly external reviews.
+content	experience	Jan’13 – April’ 14 with Tech Mahindra Business Services Limited, Pune
+header	experience	Team Leader – Retentions
+content	experience	· Lead a Team of 20 consultants to retain customers for 3G Mobile Phone Network in UK.
+content	experience	· Maintained upgrade to inbound calls and Net Promoter Score month on month.
+content	experience	· Performing day to day Detractor Analysis based on scores received.
+content	experience	· Mentoring team members on areas of opportunities to assist them in meeting their performance goals.
+content	experience	· Ensuring consistent performance on all Critical Performance Matrices (CPM’s)
+content	experience	· Sharing data and action plans accordingly with every single individual at the end of every week.
+content	experience	· Sending across data for unbudgeted shrinkage, login hrs, AHT to the TOM Group.
+content	experience	· Maintaining Leave Planner for controlling absenteeism.
+content	experience	· Have also worked with the Fraud ops team.
+content	experience	Jan’06 – Sep’12 with Wipro-BPO Solutions Limited, New Delhi
+content	experience	Growth Path:
+header	experience	Associate – Member Saves and Retention:
+content	experience	Jan’06 – Dec’07
+header	experience	Quality Analyst AOL UK MSR:
+content	experience	Jan’08 – Aug’08
+content	experience	Compliance Auditor – AOL UK MSR AND MST:
+content	experience	Sep’08 – Dec’08
+header	experience	Team Leader - HP (Operations):
+content	experience	Jan’09 – Aug’11
+header	experience	Group Leader - HP (Operations):
+content	experience	Sep’11-Sep’12
+header	experience	As Group Leader - HP (Operations):
+content	experience	· Responsible for revenue generation for the site
+content	experience	· Heading a team of 25 Consultants as an additional responsibility in HP
+content	experience	· Looking after Site Level MIS reports such as Loyalty incentive, Sales incentive, Stacks, QPLC
+content	experience	· Ensuring consistent performance on all critical Performance Measures (CPM’s) as well as processing of invoices as per turnaround-time (TAT)
+content	experience	· Responsible for maintaining the RPC (revenue per call) scores week on week for the site
+content	experience	· Facilitating:
+content	experience	· Sales mix to achieve the revenue figure (Desktops, Laptops, Printers, Accessories, and Warranties)
+content	experience	· R6 (Reconditioned units and Warranties) sales as well as HHO (New Hardwares) with daily and weekly contests
+content	experience	· Acting as:
+content	experience	· Process Level Spoc for seed courses and new referral joining
+content	experience	· Process Level Spoc for all MIS related data and payouts
+content	experience	As Team Leader - HP (Operations):
+content	experience	· Functioned as Team Leader - maintaining RPC scores week on week; team achieved $20000 in a single shift (unbreakable record)
+content	experience	· Led a team of 15 Consultants in HP (Semi Tech and Revenue Generation Process)
+content	experience	· Mentoring team members on areas of opportunities to assist them in meeting their performance goals
+content	experience	· Ensuring consistent performance on all Critical Performance Measures (CPM’s)
+content	experience	· Instrumental in maintaining RPC scores week on week Education
+content	experience	· Increasing Revenue generation\FTE and looking after Span Level MIS reports like productivity, revenue/FTE, etc.
+content	experience	· Maintaining Leave Planner for controlling absenteeism
+content	experience	· Carrying out yearly performance appraisal for 15 consultants in the assigned team
+content	experience	· Maintaining C-SAT scores week on week and facilitating TPR (Total Problem Resolution) and FCR (First Call Resolution) to achieve best scores on every call
+content	experience	· Performing day to day D-sat Analysis based on scores received
+content	experience	· Sharing data and action plans accordingly with every single individual at the end of every week
+header	experience	PREVIOUS EXPERIENCE
+content	experience	Jun’05 - Dec’05 with NIIT Smart Serve, Gurgaon as Executive
+content	experience	Jul’03 – May’05 with Sigma Constructions Pvt. Ltd., Kolkata as a Junior Accountant handling payroll, sales tax, income tax.
+header	education	EDUCATION
+content	education	2008
+content	education	Post Graduation Diploma in Business Administration (Finance) from SCDL, Pune
+content	education	2003
+content	education	Bachelor of Commerce (Hons.) in Accountancy from S.A. Jaipuria College, University of Calcutta with
+content	education	Kolkata, West Bengal
+content	education	2001
+content	education	CA Foundation from ICAI Kolkata, West Bengal
+content	education	2000
+content	education	HSC in Commerce from K.V. Fort William School, Kolkata with 1st Division
+content	education	1998
+content	education	SSC from K.V. Dum Dum School, Kolkata with 1st Division
+content	education	Technical:
+content	education	1999
+content	education	Certificate course in computer applications from LCC, Kolkata
+header	knowledge	IT Skills:
+content	knowledge	· Proficient in Windows Operating Systems, MS Word, MS Excel, and MS PowerPoint
+header	others	PERSONAL DETAILS
+content	others	Date of Birth:
+content	others	6th November, 1982
+header	others	Address:
+content	others	“BLENDS” FLAT No. – 401, S.R. No-144, Near Aakash Ganga Society, Pimple Saudagar,
+content	others	Pune - 411017
+header	knowledge	Languages Known:
+content	knowledge	English, Hindi, Bengali
+header	experience	Refer Annexure for Highlights Trainings Projects:
+header	experience	SIGNIFICANT ACCOMPLISHMENTS
+content	experience	· Contributed in:
+content	experience	· Making the site achieved $11 mark on RPC for the first time under the leadership
+content	experience	· Acquiring “Maximum Revenue Generating Team” Award for Quarter 3 and 4, 2009 and Quarter 1, 2 and 3, 2010, Quarter 1, 2 and 4, 2011
+content	experience	· Acquiring “Best Team Award” in Sep 2009, Jan 2010, May 2010, Jan 2011 and July 2011
+content	experience	· Recognized as “Top Quality Analysts” for Quarter 2 and 3 in the Year 2008
+content	experience	· Adjudged as Best Mentor for OJT batches in the Year 2007
+content	experience	· Credit of receiving the client’s acknowledgement as one of the “Top Performing Associate” in the Year 2006
+content	experience	· Successful in getting client’s appreciation as one of the Top Performing Associate depending on the parameters specified by the client and company
+content	experience	· Pivotal in:
+content	experience	· Working under Process Quality Team
+content	experience	· Working as an Auditor for compliance check for the complete MS and MSR queue
+content	experience	· Achieving $20000 in a single shift (Record Still Unbeaten)
+content	experience	· Promoted as a Team Leader within 3 months
+content	experience	· Effectuated revenue to run at a score of 7$ to a target of 11$ just within 3 months
+content	others	· Imparted training for revenue generation (as the process was not meeting targets) ensuring better performance
+content	others	· Instrumental of achieving low attrition percentage over the last 4 years in Wipro
+header	project	PROJECTS
+content	project	· AHT in Retention Process (Churn Management) - Project had an overall impact of 20% better AHT leading to SLA being met
+content	project	· GB project on DSAT% in HP as a Team Member - Project had an overall impact wherein the DSAT has improved from 15% to 8%.
+header	project	TRAININGS & CERTIFICATIONS
+content	experience	· One day session on “Breaking Boundaries”, an initiative of Strategic Leadership Development, Wipro BPO
+content	experience	· Situational Leadership Training for Wipro BPO Team Leaders conducted by DOOR Consultancy South Asia, a leading organization involved with Corporate Training
+content	experience	· “Skills Transfer Clinic” training program for Team Leaders
+content	experience	· TL Academy Technical Competency Program
+content	experience	· Wipro BPO Leadership Development Program
+content	experience	· Attended 1 -day session on ‘Coaching Interaction Model’
+content	experience	· Lean Certification Training.
+content	experience	· Presentation Skills Training.
+content	experience	· Interviewing Skills Training.
+header	others	DEVTANU CHAKRABORTY

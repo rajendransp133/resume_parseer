@@ -1,0 +1,43 @@
+header	others	CURRICULUM VITAE
+meta	others	PRATHAMESH PRAKASH SALUNKHE
+header	others	Present Address:
+meta	others	Room No 04, Navnath Krupa Scty,
+meta	others	Reti Bundar Cross Road, Mothagoan, Near
+meta	others	Railway Crossing Fatak,
+meta	others	Dombivli West.
+meta	others	Cont No.: +91-7208519467 /8097745397
+meta	others	E-mail Id: prathameshsalunkhe03@gmail.com
+header	experience	Profile
+content	experience	A Strong & excellent Leadership experience during school & college life
+header	others	Objective
+content	others	To add value to the organization and to grow with it to achieve a senior position. My commitment to my employer’s enterprise will be dictated by my motivation and application towards building the firm as much as my own career. The challenge of meeting the highest standards will always be accorded top priority.
+header	education	Summary of Qualification
+content	education	· Passed S.S.C. from Maharashtra Board in the year of March 2013 with 1st class. ( 76%)
+content	education	· Passed H.S.C. from Maharashtra Board in the year of Feb 2013 with 1st class. ( 70%)
+content	education	· Passed T.Y.BFM ( Fiancial Marketing Course) From S.K.Somaya Collage in the year of 2017. (63.85%)
+header	knowledge	Computer Skills / Key Skills
+content	knowledge	· MS-OFFICE ,
+content	knowledge	· Tally Erp 9
+content	knowledge	· Ms – Excel
+header	knowledge	Strength
+content	knowledge	· Self-motivated with exposure to professional working environment
+content	knowledge	· Working with sense of urgency
+content	knowledge	· Excellent team player, with great importance to team spirit
+content	knowledge	· Quick learner of new skills & Open to concrete criticism
+header	experience	Work Experience
+content	experience	1) Shop CJ Process and Future Generally India Insurance In Live Digital Company
+content	experience	Duration: - 1 years
+content	experience	Work profile :- Quality / Admenitration Department
+content	experience	Personal Details
+content	experience	Father’s Name : Prathamesh Prakash Salunkhe
+content	experience	Permanent Address : Room no.4, Navnath Kripa
+content	experience	Society,Retibandar Road,
+content	experience	Dombivali (W),
+meta	others	:
+content	experience	Date of Birth : 03-09-1996
+content	experience	Nationality : Indian.
+content	experience	Religion : Hindu.
+content	experience	Marital Status : Un-Married
+content	knowledge	Languages Known : English, Hindi & Marathi
+header	others	Date :
+content	experience	Place: Dombivli (w) Prathamesh Prakash Salunkhe

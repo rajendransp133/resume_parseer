@@ -1,0 +1,88 @@
+meta	others	Prasad Prabhakar Paithankar
+meta	others	PRASAD P. PAITHANKAR
+meta	others	Address: Flat No. 105, M1C, Omkar CHS, Pratiksha Nagar, Sion, Mumbai 400022.
+header	others	Cell:
+meta	others	09930053557, Email: prasadpaithankar@gmail.com
+meta	others	_________________________________________________________________________________________________________________
+meta	others	Human Resource Management
+header	others	Professional Experience and Significant Achievements
+header	experience	Summary:
+content	experience	I do hold 2years full time post graduation degree in Labour studies [Human Resources] from University of Mumbai & have more than 10 years of work experience in the field of HR. I like to interact with people & business to solve their challenges in-time. My approach to life is always affirmative & optimistic.
+header	experience	Areas of proficiency
+content	experience	· Onboarding
+content	experience	· Induction
+content	experience	· Background Verification
+content	experience	· Employee Benefits
+content	experience	· Employee Relations/engagement
+content	experience	· Training
+header	experience	Objective:
+content	experience	To work to the best of my ability at a position requiring innovative and challenging employment that will utilize my experience and professional skills and offer advancement opportunities in HR domain.
+content	experience	Employer: Transwarranty Finance Limited [Mumbai]
+content	experience	[2011 to Present]
+content	experience	Role: Manager Human Resources
+header	experience	Responsibilities:
+content	experience	· Successfully implementing HRIS the Employee Self Service (ESS) - HR module ‘HR Align’
+content	experience	· Played an instrumental role in streamlining the Joining formalities, exit process for HO & branches.
+content	experience	· Developing HR online Manual for employees across the organisation.
+content	experience	· Tackling with various people issues in real time manner.
+content	experience	· Preparing Balanced score card for HO.
+content	experience	· Handled the Employee engagement activities, birth day celebrations, Employee Recognition Awards, Suggestion scheme, Employees offsite, Knowledge share knowledge gain - Employees presentations on various topics.
+content	experience	· Working on various cost control, coast optimisation, employee employer confidence building initiatives.
+content	experience	Employer: JP Morgan Chase [Mumbai & Bangalore]
+content	experience	[2004 to 2011]
+content	experience	Role: HR Ops Specialist
+header	experience	Responsibilities:
+content	experience	· During induction the new joiners are being briefed about the company and the HR policies which include leave rules, disciplinary rules and procedure, grievance procedure, career path and promotion/growth channel, social benefits and welfare measures, travelling and subsistence expenses.
+content	experience	· Completing joining formalities, ensuring planning of all necessary Induction programs, handling HRSD Orientation Program on Self.
+content	experience	· Introducing Bankers to the new joiners and letting them know about the benefits about the bank and help new joiners to open account with the bank.
+content	experience	· Preparation of appointment letters, revision letters-change in break-up, change in designation full & final settlement of the employees.
+content	experience	· Responsible for maintaining and updating records and database on a regular basis and overseen generation of weekly, fortnightly, monthly and annual report.
+content	experience	· Responsible in formulating & implementing company’s HR policies, staff handbook after consultation with the senior management.
+content	experience	· Maintenance of the complete employee database for locations.
+content	experience	· Providing inputs to Compensation Team pertaining to new joiners
+content	experience	· In JPMC a strict pre employment check is done by a third party.
+content	experience	· Specified Background Check, explaining candidate the criticality of the process, resolving their queries, ensuring process compliance, investigating Non-Green (Discrepant) cases and closing them on right note.
+content	experience	· Ensure all the statutory process like PF, Gratuity, and Insurance are met; ensure all HR processes are driven in line with company’s guidelines.
+header	others	Achievements:
+content	others	· Awarded as “The Champ” In recognition of effectively streamlining various HRSD processes & being dedicated towards assigned work and responsibilities at Bangalore.
+content	others	· Appreciated as Star performer for ‘Accountability Responsibility Service Teamwork’.
+content	others	· Received Appreciation from Technology Infrastructure Lead for Proactive Approach.
+content	others	· Appreciated by recruitment team, business Mangers, reporting Managers for initiating PES as per scheduled process TAT.
+content	others	· Appreciated by employees for implementing HR OB & Benefit activities as per expectations.
+content	others	· Appreciated by TSS & Branch Campus Hiring coordination.
+content	others	· Received appreciations from IB & branch recruiters for great support for business requirements and prompt & accurate on all queries.
+content	experience	Grauer & Weil (I) Ltd. [Mumbai & Pune]
+content	experience	[2000 to 2004]
+content	experience	Role: HR Officer
+content	experience	Role & Responsibilities
+content	experience	· Responsible for Executive and staff recruitment procedure till middle management level by sourcing manpower, arranging for interviews, medical tests.
+content	experience	· Successfully initiated Induction & training programmes.
+content	experience	· Conducted & coordinated for on-the-job & off-the-job training programs for various levels.
+content	experience	· Generation of pay roll (Computing salary including revision and restructuring and Full & Final Settlements.)
+content	experience	· Reporting on monthly, Provident Fund, Benefits, and other statutory compliances.
+content	experience	· Coordinated in designing & implementing all performance appraisal activities.
+content	experience	· Coordinated for ISO meetings & audits related to training.
+content	experience	· Independently handled all HR, Administration and Factory related issues
+content	experience	· Participated in Domestic inquiry & issuing charge sheet to charge sheeted employee.
+content	experience	· Successfully handled government returns & statutory compliances.
+content	experience	· Established HR systems and procedures in a new factory at Pune.
+content	experience	· Coordination and Communication with all India the units.
+content	experience	· Complete HR Management inclusive of employee relations/engagement right from recruitment to exit.
+content	experience	· Able to resolve conflicts and negotiate win-win outcomes.
+header	others	Achievements:
+content	others	· Promoted & Transferred to new set up of Division at Pune. Independently handled all HR & Admin functions of Pune corporate Office & Manufacturing unit at Alandi.
+content	others	· Awarded for successfully handling all HR activities @ corporate office.
+content	others	· Taken disciplinary actions as & when required.
+content	others	· Appreciated by Mumbai Business Managers & Branch heads for arranging excellent Induction & training programmes for India region.
+header	education	Professional Qualification
+content	education	Master in Labour Studies
+content	education	Mumbai University
+content	education	2000
+content	education	B.sc. (Graduation)
+content	education	Marathwada University
+content	education	1997
+meta	others	· Registered as ‘Welfare Officer’ under Factories Act, 1948.
+meta	others	Date of birth – 26th May 1976
+meta	others	Thank You
+content	knowledge	Languages known: English, Hindi, Marathi
+meta	others	Prasad P. Paithankar

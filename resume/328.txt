@@ -1,0 +1,71 @@
+header	others	CURRICULUM VITAE
+header	others	CURRICULUM VITAE
+header	others	RADHA HARIBABU
+meta	others	EMAIL: radha.babu@yahoo..com
+meta	others	MOBILE: 9916100667
+meta	others	––––––––––––––––––––––––––––––––––––
+header	others	Objective
+meta	others	Seeking a challenging position and be a part of a progressive organization that gives scope to enhance my knowledge, skills and reach pinnacle in this field with sheet determination, dedication and hard work.
+header	education	Educational Qualifications
+content	education	Degree
+content	education	Institute
+content	education	University / Board
+content	education	Percentage of Marks
+content	education	B SC
+content	education	Pragathi Degree College for Women, Hyderabad.
+content	education	Osmania University, (AP)
+content	education	83%
+content	education	Intermediate
+content	education	Sarojini Naidu Vanitha Maha Vidhyalaya, Hyderabad
+content	education	Board of Intermediate Education, (AP)
+content	education	66%
+content	education	Board Of Secondary Education
+content	education	Z P High School, Hyderabad
+content	education	Secondary Education Board, (AP)
+content	education	78%
+header	knowledge	Computer Proficiency
+content	knowledge	Programming Languages : C, COBOL, JAVA.
+header	knowledge	Databases
+header	knowledge	: Oracle and SQL Server 2005
+content	knowledge	Technologies : HTML
+content	knowledge	Operating Systems : Windows 9X/2000/XP
+content	knowledge	Other skills : MS Office Tools – Word, excel, Power Point etc.
+header	experience	Experience
+content	experience	· Working as a Operations Executive in Janalakshmi Financial Services Pvt. Ltd. Bangalore, Since Sep-2008 to till date.
+content	experience	About Company : Janalakshmi Financial Services is a market-oriented financial institution servicing the microfinance needs of urban India. JFSL provides a range of financial services including savings, insurance, and pension to be offered to individuals and groups.
+header	experience	Roles and Responsibilities
+content	experience	I am responsible for,
+content	experience	· Credit inward files checking of various products in JFSL like SG, LG, EDL, EL, Gold Loan, Housing Loans etc.
+content	experience	· Preparing MIS.
+content	experience	· Uploading the individual customer details in M S Excel as well as in CBS (Core banking solution) and SFDC softwares.
+content	experience	· Uploading the daily cash and cheque collection entries in excel and CBS.
+content	experience	· Performing cashier duties at the time of cashcollections and disbursements at Branch.
+content	experience	· Loan Payment processing and postings in CBS(Core Banking Solution).
+content	experience	· Reconsilation of GL’s(Credits & Debits).
+content	experience	· Creating Acccounts and preparing documents for issuing the customers.
+content	experience	· Payoff processing and postings in CBS.
+content	experience	· Managing 7 branches in Karnataka.
+content	experience	· 2 years of experience as a Data Entry Verifier in Apex Logical Data Conversions Pvt. Ltd. at Punjagutta, Hyderabad.
+content	experience	Nature of Job:-
+content	experience	· Data Conversion - Replacement of non-keyboard characters like Mathematical Symbols, Currency Symbols with some specified Codes. Differentiating Article Names, Article Type, Title of Article, Authors of that particular Article and Page Numbers (Range) of the Article.
+content	experience	· 8 months of experience as Quality Analyst in Foerster Bhupathi Consultants Pvt. Ltd. at Saifabad, Hyderabad.
+content	experience	Nature of Job:-
+content	experience	Quality Checking - Quality checking of data entered by the Data Entry Operators Regarding Automobile Insurance Policy Information.
+header	others	PERSONAL PROFILE:-
+meta	others	Father
+meta	others	: B.VENKAT RAM
+meta	others	Date of Birth
+meta	others	: 07/02/1980
+meta	others	Gender
+meta	others	: Female
+meta	others	Marital Status
+meta	others	: Married
+header	knowledge	Languages Known
+meta	knowledge	: English, Hindi, Kanada and Telugu
+meta	others	Personal Traits
+meta	others	: Responsibility, Self-confidence and
+meta	others	Inclination to Hard working
+meta	others	I hereby declare that the information provided above is true to the best of my knowledge.
+meta	others	Date:
+meta	others	Place: Bangalore
+meta	others	Radha Haribabu

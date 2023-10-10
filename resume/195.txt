@@ -1,0 +1,136 @@
+meta	others	4GI Resume Template
+meta	others	E-mail: konakanchi.sri@gmail.com Contact: +91 9030840680
+meta	others	Sri.konakanchi111@gmail.com
+header	others	CURRICULAM VITAE
+header	experience	SUMMARY:
+content	experience	· 4 years of experience in software analysis, object oriented design and development.
+content	experience	· Experience in Developing Web Based Applications Using Java/J2ee Technologies.
+content	experience	· Proficient in Core Java, Jdbc, Servlets, Jsp, Struts, Ajax, Oracle10g.
+content	experience	· Having Good Knowledge on JavaScript, Html, CSS, and XML.
+content	experience	· Comfortable working on Tomcat (5.X, 6.0), JBoss4.X, My Eclipse 5.X/6.X/7.X.
+content	experience	· Having Knowledge on Struts Framework, Ajax Framework, and Ant tool.
+header	experience	EXPERIENCE:
+content	experience	Company name Location Designation From date
+content	experience	(DD/MM/YY)
+content	experience	To date
+content	experience	(DD/MM/YY)
+content	experience	4G Identity Solutions Pvt.Ltd. Hyderabad SoftWare Engineer Feb 2010 Till date Ipog Software Technologies Pvt.Ltd. Hyderabad SoftWare Engineer Oct 2007 Jan 2010
+content	experience	EDUCATION QUALIFICATION:
+content	experience	Course Institution Board/University Year of Passing % of marks B.Tech Sri Sarathi Institute Of Engineering & Tech, Nuzvid. JNTU 2007 65% Intermediate SGHR & MCMR Junior College, Guntur. BIE 2002 68% SSC ZPHSchool BSE 2000 65% ProjectNo:1
+content	experience	From ( Sep 11) to (Till Date)
+content	experience	Company Name : 4G Identity Solutions.
+content	experience	Designation : Software Engineer.
+header	project	Project Name : Rachhabanda Application.
+content	experience	Client, Location : Civil Supplies, AP Govt, Hyderabad.
+content	experience	Description: This is the AP Government prestigious project to give the new ration cards to the eligible citizens who are the category of BPL(Below poverty level) and including the new members into the existing cards and splitting the cards from existing cards and converting the pink to white cards. Government of AP issued the 24 lacks of new ration cards from this rachhabanda scheme. This is a Web Based Application, it has 4 formats of data input forms for taking the data from the Districts offices,they enter the applicants details through the online, operators can show the corresponding 4 formats reports of entered data district wise and mandal wise and fpshop wise and they can show the printed cards and rejected applications reports.
+header	experience	Responsibilities:
+content	experience	· Developed the input forms for to enter the 4 formats of the data.
+content	experience	· Developed the Rejected cards re-entry forms of 4 formats data.
+content	experience	· Developed the Reports on formats Wise.
+content	experience	· Developed the Database Table structures.
+content	experience	· Processing on the tables data and generating the card numbers.
+content	experience	Environment:
+content	experience	Windows XP, JDK1.6, Struts 1.2,Spring 2.0, JSP, Ajax, Oracle10g,Java Script, HTML, CSS,Tomcat 6.0,MyEclipse 7.0
+header	project	ProjectNo:2
+content	experience	From ( MAY 11) to (Till Date)
+content	experience	Company Name : 4G Identity Solutions.
+content	experience	Designation : Software Engineer.
+content	experience	Project Name : AADHAAR ENROLLMENTS
+content	experience	Client, Location : Civil Supplies, AP Govt, Hyderabad.
+content	experience	Description: This is the Indian Government Prestigious project to give the Unique number (12 digits) for every citizen in india.Government of AP Civil Supplies Department is one of the Registrars in AP for Aadhaar Enrollments. This project involves monitoring AADHAAR ENROLLMENTS Field Operations through online and maintaining UID Data and corresponding reports of KYR+ data reports.
+content	experience	Responsibilities:
+content	experience	· Developed Web Service to Synchronize KYR PLUS data from workstation to Server and developed reports.
+content	experience	· Feeding the Ration Cards Data with Uid Numbers.
+content	experience	· Developed Online Form to Enter Daily Enrollments in Each Workstation.
+content	experience	· Developed Graphical reports to Analyze Population and no of Enrollments.
+content	experience	· Developed Operator Wise Enrollments report to Analyze Performance on Enrollments.
+content	experience	· Developed the Reports on Enrolled Ration Cards, Population and UnEnrolled Ration Cards, Population District Wise Report.
+content	experience	· Developed the Report on Agencies Wise Enrollments.
+content	experience	· Developed the Form for Name Wise Search and Ration Card Wise Search.
+content	experience	· Developed the Reports on Aadhaar Enrollments.
+content	experience	Environment:
+content	experience	Windows XP, JDK1.6, Struts 1.2,Spring 2.0,Web services, JSP, Ajax, Oracle10g,Java Script, HTML, CSS,Tomcat 6.0,MyEclipse 7.0
+header	project	ProjectNo:3
+content	experience	From ( Jun 10) to (May 11)
+content	experience	Company Name : 4G Identity Solutions.
+content	experience	Designation : Software Engineer.
+content	experience	Project Name : AP Ration Cards IRIS De-Duplication
+content	experience	Client, Location : Civil Supplies, AP Government, Hyderabad.
+content	experience	Description: This is the AP government prestigious project for identifying the bogus ration cards and deletes them and provides the all welfare schemes to the genuine citizens who are eligible for different schemes. Almost all government departments such as civil supplies department and housing and pension and aarogyasri departments are depending on this database to find out the genuine citizens. This project uses the biometric technology based siris server to find out the bogus ration cards. After finding the genuine ration cards we developed the web based application to integrate the all government services, and developed the input forms and developed the corresponding reports. From this application AP government getting the benefit of 1300 crores from the total budget in every year.
+content	experience	Responsibilities:
+content	experience	· Developed the Forms for Data Entry of Citizen Survey data.
+content	experience	· Developed the Forms for Rationcards, Housing and Pensions Data.
+content	experience	· Developed the Reports Corresponding Data Entry forms and Query Form.
+content	experience	· Developed the forms for migration of citizen from one place to another place.
+content	experience	· Developed the reports on ration cards and housing and pension’s data.
+content	experience	Environment:
+content	experience	Windows xp, Jdk1.5, Spring, Struts, JBOSS 4.2, Tomat 6.0,Oracle10g, Ajax, JavaScript, Html, CSS.
+header	project	ProjectNo:4
+content	experience	Project Name : EAC PANEL
+content	experience	Company Name: 4G Identity Solutions.
+content	experience	Designation: Software Engineer.
+content	experience	Duration: Feb 10 - May 10.
+content	experience	Description: This is 4G Prestigious product based application, here we can register a person by taking his iris and finger prints data, we can use this product to door lock and unlock, when the authenticated person gives his iris if the iris matches with the existing iris template then only the door will be unlock, we can put the person as a block list person also.From this product we can maintain an organization employees attendances reports also.
+header	experience	Responsibilities:
+content	experience	· Configuring the system and maintaining the system.
+content	experience	· Developed the Employee Registration form.
+content	experience	· Developed the Product Configuration Settings Form.
+content	experience	· Developed the employee’s attendance reports.
+content	experience	· Involved in database design of the application.
+content	experience	Environment: Embedded XP, JDK1.5, Struts 1.2, Web services, JSP, Java Script, HTML, BerdyDatabase, and Tomcat 6.0.
+header	project	ProjectNo:5
+content	experience	Project Name : INVENTORY MANAGEMENT SYSTEM
+content	experience	Client, Location: INDIC SOLUTION, Hyderabad.
+content	experience	Company Name: Ipog Software Tech Pvt Ltd.
+content	experience	Designation: Software Engineer.
+content	experience	Duration: Oct 08 - Jan 10.
+content	experience	Description: This is the Web Based Application For maintaining the devices and its corresponding reports.It Gives the Status of the all the Devices.
+content	experience	· Here we can create the Supplier Purchase Orders through Supplier po Order Form and we can show all the statuses of the Supplier po Orders in the Reports.
+content	experience	· After get the Devices from the supplier We can Enter into the Stock through Stock Entry Form.
+content	experience	· We Can create the Client Purchase Orders through Client Purchase Order form and we can show the all Client Po Orders in the Reports.
+content	experience	· We can show full stock devices status by enter the corresponding device serial no.
+content	experience	· We can maintain the Quality Checks of the Devices.
+header	experience	Responsibilities:
+content	experience	· Involved in design of data base table structures.
+content	experience	· Developed the Forms like Creating the Devices Masters and Supplier Purchase Order and Client Purchase Orders.
+content	experience	· Developed the Issuing the Client Purchase Orders form by reading the serial no through Barcode Reader.
+content	experience	· Developed the Reports for getting the full stock details reports.
+content	experience	· Developed the Reports to show the supplier Purchase Orders and Client Purchase Orders.
+content	experience	Environment: Windows XP, JDK1.5, Struts 1.2, Spring 2.0, JSP, Oracle, Java Script, HTML,CSS.
+header	project	ProjectNo:6
+content	experience	Project Name : Work Log Management System
+content	experience	Client, Location: Indic Solution, Hyderabad.
+content	experience	Company Name: Ipog Software Tech Pvt.Ltd.
+content	experience	Designation: Software Engineer.
+content	experience	Duration: Jan 08 – Oct 08.
+content	experience	Description: This Application can monitor the Organisation employees daily work log status.Here Employee can enter the work done by him in a day and he can apply the leave from this
+content	experience	Application, the project managers can show the employees work status reports.
+header	experience	Responsibilities:
+content	experience	· Designed the database table’s structure.
+content	experience	· Developed the Employee registration form and updation and deletion forms.
+content	experience	· Developed the work log entry form.
+content	experience	· Developed the work scheduled form.
+content	experience	· Developed the reports of the work log status.
+content	experience	Environment: Windows XP, JDK1.5, Struts 1.1, JSP, Oracle, Java Script, HTML, Tomcat,CSS.
+header	others	PERSONAL DETAILS:
+header	others	Name
+meta	others	: Srinivasarao K.V.
+header	others	Father Name
+meta	others	: Venkateswarlu
+header	others	Date of Birth
+meta	others	: 15th July 1985
+header	others	Marital Status
+meta	others	: Single
+header	others	Sex
+meta	others	: Male
+header	others	Nationality
+meta	others	: Indian
+header	others	Place
+meta	others	: Hyderabad
+header	others	Present Address
+meta	others	: Yousufguda, Hyderabad.
+header	others	Permanent Address
+meta	others	: Hno: 1-74, Adigoppula (po), Guntur (D.t), Durgi (M.D), Andhra Pradesh.
+header	project	Projects Involved
+meta	others	KV.SRINIVASARAO
+meta	others	Page 6 of 8

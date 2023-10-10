@@ -1,0 +1,57 @@
+header	others	C U R R I C U L U M - V I A T E
+meta	others	ABHIJEET PRAJAPATI
+meta	others	Nagar Panchayat Pipraich
+meta	others	Ward
+meta	others	No.1
+meta	others	House No.36
+meta	others	Pipraich, Gorakhpur, Pin.273152
+meta	others	Contact
+meta	others	+91 9807947871
+meta	others	abhijeetprajapati98@gmail.com
+header	others	OBJECTIVE
+content	others	I wish to explore a possibility of serving organization. Seeking a further challenging, dynamic and Professional and Environmental which let me contribute substantially towards achieving organization goal . I look forward to enriching my experience in your company and wish to achieve recognition career prospects.
+content	others	ABOUT MYSELF
+content	others	I am very hard working, self motivated optimistic with the ability to adjust as per the need. I put my effort to meet the target. I enjoy working as part of the team and have the ability to lead the team to success.
+header	knowledge	COMPUTER SKILLS
+content	knowledge	Having Basic Knowledge of Computer-MS-OFFICE, MS-EXCEL, INTERNET SURFING, EXCEL FORMULAS , TALLY ERP.9
+header	education	TECHNICAL QUALIFICATION
+content	education	Qualification
+content	education	School / College
+content	education	Board/ / University
+content	education	12th Intermediate
+content	education	CO OPERATIVE INTER COLLEGE
+content	education	UP BOARD
+content	education	10th (High School)
+content	education	CO OPERATIVE INTER COLLEGE
+content	education	UP BOARD
+content	education	Graduation
+content	education	NANDINI NAGAR MAHAVIDYALYA
+content	education	AVADH UNIVERCITY
+header	others	PERSONAL DETAILS
+meta	others	Name
+meta	others	:
+meta	others	Abhijeet Prajapati
+meta	others	Father’s Name
+meta	others	:
+meta	others	Subhash Chandra Prajapati
+meta	others	Mother’s Name
+meta	others	:
+meta	others	Rita Devi
+meta	others	Date of Birth
+meta	others	:
+meta	others	9th December 1998
+meta	others	Domicile
+meta	others	:
+meta	others	Uttar Pradesh
+meta	others	Nationality
+meta	others	:
+meta	others	Indian
+header	knowledge	Language Known
+meta	others	:
+meta	knowledge	English and Hindi
+meta	others	Hobbies : Every new task is my hobby And communication with new people
+meta	others	DECLARATION
+meta	others	· I hereby declare that all the information given by me is true to the best of my knowledge
+meta	others	Date: 04/December/2018
+meta	others	Abhijeet Prajapati
+meta	others	Place: Patna

@@ -1,0 +1,90 @@
+header	others	RESUME
+meta	others	Suraj Balaso Malvadkar Phone: +91-9730443473
+meta	others	B.E (Computer Engineering) E-mail: malavadkar.suraj@gmail.com
+header	others	Objectives :
+content	others	Willing to work as a key player in challenging & creative field of Information Technology, with leading organization of hi-tech environment having committed & dedicated people, which will help me to explore myself fully and to realize my potential.
+header	education	Educational Qualification:
+content	education	Degree
+content	education	University
+content	education	Year
+content	education	Percentage
+content	education	Class
+content	education	Diploma in .NET
+content	education	MindScripts Pune
+content	education	2017
+content	education	––-
+content	education	Grade B
+content	education	B.E(Computer Engineering)
+content	education	Pune University
+content	education	2016
+content	education	62.26 %
+content	education	First
+content	education	.NET Programming Certification
+content	education	K.T.I
+content	education	2013
+content	education	66.00%
+content	education	First
+content	education	Diploma(Info.Tech.)
+content	education	MSBTE
+content	education	2012
+content	education	61.45%
+content	education	First
+content	education	S.S.C
+content	education	Pune Board
+content	education	2009
+content	education	67.27%
+content	education	First
+content	education	Engineering All Semester Aggregate: 56.23%
+header	education	Certification Courses:
+content	education	Sr.
+content	education	Courses
+meta	others	1.
+content	education	Diploma In Microsoft .NET Technology From MindScripts , Pune(Jan2017)
+meta	others	2.
+content	education	.NET Programming Certification From KTI , Baramati(2012)
+header	knowledge	Technical Skill:
+content	knowledge	Language Known
+content	knowledge	C++, C#.NET, ASP.NET , ADO.NET ,Java Scripts
+content	knowledge	Database
+content	knowledge	MySQL, SQL Server2008/2016,Oracle10g
+content	knowledge	Web Development
+content	knowledge	HTML/CSS, Java Scripts, MVC in ASP .NET
+content	knowledge	Operating System Known
+content	knowledge	Windows XP/7/8/10
+content	knowledge	Interested Platform
+content	knowledge	.NET Technology ,HTML/CSS,Web Design
+content	knowledge	Development Tool
+content	knowledge	Visual Studio 2008/10/13,15
+header	project	Project Profile:
+content	project	Year
+content	project	Project Name
+content	project	Technology Used
+content	project	2016-17
+content	project	Personal Organization Website
+content	project	www.vighnahartagroup.com
+content	project	HTML,CSS,
+content	project	JavaScript
+content	project	BE-Mega Project
+content	project	2015/16
+content	project	Context-Based Energy Saving Strategies for Continuous Determination of Position on Android Device
+meta	others	Java, Android
+header	others	Personal Details:
+header	others	Name
+meta	others	Mr.Suraj Balaso Malvadkar
+meta	others	D.O.B
+meta	others	01,Janaury, 1994
+header	others	Mobile:
+meta	others	9730443473
+header	others	Permanent Address
+meta	others	At-Post-Pandare,Tal-Baramati,Dist-Pune, 413110.
+meta	others	Nationality
+meta	others	Indian
+header	others	Languages
+meta	others	English, Hindi, Marathi
+header	others	Hobby:
+meta	others	Playing Cricket
+header	others	Declaration:
+meta	others	I hereby declare that the information furnished above is true to the best of my knowledge.
+header	others	Date:
+meta	others	Place: Pune.
+meta	others	(Signature) (Mr.Suraj.B.Malvadkar)

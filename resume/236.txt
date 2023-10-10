@@ -1,0 +1,64 @@
+header	others	Curriculum Vitae
+content	others	Shaik Abdulla Mobile: +91-8880222672, 09160044864
+content	others	E-mail: abdulla.mba2010@gmail.com
+header	others	CAREER OBJECTIVE:
+content	others	To learn and experience the vast domain of various HR functions and to be a part of this platform which provides tremendous opportunities to develop my skills and enrich my knowledge. Where I can utilize my abilities to innovate and improve efficiency in the HRM and HRIS, keeping my vision on organizational goals and self-development. With an ever raging passion to explore challenging environments where I can learn to adapt and overcome them. Discover new horizons and new roads of success for employee satisfaction and customer delight.
+header	experience	PROFESSIONAL EXPERIENCE:
+content	experience	Working As HR Executive (From 20th December 2010 –19th December 2011)at Infosys BPO Ltd, Bangalore, under payroll of Technomake Solutions Pvt.Ltd.
+header	experience	JOB RESPONSIBILITIES:
+content	experience	RECRUITMENT:
+content	experience	Key Responsibility Areas –
+content	experience	Sourcing Resumes
+content	experience	Making Cold Calls to short-listed resumes and checking their availability and interests
+content	experience	Scheduling Interviews
+content	experience	Coordinating with Colleges and scheduling Campus Recruitment
+content	experience	Organizing pooled-in events to conduct recruitment activities of students from various colleges
+content	experience	Rolling out Offer letters to selected Candidates
+content	experience	Handling post recruitment activities like collecting feedback about recruitment process of Infosys for post analysis to find areas of improvement.
+content	experience	Handling candidate queries and grievance.
+content	experience	Coordinating with the induction team to clear all the joining formalities of the candidates.
+content	experience	Managing employee referral tool and posting jobs on internal job web portal.
+content	experience	C&B, TRAINING and DEVELOPMENT, OD, and ER:
+header	experience	Key Responsibility Areas –
+content	experience	Engaged in the processes related to Employee Life Cycle (Hire to Retire).
+content	experience	Making new joinees database for SAP updation.
+content	experience	Employee query management w.r.t. salary, leave and attendance and information/clarifications on company’s compensation policies.
+content	experience	Sending abscond report, leave encashment and shift allowance inputs to finance in coordination with attendance desk.
+content	experience	Assisting OD team in managing the performance management system during appraisals.
+content	experience	Coordinating with training team and operation managers to ensure timely completion of mandatory trainings of employees in different levels. Scheduling training sessions and providing reports on training completion and training need analysis to the training team.
+content	experience	Helping the ER team in issuing visa, passport, transfer, and deputation letters to employees.
+content	experience	Worked in exit helpdesk for separation formalities such as issuing relieving letters, conducting exit interviews and resolving issues with final settlements of employees in coordination with Finance team.
+header	education	PROFESSIONAL TRAINING:
+content	education	Underwent training as “Management Trainee “at Ajax Management Consultants Pvt. Ltd, Bangalore.
+content	education	Course: Advance Diploma in H R Management. During my training at Ajax Consultants, I was given exposure to the following areas:
+content	education	Core HR
+content	education	HR Generalist
+content	education	Payroll Processing
+content	education	PROFESSIONAL QUALIFICATION:
+content	education	Course : MBA
+content	education	Discipline : HR & Marketing
+content	education	Institute : Presidency School of Management and Computer Sciences, Hyderabad
+content	education	University : Osmania University, Hyderabad
+content	education	Year of Passing : May 2010
+header	education	EDUCATIONAL QUALIFICATION:
+content	education	B.Sc (M.P.C) from Osmania Degree College, Kurnool, Andhra Pradesh.
+content	education	Intermediate from BasiReddy Junior College, Nandikotkur, Andhra Pradesh.
+content	education	SSC from Jeevan Jyothi E.M High School, Nandikotkur, Andhra Pradesh.
+content	education	Academic Project: Study on Recruitment and selection process at Aurobindo Pharma Ltd., Hyderabad.
+header	project	Project Description:
+content	experience	To analyze different techniques those are been used in recruiting the applicants into Aurobindo Pharma.
+content	experience	To study and understand the expectations of applicants & their opinions about the recruitment process.
+content	experience	To put forward various suggestions with a view to make recruitment process more effective.
+header	knowledge	CORE COMPETENCIES:
+content	knowledge	End to end recruitment
+content	knowledge	Payroll processing
+header	knowledge	COMPUTER SKILLS:
+content	knowledge	Microsoft office: Ms-word, Excel, Power point.
+header	others	ACHIEVEMENTS:
+content	others	Best Performer award at Infosys BPO Ltd for the quarter March to June
+content	others	Best student award from my school for the year 2001
+content	others	Won first prize during college fest in different management activities
+header	others	DECLARATION:
+content	others	All the details furnished above are true to the best of my knowledge and I will give the best of my ability to the company I am working with and be a part of the team which is open to sharing, learning, and smart at work.
+meta	others	Place: Signature
+meta	others	Date: (Shaik. Abdulla)

@@ -1,0 +1,77 @@
+meta	others	Manish Chandrakant Pujare.
+content	others	OBJECTIVE
+meta	others	To Achieve a challenging position which will allow me to utilize my education and personal skills to its fullest with an opportunity to contribute my efforts towards the growth of the organization to which my professional as well as my personal growth are directly attached.
+content	others	Permanent
+header	others	Address
+meta	others	604 Divya Residencies Behind Kirti Policy Soc Mumbai Badlapur (E) Pin-421503.
+header	others	Contact
+header	others	Information
+header	others	Contact No
+meta	others	08108018024
+header	others	Email Id
+meta	others	manishpujare25@gmail.com
+content	education	Passed T.Y.B.Com. In 2012 from Mumbai University.
+content	education	Passed H.S.C in 2009 from Maharashtra Board.
+content	education	Passed S.S.C in 2007 from Maharashtra Board.
+header	experience	Work
+header	experience	Experience
+content	experience	Company Name
+content	experience	Prolific Systems & Technologies Pvt. Ltd .
+content	experience	Designation
+content	experience	Project Co-Ordinate .+ Account Assistant
+content	experience	Period
+content	experience	From 4 Years To Till Date.
+header	experience	Work Profile
+content	experience	· Knowledge of Operating Tally ERP 9 Software.
+content	experience	· Knowledge of Window Operating, Microsoft Word, Excel & Outlook Etc.
+content	experience	· Knowledge of Internet, Email, Chat.
+content	experience	· Preparation Bank Reconciliation.
+content	experience	· Knowledge of Purchase & Sales Invoices.
+content	experience	· Handling Banking Payment and Receipt in Tally.
+content	experience	· Handling Service Bill, Labour Bill and JV in Tally.
+content	experience	· Preparing Purchase Order in Excel Sheet.
+content	experience	· Handling Attendance Report in Excel Sheet.
+content	experience	· Preparation of Bank Summery.
+content	experience	· Handling Account Payable.
+content	experience	· PF, ESIC, Salary Calculation
+content	experience	· GST Working & Online Payment
+content	experience	Company Name
+content	experience	ASD Engineering
+content	experience	Designation
+content	experience	ASD Engineering
+content	experience	Period
+content	experience	From 1.6 Years
+content	experience	Company Name
+content	experience	Pack Deal.
+content	experience	Designation
+content	experience	Account Assistant.
+content	experience	Period
+content	experience	From 6 months.
+content	experience	Work Profile
+content	experience	EXTRA CURRICULAR activites
+header	knowledge	COMPUTER SKILLS
+content	knowledge	· Ms – Office,
+content	knowledge	· Knowledge of Internet.
+content	knowledge	· Accounting Tally 9.1 Erp Versions.
+header	knowledge	TYPING
+header	knowledge	SKILLS
+content	knowledge	Typing Speed 30 Wpm. (English)
+header	others	STRENGTHS
+header	others	Ability to work in a team.
+content	others	Persuasive skills.
+content	others	Willingness to learn & do hard but smart work.
+header	others	Personal
+header	others	Information
+meta	others	Name
+meta	others	Manish C. Pujare
+header	others	Address
+meta	others	604 Divya Residency Behind Kirti Policy Soc Mumbai Badlapur (E) Pin-421503
+header	others	Nationality
+meta	others	Indian.
+header	others	Date of Birth
+meta	others	25th, Dec.1991..
+header	knowledge	Languages Known
+meta	knowledge	English, Hindi & Marathi
+meta	others	I hereby declare that the above-mentioned information holds true to the best of my knowledge. I assure that I will prove myself as a good human and satisfy your job requirements.
+header	others	Date:
+meta	others	Place: Mumbai (Manish C. Pujare)

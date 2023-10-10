@@ -1,0 +1,55 @@
+meta	others	Dr. Mrs. Deepti Mahajan
+meta	others	ADDRESS: B-502, Twin Nest,
+meta	others	e-mail
+meta	others	: drdeeptimahajan@rediffmail.com
+meta	others	Behind Rajwada Hotel,
+meta	others	Mobile: +91-9604555964
+content	others	Green Park Hotel Chowk,
+meta	others	Baner Road, Pune - 411008
+meta	others	Date of Birth : 1
+meta	others	st September 1985
+meta	others	Status : Married
+meta	others	==================================================================================
+header	others	SPECIALITY:
+content	others	CAREER OBJECTIVE: To work as Clinical Research Coordinator/Monitor, Pharmacovigilance Associate in an
+content	others	organization/ hospital.
+header	education	EDUCATIONAL QUALIFICATION:
+content	education	1 Post Graduate Diploma in Pharmacovigilance
+content	experience	January’ 2018 – Cliniminds, Pune
+content	education	2 Post Graduate Diploma In Clinical Research And Regulatory Affairs (P.G.D.C.R & R.A)
+content	education	February’ 2009 - Manvata Curi Research Centre, Nashik.
+content	education	I have passed the Clinical Research Course with Second Rank.
+content	education	2 M.D. in Medicine.
+content	education	2012, DKMM college, Aurangabad
+content	education	3 Bachelor Of Homoeopathic Medicine And Surgery (B.H.M.S)
+content	education	November’ 2007, Maharashtra University of Health Sciences, Nashik.
+content	education	Passed out B.H.M.S with first class. – November’ 2007.
+content	education	I year B.H.M.S : 65% Marks, Distinction in Pharmacy.
+content	education	II year B.H.M.S : 64%.
+content	education	III year B.H.M.S : 59%.
+content	education	IV year B.H.M.S : 60%.
+content	education	4 Passed H.S.C Exam from Bitco College, Nashik Road, Nashik with Second Class. – April 2003.
+content	education	5 Passed S.S.C Exam from Nerurkar High school, Dombiwali (East), with First Class.
+header	experience	PROFESSIONAL EXPERIENCE:
+content	experience	1 Currently practicing as a homoeopathic consultant.
+content	experience	2 I have worked with Dr. Ashwin Prowal as clinical research co-ordinator and assisted him in operation theatre for a year.
+header	knowledge	COMPUTER SKILLS: MS-CIT
+content	knowledge	I have done MSCIT course, which covers MS office, Word, Excel and Powerpoint.
+header	knowledge	COMMUNITY ACTIVITIES:
+content	experience	1 Health checkup Camps conducted in different schools of rural areas.
+content	experience	2 School Health checkup in Schools of Nashik.
+content	experience	3 Attended N.S.S CAMP at Kochargaon.
+content	experience	4 Pulse Polio programmes, spreading polio awareness among community.
+content	experience	5 Social service programmes: helped old age people of Nirmala Old Age House, Nashik.
+content	experience	EXTRACURRICULAR ACTIVITIES:
+content	experience	1 Active participation in cultural activities, Seminar’s conducted by Motiwala Homoeopathic Medical College.
+content	experience	2 Attended course for Universal Human Values, Baha’I Academy, Panchgani.
+content	experience	3 Attended & completed education in Human values.
+content	experience	4 Visit to Homoeopathic Pharmaceutical industries like SBI at Ghaziabad for a study of industrial preparation of Homoeopathic Medicines.
+header	others	INTEREST & HOBBIES:
+content	others	Travelling, Drawing, singing and dancing.
+content	others	I hope my CV suits your requirements and I will get a chance to serve your esteemed organization.
+content	others	Thanking You.
+content	others	Yours Sincerely,
+content	others	Dr. Mrs. Deepti Mahajan
+meta	others	Page 1 of 2

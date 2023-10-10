@@ -1,0 +1,181 @@
+header	others	Strong Skill Set
+meta	others	Jhansi Nayak
+meta	others	E-Mail: jhansii.nayak@gmail.com
+meta	others	Dwh/BI Developer
+meta	others	Phone:+91 7504210630/7022821108
+header	others	Objective:
+content	others	Seeking a Position, this explores my knowledge and skills for the benefit of the Organization as well as me, in the field of Data Analysis by accepting the challenging tasks.
+header	others	Summary:
+content	experience	· Having around Overall 5.5 years of Experience in IT Sector and 4.5 Years in Data Warehousing and Business Intelligence.
+content	knowledge	· Knowledge in query writing and data manipulation using SQL, Amazon Redshift, PostgreSQL.
+content	experience	· Extensively worked on data extraction, Transformation and loading data from various sources like PostgreSQL, MYSQL and Flat files.
+content	experience	· Responsible for all activities related to the development, implementation and support of ETL processes data marts using PDI.
+content	experience	· Had experience in data modeling using Star Schema Modeling, and Snowflake modeling, FACT and Dimensions tables, physical and logical modeling.
+content	experience	· Created Data mart (Fact and Dimension Tables) as per the requirement and build OLTP/OLAP reports on them.
+content	knowledge	· Knowledge in creating reports/dashboards using BI Tools like BMBI/Power BI/Tableau.
+content	knowledge	· Knowledge in Advanced Excel in data analysis as (Pivot Grid, charts ).
+content	experience	· Scheduling the Transformation and Jobs in UNIX environment using Crontab.
+content	knowledge	· Had knowledge on Kimball/Inmon methodologies.
+content	experience	· Extensive experience in ETL design, development and maintenance using SQL.
+content	experience	· Well versed in developing the SQL queries, unions and multiple table joins and experience with Views.
+content	experience	· Exceptional analytical, troubleshooting and problem solving skills
+content	experience	· Ability to set priorities, schedule, handle multiple tasks and meet deadlines
+content	experience	· Have ability to learn new technologies quickly and efficiently.
+content	experience	· Experienced at Creating Effective Test data and development thorough Unit test cases to ensure successful execution of the data & used pager for notifying the alerts after successful completion.
+content	experience	· Excellent communication, documentation and presentation skills .
+header	experience	Professional Experience:
+content	experience	· Working as a BI Developer in PowerupCloud Technologies’, Bangalore currently.
+content	experience	· Working as a Senior Software Engineer in Synchronous Technologies, Bangalore from Aug 2016 to Mar 2017 .
+content	experience	· Working as a Software Engineer in Silicon Techlab Pvt. Ltd, Bhubaneswar, from Nov 2011 to Mar 2016.
+header	knowledge	Technical Skills:
+header	knowledge	ETL Tool
+content	knowledge	: Pentaho , Talend
+header	knowledge	Databases
+content	knowledge	: MYSQL , PostgreSQL,Redshift
+content	knowledge	Methodologies : ETL,BI,Data Modelling , Reporting
+header	knowledge	Business Intelligence
+content	knowledge	: BMBI , Tableau , Power BI
+content	knowledge	Languages
+content	knowledge	: SQL
+content	knowledge	Operating Systems : Windows 7.
+header	project	Project Details:
+content	project	Project#1:
+content	project	Project-1
+content	project	Magic Software Analytics
+content	project	Client
+content	project	Magic Software
+content	project	Duration
+content	project	May‘2018 To Present
+content	project	Role
+content	project	BI Developer
+content	project	Environment
+content	project	Amazon Redshift , Tableau
+header	project	Responsibilities:
+content	experience	· Working on ” Most Engaging Books reports ” and “Course progress report” created in Power BI Environment.
+content	experience	· Developed Mappings and Reusable Transformations to facilitate timely Loading of Data of a star schema.
+content	experience	· Extracted data from various sources, transformed data according to the requirement and loading into data warehouse(Data Mart).
+content	experience	· Created Data mart (Fact and Dimension Tables) as per the requirement and build olap reports on them.
+header	project	Project#2:
+header	project	Project-2
+content	project	Volkswagen Analytics
+content	project	Client
+content	project	Volkswagen
+content	project	Duration
+content	project	Nov‘2017 To May’2018
+content	project	Role
+content	project	BI Developer
+content	project	Environment
+content	project	Amazon Redshift ,Power BI
+header	experience	Responsibilities:
+content	experience	· Worked on “Customer Dashboard” to create a datamart which can help to create a single reporting platform covering all types of customer activities and to provide better user experience.
+content	experience	· created a datamart in Amazon Redshift.
+content	experience	· Involved in data profiling, data cleansing and data enrichment.
+content	experience	· Created reports in Power BI Environment.
+content	experience	· Involved in Unit Testing.
+content	experience	· Implemented various Performance Tuning techniques.
+header	project	Project#3:
+header	project	Project-3
+content	project	JD Analytics
+content	project	Client
+content	project	2AdPro
+content	project	Duration
+content	project	Jul‘2017 To jan’2018
+content	project	Role
+content	project	BI Developer
+content	project	Environment
+content	project	Amazon Redshift ,Power BI
+header	experience	Responsibilities:
+content	experience	· Worked on “JD Analytics” to create a datamart which can help to create a single reporting platform covering all types of digital commercial activity and to provide better user experience.
+content	experience	· created a datamart in Amazon Redshift.
+content	experience	· Involved in data profiling, data cleansing and data enrichment.
+content	experience	· Created reports in Power BI Environment.
+content	experience	· Involved in Unit Testing.
+content	experience	· Implemented various Performance Tuning techniques.
+header	project	Project#4:
+header	project	Project
+content	project	FundsIndia Analytics POC
+content	project	Client
+content	project	FundsIndia
+content	project	Duration
+content	project	Jul‘2017 To Nov‘2017
+content	project	Role
+content	project	Sql Developer
+content	project	Environment
+content	project	Amazon Redshift ,PowerBI
+header	experience	Responsibilities:
+content	experience	· Converted the existing sql server queries into Redshift and do optimizations and check the performance.
+content	experience	· Involved in data profiling, data cleansing and data enrichment.
+content	experience	· Involved in Unit Testing.
+content	experience	· Implemented various Performance Tuning techniques.
+header	project	Project#5:
+header	project	Project
+content	project	Network Analytics
+content	project	Client
+content	project	AT & T , VERIZON
+content	project	Duration
+content	project	Aug‘2016 To Mar 2017
+content	project	Role
+content	project	Data Warehouse Engineer
+content	project	Environment
+content	project	Apache Drill, Spark SQL, JSON , Netezza
+header	experience	Responsibilities:
+content	experience	· Worked on “Network Analytics” product to migrate into big data technologies to process the huge volume of unstructured data in to the Data Lake.
+content	experience	· Convert the queries into (Spark SQL)/(Apache Drill) who were previously written in netezza /SQL SERVER and do optimization .
+content	experience	· Create transformation/Loader using JSON/JEXL .
+content	experience	· Involved in data profiling, data cleansing and data enrichment.
+content	experience	· Evaluated and tuned the SQL queries and physical database environments for efficient use.
+content	experience	· Involved in Unit Testing.
+content	experience	· Implemented various Performance Tuning techniques.
+header	experience	Project#6:
+header	experience	Project
+content	project	HIPPO Analytics
+content	project	Client
+content	project	HIPPO CAMPUS , Bangalore
+content	project	Duration
+content	project	June‘2014 To Mar ‘2016
+content	project	Role
+content	project	ETL Developer , BI Developer
+content	project	Environment
+content	project	Pentaho Data Integration , MySQL(Source) , Postgresql (Target), BMBI(Repoting Tool)
+header	experience	Responsibilities:
+content	experience	· Used Pentaho Data Integration for (ETL) extraction, transformation and loading data from heterogeneous source systems into target database.
+content	experience	· Extracted data from various sources, transformed data according to the requirement.
+content	experience	· Involved in extracting the data from the Flat Files and Relational databases into staging area.
+content	experience	· Mappings, Sessions, Workflows from Development to Test and then to UAT environment.
+content	experience	· Developed Mappings and Reusable Transformations to facilitate timely Loading of Data of a star schema.
+content	experience	· Extracted data from various sources, transformed data according to the requirement and loading into data warehouse(Data Mart).
+content	experience	· Created Data mart (Fact and Dimension Tables) as per the requirement and build olap reports on them.
+content	experience	· Scheduling the Transformation and Jobs in UNIX environment using CronTab .
+content	experience	· Prepared Technical Design documents and Test cases.
+content	experience	· Involved in Unit Testing.
+content	experience	· Implemented various Performance Tuning techniques.
+header	project	Project#7
+header	project	Project Name
+header	project	BPUT Education Analytics
+content	project	Client
+content	project	BPUT Colleges (SIT , UCE ,CET , TRIDENT,CVRCE,CEB etc.) , Bhubaneswar
+content	project	Role
+content	project	Software Engineer
+content	project	Duration
+content	project	Dec‘2011 to June2014
+content	project	Environment
+content	project	Languages: SQL
+content	project	Database: PostgreSQL
+content	project	ETL tool :Pentaho Data Integration
+content	project	BI Tool : BMBI
+header	experience	Responsibilities:
+content	experience	· Perform and execute data extraction, transformation and loading using SQL, ETL Process and Ms-Excel.
+content	experience	· Analyzed raw data, drawing conclusions & developing recommendations Writing T-SQL scripts to manipulate data for data loads and extracts.
+content	experience	· Responsible for extracting, transforming, loading and validation of client data. Manipulating and processing the data using Excel and SQL
+content	experience	· Knowledge of working with Excel Pivot , BI Tool (BMBI) to Perform daily, monthly, quarterly and annual data values updates and system checks
+header	experience	Qualification:
+content	knowledge	· Bachelor in Technology in Computer Science & Engineering (2011) from Krupajala Engineering College (BPUT), Bhubaneswar with 74 % marks.
+content	knowledge	· 10+2 with Science (2006) from CHSE, Odisha with 68.66% marks.
+content	knowledge	· High School (2004) from BSE , Odisha with 82.9 % marks.
+header	others	PERSONAL DETAILS:
+meta	others	· Date of Birth: 20 May 1989
+meta	knowledge	· Language Known: English, Hindi, Oriya
+header	others	DECLARATION:
+meta	others	I hereby declare that all the information provided above is true to the best of my knowledge. Place: Bangalore
+meta	others	Date: 02-Jan-2018
+meta	others	Name: Jhansi Nayak

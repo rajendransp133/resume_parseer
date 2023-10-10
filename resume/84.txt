@@ -1,0 +1,57 @@
+meta	others	Tumulu Mithun Subudhi H/N:-New 160, Pillyar koil street
+meta	others	Email:- t.mithun1991@gmail.com Thiruvanmiyur bus depot
+meta	others	Mobile No :- +91-7735372999,+91-8668024371 Chennai-41
+header	others	OBJECTIVE
+content	others	To work in a challenging and dynamic environment and to keep adding value to the organization which I represent to serve myself while concurrently upgrading my skills and knowledge. I would strive hard to consolidate and expand my quest for knowledge.
+header	knowledge	ERP TOOLS
+content	knowledge	· M3+ Accounting Analysis ( Metriqe Solution )
+content	knowledge	· Lawson ( Accenture )
+content	knowledge	· Microsoft Office
+header	education	Education
+content	education	· Master of Finance and Control (MFC) from College of Advance Computing (CAC), Berhampur, ODISHA,2016.
+content	education	· B.com (Accounting Hons) from Berhampur University, ODISHA,2012
+content	education	· CHSE +2.Science from Sri Bharatpati Mahavidyalaya, Samantapalli, ODISHA,2009.
+content	education	· BSE (10th class) from Sri karunakara Bidhyapetho, Patrapur, ODISHA,2007
+header	experience	Work Experience
+content	experience	1. Worked as a Junior Accountant in Metriqe Solution pvt.ltd from 21th Sept 2016 to 09th March 2018.
+content	experience	General Ledger – Balance sheet Reconciliation, Month end Closing, Accruals & Prepayments(R2R)
+content	experience	· Posting income Journal and payroll accrual for the month end.
+content	experience	· Analysis of all Revenue and Expenses for the period and quarter end.
+content	experience	· Ensures all accounts properly specified/ justified.
+content	experience	· Ascertaining all provision for the coming month and Passing adjustment entries as required by the business.
+content	experience	· Co-ordinate with AP team whether payment of Invoices has been correctly paid or not. After payment book the invoice to respective GL.
+content	experience	· Analyzing P & L GLs for costs and scrutinizing them for missing costs and posting Cost Accruals for that.
+content	experience	· On the process of preparing P&L need to perform for adjustment entry, Reclass entry and correction entry.
+content	experience	· Ensure proper accounting of general ledger transactions and Preparation of Balance Sheet Reconciliation statement monthly, good quarterly with attachment of supporting file and quarterly-submission of BSN.
+content	experience	· Posting transfer entries to Balance Sheet under Prepayments head in case of any prepaid expenses and amortizing them monthly to Profit and Loss on a monthly basis and preparing Prepayment Schedule.
+content	experience	· Reviewing Balance sheet and Bank reconciliation monthly basis.
+content	experience	2. Accenture Solution pvt.ltd (2nd Apl 2018 to till date)
+content	experience	Working as a (transaction process new associate): -(R2R)
+content	experience	· Preparing Payroll and submit with comments comparing prior month variance. Preparing payroll accrual JV.
+content	experience	· After submitting the payroll start doing with recharge to Employee and Equipment charges JV.
+content	experience	· After AP close start run SCOT (Standard cost Analysis) and give comments compering to PM.
+content	experience	· Preparing AP Accrual and book JV after close of AP.
+content	experience	· Preparing Accrual JV and release JV based on Cost Analysis.
+content	experience	· Preparing Prepaid transaction for employee cost like (school fees, housing fees, medical allowance…etc) with amortizing them monthly wise hitting in P&L.
+content	experience	· After start doing with P&L compare difference from prior month and start doing adjustment entry, absence of cost CM entry need to accrue in CM and related reclass JV.
+content	experience	· Preparation of Balance sheet Notes (BSN) to comparing to Trail Balance(TB) and what are the variance is not matching to TB need to check with DSS and offsetting entry with release JV.
+content	experience	· For BSN preparation time need to check with new entry of prepaid entries and if its not hitting in BSN need to do manual for missing the entries.
+content	experience	Area & Specialization (R2R)
+content	experience	· Preparing the all monthly/quarter/year end close activities.
+content	experience	· Preparing and posting jvs with using of ERP.
+content	experience	· Analysis of all Revenue and Expenses for the period and quarter end.
+content	experience	· Preparation of aging analysis of Debtors and Creditors and reporting this to business to clear the over aged Debtors/Creditors.
+content	experience	· Served as a back-up for other General ledger accountants including generating financial reports.
+header	others	Hobbies
+content	others	· Plying cricket and carom.
+content	others	· Listening songs.
+header	others	Personal details
+meta	others	Father Name :- T.Dharmaraju Subudhi
+meta	others	Date of Birth :- 24th May 1991
+meta	others	Marital status :- Single
+meta	others	Gender :- Male
+meta	knowledge	Language :- English, Odia, Hindi and Telugu
+meta	others	DECLARATION:
+meta	others	I, Mithun Subudhi, hereby declare that the above furnished information are true to the best of my knowledge and if given a chance will add real value to the organization.
+header	others	Date:-
+meta	others	Place:- (T. Mithun Subudhi)

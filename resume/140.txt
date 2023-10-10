@@ -1,0 +1,40 @@
+header	others	RESUME
+meta	others	Ishant J. Shriwas
+header	others	Address for Correspondence:
+meta	others	C/O Shankar Parihar,Near Hanumannagar,
+meta	others	LIT Road,
+meta	others	Ramnagar,
+meta	others	Nagpur-440012
+meta	others	E-mail:
+content	others	ishantshriwas09@gmail.com
+meta	others	Mob: 9021326336
+header	others	Personal Details:
+meta	others	Date of Birth:4th November 1991
+meta	others	Gender: Male
+meta	others	Nationality: Indian
+meta	others	Marital Status: Unmarried
+meta	others	Father: Mr. Jayant Shriwas
+header	others	Hobbies:
+meta	others	Listening Music & surfing internet
+header	others	Objective
+content	others	To work with such organization where my inherent technical talent, dedication and commitment towards the allotted task will contribute to the growth of that organization.
+header	education	Academic Record
+content	education	· B.Com from Nagpur University in Year 2012
+content	education	· H.S.S.C. Passed from Maharashtra State Board in Year 2009
+content	education	· S.S.C. Passed from Maharashtra State Board in Year 2007
+header	knowledge	Technical Qualification
+content	knowledge	· MS-CIT
+content	knowledge	· Tally ERP 9.0
+header	experience	Experience
+content	experience	· 2 Years at CA L. D’Souza & Co. - Auditor
+header	others	Auditing, Accounting
+content	others	· Currently Working in Goenka Construction ( Flaminco Refractories Pvt. Ltd.)- Account Assistant-Accounting, All Banking Works
+header	knowledge	Key Skills-Tally Erp.9, TDS, GST on Tally, MS Office
+header	knowledge	Personal Key Strengths
+content	knowledge	· Aspiration for Continuous, Quick learning.
+content	knowledge	· Positive Attitude, Dedication for work.
+content	knowledge	· Compatible with majority working environments.
+header	others	Declaration
+content	others	I hereby declare that the information furnished above is true to the best of my knowledge.
+content	others	Place: signature
+content	others	Date: (Ishant J. Shriwas)

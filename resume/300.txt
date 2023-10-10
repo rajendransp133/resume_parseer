@@ -1,0 +1,90 @@
+meta	others	Mansi Gupta : Qlikview Developer
+header	others	Objective
+content	others	To seek an opportunity which enables me to unleash my potential in the field of data visualization & analytics, towards helping businesses realize their goals by empowering them with better insights.
+header	experience	Professional Overview
+content	experience	I have 5.4 years of experience in the field of Data warehousing & In Providing Business Intelligence solutions to various clients in Life Sciences, Banking financial services & HealthCare Domain. (DOJ in cognizant: 18th April 2013)
+content	experience	5+ years of Qlikview development experience.
+content	experience	Have worked on end-to-end design and development of data-visualization dashboards.
+content	experience	Have a deep working knowledge of various stages of development viz. data study, data extraction and loading, data transformation, building an efficient data-model, developing useful visualizations, designing a user-friendly interface; thus providing a satisfactory data-analysis experience to the end-users.
+content	experience	Willing to learn & work on new technologies & ready to take on new challenges.
+header	experience	Experience Summary
+content	experience	Have worked on projects through their complete life-cycle delivered data-visualization solutions carrying out following roles -
+content	experience	Gathering & analyzing user-requirements. Studying the source data-systems.
+content	experience	Data load scripting, data transformation & modeling, managing data flow between source & application.
+content	experience	Design & development of dashboards as per the user requirements.
+content	experience	Performing functional testing, UI & data testing, regression testing. I have carried out thorough pre & post-deployment testing on the deliverables.
+content	experience	Deploying & publishing applications on server. Have worked with Qlikview Management Console.
+content	experience	Post-release application support/troubleshooting.
+content	experience	Project documentation.
+content	experience	Have worked on delivering complex KPIs, implemented interactive visualizations & have carried out various performance tuning measures on the applications. I have a thorough understanding of the development best-practices.
+content	experience	Have a good exposure on Waterfall & Agile delivery methodologies.
+content	experience	Have had regular client engagements to get a thorough understanding of the requirements & obtain feedback. Have good interpersonal & communication skills.
+content	experience	Have worked on all my deliverables taking complete accountability & planning & prioritizing my work so as to develop a solution to meet the user-expectations & timelines. Have focused on building solutions which simplifies the core-functionality for the users, thus adding greater value to it as a product.
+content	experience	Worked extensively on delivering solutions using Qlikview macros & extensions, as well as integration with 3rd party technologies like Google Maps. Have worked on creating automation solutions which facilitated sending automated mailers with data-reports, etc. The automation achieved through these functionalities has been highly appreciated. The automation solutions have been reused across the business-areas.
+header	experience	Contact Details
+header	others	Phone:
+meta	others	8600125880
+header	others	Email:
+meta	others	mansi.adept@gmail.com
+header	education	Education
+content	education	Master’s in Software Development & Management : 8.6 CGPA
+content	education	Bachelor’s in Information Technology : 76.8%
+content	education	XIIth (CBSE) : 73.6%
+content	education	Xth (CBSE) : 86%
+header	others	Core Competencies
+content	others	- Data-Visualization, Data-Modeling, Business Intelligence and Analytics
+content	others	-Primary expertise in Qlikview.
+content	others	-Fundamental working knowledge of Cognos, Tableau, Qlik Sense.
+content	others	BI Reporting Tools
+content	others	-Qlikview 11.2
+content	others	-Cognos
+header	knowledge	Database
+content	knowledge	-Microsoft Sql Server
+meta	others	�
+header	project	Project Experiences
+content	experience	Project 1
+content	experience	Title – Core Datacentre Services
+content	experience	Client – BFS Company
+content	experience	Tools-Qlikview, Sql Server Management Studio, Nprinting
+content	experience	Role-Dev Lead
+content	experience	Project Objective:
+content	experience	The main purpose of the project revolves around Application Development for DCIM Business Intelligence Portal which displays the Company datacentre related data. Key KPIs included capacity planning, utilization analysis, activity planning, audit & reconciliations reporting, floor-plan visualizations, etc.
+content	experience	Roles and Responsibilities:
+content	experience	Developing Qlikview Apps, Designing, App Integration & Testing.
+content	experience	Analyzing enhancement requests & support teams at Client side.
+content	experience	Configuration & customization to meet enhancement requests also perform Unit testing and System testing.
+content	experience	Develop Dashboards and KPIs as per the requirement.
+content	experience	DB Validation In MS SQL Server
+header	project	Project 2
+content	experience	Title - ServCo
+content	experience	Client –BFS Company
+content	experience	Tools-Qlikview, Sql Server Management studio, Nprinting
+content	experience	Project Objective:
+content	experience	Dashboard displays service management analytics for the service company & displays data for its performance, Cost & Control parameters.
+content	experience	Roles and Responsibilities:
+content	experience	Gathering Reporting requirements.
+content	experience	Developing Reports and dashboards using QlikView
+content	experience	Unit Testing & Regression Testing.
+content	experience	Creating & sending reports from Nprinting
+header	project	Project 3
+content	experience	Title - Sales & Activities BI
+content	experience	Client –Life sciences Company
+content	experience	Tools-Cognos, Oracle, Qlikview
+content	experience	Project Objective:
+content	experience	The main purpose of the project is to show Reports which display data from National (highest) level to Brick (Lowest) level as per given information on Prompt Page & show the specified KPI’s.
+content	experience	Roles and Responsibilities:
+content	experience	Developing Reports and dashboards using QlikView
+content	experience	Managing deployment of applications
+content	experience	Providing ongoing support in case of any issue
+content	experience	Applying security as per requirement.
+content	experience	Company 2: Virtusa Polaris
+header	project	Project 1
+content	experience	Title – Global Business management
+content	experience	Client –Banking financial
+content	experience	Tools-Qlikview, GSD, Jenkins
+header	experience	Roles and Responsibilities:
+content	experience	Developing Reports and dashboards using QlikView
+content	experience	Assignment of CALs to users.
+content	experience	Managing deployment of applications [Jenkins]
+content	experience	Providing ongoing support in case of any issue
+meta	others	� INCLUDEPICTURE “https://rdxfootmark.naukri.com/v2/track/openCv?trackingInfo=26e9cfa0aa97b8933346264aa43fae08134f530e18705c4458440321091b5b581208190014485b59084356014b4450530401195c1333471b1b1112445c5d005942011503504e1c180c571833471b1b0018465f550b555601514841481f0f2b561358191b15001043095e08541b140e445745455d5f08054c1b00100317130d5d5d551c120a120011474a411b1213471b1b1113485c5f00584f130f18115c6&docType=doc” \* MERGEFORMAT \d ���

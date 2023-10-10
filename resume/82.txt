@@ -1,0 +1,110 @@
+meta	others	Munilatha Ramineni
+meta	others	Mobile:91-9000659519
+meta	others	Email: latha.sap86@gmail.com
+header	experience	Professional Summary
+content	experience	SAP Basis Consultant having over 4 Years of experience in SAP Basis Consultant and HANA.
+content	experience	SAP BASIS Expertise
+content	experience	· Experience on HANA Database installations, and also having experience on pack update.
+content	experience	· Experience on Start and stop HANA Database .
+content	experience	· Monitoring HANA Database services .
+content	experience	· Refreshing activity in HANA Database.
+content	experience	· HANA backup and Monitoring using studio
+content	knowledge	· Knowledge on Multitenant databases in HANA
+content	knowledge	· Knowledge on SLT Server Installation and established connection between ECC to HANA
+content	knowledge	· Knowledge on SDA Installation and Configuration in HANA
+content	experience	· Experience on EHP upgrades.
+content	experience	· Performing System Refresh activities.
+content	experience	· Worked on Support Pack upgrade using SPAM.
+content	experience	· Performed daily operation activities based on checklist.
+content	experience	· Client administration, client creation and performed client copies.
+content	experience	· Performed Kernel Upgrade.
+content	experience	· Experience in configuring Transport Management System (TMS) for the system landscape using STMS, and in Releasing/Importing of transports between DEV, QAS and PRD systems.
+content	experience	· Scheduled Background jobs, monitoring the background jobs.
+content	knowledge	· knowledge on Database Administration activities using BRtools.
+content	experience	· Worked on maintenance tools MOPZ and generated Stack.xml file.
+content	experience	· Configured the Operation modes.
+content	experience	· Worked on Spool Administration.
+content	experience	· Experience in User Administration: Changing Password and unlocking the user based on tickets.
+content	experience	· Experience in profile parameter changes based on requirement
+content	experience	· Experience in configtool on JAVA systems
+content	experience	· Analyzed ABAP Dumps.
+content	experience	· Downloaded Guides, Notes, License keys, and Software from SAP portal.
+content	experience	· 24x7 support and monitoring the production systems.
+content	experience	· Experience in interacting and working with people in functional module and provide technical support.
+header	education	Academic Credentials:
+content	education	M.C.A from Sri Venkateshwara University, Tirupati
+header	knowledge	Technical Skills:
+content	knowledge	ERP
+content	knowledge	: SAP R/3 Release ECC 6.0, Net Weaver 7.3
+content	knowledge	Operating Systems
+content	knowledge	: Windows 2003 & 2008 server, RHEL6&
+content	knowledge	SUSE11.
+content	knowledge	Databases
+content	knowledge	: Oracle 10G, 11G, MS SQL Server 2008 and MS
+content	knowledge	SQL Server 2012.
+header	experience	SAP professional Experience:
+content	experience	· Working as a SAP BASIS Consultant for Cheric Information Network Technologies Pvt. Ltd from Aug 2013 to till date.
+header	experience	Projects Undertaken
+header	project	Project: 3
+content	experience	Organization: Cheric Information Network Technologies Pvt Ltd.
+content	experience	Client: Alkali metals.
+content	experience	Duration: Sep 2016 to till date.
+content	experience	Role: SAP BASIS andHANA consultant
+content	experience	OS/Database: SUSE11/HANA1.0 SPS09, SPS10
+header	experience	Responsibilities:
+content	experience	· HANA DB refresh using studio and SWPM.
+content	experience	· Start and stop of HANA services.
+content	experience	· HANA studio installation on the client PCs.
+content	experience	· HANA Backup scheduling and monitoring.
+content	experience	· HANA license management
+content	experience	· HANA monitoring using Studio.
+content	experience	· HANA Monitoring such as server processes, alerts, license, db growth, CPU and memory usage.
+content	experience	· Knowledge on HANA system copies and upgrades.
+header	project	Project 2
+content	experience	Organization: Cheric Information Technologies Pvt Ltd.
+content	experience	Client: I cube logics.
+content	experience	Duration: Jan 2015 to Aug 2016.
+content	experience	Role: SAP Basis Consultant
+content	experience	OS/Database: RHE Linux 6.5/Oracle11g.
+header	experience	Roles & Responsibilities:
+content	experience	· Transporting the requests.
+content	experience	· Performing daily checks like system logs, failed jobs, short dumps, work-processes, alerts, failed updates, lock entries, table-spaces, and buffer checks.
+content	experience	· Kernel upgrade.
+content	experience	· Applied support packs, notes and languages.
+content	experience	· Adjusting operation modes for day and night operation.
+content	experience	· Monitoring background jobs.
+content	experience	· Monitoring database parameters like free space in table spaces, database backup logs, archiving directory status
+content	experience	· Monitoring Table spaces from SAP using DB02.
+content	experience	· Spool configuration, Trouble shooting.
+content	experience	· Monitoring updates in the system
+content	experience	· Maintaining the profile parameters.
+header	project	Project 1
+content	experience	Organization: Cheric Information Technologies Pvt Ltd.
+content	experience	Client: I cube logics.
+content	experience	Duration: Aug 2013 to Dec2014
+content	experience	Role: SAP associate basis consultant.
+content	experience	OS/Database: RHE Linux /Oracle11g.
+header	experience	Roles & Responsibilities:
+content	experience	· Daily performing checklist activities like monitoring, troubleshooting support and tuning of R/3 system.
+content	experience	· Maintain landscape for Development, Quality assurance and Production systems.
+content	experience	· Monitoring activities like system status, analyzing system logs, system traces, ABAP dumps, SAP System Buffers, Database Buffers and workload analysis.
+content	experience	· Monitoring work process, analyzing and killing long running work process by user approval.
+content	experience	· Scheduled standard background jobs periodically.
+content	experience	· Time based and event based Scheduling of Background jobs and monitoring them.
+content	experience	· Created operation modes and assigning timetable for operation modes and assigned to the instance profile.
+content	experience	· Monitoring application servers up and running.
+content	experience	· Monitoring database growth.
+content	experience	· Database backup and housekeeping jobs monitoring.
+content	experience	· Spool administration and issues.
+content	experience	· Adding printer to SAP system with access methods.
+content	experience	· Monitored update administration.
+content	experience	· Involved in start-up issues.
+content	experience	· Configured Logon Load Balancing.
+content	experience	· Maintaining Profile parameters.
+content	experience	· Installation and Configuration of SAP Servers and performed post installation activities.
+content	experience	· Starting and Stopping Of SAP System.
+content	experience	· Monitoring the active users of a particular application server, number of users logged on, memory consumption by each user and tune them accordingly.
+content	experience	· Installation and resolving the end-user issues regarding SAP GUI.
+content	experience	· Monitor the File System Space, CPU and Memory Utilization at OS Level.
+content	experience	· Created users with details of request sheet, provided specified roles and assigned group, increased access date, reset password, locked and unlock the users.
+content	experience	· Done the post installation steps like import profiles, scheduling sap standard background jobs, sgen, slicense, client administration and TMS configuration etc.

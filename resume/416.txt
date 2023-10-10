@@ -1,0 +1,73 @@
+meta	others	Microsoft Word - Priti_Gaikwad.docx
+meta	others	Priti A. Gaikwad
+meta	others	Mail ID: pritiashokgaikwad@gmail.com
+meta	others	Contact No. +91-9096480269
+meta	others	Current  Php developer at Droidalpha technologies Pvt Ltd.
+meta	others	Past  Jr.Reviewer Grade-1 at Crest Premedia solution Pvt Ltd.
+meta	others	 Home tutor
+header	others	Objective
+content	others	Quest to work in a professional and competent atmosphere involving my enthusiasm aided with my
+content	others	efforts contributing to growth of the organization and to strive and achieve excellence in the area of work
+content	others	undertaken with honesty, commitment and dedication.
+header	experience	Professional Summary
+content	experience	 1 Year 3 months of industrial experience in Php and Mysql .
+content	experience	 1year 10 months of industrial experience in HTML formatting of data and manual testing .
+content	experience	 Capable of performing under minimal supervision, multi-tasking, meets deadlines as an individual
+content	experience	contributor.
+content	experience	 Good team player. Good Communication skills.
+content	experience	 Capable of learning new technology as per the requirement.
+content	experience	 Experience working in small-large website with tight deadlines.
+header	education	Educational Qualification
+content	education	YEAR BOARD COLLEGE
+content	education	YEAR OF
+content	education	PASSING
+content	education	MARKS GRADE
+content	education	B.E(C.S.E)
+content	education	Dr.BAMU
+content	education	Aurangabad
+content	education	Aditya Engineering
+content	education	College
+content	education	2012 68.86% Distinction
+content	education	H.S.C H.S.C Board Pune
+content	education	Vidya Mandir Jr
+content	education	College
+content	education	2007 74.50% Distinction
+content	education	S.S.C SSC Board, Pune
+content	education	Tulshidas Jadhav
+content	education	Prashala
+content	education	2005 79.33% Distinction
+header	knowledge	Skills
+content	knowledge	Experience in Basics of PHP5, Mysql, Slim framework, CodIgniter Framework,
+content	knowledge	XHTML, HTML5, CSS2, CSS3,Javascript,Jquery,Photoshop, Ajax,
+content	knowledge	Dream weaver,MS Office, browser compatibility.
+content	knowledge	Operating Systems Windows 95/98/2000, Windows NT/XP, Windows 7
+content	knowledge	Tools Netbeans,Xampp, MyGoogle font, Photoshop, Dream weaver,
+content	knowledge	PostMan Client App,Mozilla responsive mode and many more
+header	experience	Experience
+content	experience	Droidalpha Technologies Pvt Ltd.
+content	experience	July 2016 – till Date
+content	experience	 Webservices in Php for Android Apps like watch n earn ,Volte checker,Contact App, Quick Blood
+content	experience	Bank ,Friends Locater App, etc.
+content	experience	 Create And Handle server database.
+content	experience	 Create Web pages acoording to requirement.
+content	experience	 Developing website using php, html,css,Javascript,jquery.etc
+content	experience	Jr.Reviewer Grade-1 Crest Premedia Solution Pvt Ltd.
+content	experience	Aug 2014 – june 2016(1 year 10 months)
+content	experience	 Formatting financial documents of the clients in HTML.
+content	experience	 Solving Client Queries.
+content	experience	 Browser compatible layout development using HTML standards& CSS.
+content	experience	 Quality checks of html documents.
+header	others	Personal Information
+content	others	Name - Priti Ashok Gaikwad
+content	others	Date of Birth - 27th August 1989
+content	others	Email - pritiashokgaikwad@gmail.com
+content	others	Gender - Female
+content	others	Marital Status - Single
+header	knowledge	Languages - Marathi, Hindi, English
+meta	others	Hobbies - Art And Craft,playing Carrom, listening music, internet surfing, reading
+meta	others	Books.
+meta	experience	Current Address - Flat No -302,saijyoti Housing Society,Dnyanda Colony,Opposite Of
+meta	experience	Bank of Maharashtra,Dange Chauk,Pune
+meta	experience	Perment Address - A/p-Tulshidasnagar,Vairag Tal-Barshi, Dist-Solapur, Pin-413412
+meta	experience	Place & date:
+meta	experience	Priti A. Gaiwkad

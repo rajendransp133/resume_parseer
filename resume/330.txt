@@ -1,0 +1,74 @@
+meta	others	Datta Meghe Institute of Engineering Technology & Research, Wardha
+header	others	RESUME
+meta	others	Mr. Sushant Charandasji Lohkare.
+meta	others	Email: sushantlohkare95@gmail.com
+meta	others	Mobile No: 7410535088 / 9623249916
+meta	education	MBA (Finance& SSM)
+header	others	Career objective
+content	others	To use my educational skills in the best possible way for achieving the organizational goals.
+header	education	Academia
+content	education	Class
+content	education	Year
+content	education	Subject / Specialization
+content	education	Board/University
+content	education	Percentage
+content	education	MBA 4THSEM
+content	education	2018
+content	education	Finance & SSM
+content	education	RTMNU
+content	education	74.00%
+content	education	MBA 3RD SEM
+content	education	2017
+content	education	Finance & SSM
+content	education	RTMNU
+content	education	71.29 %
+content	education	MBA 2ND SEM
+content	education	2017
+meta	education	RTMNU
+meta	education	58%
+meta	education	MBA 1ST SEM
+meta	education	2016
+meta	others	-
+meta	education	RTMNU
+meta	education	63%
+meta	education	Graduation
+content	education	2015
+content	education	B.C.C.A.
+content	education	RTMNU
+content	education	60%
+content	education	HSC
+content	education	2012
+content	education	Science
+content	education	NAGPUR BOARD
+content	education	52%
+content	education	SSC
+content	education	2010
+meta	others	-
+content	education	NAGPUR BOARD
+content	education	67.68%
+header	education	ACADEMIC DETAILS
+content	experience	· Winter Internship program:
+content	experience	· Project Area: Accounting Management.
+content	experience	· Company: Shraddha Saburi Auto behind kesrimal Girls School Nagpur road, Wardha.
+content	experience	· Duration: 15 days
+content	experience	· Summer Internship Program:
+content	experience	· Project Area: Marketing Management.
+content	experience	· Company: Shri Sai Auto behind kesrimal Girls School Nagpur road, Wardha.
+content	experience	· Duration: 45 days
+header	knowledge	Skill
+content	knowledge	· Computer skill.
+content	knowledge	· MS-CIT
+content	knowledge	· Good Communicator.
+content	knowledge	· I had completed my project for ‘Society Management System’ (B.C.C.A) in visual basic 0.6 from the year of 2015-16
+header	others	PERSONAL INFORMATION
+meta	others	· Name : Mr. Sushant Charandasji Lohkare.
+meta	others	· Date of Birth :13thJanuary 1995
+meta	others	· Gender :Male
+meta	others	· Marriage status :Single
+meta	knowledge	· Language Known :Marathi, Hindi, English
+meta	others	· Permanent Address : At,Goaji Road Barbadi Post.Sewagram,Tah.Wardha,Dist.Wardha
+meta	others	DECLARATION
+meta	others	I hereby declare that the information given above is true to the best of my knowledge and belief.
+meta	others	DATE: Sign
+meta	others	PLACE:
+meta	others	(Sushant Charandasji Lohkare.)

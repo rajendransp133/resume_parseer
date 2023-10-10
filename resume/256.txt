@@ -1,0 +1,93 @@
+meta	others	AMARENDRA SAHOO
+meta	others	Plot No.:-6/H.No.:-5-62, Mallikarjuna Colony, OldBowenpally-500011
+meta	others	Secundrabad , Telengana, MobileNo:8327762263, Email :talk2amarendra@gmail.com
+meta	others	(
+meta	others	CAREER
+meta	others	OBJECTIVE:
+meta	others	)
+content	others	To obtain a challenging position in a Leading Edge organization, by utilizing my knowledge and the skills, abilities obtained through my experience and education, with the opportunity for the development of Organization along with the professional growth.
+meta	others	(
+header	education	ACADEMIC BACKGROUND:
+meta	others	)
+content	education	· Master of Computer Application at Fakir Mohan University, Balasore, Odisha 2011-2014.
+meta	others	· (
+header	experience	WORK EXPERIENCE
+meta	others	:
+content	experience	)Bachelor in Computer Application at Utkal University, Bhubaneswar, Odisha, 2007-2010.
+content	experience	· Worked with Tata Projects Limited as a Desktop Support Engineer from May 2017 to September 2018.
+content	experience	· Past worked in I Solution India Pvt Ltd as a Desktop Support Engineer from to December 2015 to March 2017.
+content	experience	· Past Worked in Indusind Bank as a Customer Support Engineer from Feb 2015 to Oct 2015.
+header	project	Project # 3 (Tata Projects Limited)
+content	experience	Project Name: Six Lining of Chittorgarh – Udaipur Section of NH-76 Road Project.
+content	experience	DESCRIPTION: It is projects of Tata Projects Limited Networking and support of Tata Projects IT Business 2 Business support, IT infrastructure.
+content	experience	Team Size - 4 Engineer
+header	experience	Roles & Responsibilities:
+content	experience	· system administration ,desktop support, Business 2 business support
+content	experience	· TCP/IP protocols
+content	experience	· Windows and Mac systems
+content	experience	· Installed new software and hardware and set up user accounts and passwords
+content	experience	· Troubleshooting, creating, and updating firewall policies
+content	experience	· Finding and fixing faults in the network systems
+content	experience	· Creating new OU, Group, User in active directory and password reset, lockout issues etc.
+content	experience	· Troubleshooting DHCP related issues at server and at user end.
+content	experience	· Joining Workstation in domain and troubleshooting domain related issues at user end.
+content	experience	· Responsible for WSUS patch update at end-user level.
+content	experience	· Troubleshooting and installing Anti viruses at end user level.
+content	experience	· Troubleshooting & configuring Outlook 2007, 2010, 2013 & 2016 related issues.
+content	experience	· Troubleshooting Desktop & laptop related issues
+content	experience	· Assigning new Laptop to user with all standard software, OS window 7, Windows 8 and Windows 10 etc. installed and joined in domain.
+content	experience	· Troubleshooting proxy related issues.
+content	experience	· Troubleshooting & installation of all application required for the business process.
+content	experience	· Troubleshooting printer & scanner related issues
+content	experience	· Inventory management of all the assets i.e. Computer, Laptops, Router, switches etc. in stock
+content	experience	· Providing L1 hardware support and call logging of hardware related issues. Troubleshooting Wi-Fi& LAN related issue at user end.
+header	project	Project # 2 (I solution India Pvt Ltd)
+content	project	Project Name : Internal IT
+content	experience	DESCRIPTION: It is project of I solution IT Helpdesk and support of I solution IT Business 2 Business support, IT infrastructure.
+content	experience	Team Size - 5 Engineers
+header	experience	Roles & Responsibilities:
+content	experience	· system administration ,desktop support, Business 2 business support
+content	experience	· Creating new OU, Group, User in active directory and password reset, lockout issues etc.
+content	experience	· Troubleshooting DHCP related issues at server and at user end.
+content	experience	· Joining Workstation in domain and troubleshooting domain related issues at user end.
+content	experience	· Responsible for WSUS patch update at end-user level.
+content	experience	· Troubleshooting and installing Anti viruses at end user level.
+content	experience	· Troubleshooting & configuring Outlook 2007, 2010 & 2013 related issues.
+content	experience	· Troubleshooting Desktop & laptop related issues
+content	experience	· Assigning new Laptop to user with all standard software, OS window 7 and Windows 8 etc. installed and joined in domain.
+content	experience	· Troubleshooting proxy related issues.
+content	experience	· Troubleshooting & installation of all application required for the business process.
+content	experience	· Troubleshooting printer & scanner related issues
+content	experience	· Inventory management of all the assets i.e. Computer, Laptops, Router, switches etc in stock
+content	experience	· Providing L1 hardware support and call logging of hardware related issues.
+content	experience	· Troubleshooting Wi-Fi& LAN related issue at user end.
+header	project	Project #1 (Indusind Bank Ltd)
+content	experience	Project Name: IT Infrastructure of Indusind Bank
+content	experience	Team Size : 6
+content	experience	DESCRIPTION: It is the internal IT support of the Indusind Bank
+header	experience	Roles and Responsibilities:
+content	experience	· Formatting of workstation computer, installation of OS i.e. windows 7, 8, 8.1 & driver, and patches.
+content	experience	· Installation of Basic software that is used by the bank in the day today activities.
+content	experience	· Sharing of Network Printer and troubleshooting printer problem.
+content	experience	· Taking backup and restoration of the user data after formatting.
+content	experience	· Maintenance of all network peripheral devices, LAN related problem, switch, and modem related problem and checking connectivity with data center as well as troubleshooting hardware and software problem.
+content	experience	· Providing technical support to all Desktops in the bank and call logging for hardware related issues.
+content	experience	· Configuring &Troubleshooting Outlook Related issues at end-user level.
+content	experience	· Configuring & troubleshooting office packages like word, excel, power point etc…
+meta	others	(
+header	knowledge	TECHNICAL
+header	knowledge	PROFICIENCY:
+meta	others	)
+content	knowledge	Operating System : Windows 7, Windows 8, Windows 8.1 and Windows 10
+header	knowledge	Sever Skill : Windows server 2008
+content	knowledge	Office Packages : MS Excel, MS word and PowerPoint
+content	knowledge	Mail Client : Outlook web 2007, 2010, 2013, 2016
+content	knowledge	Technical Skill :MCSE, Remote Desktop connection
+content	knowledge	Ticketing Tools : HP Service Manager
+meta	others	(
+header	knowledge	ATTRIBUTES AND STRENGTHS
+meta	others	)
+content	knowledge	· Dedication, analytical thinking, hard work and confidence to achieve goals.
+content	knowledge	· Willingness to learn new things and contribute to the growth of organization.
+content	knowledge	· Comprehensive problem solving abilities.
+content	knowledge	· Ability to mingle well in the group and adaptive to any kind of situation.

@@ -1,0 +1,44 @@
+meta	others	Neha Jadhav
+meta	others	Contact: 7678008735
+meta	others	E-mail: neharatnadeepjadhav@gmail.com
+meta	others	_________________________________________________________________________________
+content	others	Human Resources Professional with 1.9 years of experience in HR Generalist profile. Dependable and organized team player with the ability to communicate effectively and efficiently. Skilled at building relationships with employees across all levels of an organization.
+header	experience	Professional Synopsis
+content	experience	September 2017 to September 2018 - Cognizant Technology Solutions (on payroll of Day N Day Pvt Ltd)
+content	experience	Role: HR Executive
+header	experience	Responsibilities:
+content	experience	· Partner with Talent Management Group (IT vertical) to extend support to handle Talent Management activities
+content	experience	· Managing employee queries/concerns ranging from Organizational policies, HR Policies and Compliance related issues
+content	experience	· Responsible for driving and facilitating employee engagement initiatives – Townhall, Fun Friday, Informative Sessions, Yearly event, Monthly and Yearly R&R
+content	experience	· Timely reporting and closure of Misconduct & Disciplinary cases being reported to PCG
+content	experience	· To conduct policy refresher sessions for employees and communicate updates
+content	experience	· Scheduling and arranging training while coordinating with external trainers and training programs
+content	experience	· Maintain MIS and publish timely Dashboard
+content	experience	19th September 2016 to 16th June 2017 - Cybertech Systems and Software Limited
+content	experience	Role: HR Trainee (Generalist)
+header	experience	Responsibilities:
+content	experience	· Handled end to end Recruitment for Cybertech i.e. from Sourcing, Identifying the associate, Offer discussion & Creation, BGV & Onboarding.
+content	experience	· Responsible to generate and issue Offer Letter, Appointment Letter, Relieving letter, Resignation Acceptance letter and Termination letter.
+content	experience	· Deal with employee requests regarding human resources issues & policies
+content	experience	· Extended timely payroll support by handling Attendance & Leave Management. Also responsible to coordinate with Payroll Team for any changes& updation in the bank account; addition and deletion of any employees in the system.
+content	experience	· Provide Assistance in Employee Engagement activities
+content	experience	· Providing Authorized letter and Kit for Medical Health checkup of employees
+content	experience	· Background Verification for new joinees and exited employees
+content	experience	· Compile and update employee records (hard and soft copies) and also update the database
+content	experience	· Process documentation and prepare reports relating to personnel activities (staffing, recruitment, training, grievances, performance evaluations)
+header	knowledge	Skills & Achievements
+content	knowledge	· Well Acquainted with Microsoft PowerPoint, Word, and Excel
+content	education	· Certified Course in center of slum studies - Ruia College
+content	education	· Certification acquired in First level German language
+content	education	· ​Certification acquired in HR Master Class - Dale Carnegie
+content	others	· Active volunteer for College yearly Festive – ‘Commercium’
+content	others	· Active member of sports committee
+content	others	· Won the Case study competition (Mindspace –Inter-college event)
+header	education	Educational Qualification
+content	education	· Post Graduate in Human Resources – Institute of Management and Computer Studies-2016(Full Time)
+content	education	· Bachelor of Arts – Economic & Commerce – Ramnarain Ruia College - 2014
+header	others	Personal Details
+meta	others	Date of Birth: 8-10-1993
+meta	others	Marital Status: Unmarried
+meta	others	Interests: Web Surfing, Cycling and Travelling
+meta	knowledge	Language’s known: English, Hindi, Marathi, and German

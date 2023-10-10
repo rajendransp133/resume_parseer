@@ -1,0 +1,142 @@
+meta	others	Prem Swarup
+meta	others	NISHANT .A. SHAH
+meta	others	4 N, GURUKRUPA, 1st floor, Kilpauk, Chennai – 600 010
+meta	others	(R): 044-26411257 / 044-26611257; E-mail: nishant_shah@rediffmail.com
+meta	others	I. Personal Information
+header	others	Name
+meta	others	-
+meta	others	Nishant. A. Shah
+header	others	Date of Birth/Age
+meta	others	-
+meta	others	03/26/1981 - 30 Yrs
+header	others	Permanent Residence
+meta	others	-
+meta	others	4N, 1st floor,
+meta	others	Prof. Subramanian Street,
+meta	others	Kilpauk, Chennai – 600 010
+header	experience	Contact Phone No.
+meta	experience	-
+meta	experience	+91-91766-11257 / 044-26611257
+header	education	Qualification
+meta	others	-
+content	education	Bachelor of Commerce (B-Com.)
+content	education	D.G. Vaishnav College, Chennai 1998 - 2001
+header	knowledge	Key Skills
+meta	others	-
+content	knowledge	Backend Processing
+content	knowledge	Process Transitioning
+content	knowledge	Finance Process – Mortgage / LC / Mutual Funds
+header	experience	Current Designation
+content	experience	Senior Executive – Citibank, Chennai
+header	knowledge	Languages known -
+content	knowledge	Hindi, English, Tamil, Gujarati
+header	others	Passport
+meta	others	-
+meta	others	B5285648
+header	experience	II. Experience Summary
+content	experience	· 7.5+ years of work experience
+content	experience	· 2 years 4 months
+header	experience	CITIBANK, Chennai
+content	experience	· 1 year 5 months
+header	experience	R.R. DONELLEY CO. , Chennai
+content	experience	· 2 years 5 months
+header	experience	INFOSYS BPO LTD , Bangalore
+content	experience	· 1 year 8 months
+header	experience	E-SERVE INTL LTD, Chennai
+content	experience	III. Professional Experience
+content	experience	1.
+content	experience	Organization
+meta	others	:
+content	experience	Citibank, Chennai
+content	experience	Duration
+meta	others	:
+content	experience	July 2008 to November 2010
+content	experience	Designation
+meta	others	:
+header	experience	SENIOR EXECUTIVE
+content	experience	A. Complaints from Citibank India Customers escalated to
+content	experience	Reserve Bank of India (R.B.I.)
+content	experience	· Handling complaints for Citibank, India customers, responding & servicing to domestic queries regarding banking, loans and credit cards.
+content	experience	· Interacting with customers related to highly sensitive and critical issues.
+content	experience	· Coordinating with all related departments for a speedy resolution of customer inquiries & complaints.
+content	experience	B. Legal Cases filed by the customers against Citibank
+content	experience	· Handling cases for Citibank, India customers, responding & servicing to domestic queries regarding banking, loans and credit cards.
+content	experience	· Interacting with customers related to highly sensitive and critical issues.
+content	experience	· Going for out-of-court settlement to save on legal costs & mitigating franchise risks
+content	experience	· Interacting with Citibank Lawyers to strongly defend our cases with regular follow-ups
+content	experience	· Coordinating with all related departments for a speedy resolution of customer complaints.
+content	experience	· Processing lawyers’ bills and ensuring timely delivery of payments.
+content	experience	· Creating provisions on a monthly basis depending on the compensation claimed
+header	others	Professional Achievements:
+meta	others	( Was awarded ‘Shooting Star Award ‘for October 2009
+meta	others	( Was awarded ‘O & T – Excellence Award’ for Quarter 3 - 2009
+content	experience	2.
+content	experience	Organization
+meta	others	:
+content	experience	R.R. DONNELLEY CO., Chennai
+content	experience	Duration
+meta	others	:
+content	experience	July 2006 to December 2007
+content	experience	Designation
+meta	others	:
+header	experience	FINANCIAL ANALYST
+content	experience	A. Financial Analyst
+content	experience	for a U.S. based client (Ohio)
+content	experience	· Financial Management Services (FMS) - Into Mutual Funds
+content	experience	Activities involved (Daily Deadlines):
+content	experience	· Doing Cash reconciliation on a daily basis
+content	experience	· Research if there are any discrepancies found between the client books & the bank’s books
+content	experience	· Make adjustments accordingly to tally the cash balance between both the books
+content	experience	· As per Investment Advisor, book BUY/SELL trades
+content	experience	· Book Shareholder work
+content	experience	· Cash reporting to client
+content	experience	· Update cash sheets & accrual sheets
+content	experience	· Submit paperwork electronically to client for review
+content	experience	· Pricing of securities - Update prices of securities based on NASDAQ prices and
+content	experience	based on Bloomberg
+content	experience	· Creating securities – Bonds and Shares
+content	experience	· Generate Net Asset Value (NAV)
+content	experience	· Submit the above pricing & NAV report for client review
+content	experience	Professional Achievements:
+content	experience	( Was awarded ‘Most Promising Performer ‘for Feb 2007
+content	experience	( Was awarded ‘Spot Award’ for May 2007
+content	experience	3.
+content	experience	Organization
+meta	others	:
+content	experience	Infosys BPO, Bangalore
+content	experience	Duration
+meta	others	:
+content	experience	Feb 2004 to July 2006
+content	experience	Designation
+meta	others	:
+header	experience	PROCESS EXECUTIVE
+content	experience	A. Customer Service for a Mortgage Service provider
+content	experience	· Handling inbound calls for a Mortgage company based out from Georgia responding & servicing to overseas customer queries regarding mortgage banking, account information & other allied services offered by the client.
+content	experience	· Back end processing – Coordinating with all related departments for a speedy resolution of customer inquiries & complaints.
+content	experience	· Certification – Was awarded certification by the client.
+content	experience	B. Cost overrides function for an I.T. Product Distributor
+content	experience	Leading the process transitioning from the Client in Toronto, Canada.
+content	experience	Onsite visit enabled process certification from the client.
+content	experience	· Was responsible for transitioning cost override process. Had visited the client in Toronto, Canada for 1 month.
+content	experience	· Processing sales requests & coordinating with Sales dept. to ensure
+content	experience	speedy processing
+content	experience	· Responsible for training staff
+content	experience	· Initiating conference calls with the client
+content	experience	· MIS Reporting
+header	others	Professional Achievements:
+content	others	· Awarded ‘ Certification of Appreciation ’ in Jan 2006
+content	others	· Awarded ‘ Best Team performance ‘ for April 2006
+content	experience	4.
+content	experience	Organization
+meta	others	:
+content	experience	E-SERVE INTL LTD
+content	experience	Duration
+meta	others	:
+content	experience	May 2002 to Feb 2004
+content	experience	Designation
+meta	others	:
+header	experience	JUNIOR PROCESSING OFFICER
+content	experience	A. Letter of Credit (LC) advising team for North America operations
+content	experience	· Processing Letter of credits sent by various foreign banks
+content	experience	· Advising Letter of credits & also adding confirmation
+content	experience	· Sending correspondence to various LC Issuing banks in case of clarifications

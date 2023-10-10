@@ -1,0 +1,72 @@
+header	others	CURRICULUM VITAE
+header	others	RESUME
+meta	others	RAJESH KAPSE
+meta	others	50 Jai Bajrang Nagar
+meta	others	Indore (M.P.)-452001
+meta	others	Contact no: +9190092-11847
+meta	others	Email id:kapse.rajesh87@gmail.com
+header	others	OBJECTIVE
+content	others	Seeking a position in the organization that provides me ample opportunity to explore & excel Banking While carving out the niche for personal, professional as well as organizational goals.
+header	knowledge	SUMMARY OF SKILLS
+content	knowledge	· Self motivated, hard working and goal-oriented, with a high degree of flexibility, resourcefulness and commitment.
+header	knowledge	COMPUTER PROFICIENCY
+content	knowledge	· Well versed with MS Word, MS Excel, MS PowerPoint & Outlook Express.
+content	knowledge	· Fair working knowledge of Windows operating system (Windows XP/Vista).
+content	knowledge	· Well versed with Tally9 Financial Accounting, Inventory & Reporting Software package.
+content	knowledge	· Basic knowledge of Programming Languages: C, C++, Java, Dot net, SQL&PLSQL.
+header	experience	Working Experience
+content	experience	A-Current Organization: - WM Logistics India Pvt. Ltd.
+content	experience	Job Profile at WM Logistics-as a processor level – I: Accounts Payable and WW Tire Billing Process (Vendor payment)
+content	experience	Tenure: - From 1st Sept. 2015 to Till Today
+header	experience	Job description: -
+content	experience	· Working on US and Canada invoice processing in Exception Process (ODC), Procure to pay (P2P) process, three ways matching process (ME), and WW Tire Billing Process.
+content	experience	· Working on software – People Soft, ODC, Remedy, P2P Sheet and Hits BPO.
+content	experience	· Invoice Processing: Validating, checking, reassessing & processing of invoices as per different set of rules and contracts for different vendors & locations.
+content	experience	· Review the Purchase Order, receipt and voucher for further payment or process.
+content	experience	· Responsible for Vendors dispute resolution.
+content	experience	· Doing quality check and reviewing of production.
+content	experience	· Sending emails to vendors and clients for different queries.
+content	experience	· Manage all client liability using the appropriate system based reporting tools.
+content	experience	B-Organization: Reliance General Insurance (Reliance Capital)
+content	experience	Dept.: Operations
+content	experience	Role: Support Officer
+content	experience	Duration: 04-July-2014 to 31 Aug-2015
+header	others	ACHIEVEMENTS
+content	others	· I got an appreciation from our client and my Organization.
+content	others	· I got an Extra Miler award for the month of July-Sept 2017.
+content	others	· I got an Spot award for the month of Nov-2016.
+header	others	Summary
+content	others	· My approach is always positive to reach at my goal.
+content	others	· I have passion to work in difficult condition.
+header	education	EDUCATION:
+content	education	M.B.A (Specialization: Finance & I.T.)
+content	education	From: - Shree Gujarati Samaj Inst.of Professionals Studies (SGSIPS), Indore (M.P)
+content	education	(Affiliated to DAVV, Indore)
+content	education	B.C.A (Bachelor of Computer Application)
+content	education	From: - ICST Betul (M.P)
+content	education	(Affiliated to M.C.U, Bhopal)
+content	education	XII (M.P Board)
+content	education	From: - Govt. School Betul (M.P)
+content	education	(Affiliated to M.P. board)
+content	education	X (M.P Board)
+content	education	From: - Govt. School Badora Betul (M.P)
+content	education	(Affiliated to M.P. board)
+meta	others	Hobbies
+meta	others	Playing cricket & Dance.
+header	knowledge	Strength
+content	knowledge	I believe in myself and concentrate towards the task which is to be done.
+content	knowledge	Highly team oriented wants to give my 100% every time.
+header	knowledge	Language Known
+content	knowledge	Hindi & English.
+header	others	PERSONAL DETAILS:
+meta	others	Father: Mr. Khyaliram Kapse.
+meta	others	Mother: Mrs. Leela Kapse.
+meta	others	DOB: 06st July 1987.
+meta	others	Marital Status: Single.
+meta	others	Nationality: Indian.
+meta	others	Declaration:
+content	others	I confirm that the information provided by me is true to the best of my knowledge and belief.
+meta	others	DATE:
+meta	others	SIGNATURE
+meta	others	PLACE: Indore
+meta	others	(Rajesh Kapse)

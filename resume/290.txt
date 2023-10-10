@@ -1,0 +1,36 @@
+meta	experience	karishma bellani
+meta	others	KARISHMA BELLANI
+meta	others	C/10 Libra, Jankalyan Nagar, Malad (west)
+meta	others	Mumbai-400095
+meta	others	Email:kari_bellani10694@yahoo.com
+header	others	Summary
+content	others	More than 4 years of enriching experience in training, recruitment, teaching, customer service. I have a record of significantly improving and developing strong customer relationships and training groups of employees in customer service, English language and handling teams, monitoring their performance and constantly providing effective feedback. I am systematic and organized. My objective is to secure a job in an industry where I can utilize my knowledge for the organization’s growth.
+content	others	Executive Synopsis
+content	others	Seeking a responsible & challenging position where my skills will be used effectively for the betterment of a progressive and dynamic organization.
+header	education	Education Qualifications
+content	education	Graduation in BCOM from M.M.K College Bandra (W) in 2015
+content	education	Completed HSC from MMK College Bandra (W) in 2011-2012
+content	education	Completed SSC from St Joseph’s High School Orlem in 2009-2010
+header	experience	Employment History
+content	experience	· JP MORGAN CHASE May 2015-Current
+content	experience	Team Member (Interim Team Leader)
+content	experience	Malad, Mumbai
+header	experience	Responsibilities:
+content	experience	My job involves activating credit cards, customizing credit card accounts to better suit the needs of the customers, customer service and handling any issues related to the customer’s credit card accounts
+content	experience	Imparted product and process training to new and existing team members as and when required.
+content	experience	In a span of 2 years I have managed to become a Relief Team Leader and have been given teams to handle and 4 projects so far on Quality Improvement Plans, Retention etc
+content	experience	· Genius Consulting May 2012-April 2015
+content	experience	Recruiter/Trainer
+content	experience	Malad, Mumbai
+header	experience	Responsibilities:
+content	experience	My job involved gagging communication skills and accordingly helping people to get jobs, training people and preparing them for interviews, arranging interview rounds and handling the paper work during the rounds, training the new recruiters about the job profile the companies to be recruited to ,their requirements ,salary package, qualification so it would be easier for the recruiters to accordingly place the candidates for interviews.
+header	knowledge	IT Skills
+content	knowledge	Operating Systems-Windows 95/98/2000/XP
+content	knowledge	Applications-MS Office, Excel.
+header	others	Personal Details
+meta	others	Date of Birth : 10th June 1994
+meta	others	Contact Details : C/10 Libra, Jankalyan Nagar, Malad (W)
+meta	others	Mumbai-400095
+meta	others	Contact number-9833283691
+meta	knowledge	Languages Known : English, Hindi and Marathi
+meta	others	Karishma Bellani.

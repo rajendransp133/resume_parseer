@@ -1,0 +1,86 @@
+meta	others	Chembur
+meta	others	Mumbai 400089
+meta	others	8652311308
+meta	others	snehalbansode141@gmail.com
+header	others	S​NEHAL​ B​HIMRAO​ B​ANSODE
+content	others	Summary A versatile graduate who is a pharmacist by profession with a firm sense of
+content	others	responsibility, self-motivation, commitment, creativity, hard work,
+content	others	self-discipline and determination. Currently seeking a challenging career in
+content	others	pharmacovigilance where I can contribute my knowledge and skill set for
+content	others	growth and development of self and organization.
+content	experience	Roles and responsibility
+content	experience	● Receive, review and process pharmacovigilance data from various
+content	experience	sources on time and with quality standards.
+content	experience	● Downloading of Individual Case Safety Reports (ICSRs) from
+content	experience	Eudravigilance Database.
+content	experience	● Performing weekly literature search.
+content	experience	● Coordinating with the vendor for case processing activity.
+content	experience	● Perform data entry correctly. Maintaining quality of cases entered
+content	experience	in Argus Database.
+content	experience	● Coding of adverse reactions with the help of MedDRA.
+content	experience	● Having knowledge on generate follow up queries and sending
+content	experience	Follow-up requests.
+content	knowledge	● Knowledge in reviewing literature screening search results,
+content	experience	identifying ICSRs.
+content	experience	● Writing descript narratives, generating queries pertinent to the
+content	experience	case, performing quality review.
+content	experience	● coordinating for obtaining full text articles (FTA) and translations
+content	experience	and ensuring the same are sent to the vendors within assigned
+content	experience	deadlines.
+content	experience	● Handling of operations mails on daily basis, performing
+content	experience	consistency checks of labeling, PT checks, Reporter checks and
+content	experience	Approval number checks. Reviewing Targeted Follow-up
+content	experience	Questionnaires inconsistency checks on daily basis.
+content	experience	● Performing literature PPQC for maintaining the correctness of
+content	experience	creation of number of ICSR’s from a single literature. Identifying
+content	experience	secondary references from literature source.
+content	experience	● Attending client calls and meetings.
+content	experience	● Participation in inspection and audit interviews.
+content	experience	● Preparing SOP’s for consistent workflow.
+content	experience	● Train the new associates from end to end Workflow.
+header	knowledge	Skills &
+header	knowledge	Abilities
+content	knowledge	● Having excellent skills on MS Word, MS PowerPoint, MS Office,
+content	knowledge	Outlook and Excel.
+content	knowledge	● Good command over Argus Database,
+content	knowledge	● Successfully organized seminars, meetings, team-building
+content	experience	activities, and collaborations.
+content	experience	● Had to quickly adapt to changes and prepare for unforeseen
+content	experience	circumstances.
+header	experience	Experience ● T​RAINEE​ ​AT​ G​RINDLAYS​ P​HARMACEUTICALS​.
+content	experience	● 2016 to APR-2017.
+content	experience	● Performed review of COA and API of products.
+content	experience	● Assisted in preparation of COA of products.
+content	experience	● D​RUG​ S​AFETY​ A​SSOCIATE​ (T​RAINEE​) ​AT​ A​SCEND​ HR ​SERVICES​.
+content	experience	● APR-2017 to JUL-2019
+content	experience	● Responsible for initial duplicate search activity and book in of cases in Argus
+content	experience	Database correctly.
+content	experience	● Performed data entry of various sources in Argus Database.
+content	experience	● J​R​. D​RUG​ S​AFETY​ A​SSOCIATE​ ​AT​ A​LKEM​ L​ABORATORIES​.
+content	experience	● AUG-2019 till date.
+content	experience	● As mentioned in roles and responsibility.
+header	education	Education ● M​UMBAI​ ​EDUCATIONAL​ ​TRUST​ ​LOCATED​ ​AT​ ​BANDRA​.
+content	education	● Graduated with Bachelor’s degree in Pharmacy with a CGPA score of 6.14.
+content	education	● HIGHER SECONDARY EDUCATION FROM MODERN COLLEGE LOCATED IN VASHI.
+content	experience	● Completed S.S.C with first class.
+content	education	● SECONDARY SCHOOL EDUCATION FROM NEW MODEL ENGLISH HIGH SCHOOL
+content	education	LOCATED IN CHEMBUR.
+content	education	● Completed S.S.C with 78.80 % score.
+meta	others	Communicatio
+meta	others	n
+meta	others	● Absorbing, sharing, and understanding information presented.
+meta	others	● Communicating in a way that others grasp.
+meta	others	● Respecting others’ points of view through engagement and
+meta	others	interest.
+meta	others	Page 2
+meta	others	● Using relevant knowledge, know-how, and skills to explain and
+meta	others	clarify thoughts and ideas.
+meta	others	● Listening to others when they communicate, asking questions to
+meta	others	better understand.
+meta	others	● Participated in three conferences till date.
+meta	others	Leadership ● Managed a team of 12 in sports activity and won the title of
+meta	others	“winners”.
+meta	others	● Maintaining morale and workplace harmony.
+meta	others	● Motivating and inspiring everyone to do their best work.
+meta	others	● Giving & Receiving Feedback.
+meta	others	Page 3

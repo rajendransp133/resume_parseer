@@ -1,0 +1,53 @@
+header	others	Arun Kumar Jayane
+meta	others	(Sr. US IT Recruiter)
+meta	others	Email: arunj9467@gmail.com Contact #: +91 9441794517
+header	experience	Summary:
+content	experience	· Having 3+ years of experience in Recruiting and Sales with US IT Staffing Companies, focused in the placing Software Engineers.
+content	experience	· Good experience in marketing the Bench Consultants, regular interaction with the bench candidates, by identifying their needs and position them to projects accordingly.
+content	experience	· Involved in full cycle Recruitment involving sourcing, identifying, and interviewing, screening and placing personnel in quick turnaround time in contract, contract with hire positions.
+content	experience	· Understanding the client requirements, coordinating for short listing and screening including preliminary interview of the candidates
+content	experience	· A resourceful, solution-focused professional with excellent interpersonal and rapport-building skills.
+content	experience	· Responsible to understand and analyze the requirements in different domain categories.
+content	experience	· Coordinating, Scheduling & Conducting Interviews.
+content	experience	· Responsible, loyal, reliable, and independent worker with high level of enthusiasm and relativity.
+header	experience	Professional Experience:
+content	experience	Apps Solutions Inc, Jaggiahpet
+content	experience	June 2016 – Till Date
+content	experience	Sr. US IT Recruiter/Talent Acquisition Executive
+header	experience	Responsibilities:
+content	experience	· Requisition allocation, Interview scheduling, Candidate reviews and approvals before submissions.
+content	experience	· Responsible for Onsite-Offshore Coordination for day-to-day recruitment activities
+content	experience	· Performed full recruitment life cycle such as Sourcing the resource, Screening and Coordinating Technical Interviews of the candidates and follow up with them after interview.
+content	experience	· Responsible for complete joining formalities i.e. pre-joining formalities, opening salary account, Providing employee code, issue smart card, access card, issuance of appointment letter and other formalities.
+content	experience	· Attendance Management through Biometric Software’s.
+content	experience	· Time Office Management, Payroll Management and Office Administration.
+content	experience	· Experience in working with all visa’s such as H1B, GC, EAD and US Citizen.
+content	experience	· Experience and Good Knowledge of Internet Portals like Monster, Career Builder and Dice to source the candidates.
+content	experience	· Use Active and Passive Search to find the right talent at right time.
+content	experience	· Experience with posting the Jobs on Indeed to fulfill the requirement.
+content	experience	· Good Negotiation and Closure Skills with Strong emphasis on Client/Vendor Relationship management.
+content	experience	Apps Solutions Inc, Jaggaiahpet
+content	experience	June 2015 – May 2016
+content	experience	US IT Recruiter
+header	experience	Responsibilities:
+content	experience	· Marketing IT professionals in various technologies.
+content	experience	· Responsible for full cycle of end to end recruitment.
+content	experience	· Conduct Internet search using Sourcing Tools like: Head Hunting, References, Job Portals (like Monster, Dice, Indeed).
+content	experience	· Sourcing high-end software professionals matching all skills sets required by client requirements.
+content	experience	· Generating database through referrals, websites and regular follow-ups.
+content	experience	· Establish and maintain a good relationship with the employees, vendors and the clients.
+content	experience	· Briefing up candidates about Client Information & Requirements, Compensation package and other Intangible benefits.
+content	experience	· Mapping talent across different skill sets and building talent pipeline for all open positions and proactively working on pipelining prospects for future.
+content	experience	· An articulate, positive representative for a company and its Business mission.
+content	experience	· Bill Rate Negotiation.
+content	experience	· Understanding candidate Resume and Formatting Resume.
+content	experience	· Broadcasting the consultants profile to Vendors on daily basis.
+content	experience	· Posting Candidate’s resume in Job Boards.
+content	experience	· Searching requirements in Job Boards and Submitting Resumes.
+content	experience	· Floating Consultants resume in Google groups and Yahoo groups etc.
+content	experience	· Communicate with the candidate on a daily basis and Update about submissions to Clients, Interview scheduling etc.
+content	experience	· Arranging interview with Tier1 client or with the end clients.
+content	experience	· Follow up the Candidate, Client in each stage and finally closing the candidate.
+header	education	Education:
+content	education	Bachelor of Technology – Mechanical Engineering, JNTUK – 2015 with 69%
+meta	others	Page 1 of 2

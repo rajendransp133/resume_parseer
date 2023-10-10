@@ -1,0 +1,87 @@
+meta	others	Praveen Kumar V M
+header	others	Curriculum Vitae
+meta	others	TEMPORARY ADDRESS
+meta	others	# 484, 2nd B, 3rd Main, Mathikere, Bangalore – 54.
+meta	others	Email: praveengdr@yahoo.in
+meta	others	Mobile: 08903774855
+meta	others	Telephone: 0870 061 0121
+meta	others	Email: info@dayjob.com
+header	others	OBJECTIVE
+content	others	A challenging position in an organization where my technical, research and analytical skills would be applied for the betterment of the organization.
+header	education	QUALIFICATION
+content	education	M.Sc., Physics (Specialization in Nanotechnology)
+header	project	Project:
+content	experience	Nanotechnology-“Structural, Magnetic and Electrical Studies on Bi0.7La0.3FeO3 thin films by Magnetron Sputtering.”
+header	knowledge	KEY COMPETENCIES AND SKILLS
+content	knowledge	PROFESSIONAL SKILLS
+content	knowledge	· Operating System: Windows & Linux.
+content	knowledge	· Proficient in using MS Office, Windows OS, Ubuntu.
+content	knowledge	· Typing speed 30 wpm.
+content	knowledge	· Programming Language: HTML, CSS, PHP, JS (basic skills).
+content	knowledge	· Web design: Drupal, Wordpress, SEO, SEM, Digital Marketing.
+header	knowledge	PERSONAL SKILLS
+content	knowledge	· Hardworking, self-motivated, highly responsible and dedicated to work.
+content	knowledge	· Can work with team or independently, good at solving problems, and interested in learn new things.
+content	knowledge	· Problem solving, Pertinence, Patience, Human relationship, Creativity and Quick Learner.
+content	knowledge	· Languages Known: Malayalam, Tamil and English (Read, write and speak); Hindi (Read & write).
+content	knowledge	· Personal Hobbies: Reading, listening music, article writing and sports.
+meta	others	Date of Birth
+meta	others	: 26-01-1986
+meta	others	Gender
+meta	others	: Male
+meta	others	Nationality
+meta	others	: Indian
+meta	others	Marital Status
+meta	others	: Unmarried
+meta	others	Permanent Address:
+meta	others	D.No: 2/267, Sreemadurai(PO), Manvayal,
+meta	others	Gudalur ,Nilgiris, Tamilnadu, Pin 643212.
+header	others	PERSONAL PROFILE
+header	experience	CAREER HISTORY
+content	experience	EDITOR & CONTENT WRITER
+content	experience	Freelance & MindOrbs.com
+content	experience	Apr 2014-Present.
+content	experience	Assistant Professor
+content	experience	Basava Academy of Engineering
+content	experience	Jun 2015-Aug 2015.
+content	experience	CUSTOMER CARE EXECUTIVE
+content	experience	Genisys
+content	experience	Feb 2010-July 2010
+content	experience	· Entrepreneur, Trader, Blogger and Author
+content	experience	· From 2007 onwards active on small scale spices export and plantation work.
+content	experience	· Online business, online trading, digital marketing, and freelancing for past few years.
+content	experience	· Content Writing, Article Writing, Blog Writing, SEO Writing, Copy Writing.
+content	experience	· Editor of the website www.mindorbs.com
+content	experience	· Worked as tutor in Tuition centre and Freelance Content Writer.
+content	experience	· Author of “Crack the Hidden Laws of Life” & “Why Kundalini Meditation So Special?”
+header	education	ACADEMIC QUALIFICATIONS
+content	education	STANDARD/ DEGREE
+content	education	INSTITUTION
+content	education	BOARD/ INSTITUTE
+content	education	PASSED
+content	education	% OF MARKS
+content	education	MSc., Physics
+content	education	Nandha Arts and Science College Erode
+content	education	Bharathiar University
+content	education	2012-14
+content	education	70%
+content	education	BSc., Physics
+content	education	Govt. Arts College Ooty
+content	education	Bharathiar University
+content	education	2004-07
+content	education	65%
+content	education	H.S.C
+content	education	Govt. Higher Secondary School Gudalur
+content	education	Board of Higher Secondary Education
+content	education	2002-04
+content	education	72%
+content	education	S.S.L.C
+content	education	Holy Cross Convent Matric School Devarshola
+content	education	Matriculation Board
+content	education	2001-02
+content	education	78%
+meta	others	Faithfully,
+meta	others	Praveen Kumar V M.
+meta	others	Date :
+meta	others	Place:
+meta	others	Bangalore.

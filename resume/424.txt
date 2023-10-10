@@ -1,0 +1,97 @@
+meta	others	Core Competencies
+meta	others	Profile Summary
+meta	others	DATA MODELLING
+meta	others	CONSULTING
+meta	others	DERIVING INSIGHTS
+meta	others	ALGORITHMIC KNOWLEDGE
+meta	others	USE CASES DEFINATION
+meta	others	AUTOMATION CONSULTING
+meta	others	CLIENT ENGAGEMENT
+meta	others	PRE SALES
+content	experience	A competent professional with 45 months of total experience (including 26+
+content	experience	months as Data scientist and Automation Consultant); presently
+content	experience	associated with Wipro HOLMESTM, Bengaluru as Data scientist and
+content	experience	Automation consultant.
+content	experience	Insightful understanding & exposure of various machine learning
+content	experience	algorithms. Namely Regression, Clustering, Classification &NLP to
+content	experience	name some of them and bring out customer delight and profit.
+content	experience	Experience in Data modelling , Automation consulting , pre sales
+content	experience	activities and client engagement
+content	experience	Capabilities in Decision science to understand, interpret and willingness to
+content	experience	provide alternate and cost efficient solutions to business.
+content	experience	A crisp and keen communicator with excellent interpersonal skills, problem
+content	experience	solving, analytical skills and attitude to solve problems.
+content	experience	Timeline
+header	knowledge	Skills
+content	knowledge	R & Python
+content	knowledge	Qlikview,Tableau
+content	knowledge	MS Office (Excel, Word, &
+content	knowledge	PowerPoint)
+header	education	Education
+content	education	PGPM (Analytics & Operations) from Great Lakes Institute of Management, Chennai in 2016 with 3.11 GPA
+content	education	B. Tech (IT) from NIST, Berhampur in 2011 with 7. 1 GPA
+content	education	S.S.C from DAV Public School, Pokhariput, Bhubaneswar in 2006 with 76.6%
+content	education	HSC from DAV Public School, Pokhariput, Bhubaneswar in 2005 with 84.8%
+header	education	Other Course/Certification:
+content	education	Completed ITIL Certification in 2012
+content	education	Machine learning A-Z from Wipro-Udemy
+content	education	Python for data science from Wipro-Udemy
+header	others	HITESH NAYAK
+meta	others	Targeting for challenging assignments in Data science, Machine learning
+meta	others	and Automation consulting with an organization of high repute
+meta	others	Location Preference: Bangalore
+meta	others	Hitesh.nest0@gmail.com +91-9176249658
+content	others	Capgemini, Mumbai as
+content	others	SSE
+content	others	PGPM (Analytics &
+content	others	Operations) from Great
+content	others	Lakes Institute of
+content	others	Management, Chennai
+content	others	Wipro HOLMESTM,
+content	others	Bengaluru as Data
+content	others	scientist and Automation
+content	others	consultant
+content	others	2011 – 2014
+content	others	2015 – 2016
+content	others	2016 – Present
+header	experience	Work Experience
+content	experience	Jun’ 16 – Present with Wipro HOLMESTM as Data scientist and Automation consultant
+header	experience	Key Result Areas:
+content	experience	Built a framework to analyse ticket data (ITSM) and identify pain areas using NLP (Natural language Processing) and
+content	experience	Qlikview. Which eventually helped our team to position the automation bots to solution client’s problem.
+content	experience	Made Credit risk model for one leading bank to analyse the attributes to grant loans and decrease the credit risk, using
+content	experience	Decision tree, Random forest. (Tools used – R and Python). Presented it to higher management to find out significant result.
+content	experience	Developed a marketing mix model for a retail company, and presented it to client to provide deeper insights. ( Using
+content	experience	market mix algorithm, tools-R)
+content	experience	Made a demand forecast model for a manufacturing client and specified areas of focus. (Algorithms – Regression, Tools
+content	experience	used R, python and power BI)
+content	experience	Developed one upsell model for after sales program execution for one Leading OEM. The results was estimated to provide
+content	experience	a profit of 0.9 M $.( Algorithm – Clustering , tools – R, Python)
+content	experience	Employee and Company affinity detection.
+content	experience	Recommender System for a retail customer
+header	experience	Highlights:
+content	experience	Won accolades from CTO, VP – Manufacturing
+content	experience	Won Wipro wide data analytics competition – Datathon
+content	experience	Oct’ 11 – Apr’ 14 with Capgemini, Mumbai as Senior software Engineer
+content	experience	Key Result Areas:
+content	experience	Worked for three projects as SAP-Basis/Security Consultant
+content	experience	Alongside worked with exploratory Analytics to identify trends of ticket data and projected it to higher management.
+content	experience	Learnt statistics and implemented it to see our everyday deviation and point of impacts.
+content	experience	Statistics and Analytics eventually helped me to make up SOD (Segregation of Duties) which was projected to the
+content	experience	client and rolled out to 121 end users.
+content	experience	Highlights:
+content	experience	Got Cash prize from the client for the implementation of SOD (Segregation of duties) successfully.
+content	experience	Live / Academic Projects
+content	experience	Empirical Research Project: Impact of 3PL (Third party logistics) on Indian companies.
+content	experience	Market Research Project: Perception of people on Greatlakes institute of management(Market research , using R )
+content	experience	Comprehensive Analysis of the AI tools and their capabilities by companies in Indian landscape
+content	experience	Extracurricular Activities
+content	experience	Ran a data camp for Wipro employees who are willing to learn my approach on model building.
+content	experience	Merit of setting up Village Resource Centre as part of Karma yoga Program of Great Lakes
+content	experience	Trained dancer( Jazz form)
+content	experience	Received Governors award from Bharat Scout and Guide
+content	experience	Sports captain of school
+header	others	Personal Details
+meta	others	Date of Birth: 29/06/1989
+meta	knowledge	Languages Known: English, Hindi, Odia,Telegu
+meta	others	Address: Sujana apartment 1, Magnolia Enclave road, electronic city Phase-1, 560100.

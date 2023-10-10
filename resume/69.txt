@@ -1,0 +1,139 @@
+header	others	Resume
+meta	others	Geetansh Limaye
+meta	others	Organization: Intech Creative Services
+meta	others	Profile :- Software Developer (Java)
+meta	others	geetansh.limaye@gmail.com
+meta	others	Contact me @ +91 8516063035
+header	others	Objective
+content	others	Looking for a long-term association with a professional organization of excellence where individual talents are acknowledged and at the same time fosters an environment of creativity and continuous learning among its employees with a conducive work culture.
+header	experience	Experience
+content	experience	Working as software developer with Intech Creative Services, Gandhinagar, Gujarat since May 2017.
+header	knowledge	Technology, Skills and Competencies
+content	knowledge	Below is a list of important technologies that I have worked with.
+header	knowledge	Operating Systems
+content	knowledge	· Windows, linux
+header	knowledge	Programming Languages
+content	knowledge	· J2SE,J2EE, Spring,Hibernate, Servlet
+header	knowledge	Databases
+content	knowledge	· Mysql
+header	knowledge	Web Technology
+content	knowledge	· HTML , CSS , jsp , Java Script , jQuery
+header	education	Education
+content	education	Degree/Exam
+content	education	Year of passing
+content	education	Institute
+content	education	Percent
+content	education	University
+content	education	BE (Electronics and communication)
+content	education	2015
+content	education	Gwalior Institute of Technology and Science, Gwalior
+content	education	77.8%
+content	education	R.G.P.V
+content	education	12th
+content	education	2011
+content	education	Govt. Gorkhi Higher Secondary school Lashkar Gwalior
+content	education	81.4%
+content	education	M.P. Board
+content	education	10th
+content	education	2009
+content	education	Abhinav Vidya Mandir High school Lashkar Gwalior
+content	education	86.5%
+content	education	M.P. Board
+header	project	Project Undertaken
+header	project	#Project:1
+content	experience	Project Name
+content	experience	ICS Admin
+content	experience	Period
+content	experience	May 2017 to Till Date
+header	experience	Description
+content	experience	This project is to design to Manage Company’s management system, leave management, policies, event management, handle employees’ information, ticket and change request management etc.
+content	experience	Technologies
+content	experience	Java , Spring , Hibernate , HTML , JavaScript , jQuery , Angular Js
+content	experience	Database
+content	experience	MySQL
+content	experience	Roles & Responsibilities
+content	experience	Involved in Designing Phase.
+content	experience	Involved in coding Phase
+content	experience	Involved in Junit testing of applications
+header	project	#Project:2
+header	project	Project Name
+content	experience	Productivity Measurement
+content	experience	Customer
+content	experience	L&T
+content	experience	Period
+content	experience	February 2018 to 1st March 2018
+content	experience	Description
+content	experience	This project is design to measure productivity and workability of workers and machines through charts and graphs
+content	experience	Technologies
+content	experience	Java , Spring , Hibernate , HTML , JavaScript , jQuery
+content	experience	Database
+content	experience	MySQL
+content	experience	Roles & Responsibilities
+content	experience	Involved in coding Phase
+content	experience	Created upload module in which data uploaded in database through Excel sheet.
+header	project	#Project:3
+header	project	Project Name
+content	experience	RPM (Remote Patient Monitoring)
+content	experience	Period
+content	experience	March 2018 to April 2018
+header	experience	Description
+content	experience	This project is design for communication between doctor and patient through internet. First patient has to be register in application by doctor and then doctor can prescribed that patient through internet and patient can enter his measurement of regular blood pressure and blood glucose in application which doctor can see easily on his dashboard. On the basis of that measurement doctor make report and give treatment to the patient.
+content	experience	Technologies
+content	experience	Java , Spring , Hibernate , HTML , JavaScript , jQuery
+content	experience	Database
+content	experience	MySQL
+content	experience	Roles & Responsibilities
+content	experience	Involved in coding Phase
+content	experience	Created patient module.
+content	experience	Involved in Junit test cases.
+content	experience	#Project:4
+content	experience	Project Name
+content	experience	ZARA(Logistics)
+content	experience	Period
+content	experience	May 2018 to till date
+header	experience	Description
+content	experience	This project is design for terminal operation system at various ports. It includes terminal operations, vessel visits, container management at yards and mange cranes through web based application.
+content	experience	Technologies
+content	experience	Java , Spring , Hibernate , HTML , JavaScript , jQuery
+content	experience	Database
+content	experience	Oracle
+content	experience	Roles & Responsibilities
+content	experience	Involved in coding Phase
+content	experience	Involved in Junit test cases.
+header	project	Project Assignment
+header	project	Project
+content	experience	E-banking System
+content	experience	Period
+content	experience	June 2016 to July 2016
+content	experience	Description
+content	experience	Project was to build the application in JAVA for E-Banking System. It is computerized E-banking system to maintain the details of account holder information , transaction details, balance enquiry etc.
+header	knowledge	Personal Skills
+content	knowledge	· Good communication & organization skills.
+content	knowledge	· Goal oriented, optimistic & supportive.
+content	knowledge	· Innovative & flexible
+content	knowledge	· Hard Working
+header	others	Hobbies
+content	others	· Playing cricket
+content	others	· Sketching
+content	others	· Listening music and surfing internet
+header	others	Personal Details
+header	others	Name
+meta	others	Geetansh Limaye
+header	others	Father’s Name
+meta	others	Mr. Pradeep Limaye
+header	others	Sex
+meta	others	Male
+meta	others	Marital status
+meta	others	Single
+header	others	Nationality
+meta	others	Indian
+header	others	Date of birth
+meta	others	14/05/1993
+header	knowledge	Language
+meta	knowledge	Hindi,English,Marathi
+meta	others	Address
+meta	others	317/2 sector 2B Gandhinagar, Gujarat
+header	others	Declaration
+meta	others	I do hereby declare that the statement made above is true, complete and correct to the best of my knowledge and belief.
+meta	others	Place: Gandhinagar
+meta	others	Geetansh Limaye

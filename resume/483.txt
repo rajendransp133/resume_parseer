@@ -1,0 +1,235 @@
+header	education	EDUCATIONAL QUALIFICATIONS
+meta	others	SIVAROOBAN.S
+meta	others	Monox.ruban@gmail.com
+meta	others	+91-9597143098
+header	others	Career Objective
+content	others	To associate with an organization that provides me an opportunity to become a successful software professional, improve my knowledge with the latest trends and to be a part of the team that works dynamically towards the growth of the organization.
+header	experience	Professional Summary
+content	experience	· 4 Years of professional experience in the IT industry in the areas of UI designing and php developement (html,css,jquery,php,symfony), mysql server,opencart.
+content	experience	· Working in Kirshi Technologies as php programmer-Chennai, Tamil Nadu, India
+content	experience	· Worked in php programmer 3dotzz solutions-kpm
+content	experience	· A self-motivated, responsible team player with a set of very strong technical skills.
+content	knowledge	· Good technical skills in Web Application.
+content	knowledge	· Knowledge and experience in database design and implementation.
+content	experience	· Json Webservice
+content	experience	· Shopping Cart Development.
+content	knowledge	· Mvc Application
+content	knowledge	· Core php mvc developement
+header	knowledge	Skill Set
+header	knowledge	· Development Environment
+content	knowledge	: Xampp,Dreamweaver,Notepad++
+header	knowledge	· Operating Systems
+content	knowledge	: Windows 2005 / 2008 R2 Server
+header	knowledge	· Platform
+content	knowledge	: Php
+header	experience	· Web Technologies
+content	knowledge	: Html,Html5,css3,css2,Jquery,Php,Mysql ,symphony,opencart
+header	knowledge	· Database
+content	knowledge	: Mysql
+header	knowledge	Professional Experience
+content	experience	1. 3dotzz solutions
+content	experience	Mambalam, Chennai Tamilnadu, India.
+content	experience	Duration : From june 2014 -2016 march(2 ½ years)
+content	experience	Designation : Php and Ui Designer
+header	others	Project # 1
+header	others	Project title : daycarebuds.com
+content	experience	Duration : 6 months
+content	experience	Environment : php mysql ,jquery,html,css
+content	experience	Role
+content	experience	: Software Developer
+content	experience	Responsibilities : Database designing, Development & Maintenance
+content	experience	Description:
+content	experience	Online membership web for finding daycares and parents.
+content	experience	Modules Handled:
+content	experience	· Facebook integration.
+content	experience	· Paypal integration.
+content	project	Project # 2
+content	project	Project title : http://sundarrajan.com
+content	project	Duration : 1 month
+content	project	Environment : php mysql ,jquery,html,css
+content	project	Role
+content	project	: Software Developer
+content	experience	Responsibilities : Database designing, Development & Maintenance
+content	experience	Description:
+content	experience	Wordpress website for company promotion
+content	experience	Modules Handled:
+content	experience	· Wordpress theme integration
+content	experience	· Jquery plugin creation
+header	project	Project # 3
+header	project	Project title : http://law-fla.com
+content	project	Duration : 1 month
+content	experience	Environment : php mysql ,jquery,html,css
+content	experience	Role
+content	experience	: Software Developer
+content	experience	Responsibilities : Database designing, Development & Maintenance
+content	experience	Description:
+content	experience	Wordpress website for company promotion
+content	experience	Modules Handled:
+content	experience	· Wordpress theme integration
+content	experience	· Jquery plugin creation
+content	experience	Project # 4
+content	experience	Project title : Sporgtingindia.com
+content	experience	Client : Sporgtingindia.com
+content	experience	Duration : 8 months
+content	experience	Environment : php mysql ,jquery,html,css
+content	experience	Role
+content	experience	: Software Developer
+content	experience	Responsibilities : Database designing, Development & Maintenance
+content	experience	Description:
+content	experience	Integration Ui With drupal 7 and responsive checking jquery integration
+content	experience	2. Kirshi Technologie Kodampakkam
+content	experience	Duration : From 2016 march to currently working
+content	experience	Designation : Php Developer
+header	project	Project # 1
+content	experience	Title
+content	experience	: Tsrcinemax.asia
+content	experience	Client
+content	experience	: Tsr Cinemax
+content	experience	Duration
+content	experience	: 4 Months
+content	experience	Role
+content	experience	: Full Stack Php Developer
+content	experience	Responsibilities : Responsive Design and Jquery Integration.
+header	project	Project # 2
+content	experience	Title
+content	experience	: http://tickets.superstarcinema.com.my/
+content	experience	Client
+content	experience	: Tsr Cinemax
+content	experience	Duration
+content	experience	: 3 Months
+content	experience	Role
+content	experience	: Full Stack Php Developer
+content	experience	Responsibilities : Responsive Design and Jquery Integration.
+header	project	Project # 3
+content	experience	Title
+content	experience	: Tsrconferencehall.com
+content	experience	Client
+content	experience	: Tsr Cinemax
+content	experience	Duration
+content	experience	: 7 days
+content	experience	Role
+content	experience	: Full Stack Php Developer
+content	experience	Responsibilities : Responsive Design and Jquery Integration.
+header	project	Project # 4
+content	experience	Title
+content	experience	: Irdkmall.com
+content	experience	Client
+content	experience	: Tsr Cinemax
+content	experience	Duration
+content	experience	: 2 month
+content	experience	Role
+content	experience	: Full Stack Php Developer
+content	experience	Responsibilities : Responsive Design and Jquery Integration.
+header	project	Project # 5
+content	experience	Title
+content	experience	: http://helphindu.org/
+content	experience	Client
+content	experience	: Helphindu.org
+content	experience	Duration
+content	experience	: 10 days
+content	experience	Role
+content	experience	: UI Designer
+content	experience	Responsibilities : Responsive Design and Jquery Integration.
+header	project	Project # 6
+content	experience	Title
+content	experience	: http://talwarconstruction.com/
+content	experience	Client
+content	experience	: 20 days
+content	experience	Duration
+content	experience	: 1 Months
+content	experience	Role
+content	experience	: UI Designer
+content	experience	Responsibilities : Responsive Design and Jquery Integration.
+header	project	Project # 7
+content	experience	Title
+content	experience	: http://kirshi.co
+content	experience	Client
+content	experience	: kirshi.co
+content	experience	Duration
+content	experience	: 3 days
+content	experience	Role
+content	experience	: UI Designer
+content	experience	Responsibilities : Responsive Design and Jquery Integration.
+header	project	Project # 8
+content	experience	Title
+content	experience	: http://pbipl.com
+content	experience	Client
+content	experience	: pbipl.com
+content	experience	Duration
+content	experience	: 5 days
+content	experience	Role
+content	experience	: UI Designer
+content	experience	Responsibilities : Responsive Design and Jquery Integration.
+header	project	Project # 9
+content	experience	Title
+content	experience	: http://asiaticketing.asia
+content	experience	Client
+content	experience	: asiaticketing.asia
+content	experience	Duration
+content	experience	: 20 days
+content	experience	Role
+content	experience	: UI Designer and php programmer
+content	experience	Responsibilities : Responsive Design and Jquery Integration.
+header	project	Project # 10
+content	experience	Title
+content	experience	: http://iskyfoundation.org/
+content	experience	Client
+content	experience	: iskyfoundation.org
+content	experience	Duration
+content	experience	: 1 Months
+content	experience	Role
+content	experience	: UI Designer and Php Programmer
+content	experience	Responsibilities : Responsive Design and Jquery Integration.
+header	project	Project # 11
+content	experience	Title
+content	experience	: transport.kirshi.co
+content	experience	Client
+content	experience	: Tamil nadu govt
+content	experience	Role
+content	experience	: symfony developer
+header	project	Project #12:
+content	experience	Title
+content	experience	: hodec-online.com
+content	experience	Client
+content	experience	: hodec-online.com
+content	experience	Role
+content	experience	: Opencart Developer
+content	experience	Project#13
+content	experience	Title
+content	experience	: Mayasmatrimony.com
+content	experience	Client
+content	experience	: Mayasmatrimony
+content	experience	Role
+content	experience	: Core Php Developer.
+content	experience	Modules Handled:
+content	experience	· Cms creation Email forwarding,Integration cms with Php and mysql
+content	experience	Project # 14
+content	experience	Title
+content	experience	: Kiosk.tsrcinemax.com
+content	experience	Client
+content	experience	: tsrcinemax.com
+content	experience	Duration
+content	experience	: 20 days
+content	experience	Role
+content	experience	: UI Designer
+content	experience	Responsibilities : Responsive Design and Jquery Integration.
+header	education	Academic Qualification
+content	education	· M.C.A (Master Of Computer Application), 2008 - 20011 –lord venkateswar engg. kanchipuram
+header	others	Achievements
+content	others	· Worked as an active team member in developing the site. Handled challenging issues and rewarded for exact time delivery.
+header	others	Personal Details
+meta	others	· Date of Birth
+meta	others	: 27th June 1987
+meta	others	· Father’s Name
+meta	others	: Mr.M.SIVALOGANATHAN
+meta	others	· Marital Status
+meta	others	: Single
+header	knowledge	· Languages Known
+content	knowledge	: English, TamiL
+header	others	· Address
+meta	others	: NO.55 a,Ekambaranathar koyil North Mada St.Kanchipuram
+meta	others	I hereby declare that the particulars of information and facts stated herein above are true and correct to the best of my knowledge and belief.
+meta	others	Place : Chennai
+meta	others	Date :
+meta	others	(SIVAROOBAN .S)
+meta	others	PAGE

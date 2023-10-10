@@ -1,0 +1,61 @@
+meta	others	I
+meta	others	CURRICULUM VITAE
+meta	others	MOHAMMED H FAZULUDDIN
+meta	others	#1, Dr.Ambedhkar 1st Street,
+meta	others	Villivakkam. Chennai-600049.
+meta	others	Mobile: 9841449687
+meta	others	Email: mohammedh.jobs@gmail.com
+header	others	Summary Mission
+content	others	To take up a challenging job in your esteemed organization and to prove my dexterity with an adroit touch.
+header	education	Academic Profile
+content	education	Under Graduation: BE (Computer Science and Engineering) (2005)
+content	education	St. Peter’s Engineering College, Chennai.
+content	education	XII & X Standard: St. Mary’s Matriculation School, Chennai. (1999 - 2001)
+header	knowledge	Technical Skills
+content	knowledge	Operating System : Microsoft Windows XP, Vista and 7
+content	knowledge	Programming Languages : Microsoft .NET 2003
+content	knowledge	RDBMS
+content	knowledge	: Microsoft SQL Server 2000
+header	project	Project Experience
+content	project	Sutherland Global Services
+content	project	November 2008 to Till Date
+content	project	Senior Consultant-Technical Support
+content	project	· Resolving issues with Windows Vista and 7 operating systems, and Symantec Security Products
+content	project	· Attending escalation calls apart from taking normal calls, chats and emails
+content	project	· Attaining daily, weekly and monthly targets specified by the process
+content	project	· Adhering to the schedule as prescribed by the TL
+content	project	· Attending Customers C-Sat
+content	project	Allsec Technologies
+content	project	March 2006 to August 2006.
+content	project	Transaction Monitoring Officer-Technical Support
+content	project	· Monitoring technical support calls and providing feedback on quality of the calls
+content	project	· Attaining daily, weekly and monthly targets specified by the process
+content	project	· Adhering to the schedule as prescribed by the TL
+content	project	· Attending Customers C-Sat
+header	others	Personal Profile
+header	others	Father’s Name
+meta	others	Mohammed Hafeezuddin
+header	others	Marital Status
+meta	others	Married
+header	others	Date of Birth
+meta	others	08/10/1982
+meta	others	Gender
+meta	others	Male
+header	others	Nationality
+meta	others	Indian
+header	others	Passport #
+meta	others	G7337599
+header	others	PAN#
+meta	others	AXCPM1229J
+header	others	Permanent Address
+meta	others	#1, Dr.Ambedkar 1st Street,
+meta	others	Villivakkam. Chennai -600049. Tamilnadu. India.
+header	others	Declaration
+content	others	I hereby confirm that the information furnished above is true to the best of my knowledge and belief.
+meta	others	Place: Chennai.
+meta	others	(MOHAMMED H FAZULUDDIN)
+meta	others	SUMMARY MISSION
+header	education	EDUCATIONAL QUALIFICATION
+header	knowledge	SKILL SET
+header	experience	WORK EXPERIENCE
+header	experience	PERSONAL PROFILE

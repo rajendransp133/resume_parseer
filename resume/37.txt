@@ -1,0 +1,82 @@
+meta	others	RB
+meta	others	MAYANK JAIN
+meta	others	Mobile: 8871428410
+meta	others	195 Agrasen nagar , Aerodrum Road
+meta	others	Indore
+meta	others	E-Mail: mayank_020202@yahoo.com
+meta	others	A keen Analyst with exceptional negotiation and relationship management skills to quickly map out client needs and recommending appropriate solution.
+header	others	PROFESSIONAL PROFILE
+content	others	· A thorough optimist who believes in `Work’ and `Play’ as Synonyms and A self-starter seeking continuous learning, improvement in knowledge and its Meaningful utilization.
+header	knowledge	KEY SKILLS & STRENGTHS
+content	knowledge	· Highly disciplined and self motivated.
+content	knowledge	· Excellent communication skills.
+content	knowledge	· Ready to accept new challenges with the aim of achieving business goals.
+content	knowledge	· Can handle multiple responsibilities simultaneously.
+content	knowledge	· Fashionable, polished and preventative.
+content	knowledge	· Excellent inter-personal skills.
+content	knowledge	· Creative.
+header	knowledge	TECHNICAL SKILLS
+content	knowledge	· Office Tools
+content	knowledge	: Ms Office
+content	knowledge	· Designing Tools
+content	knowledge	: Photoshop cs4,Coreldraw 14, Illustrator cs2 , Page maker, Quark express
+content	knowledge	· Languages
+content	knowledge	: Foxpro ,C ,C++ , Html
+content	knowledge	· Account Tools
+content	knowledge	: Tally 7.2,9.0 and Payroll, Quick Books , Access
+content	knowledge	· Operating
+content	knowledge	: Window-XP
+header	experience	Career Highlights
+content	experience	December 2014 – May 2018
+content	experience	WM LOGISTICS-Indore
+content	experience	Accounts Payable analyst
+content	experience	Create invoices/ Billing & coordinate with US clients via mail for discrepancies & payment.
+content	experience	Communication with vendors & clients via email
+content	experience	Complex billing & reconciliation of national & Canada accounts
+content	experience	Communication via email to SSM team, vendor management team for Spec correction
+content	experience	Chase missing invoices via phone calls from US/UK/Canada vendors
+content	experience	Resolve clients queries via email & Weekly conference call with US Clients
+content	experience	Check client CPI increase and contract
+content	experience	September 2012 – December 2014
+content	experience	BioUrja Trading LLC-Indore
+content	experience	Accounts Executive
+content	experience	Key Responsibilities:
+content	experience	· Transaction accounting and reconciliation for complete P2P (Procure to Pay) Process.
+content	experience	· Purchase and Expense bills accounting related Crude Oil & Ethanol Product.
+content	experience	· Create invoices & coordinate with US clients via mail for discrepancies & payment.
+content	experience	· Resolve Pricing issues Regarding Crude Oil & Ethanol
+content	experience	· Crude Oil Pricing as per contract.
+content	experience	· Payment stub on daily basis.
+content	experience	· Vendor payments in time.
+content	experience	· Vendor account reconciliation and confirmation.
+content	experience	· Monitor accruals for management accounts.
+content	experience	· Process credit card statements
+content	experience	· Process cheque requisitions , Reconcilition
+content	experience	· Pays invoices by verifying transaction information; scheduling and preparing disbursements; obtaining authorization of payment.
+content	experience	· Physical verification of vendors bills with contract.
+content	experience	· AR invoices of Transloading income.
+content	experience	· Preparation of relevant P&L and B/s schedules with analysis for AP.
+content	experience	· Physical verification of inventory and fixed assets and recon with books.
+header	education	ACADEMIA
+content	education	Doeacc ‘O’ Level Software Development
+content	education	Delhi University
+content	experience	· Specialization in IT Tools & Business Systems , Internet Technology & Web Design , Programming & Problem Solving Through ‘Visual Basic’ , ‘C’ & ‘C++’ Language , Project Completion.
+content	experience	B.Com (Bachelor of Commerce)
+content	experience	Devi Ahilya University, India
+content	experience	· Specialization in commerce helped me in understanding the role of Administration & Marketing in overall business activities and developing a deep conceptual and practical knowledge about different Market approaches.
+header	others	PERSONAL DETAILS
+header	knowledge	Linguistic Abilities
+meta	others	:
+meta	knowledge	English (RWS), Hindi (RWS)
+header	others	Nationality
+meta	others	:
+meta	experience	Indian
+header	others	Driving License
+meta	others	:
+meta	others	Yes
+header	others	Marital Status
+meta	others	:
+meta	others	Unmarried
+header	others	Sex
+meta	others	:
+meta	others	Male

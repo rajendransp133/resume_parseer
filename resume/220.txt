@@ -1,0 +1,48 @@
+meta	others	Navakanth Reddy Dumpa
+meta	others	2
+meta	others	Navakanth Reddy Dumpa
+meta	others	Plot no: 3, C. Eshwari Nilayam, Nutan Colony, New Bowenpally, Secundrabad -11
+header	experience	Mobile No: 9885757677
+content	experience	DATA ANALYST
+content	experience	Seeking challenging assignments for a career encompassing professional & personal advancement
+content	experience	Over all 4.10 years of experience with in 2.3 years experience in EXCEL.
+content	experience	Have very good experience working with MS Excel using various functions.
+content	knowledge	Have good knowledge over developing and using Macros through VBA.
+content	experience	Experience in Ms PowerPoint (Using auto updatable graphs and charts in PPT etc).
+content	experience	Experience in MS Access for Uploading Data.
+header	knowledge	TECHNICAL SKILLS
+content	knowledge	Packages: MS-Office
+content	knowledge	Data base: MS ACCESS
+content	knowledge	Operating Systems: Windows
+header	experience	PROFESSIONAL EXPERIENCE
+content	experience	Worked as a Data Analyst with Magna InfoTech Pvt Ltd from December 2009 to October 2011.
+content	experience	Worked as a MIS Officer with Sitel India Ltd from November 2007 to October 2009.
+content	experience	Worked as a Customer Dialog Executive with Magus Customer Dialog from Aug 2005 to Aug 2006.
+content	experience	Magna Infotech Pvt Ltd.
+content	experience	Client : Wells Fargo India Solutions Pvt Ltd
+content	experience	Data Analyst : Responsibilities
+content	experience	To provide, maintain and condition test data for Quality Assurance Analysts. In addition, also provides test data to different Clients across WF that requires data for their testing process.
+content	experience	A broad understanding of the overall Wells Fargo/Wachovia banking system will be required / achieved, in order to effectively fulfil i.e. all the internal and external processes, applications and their interfaces, and the methods by which they are coordinated in the various testing environments.
+content	experience	Further, an extensive understanding of the various testing environments, their participating applications, and cycling processes will be achieved.
+content	experience	Analysis to help trouble shoot why a test could be failing and not meeting the expectations of the tester.
+content	experience	Responsible for all research and conditioning of the test data.
+content	experience	Completing the test data accurately and efficiently within a two-week turnaround time.
+content	experience	Good at recording the steps involved in creating the test data and convert them as Macros.
+content	experience	Sitel India Ltd
+content	experience	MIS Officer: Responsibilities
+content	experience	Generating various EXCEL reports daily which would help the organization to know how the scheme is being implemented.
+content	experience	Taking care of the data base issues.
+content	experience	Active participation in elaborately explaining the functionalities to the End users.
+content	experience	Most importantly motivating the co-team members for better productivity.
+content	experience	Magus Customer Dialog
+content	experience	Customer Service Executive: Responsibilities
+content	experience	Handling customer queries, concerns and issues and giving them appropriate resolutions.
+content	experience	Developed Various EXCEL templates with all the functionalities required.
+header	education	ACADEMIA:
+content	education	B.com, Correspondence, 2007, Osmania University, Prof. G. Ram Reddy Centre for Distance Education
+content	education	Intermediate, 2002, Tetrahedron Junior College
+content	education	SSC, 2000, Vidya Convent High School, Ramanthapur
+meta	others	Date of Birth: 24th Sep 1984
+meta	others	Reference: Available on Request
+meta	knowledge	Languages Spoken: English, Hindi and Telugu
+meta	others	Marital Status: Single

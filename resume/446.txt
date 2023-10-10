@@ -1,0 +1,46 @@
+header	others	RESUME
+header	others	RESUME
+meta	others	VISHAL VINOD JOSHI
+meta	others	Cell: +91 7718996993
+meta	others	Cell: +91 8369568968
+meta	others	Email: vishal.vj337@gmail.com
+meta	others	–––––––––––––––––––––––––––-
+header	others	Career Objective:
+content	others	To perceive a career in a renowned firm with dedicated efforts and to associate myself with an organization that gives me a chance to update my knowledge.
+header	education	Educational Qualification:
+content	education	· Post-Graduation MMS (finance) Under Mumbai University from Imcost college, Thane -2018.
+content	education	· Graduation B.COM (Banking & Insurance) Under Mumbai University from KBP college, Vashi -2015.
+content	education	· HSC under State Board, from Sushiladevi Deshmukh Jr. College, Airoli – 2012.
+content	education	· S.S.C from State Board, SDV, Airoli – 2010
+header	knowledge	Computer Skills:
+content	knowledge	· MS EXCEL
+content	knowledge	· MS WORD.
+content	knowledge	· Tally ERP 9.0
+content	knowledge	Work Experience:
+content	knowledge	· Wipro ltd.
+content	knowledge	October2018-Now
+content	knowledge	(Associate Analyst)
+content	knowledge	· Analysis of credit agreements
+content	knowledge	· Releasing Wire transfers
+content	knowledge	· Loan Rollover/Conversion
+content	knowledge	· Loan Termination
+header	experience	Internship:
+content	experience	· Internship in “Thane Bharat Sahakari Bank” as an Management Traine for 2 months.
+content	experience	· Internship in “Thane janata Sahakari Bank” as an Management Traine for 2 months.
+header	project	Academic Projects:
+content	project	· Financial Performance of TBSB.
+content	project	· Retail Loans Of TJSB.
+content	project	· Financial Analysis of HDFC bank.
+header	others	Strengths:
+meta	others	· Good Communication Skills.
+meta	others	· Ready to take responsibility.
+meta	others	· Quick Learner and Good Interpersonal Skills.
+header	others	Personal Details:
+meta	others	Date of Birth : 19-04-1995
+meta	knowledge	Languages Known : English, Marathi and Hindi.
+meta	others	Hobbies : Playing cricket, listening songs, Travelling
+header	others	Declaration:
+meta	others	I hereby declare that the above information is correct and true to the best of my knowledge and belief.
+meta	others	Place: Navi Mumbai
+header	others	Date :
+meta	others	(VISHAL VINOD JOSHI)

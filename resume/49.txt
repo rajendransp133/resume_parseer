@@ -1,0 +1,134 @@
+header	others	Curriculum-Vitae
+header	others	Curriculum-Vitae
+meta	others	Manju Prajapati
+meta	others	124, Sahjivan Building,
+meta	others	N.M. Joshi Marg,
+meta	others	Elphinstone Road,
+meta	others	Mumbai – 400013
+meta	others	(91-022-66548890 /9773670505
+meta	others	E-mail: manjup02@gmail.com
+header	others	Personal Profile:-
+meta	others	Date of Birth: 04-11-1984
+meta	others	Marital Status: Unmarried
+meta	knowledge	Languages Known: English, Hindi & Marathi
+meta	others	Nationality: Indian
+header	others	Objective:
+content	others	To enrich my knowledge about the best practices adopted in the organization and to perform best at task in hand.
+header	education	Educational Qualification:
+header	education	Qualification
+content	education	Year Passed
+content	education	Institution
+content	education	University/ Board
+content	education	Percentage
+content	education	Remarks
+content	education	M.Com
+content	education	July - 2008
+content	education	Mumbai University
+content	education	Mumbai
+content	education	63.00%
+content	education	First Class
+content	education	T.Y.B.Com
+content	education	April -2006
+content	education	K.P.B.Hinduja College
+content	education	Mumbai
+content	education	62.00%
+content	education	First Class
+content	education	H.S.C
+content	education	Mar - 2003
+content	education	K.P.B.Hinduja College
+content	education	Mumbai
+content	education	69.00%
+content	education	First Class
+content	education	S.S.C
+content	education	Mar – 2001
+content	education	Holy Cross High School
+content	education	Mumbai
+content	education	67.00%
+meta	others	First Class
+header	experience	Current :-
+content	experience	Job Responsibility :-
+content	experience	Looking after 12 Quality Analyst (Checking their performance, productivity, attendance, cross check audit to find accuracy.
+header	experience	Work Experience:
+content	experience	Duration
+content	experience	June’11 to Dec’11
+content	experience	Name of the Company
+content	experience	Digicall Teleservices Pvt Ltd
+content	experience	Designation
+content	experience	Senior Team Leader (Quality & Training)
+content	experience	Responsibility
+content	experience	Responsible for Process measurement and betterment activities for the different process (Airtel, Kotak, Bank of Baroda, Tata Docomo, Pepsico)
+header	experience	Job Profile
+content	experience	Working as Senior Team Leader for Quality and Training
+content	experience	Responsible to look after 12 Quality Auditor’s and their performance
+content	experience	Conduct Training to fix the knowledge gap for different processes
+content	experience	Design Training Need Analysis to help Training Team and Operations to bridge the knowledge gaps.
+content	experience	Analyze the process Gap for repeated cases and try to reduce the repeat calls
+content	experience	Track monthly performance and quality checks for the process and people empowerment.
+content	experience	Responsible to look after customer for improvement of CSAT
+content	experience	Conduct briefing and calibration sessions to ensure that operations and training understands the Quality parameters and work accordingly.
+content	experience	To measure various facet of performance by different teams and providing the feedback for improvement.
+header	experience	Work Experience:
+content	experience	Duration
+content	experience	May 2009 to May 2011
+content	experience	Name of the Company
+content	experience	TATA Communications
+content	experience	Designation
+content	experience	Quality Analyst
+content	experience	Responsibility
+content	experience	Responsible for Process measurement and betterment activities for the inbound and RFO team
+header	experience	Job Profile
+content	experience	Analyzing the Process Gap and providing feedback to the respective TSE and Team
+content	experience	Conducting Training to fix the knowledge gap for Inbound and E-mail Process.
+content	experience	Designing Training Need Analysis to help Training Team and Operations to bridge knowledge gaps.
+content	experience	Performing process and people audit for Inbound and E-mail Team.
+content	experience	Performed audits for Reason For Outage Team improvement
+content	experience	Tracking monthly performance and quality checks for the process and people empowerment.
+content	experience	Performing Operational Audits in order to track the authenticity of Delay Reason captured correctly on account of customer for improvement of CSAT
+content	experience	Conducting briefing and calibration sessions to ensure Technical Support Executive understands the Quality parameters and work accordingly.
+content	experience	Analyzing the process Gap for Inbound team by performing Data Capture audit
+content	experience	To measure various facet of performance by Email team and providing the feedback for improvement.
+content	experience	Performed the entire task as a Technical Support Executive for Inbound Team from June’07 to Apr’09.
+header	others	Achievement’s :
+content	others	· Champion of the month Award winner for Jan’10.
+content	others	· Champion of the month Award winner for Feb’10.
+content	others	· Champion of the month Award winner for June’10.
+content	others	· Champion of the month Award winner for July’10
+content	others	· Champion of the month Award winner for Aug’10
+content	others	· Champion of the month Award winner for Oct’10
+content	others	· Champion of the month Award winner for Nov’10
+content	others	· Champion of the month Award winner for Dec’10
+header	experience	Significant Contribution at Work:
+content	experience	· Helped inbound team in reducing fatal call %, it reduced to 50% in Nov’09.
+content	experience	· Brought accuracy in data capture from 68% in Nov’09 to 74% in Dec’09.
+content	experience	· Brought Overall improvement in Inbound, Email & Inbound Proactive team in the month of Jan’10
+content	experience	· Consistent (Champion of the month) award winner for 8 months within 1year for bringing improvement in process for different team’s.
+header	experience	Work Experience:
+content	experience	Duration
+content	experience	June 2007 to May 2009
+content	experience	Name of the Company
+content	experience	TATA Communications
+content	experience	Designation
+content	experience	Technical Support Executive
+header	experience	Responsibility
+content	experience	Help customers to log the grievances/request and speed up the troubleshooting on those grievances/ requests.
+header	experience	Job Profile
+content	experience	Providing the timely updates in trouble ticket pertaining to early resolution of Customer grievances.
+content	experience	Handling International Carrier calls like ATT, MCI, SINGTEL, REACH
+content	experience	Making Daily Reports of IPCC and RFO MTD.
+content	experience	Handling the team queries in absence of the TL / SME.
+content	experience	Escalating the sensitive cases to the respective stake holder as and when required.
+header	experience	My Laurels at Work:
+content	experience	· PIT STOP Challenge winner for the Mar-Apr’09.
+content	experience	· X-TRA MILE award winner for bringing improvement
+header	knowledge	Personal Assets:-
+content	knowledge	· Self Motivated and focused for results
+content	knowledge	· Can work under Enormous Pressure
+content	knowledge	· Eager to learn new things and share with others
+content	knowledge	· Highly motivated team player
+header	others	Hobbies:-
+content	others	· Listening to Music
+content	others	· Watching Movies
+content	others	· Traveling
+content	others	Date:
+content	others	Place: Mumbai
+content	others	(Manju Prajapati)

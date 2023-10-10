@@ -1,0 +1,86 @@
+meta	others	SAP BASIS HANA CONUSLTANT
+meta	others	N.NARENDER REDDY
+meta	others	Email:narenraju51@gmail.com
+meta	others	Mobile: 9133793297
+header	experience	Technical Summary
+content	experience	· Overall 4 years of experience in SAP Basis and HANA Administration with strong understanding.
+content	experience	· Applied support packages and Add-on’s for ABAP systems and JAVA Systems.
+content	experience	· Performed the kernel patch upgrade.
+content	experience	· Expertise in system refresh with oracle database.
+content	experience	· Applying SAP and java system License.
+content	experience	· Maintain Background Job maintenance and daily monitoring all SAP system landscapes & generate status reports.
+content	experience	· System copy of production server.
+content	experience	· Administration and maintain System Landscape Directory (SLD )
+content	experience	· Configuring and maintain RFC Connection between the systems.
+content	experience	· Configuring Transport Management System and transporting the requests
+content	experience	· Analyzing the ABAP Dumps and the System logs
+content	experience	· Database: Monitoring Table spaces and Taking Backup of SAP system
+content	experience	· Worked on Brtool for Table space management, Reorganization, BRBACKUP, BRARCHIVE, BRRESTORE.
+content	experience	· Check System Log for error, warning, message, DB problem etc
+content	experience	· Trouble shooting Background jobs processing
+content	experience	· Configured clients and settings, performed client copies
+content	experience	· Providing Single Sign-On (SSO) from SAP Enterprise Portal to various backend systems like ECC 6.0.
+header	experience	SAP HANA ADMINISTRATION
+content	experience	· SAP HANA Database administration.
+content	experience	· Installation of SAP HANA Studio.
+content	experience	· Maintaining SAP HANA License .
+content	experience	· Adding SAP HANA System in SAP HANA Studio, Stopping, Starting and restarting SAP HANA ServiceSs .
+content	experience	· HANA DB troubleshooting and performance analysis.
+content	experience	· HANA DB Backing up and recovering.
+content	experience	· Resolving HANA DB Backup issues.
+content	experience	· Creating users in HANA DB and assigning roles, various privileges.
+content	experience	· Monitoring ongoing major activities/incidents and taking follow up on them with respective Team.
+content	experience	· Provided 24X7 supports to the users and made sure the environment is Highly Available.
+header	experience	Work Experience
+content	experience	· Working as a SAP Basis Consultant for “ITC INFOTECH” since SEPT 2014 to till date.
+header	education	Academic Profile
+content	education	B.E (EEE) From METHODIST COLLEGE OF ENGINEERING AND TECHNOLOGY
+header	project	Project 2
+content	experience	Company :ITC INFOTECH
+content	experience	Project :ITC FOODS
+content	experience	Technology :ECC6.0 EHP6/7,Netweaver 7.31/7.4, Oracle, HANA.
+content	experience	Role :SAP BASIS CONSULTANT(SEP2017 –TILL DATE)
+header	experience	RESPONSIBILITIES
+content	experience	· Daily health checks activities on PRD systems.
+content	experience	· Maintain and Monitor operation modes.
+content	experience	· Maintain and monitor RFC connections (SM59).
+content	experience	· Maintaining OSS connection for SAP to login from service market place.
+content	experience	· Applying kernel patches & Support Packages
+content	experience	· Analysis on System Dumps.
+content	experience	· Defining Audit Policy for the SAP HANA Database
+content	experience	· Deploying the application of build on Patch update.
+content	experience	· Performing Backup and recovery operation of the Sap HANA Database.
+content	experience	· User management concept like creation of USERS, ROLES granting Privileges etc.
+content	experience	· Transporting the requests from DEV to QA and to PRD servers using TP (transport control program) or STMS Transaction and verifying through transport logs.
+content	experience	· Defining and scheduling standard background jobs,
+content	experience	· Time based and event based Scheduling of background jobs and monitoring.
+content	experience	· Adding the roles, profiles to the users upon request.
+content	experience	· Maintain connection to SAP through service market place
+content	experience	· Creating system message when down time is scheduled,
+content	experience	· Creating and opening OSS connection for remote access in service market place.
+content	experience	· Providing the end user and team members and on-call 24/7 production support.
+header	project	Project 1
+content	experience	Company :ITC INFOTECH
+content	experience	Project :ITC Hotels
+content	experience	Technology :ECC6.0 EHP6/7,Netweaver 7.31/7.4, Oracle.
+content	experience	Role :ASSOCIATE SAP BASIS CONSULTANT(JULY 2014-AUG 2017)
+header	experience	Responsibilities
+content	experience	· Complete SAP Basis project support including Preparation, planning, and Support packs for ABAP & Java stacks Kernel upgrades and SAP notes.
+content	experience	· TMS configuration & management & troubleshooting.
+content	experience	· System administration: All SAP administration activities like ABAP dumps, system logs, performing system health checkups on daily basis, etc and problem solving.
+content	experience	· Monitor system performance, trace, workload analysis and tune memory Management.
+content	experience	· Background jobs management like checking the status of background jobs and scheduling background records.
+content	experience	· Monitoring the updates and spool management.
+content	experience	· Adding single data file and continuous data file to table space using BRTOOLS.
+content	experience	· Creating of Access keys and objects keys for users.
+content	experience	· Transports using an exclusively developed SAP Transaction, which enables mass/force transports to multiple systems/clients in the multilevel landscape. Transporting at UNIX level whenever needed.
+content	experience	· Creating system messages to all users in downtime schedule.
+content	experience	· Quarterly Maintenance Review is the process of bringing all the chosen systems in a landscape to same patch levels.
+content	experience	· Homogenous Offline DB Refresh, and apart from all the Post copy steps
+content	experience	· Locking and unlock the users.
+content	experience	· Creating and Maintaining RFC destinations.
+content	experience	· System copies, remote & local client copies. Client export/Import in preparation and for supporting numerous scenarios during integration test and cutover.
+content	experience	· Performed SAP system copies of ECC6.0 and Java systems.
+content	experience	· Performed Kernel Upgrade.
+content	experience	· Providing 24x7 supports for the numerous issues for all components across the different environments in the system landscape and mentoring offshore team.
+meta	others	NOMULA NARENDER REDDY

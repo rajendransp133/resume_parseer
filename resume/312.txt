@@ -1,0 +1,71 @@
+meta	others	GAYATHRI.K
+meta	others	No:34/6, Avvaiyar Street,
+meta	others	Ramakrishnapuram,
+meta	others	Tambaram East,
+meta	others	Chennai-59.
+meta	others	Mail id: gayukrish481@gmail.com
+meta	others	Ph: +91-8220248014
+header	others	Career Objective
+content	others	To obtain a position in an organization that could provide me a chance to grow along with my potential, performance and hard work.
+header	experience	Work Experience
+content	experience	Duration
+content	experience	Organization
+content	experience	Designation
+content	experience	Responsibilities
+content	experience	October 2014
+meta	others	-
+content	experience	October 2016
+content	experience	Tata Consultancy Services
+content	experience	Process Associate
+content	experience	1. Analysing and documenting US commercials
+content	experience	2.Maintaining Quality Report
+content	experience	January 2017
+meta	others	-
+content	experience	March 2018
+content	experience	Maersk Global Service Centre
+content	experience	Senior Associate
+content	experience	1.Handling and updating the reconciliation between terminal data and Maersk Systems
+content	experience	2. Checking discrepancies Data’s received from terminal and Releasing the vessel in system and ensuring that all the discrepancies are escalated to the desk.
+header	education	Academic Background
+content	education	Examination
+content	education	Discipline/ Specialisation
+content	education	School/ college
+content	education	Board/ university
+content	education	Year of passing
+content	education	% of marks
+content	education	BSC.MATHS
+content	education	MATHS
+content	education	Madras Christian College
+content	education	Madras University
+content	education	2014
+content	education	77%
+content	education	HSC
+content	education	BIOLOGY
+content	education	Christ King Girls. Hr. Sec. School.
+content	education	State Board
+content	education	2011
+content	education	72.7%
+content	education	SSLC
+meta	others	-
+content	education	Christ King Girls Hr. Sec.
+content	education	School.
+content	education	State Board
+content	education	2009
+content	education	90.2%
+header	knowledge	Computer Skills
+content	knowledge	· MS Office (Word , Excel & PowerPoint)
+content	knowledge	· Operating Systems: Windows 2000/XP/7
+header	education	Additional Qualification
+content	education	· Honors Diploma in Computer Application(HDCA) at CSC
+header	others	Personal Profile:
+meta	others	Name K.Gayathri
+meta	others	Sex Female
+meta	others	Date of Birth 07-01-1994
+meta	others	Marital Status Single
+meta	others	Nationality Indian
+meta	knowledge	Languages Known English, Tamil (Read, Write & Speak)
+meta	experience	Hobbies Reading books and dancing
+meta	others	I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above-mentioned particulars.
+meta	others	Date :
+meta	others	Signature,
+meta	others	Gayathri.K

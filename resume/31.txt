@@ -1,0 +1,80 @@
+header	others	Curriculum Vitae
+header	others	Curriculum Vitae
+header	others	Personal Data
+content	others	Age: 23 years
+content	others	DOB: 12-05-1982
+content	others	Gender: Male
+content	others	Mother Tongue: Hindi
+content	others	Nationality: Indian
+content	others	Religion: Hindu,
+header	experience	Experience
+content	experience	Name of the company
+content	experience	Duration
+content	experience	Designation
+content	experience	Total working months
+content	experience	NIIT
+content	experience	CHITTARANJAN CENTRE
+content	experience	Hcl Road, Rupnarayanpur,
+content	experience	Burdawan.
+content	experience	01ST march 2003 – 1st Feb 2006
+content	experience	Technical faculty member
+content	experience	36 months
+content	experience	IBM Daksh
+content	experience	SALT LAKE SEC -v RAJARHAT
+content	experience	7th aug 2009-till date
+content	experience	C.S.R
+content	experience	Till date
+header	education	Education
+content	education	Name of the examination
+content	education	Class passed
+content	education	Year of passing
+content	education	School’s board/ Universities
+content	education	Division/ Class
+content	education	Percentage
+content	education	Madhyamik
+content	education	10th
+content	education	1998
+content	education	WEST BENGAL BOARD OF SECONDERY EDUCATION
+content	education	3rd (39%)
+content	education	Higher Secondary
+content	education	12th
+content	education	2000
+content	education	WEST BENGAL COUNCIL FOR HIGHER SECONDEY EDUCATION
+content	education	3rd(34%)
+content	education	B.com
+content	education	B.com
+content	education	2003
+content	education	VINOBA BHAVE UNIVERSITY
+content	education	2nd (51%)
+content	education	GNIIT(SOFTWARE ENGINEERING)
+content	education	(SOFTWARE ENGINEERING)
+content	education	2006-2009
+content	education	NIIT (KOLKATA)
+content	experience	69.9%
+header	project	Training & projects
+header	knowledge	Programming Languages
+content	knowledge	Databases
+content	knowledge	Web Technologies
+content	knowledge	Operating System
+content	knowledge	SOFTWARE
+content	knowledge	NET, JAVA, VC#,C++
+content	knowledge	SQL 7.0 & 2000
+content	experience	HTML , XML, ASP.NET ,JSP
+content	knowledge	· MS-DOS & LINUX
+header	project	Projects & Trainings
+content	project	Earnest Online Banking
+content	project	Westside Online Banking
+header	knowledge	Language Known
+content	knowledge	English, Bengali, Hindi
+header	others	Date:
+meta	others	Place: Kolkata, India
+meta	others	PRAMOD ROY
+meta	others	C/o : rajnandan roy
+meta	others	ADDRESSKendwa Bazar Kulti
+meta	others	P.O+P.S Kulti
+meta	others	Pin-713343
+meta	others	Dist-Burdwan
+meta	others	West Bengal
+meta	others	Mobile : +919832725316
+meta	others	+919832219310�E-mail : � HYPERLINK “mailto:pramodroy5@gmail.com” ��pramodroy5@gmail.com�
+meta	others	pramodroy5@yahoo.com

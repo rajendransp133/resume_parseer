@@ -1,0 +1,81 @@
+meta	others	BALAKRISHNAN.G
+meta	others	19/10 JEEVA NAGAR Contact No:+919962146560
+meta	others	FIRST STREET
+meta	others	NEW WASHERMENPET E-mail id:​jothi7649@gmail.com
+meta	others	CHENNAI-600081
+header	others	CAREER OBJECTIVE:
+content	others	To obtain a position in which I can develop new skills and utilize existing ones in an environment
+content	others	That promote professional growth and also to contribute my creativity and hard work towards
+content	others	the success of your computer.
+header	education	EDUCATIONAL QUALIFICATIONS:
+content	education	COURSE INSTITUTION BOARD/ YEAR OF MARKS IN
+content	education	UNIVERSITY PASSING PERCENTAGE
+content	education	B.C.A
+content	education	(BACHELOR OF
+content	education	COMPUTER
+content	education	APPLICATION)
+content	education	SIR
+content	education	THEAGARAYA
+content	education	COLLEGE
+content	education	MADRAS
+content	education	UNIVERSITY
+content	education	2018
+content	education	55%
+content	education	HSC
+content	education	CHENNAI
+content	education	PORT
+content	education	AND DOCK
+content	education	EDUCATIONAL
+content	education	TRUST
+content	education	STATE BOARD
+content	education	2015
+content	education	60%
+content	education	SSLC
+content	education	K.C.SANKARAL
+content	education	INGA
+content	education	NADAR
+content	education	HIGHER
+content	education	STATE BOARD
+content	education	2013
+content	education	80%
+meta	others	mailto:jothi7649@gmail.com
+content	education	SECONDARY
+content	education	SCHOOL
+header	others	AREA OF INTEREST:
+content	experience	● JAVA
+header	knowledge	COMPUTER SKILLS:
+content	knowledge	● Programming language : c,c++,JAVA
+header	experience	WORK EXPERIENCES:
+content	experience	● Internship (Britain BPO)​: ​Exposure to different multi-tasking issues and attended
+content	experience	several customers and clients who have an urgent requirement, which was
+content	experience	operated by me seamlessly. (Jan-March 2018).
+content	experience	● Internship (Oberoi Flight Services)​: ​As a part-time job intern, it was quiet an
+content	experience	interesting job in domains of commercial business and the varied services they
+content	experience	provide.
+header	experience	WORKSHOP :
+content	experience	● ​Knowledge gained through workshop experiences which relates to different
+content	experience	computer applications and softwares in the current trend and their advantages
+content	experience	and disadvantages.
+header	others	PAPER PRESENTATION :
+content	others	● ​Paper presented on the topic ” Programming Languages for Web Development”
+content	others	It explains about the current and previous generation’s languages implemented in
+content	others	developing webpages. For instance, “J Query”, “ASP” and other new advanced
+content	others	languages are used today whereas basic versions of HTML were used in
+content	others	previous years.
+content	experience	ARTICLE :
+content	experience	● ​Published an article ” TECHNOLOGICAL DEVELOPMENT IN
+content	experience	PROGRAMMING -PROS AND CONS” in our college journal “Tech
+content	experience	Theagarajans’
+content	experience	ACHIEVEMENTS:
+content	experience	● Won first place in volley ball at school feb 8,2012.
+header	others	PERSONAL TRAITS:
+content	others	● Flexible & positive thinker.
+header	others	PERSONAL PROFILE:
+meta	others	● Father Name: GNANASEKAR.J
+meta	others	● Age. : 20YRS
+meta	others	● Date of birth :12-09-1997
+meta	knowledge	● Language : ENGLISH, TAMIL(READ,WRITE,SPEAK)
+meta	others	known
+meta	others	● Hobbies. : CRICKET, TV SHOWS AND MOVIES
+meta	others	Date : (G.BALAKRISHNAN)
+meta	others	Place :chennai

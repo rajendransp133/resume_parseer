@@ -1,0 +1,58 @@
+meta	others	Sample CV for Freshers
+meta	others	KAMARTHI LINGESH
+meta	others	Email: lingesh.kamarthi17@gmail.com
+meta	others	Mobile: +919908992131
+header	others	Career Objective:
+content	others	· To work for an organization that provides me an opportunity to improve my skills and knowledge along with the organization objective.
+header	others	Profile Summary-
+content	others	· An enthusiastic fresher with highly motivated and leadership skills having Bachelors of Engineering degree in Electrical and Electronics Engineering.
+content	others	· Expert in implementation of each step in project.
+content	others	· Eager to learn new technologies and methodologies.
+content	others	· Always willing to innovate new things which can improve the existing technology
+header	education	Educational Qualifications:
+content	education	· B.Tech with 62.23% from “St Johns College Of Engineering & Technology”, Andhra Pradesh.
+content	education	· Intermediate with 83.9% from “Sri Gayatri college”, Andhra Pradesh.
+content	education	· S.S.C with 73.8% marks from “Machani Somappa English Medium School”, Andhra Pradesh.
+header	others	Personality Traits:
+content	others	· Highly motivated and eager to learn new things.
+content	others	· Strong motivational and leadership skills.
+content	others	· Ability to produce best result in critical situation.
+content	others	· Excellent communication skills.
+content	others	· Ability to work as individual as well as in group.
+header	knowledge	Computer skills:
+content	knowledge	· HTML, CSS and JavaScript.
+content	knowledge	· Well operating in Ms office
+header	others	Achievements:
+content	others	· Participated in National Paper Presentation held at yerrakota.
+header	others	Extracurricular activities:
+content	others	· Participated as Lead in the college tech-fest in “St Johns College Of Engineering & Technology”
+content	others	· Participated in NSS camp held in our college.
+content	others	Experience: One year of experience as a Data Analyst.
+content	others	Strengths:
+content	others	· Self-disciplined/ Self-Motivated/ Ability to work independently and quality conscience.
+content	others	· Self-Learning attitude, Sense of Responsibility and Dynamic Team player.
+content	others	· Calm and Confident.
+content	others	· Exceptional abilities to identify and resolve issues.
+header	others	Hobbies:
+content	others	· Playing Basket ball.
+content	others	· Watching tennis.
+header	others	Personal Profile:
+meta	others	Name : KAMARTHI LINGESH
+meta	others	Date of birth
+meta	others	:
+content	others	17-AUG-1994
+meta	others	Gender
+meta	others	:
+meta	others	Male
+meta	others	Marital status
+meta	others	:
+meta	others	Single
+meta	others	Nationality
+meta	others	:
+meta	others	Indian
+header	knowledge	Languages
+meta	others	:
+meta	knowledge	Kanada, English, Hindi, and Telugu.
+header	others	DECLARATION:
+meta	others	I hereby declare that the information given above is correct as per my knowledge and I will responsible for any discrepancy.
+meta	others	PLACE: YEMMIGANUR K LINGESH

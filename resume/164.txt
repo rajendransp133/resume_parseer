@@ -1,0 +1,102 @@
+header	others	RESUME
+meta	others	RAHUL.M.G
+meta	others	MATTUKARAN (H)
+meta	others	ANNAMANADA (P.O.)
+meta	others	PALISSERY (Via)
+meta	others	TRICHUR – 680741
+meta	others	Mob: 08086143397
+meta	others	E-mail id : rahulgopi2017@gmail.com
+header	others	OBJECTIVE
+content	others	· To pursue career in a leading and innovative BPO firm capable of Completing challenging projects through state of art technology.
+content	others	· To apply technical knowledge and skills, which I have obtained through education to better assist a leading industry.
+header	knowledge	PERSONAL SKILLS:
+content	knowledge	· Leadership quality.
+content	knowledge	· Communication Skills.
+content	knowledge	· Challenge Accepting.
+header	education	EDUCATIONAL PROFILE:
+content	education	COURSE
+content	education	YEAR OF PASSING
+content	education	COLLEGE/UNIVERSITY
+content	education	% OF MARKS
+content	education	DIPLOMA IN MECHATRONICS
+content	education	2011
+content	education	NTTF
+content	education	72.04%
+content	education	HSC
+content	education	2008
+content	education	SNDP
+content	education	PALISSERY
+content	education	70.50%
+content	education	SSLC
+content	education	2006
+content	education	SNDP
+content	education	PALISSERY
+content	education	85.73%
+header	experience	1. Process Trainer in Federal Bank Contact Centre from 01-07-2015
+content	experience	Responsibilities
+content	experience	· Develop, implement, and monitor training programs within the organization.
+content	experience	· English Language improvisation session imparted to new hires to tackle the customer and to enhance their communication skill.
+content	experience	· Conduct orientation sessions for the new hires.
+content	experience	· Conducted dynamic and enjoyable soft skill training session to foster & retain the employees.
+content	experience	· Strategic plans developed and implemented to ensure quality service at the client level.
+content	experience	· Timely completion of process and soft skill training as per KPI.
+content	experience	· Preparation of training & other process related reports that which is to be updated to the process manager.
+content	experience	· To prepare and present for the client review.
+content	experience	· Multi language script preparation as per the process.
+content	experience	· Develop process wise presentations.
+content	experience	· Carry out telephonic interview as part of recruitment process.
+header	experience	Customer Relationship officer in Federal Bank from 11-08-2014
+header	experience	Responsibilities
+content	experience	· Customer Relationship Officer in Federal Bank Contact Center Inbound department.
+content	experience	· Handle the queries related to various Banking products.
+content	experience	· Carry out verification calls for outbound department.
+header	experience	2. Technical support engineer in Infolink (Federal Bank Process) (Jan 2014-Aug 2014)
+header	experience	Responsibilities
+content	experience	· Onsite Support for Hardware.
+content	experience	· Support of win xp, win 7and win8.
+content	experience	· Printer and scanner Connections.
+content	experience	· Network Support and File Sharing.
+content	experience	· Support of Banking Software.
+content	experience	· Active Directory Services.
+header	experience	3. Sutherland global services cochin(Sep 2012-Feb 2013)
+content	experience	· Analyst in Sutherland Global services.
+header	experience	4. Varroce Engineering pvt Ltd. Pune (May 2011-Apr 2012)
+content	experience	· Process Engineer
+header	others	PERSONAL PROFILE:
+header	others	Name
+meta	others	:
+meta	others	RAHUL.M.G
+header	others	Date of Birth
+meta	others	:
+meta	others	20/08/1990
+header	others	Father’s Name
+meta	others	: GOPI.M.R.
+header	others	Sex
+meta	others	:
+meta	others	Male
+header	others	Marital Status
+meta	others	:
+meta	others	Single
+header	others	Nationality
+meta	others	:
+meta	others	Indian
+header	others	Religion
+meta	others	:
+meta	others	Hindu
+header	knowledge	Languages Known
+header	knowledge	To Speak
+meta	others	:
+meta	knowledge	English, Hindi, and Malayalam
+header	knowledge	To Read
+meta	others	:
+meta	knowledge	English, Hindi, and Malayalam
+meta	others	To Write
+meta	others	:
+meta	others	English, Hindi, and Malayalam
+header	others	Declaration:
+meta	others	I consider myself familiar with all Professional aspects. I am also confident of my ability to work in a team.
+meta	others	I hereby declare that the information furnished above is true to the best of my knowledge.
+meta	others	Date: 02/12/2017 RAHUL.M.G
+meta	others	Place: Trichur
+header	experience	Professional Experience
+meta	experience	Presently EbenTelecom (from 11-8-2014)

@@ -1,0 +1,64 @@
+header	others	CURRICULUM VITAE
+meta	others	Rohan Hindurao Dhumal
+meta	others	Mobile No. 9503500372 Address: C-12,Raigad.Room no. 49
+meta	others	Sahyadrinagar, Charkop Kandiwali(w)
+meta	others	Mumbai 400067.
+meta	others	Email :rhdhumal@gmail.com
+header	others	Career Objective
+content	others	To achieve optimum results by utilizing knowledge and expertise in the growth and development of the company aimed towards the ultimate success of the organization. I would like to share my knowledge and experience gained through my technical background for the growth of organization.
+header	education	Academic Qualifications:
+header	education	Qualification
+content	education	Board University Institute
+content	education	Year
+content	education	Percentage
+content	education	B.Sc
+content	education	Kolhapur University
+content	education	2014
+content	education	59.04
+content	education	H.S.C
+content	education	Kolhapur Board
+content	education	2010
+content	education	40.50
+content	education	S.S.C
+content	education	State Board Kolhapur
+content	education	2008
+content	education	52.76
+header	experience	Experience
+content	experience	On 6 month Experience InRoha Dye Chem Pvt. Ltd, Roha, Dist-Raigad.
+content	experience	Designation: Jr. Officer (In R &D).
+content	experience	Currently Working in Manisha Analytical Laboratory PVT.
+content	experience	Ltd.Kandiwali(w).Mumbai As jr.chemist in GLC dept.(From Feb.2016 to till date).
+header	knowledge	Key Skills
+content	knowledge	Good communication and leadership skill
+content	knowledge	Sincere and hard working.
+content	knowledge	Im self confident and can mould my self to all work environments.
+content	knowledge	Responsible team member.
+header	knowledge	Technical Skills
+content	knowledge	Basic Computer Knowledge
+content	knowledge	MS Office 7,10,13
+content	knowledge	Internet Google Chrome, IE 7
+header	experience	INSTRUMENTS HANDLED
+content	experience	1)Atomic absorption Spectroscopy.(make.Agilent)
+content	experience	2)Gas Liquid Chromatography.(make.Agilent)
+content	experience	3)Inductivelycoupled plasma. .(make.Agilent)
+header	others	Personal Details
+meta	others	Name :RohanHinduraoDhumal.
+meta	others	Father Name : Hindurao Vinayakrao Dhumal.
+meta	others	Age : 27 years
+meta	others	Date of birth : 16th Oct 1992
+meta	others	Gender : Male
+meta	knowledge	Language Known : Marathi , Hindi , English.
+meta	others	Marital status : Single
+meta	others	Mobile No: 9503500372
+meta	others	Email ID :rhdhumal@gmail.com
+header	others	Hobbies
+meta	others	Interested in public speaking, and Internet surfing.
+meta	others	Playing Carom, Cricket, Chess.
+meta	others	Learning New Things.
+header	others	Declaration
+meta	others	I hereby declare that the above mentioned information is correct up to my knowledge and I will solely be Responsible for any discrepancy
+meta	others	found in them.
+meta	others	Place :
+meta	others	Date :
+meta	others	Signature
+meta	others	(RohanHinduraoDhumal)

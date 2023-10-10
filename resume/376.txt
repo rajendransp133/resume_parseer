@@ -1,0 +1,188 @@
+meta	others	Text-John Edison
+meta	others	# 13, Mannanagar, T.C.Palya Anandapura Bangalore – 560016
+meta	others	johncarol74@yahoo.com
+meta	others	+91-7204851758
+meta	others	John Edison
+meta	others	Associate General Manager
+meta	experience	A Brief Synopsis
+content	experience	Meticulous and a versatile professional holding rich experience 16+ Years in identifying opportunities resulting into an Enhancement
+content	experience	to Portfolio to yield improved business results. Exhibits excellent organizational and problem-solving skills. Works well in team
+content	experience	environments and displays strong work ethic. Provisen Success in handling multi-countries payroll operations and implementation
+content	experience	of APAC countries and Australia / Middle East.
+content	experience	Dedicated Operation Manager and effective leader with proven methods and cutting-edge technology to successfully cost cutting,
+content	experience	Streamline operations and increase productivity, assertive with extensive knowledge of process optimization and an unsurpassed
+content	experience	worth ethic.
+content	knowledge	Application knowledge HRMIS ( Oracle platform ), SAP HR / Sage EASY PAY / Grey Tip & Key Pay and Internal Payroll application
+content	experience	(Dynamic Pay)
+content	experience	Broad exposure of legislative pertaining to the payroll for India / Hong Kong Singapore Malaysia & Dubai
+content	experience	Exceptional planning and organizational skills and demonstrated ability to manage multiple priorities in a rapidly changing
+content	experience	environment. Ethical, loyal and maintain a high degree of confidentiality.
+content	experience	Persuasive communicator with an ability to relate to people at all levels of business and management
+content	experience	Strong problem-solving, planning, team-building & management skills
+content	experience	Possess valuable insights, keen analysis and a team approach to implement best practices to achieve business excellence
+content	experience	Adept at working in high pressure environments with strict deadlines and multiple deliverables
+header	experience	Career Highlights
+content	experience	Client retention and adding revenue to the company
+content	experience	Resource utilization
+content	experience	Expert in process Improvement techniques
+content	experience	Developed and maintained excellent working relationships with the clients and subordinates
+content	experience	Effectively and productively analyzed all the tasks undertaken
+content	experience	Received appreciation from Senior Authorities for excellent and outstanding performance
+content	experience	Honour Award for outstanding performance
+content	experience	Associate of the Quarter Award for outstanding performance on the Legislative changes
+content	experience	Team Efficiency Award for supporting team member in times of critical situation
+content	experience	At ADP
+content	experience	Received Outstanding Performance Certificate
+content	experience	Awarded for Performance / Error Free Output and Team Efficiency
+content	experience	Recipient of Star Employee of the Year Award
+content	experience	At Hewit
+content	experience	Associate General Manager
+content	experience	ALP Consulting Limited | Bangalore | Jul 2017 – Till date
+content	experience	Responsible for Global and India Payroll and Statutory / Labour compliance
+content	experience	Revenue generations and cost analysis
+content	experience	Managing team across three locations
+content	experience	Procedure and process Improvement
+content	experience	Backup process setup and following-up with ISO standard
+content	experience	Handling client of more than 30 clients with head count of 18000+ payslips
+content	experience	Regular team meeting and discuss on improvements and clearing of backlogs
+content	experience	Assisting BD team in new client meeting and converting into revenue generations
+content	experience	Filling and recruiting right candidate to the job profile
+content	experience	Retaining of clients
+content	experience	Regular client meeting and comforting
+content	experience	Strategic planning
+content	experience	Product development and road map to the future enhancement
+content	experience	Monthly newsletter(changes in Labour laws or legislative(in respect to salary or employees take home).
+content	experience	Tracking of deliverables and ensures all the outputs are delivered as per SLA
+content	experience	Red Alert clients are monitored and streamlining.
+content	experience	Using Negotiation techniques
+content	experience	Key-Role
+content	experience	Organisational Scan
+content	experience	Project Manager
+content	experience	PayAsia Management Pvt Ltd. | Bangalore ( HO in SG) | Oct 2010 – Jul 2017
+content	experience	Involved Operations and implementation of Australia, Malaysia, SG, HK, PH, India, NZ and Middle East Payroll
+content	experience	Responsible for deliverables and Issue management
+content	experience	Monthly MIS and client coordination
+content	experience	Multi-country legislative changes and database management
+content	experience	Creation and deletion of DB and backing-up for future reference
+content	experience	Setting controls and procedure and process in-place
+content	experience	Flexible working time to accommodate to respective country timings
+content	experience	Interface project testing and coordinating with different technical team across countries.
+content	experience	Product development testing.
+content	experience	Part of ISO auditing team and ensure to follow the policy and adhere to BCP plan.
+content	experience	Analyzing Business Process Reports (BPR) of each client
+content	experience	Collaborating with the team to ensure the delivers are meeting the client’s requirement
+content	experience	Preparation of BPR, Dashboard, Business Process Review Documents, and Payroll Process Manual.
+content	experience	Handling and resolving the Internal and external queries / issues.
+content	experience	Handover process implementation to Operation team for the new clients and sign off.
+content	experience	Engaging regular operations and implementation meeting.
+content	experience	Ensuring all the outputs are delivered in expected time as per agreed schedule i.e., payroll reports, bank files, GL, statutory reports,
+content	experience	and year end activities.
+content	experience	Coordinating and managing with lodgement partners(third party vendor) for the monthly compliance.
+content	experience	Liaising and Managing with local payroll vendor for the operations and implementation of Japan and China payroll.
+content	experience	Coordinating and Managing with local vendor for the testing and validation of the portal setup for pay slip, e-leave module setup,
+content	experience	and e-claim module setup and migrating all the existing clients to new portal.
+content	experience	Interviewing candidate / coordinating with SG team for the short list candidate
+content	experience	Training the new joiners Appraisals Performance rating / one on one discussion.
+content	experience	Key-Role
+content	experience	Assistant Manager / Consultant - Payroll (MS Global View)
+content	experience	ADP Private Limited | Apr 2005 – Oct 2010
+content	experience	Led and managed a team of 8 members for Hong Kong and New Zealand payroll
+content	knowledge	Knowledge in India / Singapore & Malaysia payroll transition.
+content	experience	Ensured compliance of the team with SLA of each client
+content	experience	Prepared and updated blue print, business process review documents, MIS, Dashboard, payroll process manual, yearend scoping
+content	experience	documents, and yearend activity plan
+content	experience	Conduting training in SAP HR (fronend user ) for new joinees.
+content	experience	Acting as coordinating in testing and internal and external queries raised with support team.
+content	experience	User Acceptance testing in end user testing (operation team) / UAT with Support team in issues handling / legislative changes.
+content	experience	Transition planning and streamling process before giving to the team member.
+content	experience	Acting as co-ordinator between support team / Client / operation team during issue management.
+content	experience	Acting as support team between operation team and implementation team.
+content	experience	Responsible for the preparation of payroll schedules for the coming year
+content	experience	Provided guidance on the process flow of Managed Service Operations to client during onsite visit
+content	experience	Prepared internal documentation of the process flow and performance appraisal for the team members
+content	experience	Handled regular operation calls with the client for process improvement
+content	experience	Conducted regular team meeting and provided regular legislative updates to the team members
+content	experience	Follow-up with internal and external clients issues
+content	experience	Handled the termination process
+content	experience	Conducted training and brainstorming sessions for new joiners
+content	experience	Managed year - end activities viz., generating forms, reconciliation statements, and filing the returns
+header	experience	Key-Role
+content	experience	Senior Associate - Migration
+content	experience	HEWITT Outsourcing Services India Ltd. | Feb 2002 – Apr 2005
+content	experience	Developed new database for allotted new clients of migration
+content	experience	Interacted with the client regarding the issues/any changes in the process flow
+content	experience	Conducted helpdesk at clients place towards employees query
+content	experience	Involved in the documentation of the process flow for new clients
+content	experience	Attended to customer issues (including employer and employee queries)
+content	experience	Prepared full and final settlements and reimbursement claims
+content	experience	Conducted training and brainstorming sessions for new joiners
+content	experience	Responsible for the preparation of MIS for the month and submitting the same to the client
+content	experience	Issued Form 16 and Form 24 - Year end activity (Statutory reconciliation)
+header	experience	Key-Role
+content	experience	Additional responsibility :
+content	experience	1). First level of issue resolution
+content	experience	2). Facilitated and provided inputs in developing control
+content	experience	Executive - Accounts
+content	experience	Sumeet Auto | Oct 2000 – Feb 2002
+content	experience	Involved in
+content	experience	1). Inventory Management
+content	experience	2). General Accounting
+content	experience	3). Payroll Processing
+content	experience	4). Treasury Management
+header	experience	Key-Role
+header	education	Academic Credentials
+content	education	ICFAI University
+content	education	Pursuing MBA
+content	experience	Areas of Expertise
+content	experience	Global and Strategic Sourcing
+content	experience	Negotiations Expert
+content	experience	Procedure development
+content	experience	Process Improvements
+content	experience	Systems Implementation
+content	experience	Internal & External Issue handling
+content	experience	Business Process Reports
+content	experience	Excellent Client Management
+content	experience	Input Management
+content	education	University of Bangalore | 1997
+content	experience	B. Com
+content	experience	Uptron ACL/LCC | 1994
+content	experience	Diploma in Computer System and Management
+content	experience	SAP End User and UAT Testing
+content	experience	Upgrade testing in SAP Development phases
+content	experience	Regular Legislative changes update testing
+content	experience	Vendor Coordinating
+content	experience	Multi-tasking Ability
+content	experience	Team Management
+content	experience	Relationship Management
+content	experience	Training & Development
+content	experience	Dynamic & Strategic Planning
+content	experience	Training
+content	experience	SAP HR payroll
+header	knowledge	Presentation and leadership skills
+content	experience	CBQ trainings
+content	experience	Cross Culture Awareness & Communication
+content	experience	Negotiation and Mediation Skills
+content	experience	Expertise
+content	knowledge	Working Knowledge in MS-Office
+content	experience	Leadership & Management
+content	experience	Communication
+content	experience	Problem Solving
+content	experience	Creative Thinking
+content	experience	Core Competencies
+content	experience	Presentation and Facilitations Skills
+content	experience	Effective Email Communication
+content	experience	Security management
+content	experience	Project Management
+content	experience	ISO auditing & SAS70 auditing
+content	experience	Team Work
+content	experience	Evaluation
+content	experience	Career Development
+content	experience	Personal Development
+header	others	Personal Dossier
+meta	others	Gender : Male
+meta	knowledge	Linguistic Abilities : English
+header	knowledge	Strengths
+meta	knowledge	Able to Accept challenges in the Work Pressure.
+meta	knowledge	Self-Organized, Self-Motivated and Self-Confidant.
+meta	knowledge	Open minded to take challenges and meet higher targets.
+meta	knowledge	Obey the rules strictly by seniors and using Presence of mind.

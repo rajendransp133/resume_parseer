@@ -1,0 +1,69 @@
+meta	others	Ramesh Chalagundla
+meta	others	Email: ramesh_chinny@yahoo.com
+meta	others	Mobile No: +91 9292904241
+meta	others	Results-oriented Finance & Accounting Professional with a Successful Career Spanning 3+years
+meta	experience	Seeking Managerial Assignments in Financial and Accounting Operations
+header	knowledge	Core Competencies:
+content	knowledge	· Accounts Payable-Operations
+content	knowledge	· Inter Company Invoices Processing
+content	knowledge	· Reconciliation
+content	knowledge	· Strong ability to set and prioritize goals
+content	knowledge	· Management reporting
+content	knowledge	· Excellent organizational skills
+header	experience	Profile Snapshot:
+content	experience	· Specialist in Accounts Payable-Invoice Processing
+content	experience	· Expertise in SAP FI R3-End user
+content	education	· Completed M.B.A
+header	experience	Work Experience:
+content	experience	· Working as a Process Associate-Accounts Payable-Genpact, Aug 2010 to Till Date
+content	experience	· Worked as an Accounts Executive-CHEKHRA –Jul 2009 to Aug 2010
+content	experience	· Worked as an Accounts Executive-DRS LOGISTICS Pvt ltd-Aug 2008 to Jul 2009
+header	others	Key Result Area:
+content	others	· Ensures meeting process requirements, deadlines and SLA’s
+content	others	· Reporting to top management and External Client
+content	others	· Strategic Planning for the development of various process Improvements
+content	others	· Ensure smooth flow of Invoice Processing
+header	experience	Career History:
+content	experience	Genpact (External Client: GLAXO SMITHKLINE)
+content	experience	Genpact Limited is a global leader in Business Process and Technology Management, Today it is operating in more than 17+ Countries worldwide.
+content	experience	Responsibilities: Responsible for Managing Accounts Payable – Invoice processing
+header	experience	Job responsibilities Include:
+content	experience	· Processing the AP Invoices for US, Canada Regions
+content	experience	· Intercompany Invoices Processing
+content	experience	· Preparing GIT reports (Goods in Transit Report) for Inter Company.
+content	experience	· Processed Payment Details Updating to vendors, Via E-Mail.
+content	experience	· Invoices Reconciliation.
+content	experience	· Service Invoices Fallow up and Processing.
+content	experience	· Working on payment Exceptions and Rejections.
+content	experience	· Working on Blocks (System blocks)and Audit Blocks.
+content	experience	· Interacting with the clients to resolve the Issues.
+content	experience	· Lead the team in the absence of team Leader.
+header	others	Achievements:
+content	others	· Received internal & external Customer Appreciations
+content	others	· Received Bronze Awards twice for exceeding expectations.
+header	education	Educational Qualification:
+content	education	· M.B.A with Finance Stream.
+content	education	· Bachelor of Commerce with Computer Applications.
+header	knowledge	Technical Skills:
+content	knowledge	· SAP-FICO R/3
+content	knowledge	· Tally
+content	knowledge	· Web Ex Online Accounting Package
+content	knowledge	· Pact Accounting Software
+content	knowledge	· MS-Office
+header	others	Personal Details:
+header	knowledge	Languages Known
+meta	knowledge	: English and Telugu
+meta	others	Hobbies
+meta	others	: Watching and playing Cricket, playing with children’s
+header	others	Date of Birth
+meta	others	: 18th June 1982
+header	others	Marital Status
+meta	others	: Single
+header	others	Current CTC
+meta	others	: 1.75 per Annum
+meta	others	Notice Period
+meta	others	: 1 Month.
+header	others	Declaration:
+meta	others	I am confident of my ability to work in a team and I hereby declare that the information furnished above is true to the best of my knowledge. I am also willing to relocate to anywhere.
+meta	others	Yourssincerely,
+meta	others	(C.RAMESH)

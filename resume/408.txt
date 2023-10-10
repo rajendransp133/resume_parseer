@@ -1,0 +1,58 @@
+meta	others	CV
+header	others	Resume
+meta	others	BHAGYSHREE RAVINDRA CHAVAN.
+meta	others	Residential Address:
+meta	others	Mob.No. 9821451769
+meta	others	R.No.9, Sai Aanad Society,
+meta	others	Dharmveer Nagar,Tulsidham
+meta	others	Ghodbundar Road,
+meta	others	Thane (W) - 400607
+meta	others	E-mail id: bhagyshree23@yahoo.in
+header	others	CARRIER OBJECTIVE:
+content	experience	I am seeking for an opportunity that allows me to fully utilize my knowledge and skills to continuously improve performance, productivity, and efficiency.
+header	education	ACADEMIC QUALIFICATION:
+content	education	Â· Current Education Level: T Y B.COM
+content	education	Examination & Year
+content	education	Board/
+content	education	University
+content	education	Class
+content	education	T Y B.Com - 2011
+content	education	Mumbai
+content	education	Second Class
+content	education	HSC - 2008
+content	education	Maharashtra
+content	education	First Class
+content	education	SSC - 2006
+content	education	Maharashtra
+content	education	First Class
+header	others	TECHNICAL EXPERTISE:
+header	education	TYPING SPEED:
+content	experience	30pm
+header	knowledge	COMPUTER KNOWLEDGE:
+content	knowledge	MS-CIT, Tally 9.0, MS OFFICE, MS WORD, MS EXCEL.
+header	experience	WORK EXPERIENCE:
+content	experience	Currently working with JMC AUTO INDUSTRIES as an Office
+content	experience	Assistant.
+content	experience	Responsibilities:-
+content	experience	Maintaining Sales & Purchase Register.
+content	experience	Maintaining Records in Tally.
+content	experience	Vouchering Entries in Tally.
+header	others	PERSONAL DETAILS:
+meta	others	DATE OF BIRTH:
+meta	others	23rd July, 1991
+header	others	AGE:
+meta	others	20years
+header	others	NATIONALITY:
+meta	others	Indian
+header	knowledge	LANGUAGES KNOWN:
+meta	knowledge	English, Marathi, and Hindi
+header	others	HOBBIES:
+meta	others	Painting, Cooking, Reading, Music.
+header	others	MARTIAL STATUS:
+meta	others	Single.
+header	others	DECLERATION:
+meta	others	I hereby declare that the above-mentioned information is correct and to the best of my knowledge and I bear the responsibility for the correctness of the above mentioned particulars.
+meta	others	Place: - Thane
+header	others	Date:
+meta	others	Signature
+meta	others	(BHAGYSHREE R. CHAVAN)

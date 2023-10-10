@@ -1,0 +1,70 @@
+meta	others	MohdSuhel
+meta	others	Mobile No.: 9904075164
+meta	others	Email: suhelmultani@gmail.com
+header	others	OBJECTIVE
+content	others	Highly dynamic, skilled and result-oriented IT Recruiting professional with commitment and client service. Seeking a position other than recruiter to utilize my skills and professional strengths in a renowned organization.
+header	experience	PROFESSIONAL ABRIDGEMENT
+content	experience	· Excellent Technical Recruiting experience from Junior to Senior Level over a spectrum of technologies.
+content	experience	· Demonstrated experience in planning and handling End-to-End Recruiting Process for IT includes sourcing, interviewing, salary negotiations, and closing.
+content	experience	· Possess strong understanding of Technical Requirements; deep sourcing skills and experience sourcing passive candidates; excellent candidate assessment skills.
+content	experience	· A resourceful, solution-focused professional with excellent interpersonal skills.
+content	experience	· Responsible, loyal, reliable, and independent worker with high level of enthusiasm and creativity.
+content	experience	· Possess excellent interviewing and candidate evaluation skills.
+content	experience	· Demonstrated track record of identifying and sourcing top IT professionals.
+content	experience	· Excellent knowledge on various job portals (Naukri, Monster, etc).
+header	knowledge	TECHNICAL SKILLS KNOWN
+content	knowledge	Operating Systems
+meta	others	:
+content	knowledge	Win 2003, XP, Vista & 7.
+header	knowledge	Office Productivity Tools
+content	knowledge	: MS Office 2003 and 2007 Basic, Ms-Excel Family.
+header	experience	OCCUPATIONAL CONTOUR
+content	experience	Collabera Technologies Pvt. Ltd
+content	experience	(www.collabera.com) 28th June 2011 to till date
+content	experience	Technical Recruiter
+content	experience	Collabera Technologies Pvt. Ltd
+content	experience	(www.collabera.com) 13th Dec 2010 – 28th June 2011
+content	experience	Assistant IT Recruiter
+header	experience	Description:
+content	experience	Collabera is a fast growing, end-to-end information technology services and solutions provider working with leading Global 2000 organizations from the Financial Services, Technology, Communications & Media, Manufacturing & Retail, Energy and Utilities domains. Collabera delivers highly responsive and innovative solutions that help clients to align their IT strategy with their business goals and address the most important IT needs today through a combination of consulting solutions, proprietary methodologies, assets based services and Collaborative Engagement Model.
+content	experience	Collabera employs over 6000 professionals across 19 offices and three world-class delivery centers in the US, Europe and India. We deliver a full portfolio of services that include IT Consulting, Application Development and Management, Independent Testing, Outsourced Product Development, Enterprise Software Solutions, Business Intelligence & Data Warehousing as well as Resource Augmentation.
+header	experience	Job Responsibility:
+content	experience	Roles and Responsibilities:
+content	experience	· Handling entire recruitment life cycle from sourcing and screening resumes to closure.
+content	experience	· Client servicing handling clients like IBM, Accenture, Siemens, Dell, JPMC etc.
+content	experience	· Performed extensive recruiting for Web Developers, Software Developers/Analysts, Database Developers/Administrators/Analysts/Architects, SAP Technical/Techno-functional & functional consultants etc.
+content	experience	· Understanding the Client / Functional & Technical Requirement.
+content	experience	· Understanding the detailed profile of persons required.
+content	experience	· Sourcing of the Resumes for the same - Internal Database / Personal Contacts / Job Portals, References, Executive Search.
+content	experience	· Coordinating internal activities like screening resumes on the basis of given specifications, short listing candidates for technical panel.
+content	experience	· Briefing the prospective candidates about the company background, practices, policies and recruitment procedures.
+content	experience	· Sending the right profile to the client organization.
+content	experience	· Arranging interviews of the short listed candidates.
+content	experience	· Acquiring the consent of the screened candidates as per the requirements.
+content	experience	· To assist the client and the candidates in post selection formalities
+content	experience	· Maintaining pertinent data of resumes for analysis. Maintaining a systematic and comprehensive database of candidates based on skill set, experience etc.
+header	education	EDUCATIONAL CREDENTIALS
+content	education	· Passed Advance Diploma in IT from United College, London in 2010
+content	education	· Passed Diploma in Electronics & Communication from Polytechnic, M.S. University in 2009.
+content	education	· Passed 10th from Zenith High School, Vadodara 2006.
+header	others	HOBBIES
+content	others	· Traveling.
+content	others	· Interacting with People.
+content	others	· Computer
+content	others	· Painting
+header	others	EXTRA CURRICULAR ACTIVITIES
+content	others	· President Award from Mr. APJ Abdul Kalam in Scouts & Guides for scouting since 2002.
+content	others	· Gold medalist in Korsalla National Art Competition.
+header	others	PERSONAL DETAILS
+header	others	Father Name
+meta	others	: Mr. Yusuf Multani
+meta	others	D.O.B
+meta	others	: 23rd July, 1990
+meta	others	Marital Status
+meta	others	: Single
+meta	others	Present Address
+meta	others	: H-4, G.Y Hakim’s Lane, Raopura, Vadodara.
+header	knowledge	Language Known
+meta	knowledge	: English, Hindi, and Gujarati.
+meta	others	I hereby declare that the given information is true to the best of my knowledge and belief.
+meta	others	(MohdSuhel Multani)

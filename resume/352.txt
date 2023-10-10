@@ -1,0 +1,95 @@
+meta	others	Name:- Vasudha Jawaharlal Kulkarni
+meta	others	Contact No:- 8007616821
+meta	others	Email Id:-
+meta	others	vasudhakulkarni12@gmail.com
+meta	others	_________________________________________________________________________________
+header	others	OBJECTIVE:
+header	others	To seek the challenging career position with a reputed organization where my talent, ideas and calibre are appreciated, encouraged & properly utilized.
+header	experience	EXPERIENCE:
+content	experience	Worked as Associate Customer Support Engineer for 6 months experience in Tech Mahindra for Vodafone Client.
+meta	others	_________________________________________________________________________________
+header	education	EDUCATIONAL QUALIFICATIONS:-
+content	education	Sr.No.
+content	education	Name of Examination
+content	education	Board/University
+content	education	Year of Passing
+content	education	Percentage/
+content	education	CGPA
+content	education	1
+content	education	M.C.A
+content	education	NMU, Jalgaon
+content	education	2015-2016
+content	education	60.0%
+content	education	2
+content	education	B.C.A
+content	education	NMU, Jalgaon
+content	education	2013-2014
+content	education	82.1%
+content	education	3
+content	education	H.S.C
+content	education	Nasik
+content	education	2010-2011
+content	education	77.17%
+content	education	4
+content	education	S.S.C
+content	education	Nasik
+content	education	2008-2009
+content	education	81.23%
+meta	others	_________________________________________________________________________________
+header	knowledge	TECHNICAL SKILLS:-
+content	knowledge	· Languages: C,C++, C#.NET
+content	knowledge	· Frameworks: ASP.NET MVC 5, .NET 4.0
+content	knowledge	· Database: Microsoft SQL Server 2008, MySQL.
+content	knowledge	· Web Designing: ASP.NET, HTML,CSS ,BOOTSTRAP, PHP
+content	knowledge	· Scripting Language: JavaScript
+meta	others	_________________________________________________________________________________
+header	project	PROJECT WORK:-
+content	experience	Internship:-
+content	experience	1. Title : Karlo Business
+content	experience	· Duration : 6 Month
+content	experience	· Technology : PHP, HTML, CSS
+content	experience	· Developed at : Sungare Technologies, Pune
+header	project	Project Details :
+content	experience	· Karlo Business provides the information to the users.
+content	experience	· If Someone is new in the City and he want to know the information about the Sofware Companies then he will get the information about that companies.
+content	experience	· In this project the users will also get the information about different categories such as Hotels, Medical and Health Care, IceCream Parlour etc.
+content	experience	· In this project the user will get the information very fastly.
+content	experience	· It provides local search and related services to users through multiple platforms.
+header	project	Academic Project:-
+content	experience	2. Title : Blood Bank Management System
+content	experience	· Duration : 1 Month
+content	experience	· Technology : VB.NET, MS ACCESS
+content	experience	· Developed at : Moolji Jaitha College, Jalgaon
+header	project	Project Details :-
+content	experience	· This project is developed for Blood Bank Management System in VB.NET and uses MS-Access in backend. Project keeps details of Donors, Patients and Employees.
+content	experience	· It shows the reports on Donor Report, Blood Collection Report and Blood Issue Report.
+meta	others	_________________________________________________________________________________
+meta	others	EXTRA CURRICULAR:-
+meta	others	· Attended 10 Days Workshop on Android at Institute of Management and Research, Jalgaon.
+meta	others	_________________________________________________________________________________
+header	education	CERTIFICATION:-
+content	education	· Certification Course in .NET from SEED INFOTECH, Pune
+content	education	Duration: 4 Months
+content	education	· Certification in MS CIT
+content	education	· Certification in Tally
+meta	others	_________________________________________________________________________________
+header	others	HOBBIES:-
+content	others	· Sketching
+content	others	· Sufing on Internet
+meta	others	_________________________________________________________________________________
+header	knowledge	STRENGTHS:-
+content	knowledge	· Positive Attitude
+content	knowledge	· Ability to work under responsiblity
+content	knowledge	· Believe in team work
+content	knowledge	· Hard working
+content	knowledge	· Sincerity
+meta	others	_________________________________________________________________________________
+header	others	PERSONAL INFORMATION:-
+meta	others	Martial Status :- Married
+meta	others	Date Of Birth :- 01/03/1993
+meta	knowledge	Languages Known:- Marathi, English, Hindi
+meta	others	_________________________________________________________________________________
+meta	others	DECLARATION:-
+meta	others	I here by confirm that above information is true to the best of my knowledge.
+meta	others	Sincerely,
+meta	others	Vasudha Jawaharlal Kulkarni

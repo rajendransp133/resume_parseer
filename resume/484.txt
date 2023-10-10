@@ -1,0 +1,104 @@
+meta	experience	Chaitanya Khatri Contact Number: 9819201059
+meta	experience	27 years, Male E-Mail: ckhatri8@gmail.com
+header	experience	Professional Synopsis
+content	experience	 Over 4 years of experience in the areas of Operations, maintenance of SLA and TAT, lease
+content	experience	assessment, Accounting/General Ledger, Vendor management, Accounts Payable and
+header	experience	Reconciliations
+content	experience	 Worked in the capacity of Team Lead-Operations, at Hexaware BPS and currently as Sr.
+header	experience	Process Associate in Capgemini
+content	experience	 Gained sound exposure in operational finance and client management
+content	experience	 Possess the ability of liaising with international clients, understanding the requirements and
+header	experience	executing as per the guidelines
+content	experience	 Handled projects of International fortune client like GE and DynCorp International
+content	experience	 Able to manage and lead people to achieve the targets
+content	experience	 Six Sigma Black Belt –Exemplar Global (ASQ)
+content	experience	 Well versed with the Six Sigma methodology and quality tools
+header	experience	Organizational Experience
+content	experience	Company: Hexaware BPS Duration: 6
+content	experience	th
+content	experience	November, 2013 – 16
+content	experience	th
+content	experience	November 2015
+content	experience	Designation: Team Lead Department: Operational Finance (FAO)
+content	experience	KEY DELIVERABLES
+content	experience	 Supported outsourced financial and operation activites of Dyncorp International,a US based private
+content	experience	military contractor
+content	experience	 Directed and overviewed activities of seven associates of the team
+content	experience	 Handled internal and external audits for the process
+content	experience	 Handled performance and review of 90 petty cash and 60 DPC reconciliations in Blackline and
+content	experience	performed certification for same for client review.
+content	experience	 Performed and reviewed journal entries through costpoint and passing of rectification entries in
+content	experience	costpoint after identification of erroneous transactions to reconcile the account in Blackline
+content	experience	 Prepared compliance reports like Oconus mapping, domestic workers’ compensation,employee
+content	experience	termination and quarterly revenue to identify the amount payable towards DynCorp’s domestic and
+content	experience	international employees
+content	experience	 Performed and reviewed recording of updated HFM data in Blackline on weekly basis
+content	experience	mailto:ckhatri8@gmail.com
+content	experience	 Performed assessment for monthly valuation of lease contracts like vehicle lease and property
+content	experience	lease in different countries for DynCorp, which was used as footnote in their balance sheet
+content	experience	 Liaising with clients, attending/resolving queries and identifying areas where the team(contractors)
+content	experience	can be of help to the client and proactively convince the client to transition any process or sub-process
+content	experience	 Identification of knowledge gaps within the team and implementation of cross training across team
+content	experience	 Refined operational controls in management reporting process, identified and implemented various
+content	experience	process improvements leading to reduced time and operational efficiency through six sigma tools
+content	experience	like Pareto Analysis, Fishbone Diagram, Control Chart, Run Chart
+content	experience	 Successfully implemented Kaizen projects for process improvements
+content	experience	 Preparation of review reports for senior management and client on a monthly basis
+content	experience	Organizational Experience
+content	experience	Company: Capgemini Duration: 11th February,2016 – Present
+content	experience	Designation:Senior Process Associate Department: Operational Finance (FAO) - VMCOE
+content	experience	KEY DELIVERABLES
+content	experience	 Handling the bank and supplier reconciliation for GE vendors across multiple locations in
+content	experience	various continents. Handled 32 Operating unit (OU) bank and supplier reconciliation for GE
+content	experience	 Uploading and reconciling the supplier information like bank details and supplier address in
+content	experience	systems viz., Aravo, Pascal and R12 as per the business requirement and subsequently
+content	experience	performing reconciliation for client review
+content	experience	 Addressing to issues faced by client in terms of payment in Pascal or supplier information in
+content	experience	R12 and providing vendor management resolutions to the client
+content	experience	 Currently working in GE VMCoE tax team which includes clearing of invoices across GE
+content	experience	operating units (OUs) stuck due to tax tolerance holds
+content	experience	 Coordinating with client ,AP team, PO requestor in order to identify hold and release the
+content	experience	invoice for payment to GE vendor
+content	experience	 Implemented six sigma methodology to reduce count of invoices on hold due to keying errors
+content	experience	 Earned the “Team of Quarter” recognition for successfully leading a team of 12 associates in
+content	experience	meeting client expectations within defined timelines
+content	experience	 Nominated for “Rising Star” in GE Taxcoe team for successful hold clearance of invoices for
+content	experience	new GE Operating Units
+header	knowledge	IT Skills
+content	knowledge	 Well versed with MS-Office & following Computer/Internet applications:
+content	knowledge	Minitab 17 Oracle R12
+content	knowledge	Blackline Hyperion Financial Management(HFM)
+content	knowledge	Aravo Quicken 2014
+content	knowledge	Cognos Oracle ARM (Account Reconciliation Management—
+content	knowledge	Fusion edition)
+content	knowledge	Costpoint Pascal
+header	education	Academic Qualification
+content	education	Qualification Institution Year of Passing Score
+content	education	PGDM –FINANCE ITM Business School,
+content	education	Kharghar
+content	education	2014 64%
+content	education	B.Com – Tax procedure and
+content	education	practice
+content	education	St. Aloysius
+content	education	College(RDVV)
+content	education	2012 66.36%
+content	education	H.S.C Christ Church Boys’
+content	education	School
+content	education	2009 73.6%
+content	education	S.S.C Christ Church Boys’
+content	education	School
+content	education	2007 76.6%
+header	knowledge	Certifications
+content	knowledge	Module Authorizing body Validity
+content	knowledge	Six Sigma Black Belt Exemplar Global -
+content	knowledge	Six Sigma Green Belt International Association for Six Sigma Certification
+content	knowledge	(IASSC) – Greycampus (Accredited Body)
+meta	others	-
+header	others	Personal Details
+meta	others	Date of Birth: 8
+meta	others	th
+meta	others	January, 1991
+meta	others	Residential Address: FLAT NO 17,5TH FLOOR,BUILDING F6 PRIYADARSHINI CHS, SPAGHETTI
+meta	others	COMPLEX, SEC-15, NEAR GOODWILL PARADISE, KHARGHAR,NAVI MUMBAI - 410210
+meta	others	Permanent Address: Plot no 12, Aman Plots, Rajul Township,Near DharamKanta,Jabalpur (M.P.) –
+meta	others	482001

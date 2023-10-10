@@ -1,0 +1,81 @@
+meta	others	Sunil Kumar BT
+meta	others	sunilkumarbt01@gmail.com
+meta	others	9743784702
+header	experience	PERSONAL SUMMARY:
+content	experience	· Having 3.5years of working experience in the field of FMCG and Digital Marketing, (Search Engine Optimization, Website Analysis, Traffic Tracking and Reporting)
+content	experience	· Specialized in Keyword research and analysis, On Page SEO - includes Meta creation, web site navigation changes, removing coding bugs to make a search engine friendly web page. Specialized in web traffic analysis using different analytic tools like Google Analytics, Web Trends.
+content	experience	· Proficient in Article, Press Release and Directory search and submissions. Having knowledge in pay per click (PPC). Excellent output in team work. Demonstrated ability to learn new technologies.
+header	education	Academic Credentials
+content	education	University
+content	education	Institute
+content	education	Percentage
+content	education	MBA
+content	education	RISM Bangalore
+content	education	63%
+content	education	Bachelor in Business Management
+content	education	JHPIMT Davangere
+content	education	67%
+content	education	Pre-University
+content	education	SSPU College, Bellary
+content	education	69%
+content	education	Matriculation
+content	education	SBHS Banvikal.
+content	education	56%
+header	knowledge	SKILLS:
+content	knowledge	Using Tools: Google Analytics and Google Webmaster Tool, Google Ad-Words Keyword Tool, IBP Ranking Reporting Tool, XENU, Copyscape, w3c validation, Link Popularity.
+content	knowledge	Certificate: Google Ad-words Certificate, Google Analytical Certificate, Digital marketing certificate from Inventateq
+header	experience	PROFESSIONAL EXPERIENCE:
+content	experience	Gulf eSoft LLP (OCT -2016 to Present)
+content	experience	Designations: Digital Marketing Expert
+content	experience	Primary Roles & Responsibilities:-
+content	experience	• Optimizing the websites to increase the traffic.
+content	experience	• Analysis of client’s web site, competitor analysis and top keywords analysis.
+content	experience	• Keyword Researching. Configuring, Google Webmaster Central Tool.
+content	experience	• On-Page and Off-Page Optimization. Content optimization: - Search engine friendly content development.
+content	experience	• Monitoring the Website Traffic with Google Analytics, Social Book Marking, Article Submission, Blogs Posting.
+content	experience	• Search Engine / Directory Submission and Paid Inclusion.
+header	project	Ecommerce Projects:
+content	project	https://www.gulfekart.com/
+content	project	https://www.gulfbuyzar.com/
+content	project	Rapid GPRS (SEP 2015 to SEP2016)
+content	project	Designation: SEO Executive.
+content	project	Working on developing Digital Marketing strategies for the E-Commerce websites, and also on SEO to improve the search engine rankings, on major search engine like Google. I am also a content writer, aspiring to achieve the distinguished writing skills
+header	project	Work Examples:
+content	project	www.smartstructures.in
+content	project	www.rixyncs.co.in
+content	project	www.designconsortium.co
+content	project	www.rapidgprs.com
+content	project	www.crmneeds.com
+header	experience	Responsibilities:
+content	experience	· Possess sound working knowledge of On-page and Off-page Optimization. Involving in selecting specific words and key phrases for which the site or individual pages–should be optimized.
+content	experience	· Having good experience in optimizing Meta Title, Meta Description, Meta Keywords, H1, H2, H3 and various HTML tags (on page optimization).
+content	experience	· Using tools (like Google Keyword Research to conduct ‘keyword analysis’ to identify which words are likely to be most effective.
+content	experience	· Coordinating with the Designer/Developer to make technical adjustments to web pages to ensure they are constructed in a way that does not prevent search engines from indexing them.
+content	experience	· Analysing the site from the SEO point of view, Implementing 301 Redirect, Correcting Broken Links, Canonical Redirect.
+content	experience	· Building proper back links for better rankings in SERPS. Submitting websites in various search engines like Google, Yahoo, MSN and so on and also in various directories and link exchange web sites.
+content	experience	· Tracking website users using Web Analytics (Google Analytics).
+content	experience	Bisleri International Pvt Ltd. Bangalore (Jan 2015 – Aug 2015)
+content	experience	BisleriKnown all over India as the brand that pioneered the concept of mineral water, bottled with its distinct green label, today Bisleri is a household name.
+header	experience	Responsibilities:
+content	experience	· Implementing original sales strategies to achieve exceptional results and hit KPIs.
+content	experience	· Fostering strong relationships with major supermarket chains, Restaurants and HUREKA outlets.Solving point-of-purchase marketing challenges in collaboration with the marketing team.
+content	experience	· Managed a range of medium to large retail clients in my region, upselling and cross-selling as appropriate. Managed new leads and existing clients, pitching the expanding range of products. Supported sales manager with developing and implementing sales strategies.
+content	experience	· Communicate customer orders and requirements to customer service and care department.
+header	others	Achievements
+content	experience	· As a team, consistently hit and surpass monthly sales targets.
+content	experience	· Consistently produced one of the top three highest sales revenues in Bangalore.
+content	experience	· Activated corporate accounts of MTR, PropertyTrolly and Magalon.
+content	others	SHERKHAN Pvt Ltd, Davangere
+content	experience	Worked as a Customer Relationship executive in Share khan Ltd
+content	experience	August 2013 to Dec 2014.
+content	experience	· Provide Excellent Customer Service in professional Manner, Maintain New Accounts, Execute Trades For Customer (Walk-in And OTP)
+content	experience	· Provide Stock News to customers.
+content	experience	· Made a Recommendation on Buying and Selling stocks on through Market Research through Technical Analysis.
+header	others	Personal Dossier
+content	others	Father’s Name Thimmappa V
+content	others	Date of Birth 01/02/1987
+content	others	Nationality Indian
+content	others	Languages Known English, Kannada, Hindi
+content	others	Hobbies Playing basketball, Table-Tennis, Glass painting
+content	others	Permanent address No 434 JP Nagar 5th phase, 17th Main, 15th Cross,
+content	others	Bangalore-560078

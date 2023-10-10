@@ -1,0 +1,67 @@
+header	others	CURRICULAM VITAE
+header	others	RESUME
+meta	others	P. J. Krishna Kanth
+meta	others	47/2, Thirumalai nagar Annex,
+meta	others	Perungudi, Email
+meta	others	: pjkrishnakanth939@gmail.com Chennai - 600096 Mobile : +91 7358557591
+header	others	CAREER OBJECTIVE:
+content	others	I aim to associate myself with an esteemed organization that gives me scope to apply my knowledge and skills in the area of development of applications in software industry and acquire new skills.
+header	experience	PROFESSIONAL OVERVIEW:
+content	experience	Working as Software developer in Caddy Code Solutions, Chennai from July-2016 to till date.
+header	experience	SUMMARY:
+content	experience	· I have 1 plus years of experience as a Junior Software Developer, during which time I have worked in Caddy Code Solutions and developed some applications that are actively in use and adding value to their business.
+content	experience	· I have strong communication skills, dedication, positive attitude, and make personal effort in meeting deadlines and assisting fellow team members.
+content	experience	· Application development tools like Visual Studio, Word Press used.
+content	knowledge	· Knowledge on HTML, Bootstrap, CSS, Jquery, Javascript, Angular Js, C#.NET, MVC, SQL Server, Entity Framework, LINQ.
+content	experience	· Possesses excellent analytical skills, problem solving, leading and learning skills as well as keen interest in the emerging technologies, excellent team player.
+header	experience	ACADEMIC QUALIFICATIONS:
+content	education	· B.Tech IT 2015
+content	education	Percentage of Marks: 63.4%
+content	education	Narayana Engineering College– Nellore, AP. (Under JNTU-Anantapur, AP)
+content	education	· Intermediate 2010
+content	education	Percentage of Marks: 76.9%
+content	education	Narayana Junior College-Nellore, AP. (Under AP State Board)
+content	education	· SSC 2008
+content	education	Percentage of Marks: 77.33%
+content	education	Ratnam EM School -Nellore, AP. (Under AP State Board)
+header	project	ACADEMIC PROJECT:
+content	experience	· TITLE : Securing personal health records in cloud computing.
+content	experience	· DESCRIPTION: This application is mainly used for securing the personal health records in the cloud. In this project all the data of the patient are stored in the cloud. Patient can check the details the details anywhere any time. The records of the particular person will be accessed by the patient, and the friends and the doctors. In case of emergency also it is very easy to check the details of the patient very easily.
+content	experience	Project: 9storage.com
+content	experience	Position: Front End Developer.
+content	experience	Environment: C#.NET MVC, SQL server, HTML5, CSS3, Bootstrap Framework 3.3.6, JavaScript and JQuery
+content	experience	Description: In this tenants can make a move in without admin intervention by paying the rentals online. The System will take care of all the billing and invoices and reminders to get their rentals online.
+content	experience	Responsibilities: Defined designed and developed the Front End User Interface, Navigation, HTML Layouts and Cascading Style Sheets, JavaScript, JQuery from concept to finish.
+content	experience	Project: 6storage.com
+content	experience	Position: Software Developer.
+content	experience	Environment: C#.NET MVC, SQL server, HTML5, CSS3, Bootstrap Framework 3.3.6, JavaScript and JQuery
+content	experience	Description: This project is used to automate the management of the self storage facility. In this tenants can make a move in without admin intervention by paying the rentals online. The System will take care of all the billing and invoices and reminders to get their rentals online.
+content	experience	Responsibilities: Writing C# code as per business requirement Defined designed and developed the Front End User Interface, Navigation, HTML Layouts and Cascading Style Sheets, JavaScript, JQuery from concept to finish.
+header	others	PERSONAL DETAILS:
+header	others	Father Name
+meta	others	:
+meta	others	P.VenkataRamanaiah
+header	others	Date of Birth
+meta	others	:
+meta	others	23rd Feb 1993
+header	others	Sex
+meta	others	:
+meta	others	Male
+header	others	Nationality
+meta	others	:
+meta	others	Indian
+header	knowledge	Language Known
+meta	others	:
+meta	knowledge	English, Telugu
+meta	others	Permanent Address : 3/890, Weavers Colony,
+meta	others	Lakshmipuram,
+meta	others	Nellore-524002, Andhra Pradesh.
+header	others	DECLARATION:
+meta	others	I hereby declare that all the information furnished by me in this application is true and correct to the best of my knowledge and belief.
+header	others	Place
+meta	others	:
+meta	others	Yours Faithfully:
+header	others	Date
+meta	others	:
+meta	others	(P.J.Krishnakanth)
+meta	others	pjkrishnakanth939@gmail.com

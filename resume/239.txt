@@ -1,0 +1,72 @@
+meta	others	Prateek Govil
+meta	others	prateekniet66@gmail.com | C-177, Sector – 51, Noida(UP) – 201301 | +91-9456667531
+meta	others	LinkedIn-https://www.linkedin.com/in/prateekgovil143/
+header	others	OBJECTIVE
+content	others	Passionate developer and ITSM tool Administrator with an experience of 4.3 years. Looking for Full time opportunity utilizing technical knowledge and skills obtained in Application development, Servicenow tool Implementation and Administration.
+header	education	Education
+content	education	Gautam Buddh Technical University, Uttar Pradesh
+content	education	Overall Percentage
+content	education	Bachelor of Technology – Information Technology, November 2012
+content	education	67.54%
+header	knowledge	Skills
+header	knowledge	Languages :
+content	knowledge	JAVA, javascript, HTML, CSS, Client scripts, Server Scripts in ServiceNow
+header	knowledge	Operating System :
+content	knowledge	Windows
+header	knowledge	ITSM Tools:
+content	knowledge	ServiceNow (Eureka, Geneva)
+header	knowledge	ITSM Modules :
+content	knowledge	Incident, Change, Problem, Knowledge, Configuration, Service Catalogs etc.
+header	knowledge	IDE :
+content	knowledge	Eclipse, Notepad++
+header	knowledge	DB :
+content	knowledge	MySql
+header	knowledge	ServiceNow Skills -
+content	knowledge	· Servicenow Administration experience in various modules like Incident, Change, Problem, Service Catalog, Homepage Admin, Service Level Management, System LDAP, System Import Sets, System Mailboxes, Workflow, User UI actions, System Update Sets, System Web Services, System Policy, System Applications, Onboarding data(project specific) and System Definition.
+content	knowledge	· Ability to perform CMDB related changes in the existing instances without a negative impact to production data.
+content	knowledge	· Ability to create registry events, Business rules, email templates and Email Notifications as per the customer requirements.
+content	knowledge	· Ability to create, customize and troubleshoot Workflows.
+content	knowledge	· Ability to create, customize and troubleshoot SLA’s.
+content	knowledge	· Ability to create Homepages, Gauges, Reports with the database tables.
+content	knowledge	· Ability to create Service Catalogs, Catalog client scripts, variable sets, UI policies.
+content	knowledge	· Ability to create form buttons, context menu items using UI Actions.
+content	knowledge	· Implemented email based integration to meet the business requirements.
+content	knowledge	· Working Knowledge of Domain Separation, Wizards, Workflow editor, Servicenow reporting.
+content	experience	· Attended Internal trainings of ITIL processes and worked collaboratively with process managers on issues.
+content	experience	· Experience with Object oriented programming concepts using core Java and Java Script.
+content	experience	· Java Scripting experience on the ServiceNow platform.
+content	experience	· Hands-on with ITIL Process implementation.
+content	experience	· Experience in adhering to Agile Methodology for creating enhancements and new functionalities in Servicenow.
+content	experience	· Expertise in leveraging JavaScript, HTML & CSS in ServiceNow platform.
+content	experience	· Experience in building Employee Self Service portals in ServiceNow.
+header	experience	Work Experience :
+content	experience	#1. [TCS Limited] Jan 2013 – May 2017
+content	experience	· Overall possessing 4 years & 4 months of IT experience especially in Tata Consultancy Services infrastructure management services.
+content	experience	· Worked as a Servicenow Administrator and developer at TCS for the past 2 years.
+content	experience	· Worked as a Java developer at for 1 year which includes experience in the technologies, J2SE, Websphere Portal Server, J2EE,MySQL, HTML and CSS.
+header	project	Project Profiles
+header	project	Project #1 Jan 2013 – March 2014
+content	experience	Tata Communications Limited
+content	experience	Tools: Core Java, HTML5,CSS - using Eclipse Toolkit, IBM’s Websphere Portal Server, MySql.
+content	experience	Project Description – Next Generation Portal Team
+content	experience	This is the Centre of excellence for the complete Java practice, where we develop complex web portals multiple clients and provide end to end support to users.
+header	experience	Roles and responsibilities
+content	experience	· UI Page development
+content	experience	· Implementing Business logic using JavaScript
+content	experience	· Involvement in meetings to gather requirements
+content	experience	· Coding using Core java methodologies.
+header	project	Project #2 March 2014 – May 2017
+content	experience	ITSM Tool ServiceNow Implementation for multiple clients – Apple, Qiagen, Melco Crown Entertainment(GE ODC)
+content	experience	Tools : ServiceNow Cloud Platform, Java Script, Sql DB.
+header	project	Project Description
+content	experience	ServiceNow Implementation(Eureka), Configuration and Administration for above clients as an Administrator cum Developer.
+header	experience	Roles and responsibilities:
+content	experience	- Implemented Collaboratively various Service Now Modules from scratch – Incident Management, Change Management, User management, Problem Management, Knowledge Management, etc
+content	experience	- Worked Collaboratively with development team on LDAP, SCOM, Email Integration using Web Services, SOAP, REST API’s.
+content	experience	- Implemented Service Catalogs and Configured Employee Self Service Portals for Clients.
+content	experience	- Handled BAU Operations as a part of Administrator to fix day to day issues on various Modules
+content	experience	- Configured ACLs, Business Rules, Client Scripts, Server Scripts, Workflows for Modules.
+content	experience	- Worked on Domain Separation, Record Producers, Workflow Editor, Wizards, Reporting by following best practices.
+content	experience	- Worked with process teams collaboratively and attended ITIL workshops and seminars to attain sound knowledge of ITIL framework.
+header	education	Certifications
+content	education	· ServiceNow Certified System Administrator (January 2015)

@@ -1,0 +1,78 @@
+meta	others	Debashish panda
+meta	others	Shibashish Panda
+meta	others	B.COM (Hons.), ICWAI (Final)
+meta	others	shiba7only4u@yahoo.co.in
+meta	others	Mob No: +917845365030
+header	others	Career Objective : To contribute to the success and growth of my Employer,
+content	others	by taking challenging assignments, which could give me higher job security and opportunities for self improvement in all aspects.
+content	others	Area of interest: ACCOUNTING, COSTING, AUDITING, FINANCE & TAXATION.
+header	experience	PROFESSIONAL EXPERIENCE: Working with Chartered Accountants Firm & Audit of conducting Banks, Public sector Cos. & NEC (CIL) from March 2008 to till date.
+header	project	PROJECT DETAILS:
+content	experience	Technology Used : TALLY (VAT, SALE TAX, SERVICE TAX, TDS, P/L, B/S)
+content	experience	Role : ACCOUNTANT TRAINEE
+content	experience	Team Size : 4
+content	experience	Duration : 5 months
+content	experience	Client : Saraswat Infrastructure Pvt. Ltd, Chennai
+header	education	Qualification:
+header	education	Education
+content	education	University/Institution
+content	education	Year of Passing
+content	education	Marks (%)
+content	education	10th
+content	education	C.S.B.Zilla School,Sambalpur
+content	education	2002
+content	education	67
+content	education	+2 (Com)
+content	education	B.J.B. Jr. College,Bhubaneswar
+content	education	2004
+content	education	51
+content	education	B.Com (Hons.)
+content	education	K.B.D.A.V. College,Khurda
+content	education	2007
+content	education	61
+content	education	(With Distinction)
+content	education	I.C.W.A.I
+content	education	Inter
+content	education	ICWAI
+content	education	Kolkata
+content	education	2009
+content	education	52
+content	education	& 50
+content	education	I.C.W.A.I
+content	education	Final
+content	education	ICWAI
+content	education	Kolkata
+content	education	2011
+content	education	50
+content	education	& Cont…
+header	knowledge	Skills:
+content	knowledge	Computer Fundamentals
+content	knowledge	MS – Power Point
+content	knowledge	Operating System
+content	knowledge	Accounting Packages(TALLY)
+content	knowledge	Word Processing
+content	knowledge	Web Technology
+content	knowledge	MS - Excel
+content	knowledge	Visual Basic
+content	knowledge	Database Management
+content	knowledge	System
+content	knowledge	Digital Signature & Verification of Electronic Record
+header	others	Personal Information:
+meta	others	Date of Birth: 16th February 1987
+meta	others	Sex: Male
+content	knowledge	Languages Known: English, Hindi & Oriya.
+meta	others	Hobbies: Playing Cricket, Listening Music.
+meta	others	Contact Details:
+meta	others	Permanent Address:
+meta	others	S/O-Nabakrushna Panda
+meta	others	At-Fulwar Kasaba
+meta	others	Via-Motiganj
+meta	others	Orissa (Balasore)
+meta	others	Pin: 756003
+meta	others	Phone: +919861676750
+meta	others	Email-debuonly4u@yahoo.co.in
+meta	others	Declaration:
+meta	others	I do here by declare that the above written particulars are true to the best
+meta	others	Of my knowledge and belief.
+meta	others	Date:
+meta	others	Place: (SHIBASHISH PANDA)

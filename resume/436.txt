@@ -1,0 +1,100 @@
+meta	others	Divakar
+meta	others	Divakar. T
+meta	others	Address: #2, Ground floor,6th Main, NGR layout, Rupena Agrahara, Bangalore.68 Mobile: +91-9901909427, Email id: divakardd@gmail.com
+header	others	Summary
+content	others	· An astute professional with 8 years of experience at leading people management activities, maintaining healthy employee relations, handling employee grievances thus creating an amicable & transparent environment.
+content	experience	· Experienced in compensation and benefits.
+content	others	· Formulating policies on reward and recognition.
+content	others	· An effective communicator with excellent relationship management, negotiation and analytical skills.
+content	others	· Accolades for new initiative
+header	experience	Experience
+content	experience	Organization: Infosys BPM
+content	experience	Duration: October 2015 to till date
+content	experience	Role: Assistant Manager - Business Partner HR
+content	experience	Key Responsibilities
+content	experience	· Managing HR delivery for an account spanning over 800 professionals.
+content	experience	· Partner with business to implement the entire HR operations framework.
+content	experience	· Worked with account level managers to provide guidance/coaching on performance issues, appraisal feedback and employee relations issues.
+content	experience	· Managed Talent mapping plan for the engagement.
+content	experience	· Managed Performance Appraisal and Promotional Cycles in assigned business units.
+content	experience	· Developed and implemented career development plan for the engagement.
+content	experience	· Employee’s counseling on various issues pertaining to work, inter-personal issues.
+content	experience	· Managed rewards & recognition program to maintain reliance between management & employees.
+content	experience	· Developed and implemented actions identified from ESAT surveys to improve employee engagement, communication and training.
+content	experience	· Advised top management on appropriate employee corrective actions.
+content	experience	· Work on employee retention as per Early Warning indicator forecast proactively and also basis the resignations raised.
+content	experience	· Managed separation process, also conducted exit interviews & made efforts to control attrition.
+content	experience	· Facilitate new-hire orientation.
+content	experience	· Drive change management organizational alignment.
+content	experience	· Partnered with HR Central Functions including Staffing, Diversity, Employee Relations, Compensation and Benefits, and Training to deliver processes to meet business objectives.
+content	experience	· Managed the internal communications such as HR newsletter, policy refreshers, dashboards, also managed publishing unit wise HR reports.
+content	experience	Role: Associate Lead Business Partner HR
+header	experience	Key Responsibilities
+content	experience	· Worked with account level managers to provide guidance/coaching on performance issues, appraisal feedback and employee relations issues.
+content	experience	· Managed Performance Appraisal and Promotional Cycles for associates in assigned business units.
+content	experience	· Employee’s counseling on various issues pertaining to work, inter-personal issues.
+content	experience	· Managed rewards & recognition program to maintain reliance between management & employees.
+content	experience	· Facilitate new-hire orientation.
+content	experience	· Work on employee retention as per Early Warning indicator forecast proactively and also basis the resignations raised.
+content	experience	· Managed separation process, also conducted exit interviews & made efforts to control attrition.
+content	experience	· Managed the internal communications such as HR newsletter, policy refreshers, dashboards, also managed publishing unit wise HR reports.
+content	experience	Organization: HGS
+content	experience	Duration: May 2010 to October 2015
+content	experience	Role: Sr. Executive Human Resources (Employee Relation)
+header	experience	Key Responsibilities
+content	experience	· Responsible for organizing induction program for new hires.
+content	experience	· Handling statutory requirement of the location
+content	experience	· Handling day to day employee grievances and ensuring prompt resolution of employee grievances to maintain cordial management-employee relations and achieve dedication by workers.
+content	experience	· Accountable for planning and facilitating employee engagement activities.
+content	experience	· Managing rewards & recognition program to maintain reliance between management & employees.
+content	experience	· Employee’s counseling on various issues pertaining to work, inter-personal issues.
+content	experience	· Accountable for separation process, also conducted exit interviews & made efforts to control attrition.
+content	experience	· Accountable for communication programs such as HR newsletter, all internal communication with employees on policies.
+content	experience	· Accountable for MIS and HR Dashboards.
+content	experience	· Also worked on entry level hiring for period of 6 months.
+content	experience	Role: Executive Human Resources (Compensation & Benefits)
+header	experience	Key Responsibilities
+content	experience	· Handled the Insurance for India delivery.
+content	experience	· Managed the HRIS system for India delivery.
+content	experience	· Accountable for onboarding formalities of the new hires
+content	experience	· Handled employee grievances related to Salary, ESIC and PF.
+content	experience	· Maintained all the MIS reports related to onboarding and statutory.
+content	experience	· Maintaining employee personal dossier.
+content	experience	· Supported payroll processes.
+content	experience	Organization: Aegis
+content	experience	Duration: Oct 2009 to Feb 2010
+content	experience	Role: Intern HR
+header	experience	Roles & Responsibilities
+content	experience	· Have done a project on Organizational development.
+content	experience	· Employee Personal Files auditing.
+content	experience	· Assisting in Joining Formalities
+content	experience	· Assisting in Handling Employee Queries related to Payroll, ESIC and PF.
+header	others	Achievements
+content	others	· Recognized as Rising Star in Q2 2016 and Individual Extra Miler Q2 2017
+content	others	· Received best employee of the quarter.
+content	others	· Accoladed for new initiative such as 10 Min with HR, New letters.
+content	others	· As a SPOC for employee relations related audit, had successfully got through ISO first time certification for the location.
+content	others	· Received accolades for on time completion of performance appraisals.
+content	others	· Accoladed for initiating CSR activity in the location.
+header	project	Academic Projects
+content	project	· Developed and designed ‘Training module for ehancing the group dynamics’ for financial solution company.
+content	project	· Designed the ‘Recruitment processes for the post of Software Engineer in a software company.
+content	project	· Developed a Business plan and designed the operational & HR component for a restaurant.
+content	project	· Quality test analysis: Analyzed quality test for an Aqua mineral company (Varsha Aqua minerals) and studied their six sigma practice.
+content	project	· Designed software for customer interactive profile: Done project on creating user interactive company profile for the company “Hi-Tech Arai Ltd”
+header	education	Educational Qualification
+header	education	Post Graduate
+content	education	: MBA with specialization in HRM Passed in first class (63%) from Edith
+content	education	Cowan University, Western Australia (Jul 08 - Feb 2010)
+content	education	PG Diploma
+content	education	: PG Diploma in Labor Law & Admin Law from Madurai Kamaraj University, Madurai.
+content	education	Graduate
+content	education	: B.Sc (Information Technology) Passed in First class (64%) from Yadava
+content	education	College affiliated to Madurai Kamaraj University, Madurai (Jun 05 – Apr 08).
+header	knowledge	Certifications
+content	knowledge	· Certification on Effective HR Business Partner by SHRM
+header	others	Declaration:
+meta	others	I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above-mentioned particulars.
+meta	others	Date: 22 January 2018
+meta	others	Place: Bangalore
+meta	others	Divakar T

@@ -1,0 +1,74 @@
+meta	others	GODA RAMU GOUD
+meta	others	Phone: 09700888606; Email: ramuauroras@gmail.com
+header	experience	CAREER PROFILE
+meta	experience	Overview
+content	experience	· Associated with Formula Advisory Network (A subsidiary of PKF Sydney) since Feb 2014.
+content	experience	· Excellent knowledge of all Finance Operation activities which include Accounts payable, accounts receivable, General ledger and credit control.
+content	experience	· Expertise in Australian Payroll and Compliance activities.
+content	experience	· Performance oriented professional good at supervising staff and getting things done.
+content	experience	Formula Advisory Network (Feb 2014 – Till date)
+content	experience	Designation:
+content	experience	Team Leader (Payroll) – from Jan 2017
+header	experience	Key Profile:
+content	experience	· Responsible for weekly payroll processing for 60 clients (which are Australian Pubs).
+content	experience	· Coordinating with clients in Australia for payroll exceptions for the week, if any.
+content	experience	· Ensuring that the processors complete the payroll workings within the given TAT.
+content	experience	· Performing 1st level review of Payroll before passing it on for further review.
+content	experience	· Ensure all payrolls are sent for client approval the same day of their receipt.
+content	experience	· Liaise with Senior client relationship managers and business contacts for approval of payroll.
+content	experience	· Ensure that team uploads all payrolls within the bank cut off time.
+content	experience	· Address and resolve all the queries raised by clients, if any, on the payroll.
+content	experience	· Resolving the technical issues the team may face during the entire payroll process in NetSuite.
+content	experience	· Audit of all changes made by team on the payroll as per client requests.
+content	experience	· Preparation and presentation of weekly metrics to the Senior Management.
+content	experience	· Monthly Compliance:
+content	experience	· Ensuring that the payroll tax for month is calculated, reviewed and sent to client as per time frame.
+content	experience	· Coordinating on preparation of IAS and BAS for all the clients as per the SLA.
+content	experience	· Coordinating on the Super calculations and processing as per SLA.
+content	experience	· Liaising with Senior Client relationship managers and business contacts for approval of compliance items.
+content	experience	· Reconciliation of ATO statements as part of monthly management reports.
+header	experience	Designation:
+content	experience	Senior Accounting Processor – from Feb 2014 to Dec 2016
+header	experience	Key Profile:
+content	experience	· Worked as Accounting Processor with Formula Advisory Network (previously Sullsquared Solutions Pvt.Ltd.), A Subsidiary of PKF Lawler Partners Ltd, Australia
+content	experience	· Processing Payroll of Pubs & Bars on weekly basis.
+content	experience	· Weekly Accounts Payables.
+content	experience	· Recording Invoices into system and chasing up missing bills from vendors.
+content	experience	· Completing all compliance activities.
+content	experience	· Responding to supplier queries.
+content	experience	· Ageing anaysis.
+content	experience	· Day to day Bank Reconciliation.
+content	experience	· Preparation of Monthly Management Reports with supporting documents.
+content	experience	· Performing month end closing activities such as accruals, looking into prepaids and posting provisions.
+content	experience	· End to end of Book Keeping functions.
+content	experience	Other responsibilities:
+content	experience	· Training new staff on all processes.
+content	experience	· Helping team with the preparation of working papers for month end reports.
+header	education	Academics
+content	education	· Master’s Degree – Master of Business administration (Finance) from Osmania University, Hyderabad.
+content	education	· Bachelor’s Degree – Bachelor of Science from Osmania University, Hyderabad.
+header	knowledge	Technical Skills
+content	knowledge	· Well versed with MS-Office
+content	knowledge	· Working Knowledge on NetSuite, Deputy and Invitbox
+content	knowledge	· Proficient working with Xero
+content	knowledge	· Proficient handling of generation of reports on Adaptive.
+header	others	Achievements & Extra Curriculars
+content	others	· Received best employee award in October 2014
+content	others	· Actively participated in Blood donation camps in college and at work.
+content	others	· Coordinated all events conducted at college.
+content	others	· Participated in Management events and won second prize for quiz competition.
+header	knowledge	Skills
+content	knowledge	· Ability to work under pressure
+content	knowledge	· Punctuality
+content	knowledge	· Self Motivated
+content	knowledge	· Quick Learner
+content	knowledge	· Team Player
+content	knowledge	· Good Leadership traits
+header	others	Personal Particulars
+meta	others	· Permanent Address: Amberpet, Hyderabad
+meta	others	· Father’s Name: G Satyanarayana
+meta	others	· Date Of Birth: 09-09-1988
+meta	others	· Nationality: Indian
+meta	others	· Interests: Swimming, reading newspaper, watching cricket, playing with kids
+meta	knowledge	· Languages known: English, Hindi, Telugu
+meta	others	References will be furnished upon request

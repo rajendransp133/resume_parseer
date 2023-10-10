@@ -1,0 +1,49 @@
+meta	others	CHETANA GAJJAR
+meta	others	Email: chetanagajjar66@gmail.com
+meta	others	Phone: 9909818446
+meta	others	CURRICULUM VITAE
+header	others	CAREER OBJECTIVE
+content	others	To work in a dynamic business environment that provides me a vide spectrum of
+content	others	experience and exposure.
+content	others	To bring a dynamic portfolio of skills and to serve with positive attitude and efficiency
+content	others	so as to align self-development with organization’s development.
+header	others	PROFESSIONAL
+content	others	 C.A - CPT Cleared in the month of December 2010
+header	education	QUALIFICATION
+content	education	 C.A - PCC Cleared in the month of May 2012.
+content	education	 C.A-FINAL Appearing.
+header	education	ACADEMIC
+content	education	B. Com ( Gujarat University) : 62.22%, March 2013
+content	education	 H.S.C. (GSHEB) : 85.43%, March 2010
+header	education	QUALIFICATIONS
+content	education	 S.S.C. (GSHEB) : 68.46%, March 2008
+content	education	A) My Interest Area: Taxation , Finance , Accounts.
+content	education	B) Articleship: With M/s Deepak C. Gandhi & Co, Chartered Accountant.
+content	education	Major works I have done during my Articleship:
+content	education	Audit of pharmaceuticle Companies , Call centre , manufacturing
+header	experience	WORK EXPOSURE, Companies.
+content	experience	INTEREST & Accounting work of verious private limited companies and firms.
+content	experience	ARTICLESHIP
+content	experience	Scrutiny of Accounts.
+content	experience	Filling of Income Tax Returns , TDS Returns ,Service Tax Returns.
+content	experience	Finalization of Private Limited Companies and Firms and others.
+content	experience	Work of Income Tax.
+header	knowledge	COMPUTER SKILLS
+content	knowledge	 Completed 100 Hrs of ITT training under ICAI, Ahmedabad.
+content	knowledge	 MS Excel, MS Word, MS PowerPoint
+content	knowledge	 Tally 9.0, Tally ERP , Munim Software , Moniter Plus.
+content	knowledge	Reading Fiction Books-Indian Authors
+header	others	HOBBIES  Listening Songs, Watching Movies
+content	others	 Travelling-Particularly new places
+content	others	 Playing outdoor Games
+content	others	 Husband’s Name: Bhaumik J. Gajjar
+header	others	PERSONAL DETAILS
+meta	others	 Date of Birth : 03/12/1992
+meta	knowledge	 Languages Known: Hindi , English , Gujarati
+meta	others	
+meta	others	Residential Address: B-302, Silver Nest , Opp. ICB Flora, B/h Chetandham
+meta	others	Ashram, Gota, Ahmedabad.
+meta	others	 Marital Status: Married
+meta	others	 Nationality: Indian
+meta	others	DECLARATION  I hearby declare that above mentioned information is true and correct.
+meta	others	Chetana gajjar

@@ -1,0 +1,72 @@
+meta	others	Ashwith U Shetty
+meta	others	HARISH A. SHETTY
+meta	others	Room No. B-93,
+meta	others	Laxmi Nagar,
+meta	others	Lane No-08,
+meta	others	Pant Nagar,
+meta	others	Ghatkopar (East),
+meta	others	Mumbai – 400 072.
+meta	others	Mobile No: 98338 20906
+meta	others	E-mail ID: ha_shetty26384@yahoo.com
+header	others	CAREER OBJECTIVE:
+content	others	To begin a career as an executive in the field of Accounts Sector, where I can apply my existing knowledge and skill and contribute my best by adopting innovative and smart work.
+header	experience	WORKING EXPERIENCE:
+content	experience	Organization
+content	experience	Duration
+content	experience	Designation
+content	experience	Satish Shetty & Associates (CA Firm)
+content	experience	3 Years
+content	experience	Accountant
+content	experience	Sunraj Packaging Industries
+content	experience	5 Year
+content	experience	Accountant
+content	experience	ROLES
+header	experience	1. SATISH SHETTY & ASSOCIATES (C.A FIRM)
+content	experience	Regular Maintaining individual client’s books of accounts, Tax calculation and finalization of Profit & Los account and Balance Sheet, Auditing of different Organizations, Partnership Firm and Companies.
+content	experience	Gained the knowledge about:
+content	experience	· Accounts.
+content	experience	· Auditing.
+content	experience	· Income Tax
+content	experience	· Sales Tax
+content	experience	· TDS
+content	experience	· Making challans of Statutory dues
+header	experience	2. SUNRAJ PACKAGING INDUSTRIES
+content	experience	· Gained the knowledge about Accounts up to finalization.
+content	experience	· Gained the knowledge about taking order and billing.
+content	experience	· Sales Billing, Sales Register, Purchase Register.
+content	experience	· Gained Knowledge about TDS, VAT, CST And Excise.
+content	experience	· Quarterly VAT Returns, TDS Returns, Advance Tax & other Statutory liabilities.
+content	experience	· Salaries register of workers and staff.
+content	experience	· Maintaining Petty cash book.
+content	experience	· Letter Drafting.
+content	experience	· Full Co-Operation with Auditors during Audit.
+content	experience	· Preparation of Provisional Balance Sheet.
+content	experience	· Finalization of Accounts with CA.
+content	experience	· Preparation of documents for Loan purpose.
+content	experience	· Handling all office expenses.
+content	experience	· Handling Banking Works.
+content	experience	· Handling all over accounting works.
+content	experience	· AND also maintaining books of accounts sister concerned firms
+header	others	SUNRAJ CORRUGATORS
+header	others	GIRIRAJ INDUSTRIES
+header	others	MEETH INDUSTRIES and
+header	others	RIDDHI PACKAGING
+header	education	EDUCATIONAL PROFILE:
+content	education	· B.Com from Mumbai University, with second class 2006.
+header	knowledge	COMPUTER KNOWLEDGE:
+content	knowledge	· Knowledge of Microsoft Office.
+content	knowledge	· Internet.
+content	knowledge	· Tally 5.4, Tally 6.3, Tally 7.2 & Tally ERP 9.
+header	others	GENERAL:
+meta	others	Date of Birth : June 10, 1983
+meta	others	Nationality : Indian
+meta	others	Marital Status : Single
+header	others	PERSONAL INFORMATION:
+meta	others	· Interested in Accounts and Operation Job.
+meta	others	· Can freely interact with people from all walks of life.
+meta	others	· Strength-creative, hard working and honest.
+header	others	ASPIRATIONS:
+meta	others	· Would like to continue evolving as a strong-willed, self-developed human being.
+meta	others	· Have a passion for creativity, total involvement with assignments and sincerity of purpose.
+header	others	Date:
+meta	others	Place: Mumbai Harish Shetty

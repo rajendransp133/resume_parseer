@@ -1,0 +1,70 @@
+meta	others	ABDUL HAMEED M.A
+meta	others	ABDUL HAMEED M.A
+meta	others	ADDRESS: 11/386-B,
+meta	others	Near Sub Register Office,,
+meta	others	Old Court Road,Gudalur,
+meta	others	The Nilgiris-643212.
+meta	others	EMAIL ID: abdulhameed785@gmail.com
+meta	others	PHONE NO: 9788228937
+header	others	CAREER OBJECTIVES
+content	others	To continuously enhance my knowledge, skills and experience by getting involved in challenging work environment and utilize them for personal and organizational growth to the best of my ability.
+header	education	EDUCATIONAL QUALIFICATION
+content	education	Degree/course
+content	education	Institution
+content	education	Percentage
+content	education	Year of passing
+content	education	BBA (CA)
+content	education	Bharathiar University of Arts and Science College, Gudalur
+content	education	82%
+content	education	2018
+content	education	HSC-State Board
+content	education	St. Thomas Higher Secondary School, Gudalur
+content	education	86%
+content	education	2015
+content	education	SSLC-ICSE
+content	education	St. Thomas English High School, Gudalur
+content	education	84%
+content	education	2013
+header	knowledge	COMPUTER/TECHNICAL SKILLS
+content	knowledge	Area of interest
+content	knowledge	· Microsoft Word
+content	knowledge	· Tally
+content	knowledge	Software Known
+content	knowledge	· Microsoft Office
+content	knowledge	· Peach tree
+content	knowledge	· Quick Books
+content	knowledge	· Tally 9.0
+content	knowledge	· Oracle and Relational Database Management
+content	knowledge	· HTML
+content	knowledge	· Visual Basic
+content	knowledge	Programming language
+content	knowledge	· C, C++.
+header	others	EXTRA CURRICULAR ACTIVITIES
+content	others	· Won proficiency in my third year 2017-2018.
+content	others	· Participated in the SMAC event conducted by Nilgiri College of Arts and Science, Thaloor and reached the finals in “The Best Manager” category on 2017.
+content	others	· Participated in the Inter college Chess competition representing our department on 2018.
+content	others	· Participated in the JDC event conducted at Ooty HADP hall and gave a special song performance along with my troop on 2017.
+content	others	RESPONSIBLITIES UNDERTAKEN
+content	others	· Represented the class during 2st and 6th semester.
+content	others	· Active volunteer in inter college sports fest.
+content	others	· Acted as the program coordinator in inter department food fest 2018.
+header	others	PERSONAL DETAILS
+meta	others	Name : M.A. ABDUL HAMEED
+meta	others	Date of Birth :18-03-1998.
+meta	others	Father’s name : A.G. MOHAMMED ALI
+meta	others	Age :20.
+content	knowledge	Language Known : Tamil, English, Malayalam and Urdu
+meta	others	Hobbies : Travelling, Playing Cricket and Listening to music.
+content	others	REFERENCE
+meta	others	1. Dr. A.Jaganathan,
+meta	others	Head Of Department (BBA CA),
+content	others	Bharathiar University of Arts and Science College,
+content	experience	Gudalur.
+meta	others	2. Miss. A. Kayalvizhi,
+meta	others	Assistant Professor (BBA CA),
+meta	others	Bharathiar University of Arts and Science College,
+meta	others	Gudalur.
+meta	others	DECLARATION
+header	others	I hereby declare that all the above furnished information is true to my knowledge.
+header	others	PLACE :
+header	others	DATE :

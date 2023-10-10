@@ -1,0 +1,79 @@
+header	experience	Curriculum Vitae
+meta	experience	PRASENJIT MITRA
+header	others	CURRICULUM VITAE
+header	others	PERSONAL INFORMATION :
+meta	others	Name
+meta	others	PRASENJIT MITRA
+meta	others	Fathers Name
+meta	others	TAPAN KUMAR MITRA
+meta	experience	Address
+meta	others	135, Netaji Subhas Road, Behala. KOLKATA-700034
+meta	others	Telephone
+meta	others	9903539075(mob),9038683869(mob)
+meta	others	E-mail ID
+meta	others	prasenjitmitra_1985@yahoo.co.in
+meta	others	Nationality
+meta	others	INDIAN
+meta	others	Date of birth
+meta	others	12th JANUARY 1985
+meta	others	Marital status
+meta	others	SINGLE
+meta	others	Gender
+meta	others	MALE
+header	others	CAREER OBJECTIVES:
+content	others	· I am a B.COM (Hons) Graduate and seeking a position to utilize my skills and abilities in any industry that offers security and growth while being resourceful and flexible.
+header	education	EDUCATIONAL BACKGROUND:
+header	education	Year
+content	education	Examinations
+content	education	Name of the institution
+content	education	Major field of study
+content	education	Percentage of marks
+content	education	2001
+content	education	ICSE
+content	education	JULIEN DAY SCHOOL
+content	education	General
+content	education	57.33%
+content	education	2003
+content	education	ISC
+content	education	ST.JOSEPH & MARY`S SCHOOL
+content	education	Commerce
+content	education	59.5%
+content	education	2005
+content	education	B.Com Part-1 (Hons)
+content	education	SYAMAPRASAD COLLEGE
+content	education	Accounting & Finance(Hons)
+content	education	58.25%
+content	education	2006
+content	education	B.Com(Hons) Graduation
+content	education	SYAMAPRASAD COLLEGE
+content	education	Accounting & Finance (Hons)
+content	education	59%
+header	knowledge	COMPUTER KNOWLEDGE
+content	knowledge	· Operating systems ( Windows 98 & XP)
+content	knowledge	· Office / business applications (MS office)
+header	experience	WORK EXPERIENCE:
+content	experience	· Worked at IBM Daksh Business Process Pvt. LTD.as a Team Leader from 16th October 2006 to 30th June 2011.
+content	experience	· Presently working in Tech Mahindra Pvt LTD as a Team Leader since 8th Aug 2011.
+header	experience	special achievements AT WORK:
+content	experience	· On 27th June 2007, got promoted to Airtel Postpaid department for good performance over the last 5 months.
+content	experience	· On 22nd October 2007, got promoted as a Senior Executive Operations.
+content	experience	· On 1st August 2008, got promoted to Airtel Postpaid Retention Helpdesk.
+content	experience	· Awarded by IBM for 4 times as the STAR (Super Talented AchieveR) performer for 2nd and 3rd Quarter of 2008 , 2nd Quarter of 2009 and 1st Quarter of 2011 for excellent performance.
+content	experience	· On 26th November 2009, got promoted as an Operation Analyst (Lead Ops).
+content	experience	· Awarded as The Torch Bearer of IBM Values for the Year 2009.
+content	experience	· Awarded as the Top Talent of IBM for the Year 2010.
+content	experience	· Was a part of the Training Department of Tech Mahindra Aug’11 to Nov’11 .
+header	others	ADDITIONAL INFORMATION :
+content	others	Mother tongue
+content	others	Bengali
+header	knowledge	Other languages
+header	knowledge	• Reading skills
+content	knowledge	English, Hindi, Bengali.
+header	knowledge	• Writing skills
+content	knowledge	English, Bengali.
+header	knowledge	• Verbal skills
+content	knowledge	English, Hindi, Bengali
+content	others	HOBBIES:
+content	others	Listening music, playing cricket, reading books, playing computer games and spending time in Social networking sites.
+content	others	PAGE
+content	others	2

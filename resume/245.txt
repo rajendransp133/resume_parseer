@@ -1,0 +1,57 @@
+header	others	Curriculum Vitae
+header	others	Curriculum Vitae
+meta	others	Devarshi A. Patil
+meta	others	patil.devarshi@yahoo.in
+meta	others	Mobile-9768768276
+header	others	CAREER OBJECTIVE
+content	others	To achieve a rewarding position in your organization where my skills can develop and contribute to your objective while furthering my profession.
+header	education	EDUCATION QUALIFICATION
+content	education	Degree
+content	education	Year
+content	education	Board /university
+content	education	Class
+content	education	M.M.S (Finance)
+content	education	2010
+content	education	Mumbai
+content	education	First
+content	education	B.Com
+content	education	2005
+content	education	Mumbai
+content	education	Second
+content	education	H.S.C
+content	education	2002
+content	education	Maharashtra
+content	education	First
+content	education	S.S.C
+content	education	2000
+content	education	Maharashtra
+content	education	Second
+header	experience	WORK EXPERIENCE
+content	experience	· Worked as Accountant in C.A firm for 2 year
+content	experience	Vidhadhar Hari Patil & Co
+content	experience	From: Jan 2005 to April 2007
+header	project	KEY PROJECTS
+content	experience	· Summer Internship Project in Ratan Motors
+content	experience	Tenure : May-July 2009.
+header	project	Project Title : financial aspects of Maruti Suzuki with reference to Ratan motors
+header	experience	Project Guide: Mr.prashant sahu
+content	experience	· A project on Corporate Social Responsibility of Tata steel Ltd.
+content	experience	· A project on “Comparative analysis on Non Performing Assets in private and public sector banks”
+header	knowledge	ADDITIONAL QUALIFICATION
+content	knowledge	· Knowledge of MS-Office (MS-Word, MS-Excel) through MS-CIT Course.
+content	education	· Completed GDCA (Government Diploma in Co-Operations and Accountancy)
+header	others	PERSONAL DETAILS
+header	others	Name
+meta	others	: - Devarshi Ashok Patil
+meta	knowledge	Language Known : - English, Marathi, Hindi.
+meta	others	DOB : - 19th Oct 1983.
+meta	others	Marital Status : - Single.
+meta	others	Nationality : - Indian
+meta	others	Permanent Address : - At-Karave goan, Sec-36, Sai Wadi, H.no.376,
+meta	others	Post-Nerul, Navi Mumbai 400706
+meta	others	Hobbies and Interest : -, Movies, Computer Gaming, Astrology
+header	others	DECLARATION
+meta	others	I certify that the above mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above mentioned particulars.
+meta	others	Devarshi A. Patil
+meta	others	Date: / /
+meta	others	Place:

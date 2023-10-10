@@ -1,0 +1,80 @@
+content	others	Mitul Gupta
+content	others	S. Yeshwanth
+content	others	Contact No.: +91 9789979989/ E-mail: yeshwanth1908@gmail.com
+header	others	Summary
+content	others	Overall 5 years of hands-on experience in Accounts Payable, Payroll, KPO, ITES.
+content	others	Have good knowledge on Oracle EBS R12 Finance Functional & End user experience.
+header	education	Educational Qualifications:
+content	education	Bachelor of Business Administration (BBA) Madras University, 2012.
+content	education	Worked Environment: Oracle CRM, Kenan, Oracle EBS version R12.1.3, Fusion.
+header	experience	Work Experience:
+content	experience	Company Name: Capgemini
+content	experience	Designation: Process Associate
+content	experience	Role: Payroll, Invoice Processing (UAE Client)
+content	experience	Duration: Dec 18 – Till date
+header	experience	Payroll Processing:
+content	experience	· Performing daily payroll department operations End to End.
+content	experience	· Processing payroll for 10000 + employees accurately and efficiently
+content	experience	· Managing workflow to ensure all payroll transaction are processed accurately and timely
+content	experience	· Calculating the correct amount incorporating OT, Deductions, and Allowances etc.
+content	experience	· Processing adhoc request like Leave Salary, Salary advance, Release salary, Advance HRA etc.
+content	experience	· Preparing Full and final settlement
+content	experience	· Performing Salary reconciliation by comparing previous month register with current month register
+content	experience	· Validating all the inputs before proceeding with payroll process.
+content	experience	· Coordinating with other team to ensure no delay in the deliverables.
+header	experience	Invoice Processing:
+content	experience	· Processing Invoices on time to meet the client SLA.
+content	experience	· Ensure the process changes are communicated and implemented adequately.
+content	experience	· Ensure to process all the invoices are processed and payment made on time.
+content	experience	· Handling supplier’s queries and Escalations related to the Invoice processing.
+header	experience	Additional Activities:
+content	experience	· One month worked in Client location - Dubai UAE for Invoice processing.
+content	experience	· Got Best performer of the month award.
+header	experience	Work Experience:
+content	experience	Company Name: WIPRO
+content	experience	Designation: Officer
+content	experience	Role: Invoice & Expenses Processing, APHD (UK Client)
+content	experience	Duration: Nov 16 – Dec 18
+header	experience	Travel and Expenses:
+content	experience	· Working in employee expense process and generating the expenses report on daily basis.
+content	experience	· Processing all the expenses within the TAT, with 100% quality.
+content	experience	· Ensuring all the expense claims is processed and payment made on time to meet the client SLA.
+content	experience	· Handling client emails and investigating the root cause of delay, if any, in processing.
+content	experience	· Resolving payment queries and internal queries received through calls by Helpdesk Team.
+content	experience	· Working with IT team to resolve any interface issue and Performing QC for processed claims.
+header	experience	Invoice Processing:
+content	experience	· Processing Invoices on time to meet the client SLA.
+content	experience	· Ensure the process changes are communicated and implemented adequately.
+content	experience	· Ensure to process all the invoices are processed and payment made on time.
+content	experience	· Handling supplier’s queries and Escalations related to the Invoice processing.
+content	experience	Accounts Payable Help Desk –APHD
+content	experience	· Processing supplier statement reconciliation as per business and suppliers request on daily basis.
+content	experience	· Handling query for client and supplier e-mail on daily basis.
+content	experience	· Interact with suppliers and employees to provide information in response to inquiries, concerns and requests about Invoices, Purchase Orders & Expenses claim status.
+content	experience	From Apr 15 to Oct 16 Employment gap
+content	experience	· I have been taking the role of primary caregiver to my terminally ill brother due to Kidney failure.
+content	experience	Company Name: ITBMS
+content	experience	Designation: Technical Sourcing Specialist (US Staffing)
+content	experience	Role: Technical Sourcing Specialist (US Client)
+content	experience	Duration: Jul 14 - Mar 15
+header	knowledge	Technical Sourcing Specialist:
+content	knowledge	· Handling the Client Requirement which is allotted by BDM.
+content	knowledge	· Souring profile from various job portable, references.
+content	knowledge	· Understanding client requirement and specifications.
+content	knowledge	· Screening & Short listing profiles as per client’s requirements.
+content	knowledge	· Learned about the life cycle of US recruitment, familiar with the terms like H1B Visa, 1099, W2, Corp-to-Corp, H1 transfer and Green card processing.
+content	experience	Company Name: WNS Global Services
+content	experience	Designation: Associate-Ops
+content	experience	Role: Customer Support Executive (Domestic)
+content	experience	Duration: Sep 2012 - April 2014
+content	experience	· Worked as a CCE for Premium Postpaid customers.
+content	experience	· Interact with customers to provide and process information in response to inquiries, concerns and requests about products and services.
+content	experience	· Record details of inquiries, comments and complaints in CRM.
+content	experience	· Provide feedback on the efficiency of the customer service process.
+content	experience	Initiative taken:
+content	experience	· Finding Wrong NOCR’s in tagging.
+content	experience	· Working on finding Financial Deviation and fixing the Deviation.
+content	experience	· OG Barring & Unbarring, Suspend Acc Release (Unbarring OG&IC).
+meta	others	Date:
+meta	others	Place:
+meta	others	Yeshwanth. S

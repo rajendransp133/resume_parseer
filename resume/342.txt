@@ -1,0 +1,66 @@
+header	knowledge	SOFTWARE
+meta	knowledge	Adobe Illustrator
+header	knowledge	Adobe InDesign
+header	knowledge	Adobe Photoshop
+header	knowledge	Analytics
+header	knowledge	Android
+content	knowledge	APIs
+content	knowledge	Art Design
+content	knowledge	AutoCAD
+meta	others	SUVAM MAITY
+meta	others	Add:-11/H/6 SEAL LANE
+meta	others	KOLKATA-700015
+meta	others	Ph:- +91-9051033420
+meta	others	+91-9804524323
+meta	others	Email:- maitysuvam2015@gmail.com
+meta	others	D.O.B :- 23/03/1994
+header	others	OBJECTIVE
+content	others	To work in a challenging environment that provides opportunity to learn key technologies, be an effective team player in developing projects and to be an asset for the organization by delivering to the best of my capabilities by bringing on to the table:
+content	others	· My belief is in continuous learning and an innovative approach for problem solving
+content	others	· The ability to play the role of a team player with strong analytical, problem solving and organizational abilities
+content	others	· Self-Motivation, creation and innovation - willing to strive hard.
+header	education	Education
+content	education	B.TECH IN ELECTRONICS AND COMMUNICATION ▪ 2012 – 2016
+content	education	TECHNO INDIA BANIPUR (MAULANA ABDUL KALAM AZAD UNIVERSITY OF TECHNOLOGY, WEST BENGAL)
+content	education	DGPA:8.1
+content	education	▪2011-2012 (CISCE)
+content	education	GRACE LING LIANG ENGLISH SCHOOL(I.S.C )
+content	education	AGGREGATE% : 64
+content	education	▪2009-2010 (CISCE)
+content	education	GRACE LING LIANG ENGLISH SCHOOL (I.C.S.E)
+content	education	AGGREGATE%: 69.14
+header	project	TRAININGS/PROJECTS UNDERTAKEN
+content	experience	· MICrOCONTROLLER BASED EMBEDDED SYSTEM(HOME SECURITY SYSTEM)
+content	experience	NAME OF INSTITUTE/ORGANIZATION-ORIENS INFOTECH PVT LTD, KOLKATA CENTER
+content	experience	DURATION—
+content	experience	FOUR WEEKS
+content	experience	· Modern wireless communication through light
+content	experience	NAME OF INSTITUTE/ORGANIZATION-techno india banipur(formerly iercemiit)
+content	experience	DURATION—
+content	experience	one year
+header	knowledge	SKILLS
+content	knowledge	Able to Listen
+content	knowledge	Accept Feedback
+content	knowledge	Adaptable
+content	knowledge	Artistic Sense
+content	knowledge	Attentive
+content	knowledge	Communication
+header	knowledge	LANGUAGES
+content	knowledge	English (Read ,Write and speak)
+content	knowledge	Bengali (Read , Write and speak)
+content	knowledge	Hindi (Read ,write and speak)
+header	knowledge	COMPUTER PROFICIENCY
+content	knowledge	SUBJECTS OF INTEREST
+content	knowledge	Digital Electronics and Integrated circuits
+content	knowledge	Microprocessor and Microcontroller
+content	knowledge	Programming languages – C & Basics of JAVA
+meta	others	HOBBIES
+meta	experience	Guitar
+meta	others	Cricket
+header	experience	professional experience
+meta	experience	wizard e-marketing pvt.ltd
+meta	experience	job title: technical support engineering
+meta	experience	from : 01-12-2016 to: present
+meta	experience	job duties and responsiblites:
+meta	experience	I am working as technical support engineer .Who provides technical support to customer of US .We solve all kinds of problems and issue arising in their computer and related devices. We provide them with all kinds of security products. Accomplish real time trouble shooting of all system configurations over through calls.
+meta	others	–––––––––––––––––––––––––—

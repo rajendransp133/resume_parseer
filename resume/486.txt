@@ -1,0 +1,99 @@
+meta	others	Internship activity project in Finance & Accounts Department and
+meta	others	Human Resource Department at ‘LNV Technology Private Limited’
+meta	experience	Chennai a member of ‘Sinoma International Cement Company’
+meta	others	China.
+meta	others	Project based on Field work in Semmozhi Poonga - Chennai
+meta	others	Practical Computing Skills Record of Lab Work - Chennai
+meta	others	+91 755 017 5160
+meta	others	Chennai, India
+header	others	CAREER OBJECTIVE
+content	others	Acquire a challenging career with a solid position in the field of Finance
+content	others	and Accounts and utilizing the opportunity to offer proven and developing
+content	others	skills within the company.
+content	others	bhavishya.kk@gmail.com
+header	experience	INTERNSHIP AND PROJECTS
+content	experience	(2012)
+content	experience	(Apr 2017 – Jun 2017)
+header	education	EDUCATION
+content	education	ICMAI Inter-Cleared INTER
+content	education	GROUP II
+content	education	Pursuing Certified
+content	education	Management Accountant
+content	education	(USA-CMA)
+content	education	MASTER OF COMMERCE
+content	education	(GENERAL)
+content	education	Ethiraj College for Women-Chennai, India.
+content	education	BACHELOR OF
+content	education	COMMERCE (GENERAL)
+content	education	Meenakshi College for
+content	education	Women-Chennai, India
+content	education	(Jun 2016 – Apr 2018)
+content	education	(Jun 2009 – Apr 2012)
+header	experience	ACHIEVEMENTS / PARTICIPATION
+content	others	BHAVISHYA DEVI K.K
+content	others	Participated in National Conference on Rural Entrepreneurship: An
+content	others	Enterprise to Inclusive Growth conducted by Ethiraj College for
+content	others	Women.
+content	others	Member of Finance Committee in The National Conference on Rural
+content	others	Entrepreneurship: An Enterprise to Inclusive Growth conducted by
+content	others	Ethiraj College for Women.
+content	others	“Arena” winner conducted by Deloitte-Maverick @ Graduate School and
+content	others	presented Case Study related to Audit Assistant for “Colosseum”
+content	others	competition.
+content	others	Completed Computer Training Course conducted by ICAI in accordance
+content	others	with CA Course.
+content	others	(Jan 2018)
+content	others	(Dec 2016)
+content	others	(Jan 2013)
+content	others	www.linkedin.com/in/bhavishy
+content	others	akk074243107
+header	experience	ARTICLE ASSISTANT WORK EXPERIENCE
+content	experience	CA ARTICLE ASSISTANT
+content	experience	“RAMAN ASSOCIATE”
+content	experience	(Partnership Firm)
+content	experience	(Sep 2012 – Feb2015)
+content	experience	Experience gained as an Article Assistant:
+content	experience	Good Accounting, auditing and accounting standards knowledge.Tax
+content	experience	returns filing implied by Income Tax of India. Updated with current
+content	experience	budget Scenario. Handled Industrial, IT, Medical and various
+content	experience	Organisational Auditing.
+content	experience	Managed cash receivables, payroll, vouching, financials and budgets at
+content	experience	corporate and departmental level.
+content	experience	Performed financial statement audit work, Cash-flow management, P&L
+content	experience	management, Auditing and compliance.
+content	experience	Companies Audited: TamilNadu Newsprint and Paper Limited - Karur,
+content	experience	Derby Clothing Pvt Ltd, R-Bio Pharm Neugen Pvt Ltd (Multi National
+content	experience	Company), Ricky Garments Pvt Ltd, TTK Pvt Ltd, Forte Solution Pvt Ltd.
+header	others	INTEREST
+header	others	SKILLS
+header	others	COMMUNICATION
+content	others	LEADERSHIP
+content	experience	TEAMPLAYER
+content	others	CREATIVITY
+content	others	SOCIAL
+content	others	PERSONAL
+content	others	OTHER ACTIVITIES
+header	others	DECLARATION
+content	others	I hereby declare that the above details furnished by me are true to the best of my
+header	knowledge	knowledge.
+header	experience	EXTRA CURRICULAR ACTIVITIES:
+content	experience	Extensive Service in Jai Gopal Garodia Higher Secondary School as
+content	experience	a Teacher for the period of 6 months.
+content	experience	Single Teacher School Training for creating awareness on
+content	experience	education to poverty society.
+header	others	SPORTS:
+content	experience	Volleyball Player - Won in Inter School Level Competition.
+header	others	WORK INTEREST:
+content	others	Finance, Auditing, Taxation, Accounting.
+header	knowledge	COMPUTER APPLICATION PACKAGES:
+content	knowledge	Microsoft Office Suite, Tally ERP 9
+header	knowledge	LANGUAGES
+content	knowledge	ENGLISH
+content	others	TAMIL
+content	others	HINDI
+content	others	SANSKRIT
+content	others	GERMAN
+header	others	HOBBIES
+content	others	Drawing
+content	others	Bharathanatyam
+content	others	BHAVISHYA DEVI K K

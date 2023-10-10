@@ -1,0 +1,74 @@
+meta	others	SATYAM SHRIVASTAVA
+meta	others	DIGANTA PANIGRAHI
+meta	others	130 Narayana Reddy Layout, Near SGR Dental College
+meta	others	Bangalore-560037
+meta	others	E-mail: - diganta.panigrahi09@gmail.com
+meta	others	Phone: - +91-8105275955
+header	others	CAREER OBJECTIVE:
+content	others	Seeking a position to utilize my skills & abilities in the organization that offers professional growth while being resourceful, innovative and flexible.
+header	knowledge	TECHNICAL SKILLS
+content	knowledge	· Operating Systems: Windows, Unix
+content	knowledge	· Programming Languages: pl/sql, C, C++,.
+header	project	TRAINING AND PROJECTS
+content	experience	TRAININGS: System Engineer (Trainee).
+content	experience	Duration: Three Months.
+content	experience	Organization: Infosys Technologies, Mysore
+content	experience	Course Description: The course comprised of C, RDBMS, PL/SQL, and JAVA (BASICS) AND UNIX
+meta	others	
+header	project	PROJECTS
+content	experience	FINAL YEAR PROJECT: Industrial Monitoring System
+content	experience	Online shopping using html, online examination
+content	experience	PROJECT DURING TRAINING: Online Telephone Directory System
+header	education	EDUCATIONAL QUALIFICATIONS:
+content	education	DEGREE
+content	education	COLLEGE/SCHOOL
+content	education	UNIVERSITY/ BOARD
+content	education	YEAR OF PASSING
+content	education	CGPA/ PERCENTAGE
+content	education	B-TECH
+content	education	(Electronics and Telecommunication Engineering)
+content	education	Gandhi Institute for Technological Advancement , Bhubaneswar
+content	education	B.P.U.T University
+content	education	2009
+content	education	7.65/10
+content	education	10+2
+content	education	F.M.Junior College,Balasore
+content	education	C.H.S.E
+content	education	2003
+content	education	78.00%
+content	education	10th
+content	education	St.Vincent’s Convent School,Balasore
+content	education	I.C.S.E
+content	education	2001
+content	education	87.00%
+header	knowledge	PERSONAL SKILLS
+content	knowledge	· Analytical thinking & Planning
+content	knowledge	· Strong team player
+content	knowledge	· Strong verbal and personal communication skills
+content	knowledge	· Versatility and ability to relocate
+header	others	ACHIEVEMENTS
+content	others	· Participated in Mathematics Olympiad 2001.
+content	others	· Participated in 1500m Marathon during engineering and received 3rd prize.
+content	others	· Participated in Intra-college football championship during 2007 and were runners-up
+content	others	· Donated blood to Red Cross Society for humanitarian purpose.
+content	others	· Received 2nd prize in Mimicry Competition during school.
+header	others	HOBBIES
+content	others	· Reading novels and books
+content	others	· Travelling
+content	others	· Writing stories
+content	others	· Listening to soft music
+content	others	· Doing Social work
+content	others	· Playing Computer Games and Chess
+header	others	PERSONAL DETAILS:
+meta	others	Date of Birth
+meta	others	: 29th March 1986
+meta	others	Nationality
+meta	others	: Indian
+header	knowledge	Languages known : English, Hindi and Oriya
+meta	others	DECLARATION:
+meta	others	I hereby declare that the information given above is true to the best of my knowledge.
+meta	others	Place: Marathalli , Bangalore.
+meta	others	Signature
+meta	others	Date:
+meta	others	13-OCT-2011
+meta	others	Diganta Panigrahi

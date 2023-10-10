@@ -1,0 +1,68 @@
+meta	others	CURRICULAM VITAE
+meta	others	ANITHA PRASANNA KUMARI. D
+meta	others	NO.71,7TH CROSS STREET,
+meta	others	KALIGNAR KARUNANIDHI STREET,
+meta	others	SANTHOSHAPURAM, VENGAIVASAL,CHENNAI -600073
+meta	others	CELL NO.8939155703
+meta	others	E-MAIL ID anithajoe09@gmail.com
+meta	others	––––––––––––––––––––––––––––––––––––––––––––—
+header	others	CARRIER OBJECTIVE
+content	others	SEEKING A CHALLENGING POSITION TO DEMONSTRATE MY ABILITIES IN DEVELOPING APPLICATION SKILL WITH PERPETUAL GROWTH PROSPECTUS.
+header	education	EDUCATIONAL QUALIFICATION
+content	education	· B.COM (1994-1997)
+content	education	QUAID-E- MILLETH COLLEGE
+content	education	· M.COM (1997-1999)
+content	education	MEENAKSHI COLLEGE FOR WOMEN
+header	knowledge	TECHNICAL QUALIFICATION
+header	knowledge	· TYPEWRITING
+content	knowledge	ENGLISH LOWER
+header	knowledge	· COMPUTER KNOWLEDGE
+content	knowledge	MS OFFICE –WORD, EXCEL
+header	knowledge	· ACCOUNTING PACKAGE
+content	knowledge	TALLY 7.2 VERSION
+content	knowledge	NAVISION FINANCIAL (WORKING KNOWLEGE)
+header	experience	WORK EXPERIENCE
+content	experience	SIXTH SENSE LIFESTYLE PVT. LTD
+content	experience	WORK PERIOD : FEBUARY 2007 – 2011 JANUARY
+content	experience	DESIGNATION: ACCOUNANT CUM ADMINISTRATIVE EXECUTIVE
+header	experience	JOB EXPOSURE:
+content	experience	· RAISING BILLS, VOUCHERS & MAINTENANCE OF CORRESPONDENCE
+content	experience	· RAISING PURCHASE AND SALES BILLS
+content	experience	· CASH AND CHEQUE HANDLING
+content	experience	· BANK RECONCILIATION
+content	experience	· TDS CALCULATION AND PAYMENT
+content	experience	· COMPUTATION OF VAT
+content	experience	· MAKING CASH & BANK ENTRIES
+content	experience	· CO-ORDINATING WITH VENDORS & CUSTOMERS
+content	experience	· INVENTORY CREATION & MANAGEMENT & TAKING REPORTS
+content	experience	VEL COMPUTER SERVICES PVT.LTD
+content	experience	WORK PERIOD: DECEMBER 2001 TO APRIL 2005
+content	experience	DESIGNATION: ANNUAL MAINTENENACE CONTRACT CO-ORDINATOR
+header	experience	JOB EXPOSURE
+content	experience	· SENDI NG AMC & WARRANTY RENEWAL QUOTATIONS
+content	experience	· FOLLOWUP
+content	experience	· ATTENDING AMC ENQUIRIES
+content	experience	· MAKING AGREEMENTS
+content	experience	· RAISING BILLS & MAINTAINING PAYMENT DETAILS
+content	experience	· MAINTAINING CUSTOMER LIST
+content	experience	· ONLINE CALL LOGGING WITH DEALERS
+content	experience	· SEDING REPORTS TO DEALERS
+content	experience	HBI, KILPAUK
+content	experience	WORK PERIOD: SEPTEMBER 1999 TO AUGUST 2001
+content	experience	DESIGNATION: SECRETARY CUM ACCOUNTS ASSISTANT
+content	experience	JOB EXPOSURE: MAINTAINING ACCOUNTS, PETTY CASH & CORRESPONDENCE
+header	others	PERSONAL DETAIL
+header	others	NAME
+meta	others	: D.ANITHA PRASANNA KUMARI
+header	others	HUSBAND NAME
+meta	others	: A.JOSHUA BASKAR
+header	others	NATIONALITY
+meta	others	: INDIAN CHRISTIANITY
+header	others	DATE OF BIRTH
+meta	others	: 25.10.1976
+header	others	PERMANANENT ADDRESS
+meta	others	: NO.71, 7TH CROSS STREET,
+meta	others	KALIGNAR KARUNANIDHI STREET
+meta	others	SANTHOSHAPURAM, VENGAIVASAL, CHENNAI -73
+meta	others	CELL NO.8939155703.
+meta	others	E-MAIL ID – anithajoe09@gmail.com

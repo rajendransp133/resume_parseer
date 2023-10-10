@@ -1,0 +1,94 @@
+meta	others	Abhijeet Panda
+meta	others	Email:panda.abhi88@gmail.com
+meta	others	Contact:+91-89047-47426
+header	experience	Professional Summary
+content	experience	1. Having 2+ years of extensive experience in developing web based applications using J2EE Technologies like JSP, Servlets , Struts.
+content	experience	2. Have good knowledge of using various design patterns like Data Access Objects ( DAO ) , MVC, Singleton, Abstract Factory Method .
+content	experience	3. Experience in implementing various features like Validations and Internationalization using Struts Framework.
+content	experience	4. Exposure to OOPs and UML Techniques.
+content	knowledge	5. Having Knowledge in Hibernate.
+content	experience	6. Extensive knowledge on using JSPs and Servlets to build Web GUIs for J2EE based Applications.
+content	experience	7. Experience of using various data base engines like Oracle 10g.
+content	experience	8. Experience of involving in a complete Software Development Life Cycle with knowledge on V-Model and Agile Methodologies.
+content	experience	9. Experience of documenting Use Case Documents and Technical Specification Documents.
+header	education	Educational Qualification
+content	education	· Passed B.Tech with 69 % from BPUT in Odisha, Intermediate with 52% and 10th with 63% of marks.
+header	experience	Professional Experience
+content	experience	· Working as a Software Engineer in i-Noesis Solutions , Bangalore since June – 2010 to till date.
+header	knowledge	Technical Skills
+content	knowledge	Programming Languages
+content	knowledge	Java 5.0, C, C++,
+content	knowledge	J2EE Technologies
+content	knowledge	JSP 2.1, Servlets 2.4, JDBC 3.0,EL,JSTL,Custom Tags
+header	knowledge	Web Technologies
+content	knowledge	HTML4.0, CSS, Java Script
+header	knowledge	Frameworks
+content	knowledge	Struts1.2, Hibernate 3.0
+content	knowledge	IDE
+content	knowledge	Eclipse 3.4, Net Beans 7.0
+header	knowledge	Databases
+content	knowledge	Oracle 10g
+content	knowledge	Servers
+content	knowledge	Tomcat6.0 ,Web logic 8.0
+content	knowledge	Design Patterns
+content	knowledge	MVC ,DAO ,Singleton.
+header	knowledge	Tools
+content	knowledge	WinMerge,Log4j,vss,ClearQuest
+header	knowledge	Operating Systems
+content	knowledge	Windows XP ,Windows 7
+header	project	Projects Experience
+header	project	Project Title: SCRUM STUDIO
+content	experience	Role: Team Member
+content	experience	Description: ‘Scrum Studio’ is web-based Scrum tool to support the agile Scrum software development process, it is a very simple tool that is designed to help team to keep track of things like project progress and resource utilizations. For scrum based Agile projects ,it provides tools to create project, to create individual plans for developers, and to track the progress during an iteration and to balance the work load of developers.
+content	experience	High level module of this tool are:
+content	experience	· iteration planning
+content	experience	· Create and organize new work items
+content	experience	· Reading and modifying work items
+content	experience	· Track the overall progress
+content	experience	· Plan vacation
+header	experience	Responsibilities:
+content	experience	· Participated in the Process and Domain discussions.
+content	experience	· Involving in Designed and implemented user interface using Struts Framework.
+content	experience	· Doing Server side and client side validation .
+content	experience	· Involved in Code Review.
+content	experience	· Involved in bug fixing and production support.
+content	experience	Environment : Windows XP
+content	experience	Technology : Servlet, JSP, MVC, DAO, Java Bean, Oracle10g, Html, CSS, JavaScript
+content	experience	Tools : Eclipse 3.4, VSS, Win Merge
+content	experience	Server : Tomcat 6.0/Web Logic 8.0
+content	experience	Framework : Struts1.2
+content	experience	Team size : 6
+content	experience	Duration : Dec 2011-till date
+content	experience	Project Title: EMPLOYEE @ ORGANIZATION
+content	experience	Role: Team Member
+header	experience	Description:
+content	experience	It’s a web based project in the development of an enterprise’s application organization for employee profile and vacation management. These have three modules employee, HR and manager. Employee can update his details like personal information, skill set and work experience and leave vacation history. Employee can raise request for training and can see his previous completed training details. Manager can see about employee information and his performance. Manager can accept or deny employee leave request and that would be informed to the employee.
+header	experience	Responsibilities:
+content	experience	· Participated in the Process and Domain discussions.
+content	experience	· Involved in developing Controller (Servlet), View (JSP) and Model (Java Bean).
+content	experience	· Implemented required Database access using JDBC.
+content	experience	· Involved in Code Review.
+content	experience	· Involved in bug fixing and production support.
+content	experience	Environment : Windows XP
+content	experience	Technology : Servlet, JSP, MVC, DAO, Java Bean, Oracle, Html, CSS, JavaScript
+content	experience	Tools : Eclipse 3.4, VSS, Win Merge
+content	experience	Server : Tomcat 6.0/Web Logic 8.0
+content	experience	Team Size : 6
+content	experience	Framework :Struts 1.2
+content	experience	Duration : August 2010-Sept 2011
+header	knowledge	Strengths
+content	knowledge	· Good analytical skills, inter personal skills and cognitive mind set.
+header	others	Achievements
+content	others	· Awarded 1st for Electronics Puzzle during TechFest 2010.
+header	education	Training
+content	education	· Completed 1 week training on UML.
+content	education	· Completed 2 weeks training on Struts and Hibernate.
+header	others	Personal Details
+meta	others	Date of Birth : 17th Jan 1988
+meta	others	Gender : Male
+meta	others	Contact Address : #27, 8th Main ,2nd Cross, SBM Colony , Brindavan Nagar,
+meta	others	Mathikere, Bangalore.
+meta	others	Passport Number : J3052284.
+header	others	Declaration:
+meta	others	I hereby declare that all the details furnished above are true to the best of my knowledge.
+meta	others	Place: Bangalore Name : Abhijeet Panda
